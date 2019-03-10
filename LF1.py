@@ -129,7 +129,7 @@ def query_api(term, location, category):
 
 def searchYelp(location, cuisine, dining_date, dining_time, num_people, term = DEFAULT_TERM):
 	try:
-		return query_api(term, location, cuisine)
+		return query_api(cuisine, location, term)
 	except HTTPError as error:
 		sys.exit(
 		    'Encountered HTTP error {0} on {1}:\n {2}\nAbort program.'.format(
@@ -233,7 +233,7 @@ def validate_dining(slots):
     if location is not None and location.lower() not in valid_cities:
         return build_validation_result(False,
                                        'Location',
-                                       'Sorry that currently {} is not a valid destination. Could you try a different city?'.format(location))
+                                       '{} is not a valid destination. Could you try a different city?'.format(location))
 
     if dining_date is not None:
         if not isvalid_date(dining_date):
