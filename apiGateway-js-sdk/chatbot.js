@@ -24,7 +24,7 @@
                 minute: "numeric"});
 
             $("#res").append('<div class="chat-message clearfix"><div class="chat-message-content clearfix"><span class="chat-time">'+time+'</span><h5>User</h5><p>'+String($('#msg').val())+'</p></div></div><hr>');
-        
+            $("#res").scrollTop($("#res")[0].scrollHeight);
             var body = {
             "messages": [
             {
@@ -38,13 +38,14 @@
             ]
             };
         document.getElementById('msg').value='';
-        
+
         apigClient.chatbotPost(params, body)
             .then(function(result){
             console.log(result);
             console.log(result["data"]["body"]);
             $("#res").append('<div class="chat-message clearfix"><div class="chat-message-content clearfix"><span class="chat-time">'+time+'</span><h5>Chatbot</h5><p>'+result["data"]["body"]+'</p></div></div><hr>');
                 //This is where you would put a success callback
+            $("#res").scrollTop($("#res")[0].scrollHeight);
             }).catch( function(result){
                 //This is where you would put an error callback
                 console.log("error happens somewhere");
