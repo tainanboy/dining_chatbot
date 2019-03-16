@@ -1,12 +1,24 @@
 $( document ).ready(function(){
+    // cognito signin code
     var auth = initCognitoSDK();
-    // auth.getSession();
+    auth.parseCognitoWebResponse(window.location.href);
+
+    console.log(auth.isUserSignedIn());
+
+    var input = document.getElementById("msg");
+    // Access the form element...
+    input.addEventListener("keyup", function(event){
+        if (event.keyCode === 13) {
+            if (!auth.isUserSignedIn()) {
+                alert("Please login to continue.");
+                auth.getSession();
+            }
+        }
+    });
+    
     $( "#sign_in_button" ).on('click', function(){
         userButton(auth);
     });
-    var curUrl = window.location.href;
-    auth.parseCognitoWebResponse(curUrl);
-
 });
 
 
@@ -27,17 +39,16 @@ $( document ).ready(function(){
         $( '#sign_in_button' ).html("Sign Out");
         if (session) {
             var accToken = session.getAccessToken().getJwtToken();
+            //console.log(accToken);
             if (accToken) {
                 var payload = accToken.split('.')[1];
                 var tokenobj = JSON.parse(atob(payload));
                 var formatted = JSON.stringify(tokenobj, undefined, 2);
                 $( ' .navbar-text ' ).html("Sign in as "+ tokenobj.username) 
             }
-
         }
     }
-
-    // Initialize a cognito auth object.
+        // Initialize a cognito auth object.
     function initCognitoSDK() {
         var authData = {
             ClientId : '302qk01lk77lnii5oh8044mmhk', // Your client id here
@@ -62,10 +73,14 @@ $( document ).ready(function(){
                 showSignedIn(result);
             },
             onFailure: function(err) {
-                alert("Error!" + err);
+                //alert("Error!" + err);
             }
         };
         // The default response_type is "token", uncomment the next line will make it be "code".
         // auth.useCodeGrantFlow();
         return auth;
     }
+
+    
+
+
