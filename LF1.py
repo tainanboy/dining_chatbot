@@ -117,11 +117,6 @@ def query_api(term, location, category):
     if not businesses:
         print(u'No businesses for {0} in {1} found.'.format(term, location, category))
         return
-
-    #print(str(len(businesses))+' businesses found, querying business info ')
-
- 
-    # business_id = businesses[0]['id']
     res = []
     for ind in range(len(businesses)):
     	response = get_business(API_KEY, businesses[ind]['id'])
@@ -272,6 +267,7 @@ def Dining_Suggestions(intent_request):
     dining_date =  try_ex(lambda: intent_request['currentIntent']['slots']['DiningDate'])    
     dining_time = try_ex(lambda: intent_request['currentIntent']['slots']['DiningTime'])
     num_people = safe_int(try_ex(lambda: intent_request['currentIntent']['slots']['NumPeople']))
+    phone = try_ex(lambda: intent_request['currentIntent']['slots']['Phone'])
     #
     if intent_request['invocationSource'] == 'DialogCodeHook':
         # Validate any slots which have been specified.  If any are invalid, re-elicit for their value
@@ -297,6 +293,8 @@ def Dining_Suggestions(intent_request):
         # Get URL for SQS queue
         response = sqs.get_queue_url(QueueName='chatbot_slots')
         queue_url = response['QueueUrl']
+        print(queue_url)
+        print(location, cuisine, dining_date, dining_time, num_people, phone)
         # Send message to SQS queue
         # supported 'DataType': string, number, binary
         response = sqs.send_message(
@@ -321,13 +319,17 @@ def Dining_Suggestions(intent_request):
                 'num_people': {
                     'DataType': 'Number',
                     'StringValue': str(num_people)
+                },
+                'phone': {
+                    'DataType': 'String',
+                    'StringValue': str(phone)
                 }
             },
             MessageBody=(
-                'Information about user inputs of Dining Chatbot'
+                'Information about user inputs of Dining Chatbot.'
             )
         )
-        print(response['MessageId'])
+        print("SQS messageID:"+str(response['MessageId']))
         #
         # search yelp and get restaurant recommendation
         suggest_res = searchYelp(location, cuisine, dining_date, dining_time, num_people)
@@ -337,6 +339,7 @@ def Dining_Suggestions(intent_request):
         res_st = 'My {} place suggestions for {} people on {} at {} in {}: '.format(cuisine, num_people, dining_date, dining_time, location)
         res_end = ' Enjoy your meal!'
         res_msg = res_st + res_str + res_end
+        print(res_msg)
         # 
         return close(intent_request['sessionAttributes'],
                     'Fulfilled',
