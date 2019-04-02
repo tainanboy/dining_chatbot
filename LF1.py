@@ -10,6 +10,7 @@ import json
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
+# Yelp API part
 #yelp api client ID: "Yo0svsZwE29SvjnXko25OA"
 #yelp api key: "3IJu8H3FvrID96O5L9fclsftlRjbrRYB3jyTwITHwU1XHECY7EjDXtGMr0YOMone2iTKO4eBY7sT723kvPEYL1xuu6AyYHDxGqQ6ZztcQw3mXHHq3MC3_6T7g0Z8XHYx"
 """ --- Helpers top get result from YELP --- """
@@ -139,6 +140,7 @@ def searchYelp(location, cuisine, dining_date, dining_time, num_people, term = D
 		    )
 		)
 
+# Lex hooker part (backend)
 """ --- Helpers to build responses which match the structure of the necessary dialog actions --- """
 def get_slots(intent_request):
     return intent_request['currentIntent']['slots']
@@ -221,11 +223,10 @@ def isvalid_date(date):
     except ValueError:
         return False
 
-# To-do
 def validate_dining(slots):
     location = try_ex(lambda: slots['Location'])
     cuisine = try_ex(lambda: slots['Cuisine'])
-    dining_date = (try_ex(lambda: slots['​DiningDate']))
+    dining_date = (try_ex(lambda: slots['DiningDate']))
     dining_time = (try_ex(lambda: slots['DiningTime']))
     num_people = safe_int(try_ex(lambda: slots['NumPeople']))
     #
@@ -233,7 +234,7 @@ def validate_dining(slots):
     if location is not None and location.lower() not in valid_cities:
         return build_validation_result(False,
                                        'Location',
-                                       '{} is not a valid destination. Could you try a different city?'.format(location))
+                                       'Sorry that currently {} is not a valid destination. Could you try a different city?'.format(location))
 
     if dining_date is not None:
         if not isvalid_date(dining_date):
@@ -263,7 +264,7 @@ def validate_dining(slots):
     return {'isValid': True}
 
 """ --- Functions that control the bot's behavior --- """
-# To-do
+# To-do: push to SQS queue
 def Dining_Suggestions(intent_request):
     # get info
     location = try_ex(lambda: intent_request['currentIntent']['slots']['Location'])
@@ -289,21 +290,58 @@ def Dining_Suggestions(intent_request):
             )
         session_attributes = intent_request['sessionAttributes'] if intent_request['sessionAttributes'] is not None else {}
         return delegate(session_attributes, get_slots(intent_request))
-    # Order the restaurant, and rely on the goodbye message of the bot to define the message to the end user.
-    # In a real bot, this would likely involve a call to a backend service.
-    # to-do: searhc yelp and get restaurant suggestions
-    suggest_res = searchYelp(location, cuisine, dining_date, dining_time, num_people)
-    res_str = ""
-    for i, r in enumerate(suggest_res):
-        res_str+= str(i+1)+". "+r[0]+" located at "+r[1]+". "
-    res_st = 'My {} place suggestions for {} people on {} at {} in {}: '.format(cuisine, num_people, dining_date, dining_time, location)
-    res_end = ' Enjoy your meal!'
-    res_msg = res_st + res_str + res_end
-    # 
-    return close(intent_request['sessionAttributes'],
-                 'Fulfilled',
-                 {'contentType': 'PlainText',
-                  'content': res_msg})
+    elif intent_request['invocationSource'] == 'FulfillmentCodeHook':
+        # push info to SQS: location, cuisine, dining_date, dining_time, num_people
+        # Create SQS client 
+        sqs = boto3.client('sqs')
+        # Get URL for SQS queue
+        response = sqs.get_queue_url(QueueName='chatbot_slots')
+        queue_url = response['QueueUrl']
+        # Send message to SQS queue
+        # supported 'DataType': string, number, binary
+        response = sqs.send_message(
+            QueueUrl=queue_url,
+            MessageAttributes={
+                'location': {
+                    'DataType': 'String',
+                    'StringValue': location
+                },
+                'cuisine': {
+                    'DataType': 'String',
+                    'StringValue': cuisine
+                },
+                'dining_date': {
+                    'DataType': 'String',
+                    'StringValue': dining_date
+                },
+                'dining_time': {
+                    'DataType': 'String',
+                    'StringValue': dining_time
+                },
+                'num_people': {
+                    'DataType': 'Number',
+                    'StringValue': str(num_people)
+                }
+            },
+            MessageBody=(
+                'Information about user inputs of Dining Chatbot'
+            )
+        )
+        print(response['MessageId'])
+        #
+        # search yelp and get restaurant recommendation
+        suggest_res = searchYelp(location, cuisine, dining_date, dining_time, num_people)
+        res_str = ""
+        for i, r in enumerate(suggest_res):
+            res_str+= str(i+1)+". "+r[0]+" located at "+r[1]+". "
+        res_st = 'My {} place suggestions for {} people on {} at {} in {}: '.format(cuisine, num_people, dining_date, dining_time, location)
+        res_end = ' Enjoy your meal!'
+        res_msg = res_st + res_str + res_end
+        # 
+        return close(intent_request['sessionAttributes'],
+                    'Fulfilled',
+                    {'contentType': 'PlainText',
+                    'content': res_msg})
 
 def Greeting(intent_request):
     session_attributes = intent_request['sessionAttributes'] if intent_request['sessionAttributes'] is not None else {}
