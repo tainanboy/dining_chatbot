@@ -1,0 +1,950 @@
+Business_ID,Name,Address,Coordinates,Num_of_Reviews,Rating,Zip_Code
+sCC7-hSdCkNPExejZT9BAQ,The MasalaWala,179 Essex St,"{'latitude': 40.72191, 'longitude': -73.98666}",1330,4.5,10002
+x0k5kFArHLijdY8-NEQ7Xg,Bengal Tiger Indian Food,58 W 56th St,"{'latitude': 40.763167, 'longitude': -73.977131}",1487,4.5,10019
+WWpOWqOgS9ClYvxYVzR0lg,Tikka Indian Grill Restaurant & Catering,185 Grand St,"{'latitude': 40.71441, 'longitude': -73.96078}",277,4.5,11211
+lxNU-aBq0yPwBDx-i89ahA,Seva Indian Cuisine,3007 34th St,"{'latitude': 40.7653633, 'longitude': -73.9191014}",1115,4.5,11103
+izRJeBfDQYJmd6ibIQ6Mfg,Mughlai Indian Cuisine,1724 2nd Ave,"{'latitude': 40.78002, 'longitude': -73.94978}",388,4.5,10128
+_z2_1TE_1brlvljiGtJ4mA,Aahar Indian Cuisine,10 Murray St,"{'latitude': 40.71334, 'longitude': -74.0081}",254,4.0,10007
+_7BGw3YFNOTzP1Www3zB7g,Mughlai Grill,6 Clinton St,"{'latitude': 40.7210905, 'longitude': -73.9840446}",274,4.5,10002
+1_pK5aQ47atF50oAKHADhA,Indian Accent,123 W 56th St,"{'latitude': 40.7643344624229, 'longitude': -73.9787312885132}",473,4.5,10019
+ik7LcD1fkzVbVQ6Sntd4LA,Indian Spice,351 7th Ave,"{'latitude': 40.6660303077582, 'longitude': -73.9819402992725}",143,4.0,11215
+iXSuNKKUBIrBX7zUerlQDQ,Benares,45 Murray Street,"{'latitude': 40.7142, 'longitude': -74.00917}",416,4.0,10007
+kS2CP48K66yL2TwIhUqy_A,Tamarind,99 Hudson St,"{'latitude': 40.71909, 'longitude': -74.00892}",824,4.0,10013
+7DUPGtHqVZHJ3yIufbWLsg,Malai Marke Indian Cuisine,318 E 6th St,"{'latitude': 40.726934, 'longitude': -73.98758}",522,4.0,10003
+AlfkFxfD-cUBGA3Eq3j0Uw,Mahal Kita,184 Havemeyer St,"{'latitude': 40.7106773, 'longitude': -73.9582807}",249,4.0,11211
+HEs6llkn3wIP1ATXeIZQew,Pippali,129 E 27th St,"{'latitude': 40.74233, 'longitude': -73.98331}",665,4.0,10016
+EKY8DwZVWpkgv6IWrepbWg,Namaste,195 5th Ave,"{'latitude': 40.676687, 'longitude': -73.979965}",172,4.0,11217
+YDtIHtfvWd4W36wq6UAjoA,Kitchen Grill Indian Restaurant,914A Fulton St,"{'latitude': 40.6827929, 'longitude': -73.9644377}",214,4.5,11238
+BXoW0AUDE7WZJcY-Vhqlbg,Indian Table,234 Court St,"{'latitude': 40.6859591, 'longitude': -73.9941661}",83,4.0,11201
+ZqOxAKVZEZTa4XS4zthp3Q,Bombay Grill,1176 Bedford Ave,"{'latitude': 40.6839, 'longitude': -73.9541799}",170,4.5,11216
+ogEtpbCgxv38PyB3ebivqQ,Yaar Indian Restaurant,22-55 31st St,"{'latitude': 40.774803026853, 'longitude': -73.9120166023413}",360,4.5,11105
+NgD-6ogFGc_c4z5_Ur4k2g,Dhaba Indian Cuisine,108 Lexington Ave,"{'latitude': 40.742364, 'longitude': -73.982813}",1441,3.5,10016
+c76v7CGWWjWj__18Mv2j5w,Ayna Agra Indian Restaurant,213-35 39th Ave,"{'latitude': 40.7655067, 'longitude': -73.7716797}",344,4.0,11361
+CO3lm5309asRY7XG5eXNgg,Rahi,60 Greenwich Ave,"{'latitude': 40.7360271, 'longitude': -74.0005436}",328,4.5,10011
+dGE1Imqoz1vdHa2cjfvO1w,Gandhi Fine Indian Cuisine,2032 Bedford Ave,"{'latitude': 40.6552099, 'longitude': -73.95648}",348,4.0,11226
+FvnExtQHPfz_crDCBTQ1iQ,Mint Masala,95 Macdougal St,"{'latitude': 40.72953, 'longitude': -74.00115}",281,4.0,10012
+Na55QhymZh3cje8Ac2vCvg,Nimbooda,664 Washington Ave,"{'latitude': 40.67825, 'longitude': -73.96419}",146,4.0,11238
+k1XZsff99d2JyX_jLwCaAA,Taj Mahal Indian Restaurant,7315 3rd Ave,"{'latitude': 40.63234, 'longitude': -74.02709}",317,4.0,11209
+kQMXY2fshQFGdP8lwDMM6g,Aaheli Indian Cuisine,71-51 Yellowstone Blvd,"{'latitude': 40.7212239, 'longitude': -73.8549107}",174,4.0,11375
+ZikqL-flwV2XYlKtL2UfmA,Rangoli Exquisite Indian Cuisine,1393 A 2nd Ave,"{'latitude': 40.7693, 'longitude': -73.95823}",364,4.5,10021
+15svH3HiVDwHMSIlRYpk6A,Ashoka Indian Restaurant,489 Columbus Ave,"{'latitude': 40.78476, 'longitude': -73.97303}",228,4.5,10024
+XKy4Cy4uNgO7rxhH4yFJQQ,Mughlai Indian Cuisine,329 3rd Ave,"{'latitude': 40.739692, 'longitude': -73.982116}",332,4.0,10010
+iXrKGRzIZK0pp31mO3nBzA,Spice & Grill,441 Myrtle Ave,"{'latitude': 40.6933894, 'longitude': -73.9679912}",113,4.5,11205
+9pMhRYYgV7E9L7pzECtJKA,The Drunken Munkey - UES,338 E 92nd St,"{'latitude': 40.78098, 'longitude': -73.94751}",867,4.5,10128
+hevbe9F6sYPguKO5whPSlA,India's Curry,1926 Bath Ave,"{'latitude': 40.60197, 'longitude': -74.00312}",69,4.5,11214
+Pv51B3SzP4OqUbJncEeF1g,Masala Grill,501B Atlantic Ave,"{'latitude': 40.68568, 'longitude': -73.98116}",178,3.5,11217
+XUataECnaOfdo4a87NqEFg,Samudra Vegetarian Restaurant & Chaat House,75-18 37th Ave,"{'latitude': 40.7490953, 'longitude': -73.8903772}",485,4.0,11372
+V2A9Leycc5_FEpgQC34i7Q,India Kitchen,493 9th Ave,"{'latitude': 40.7555499, 'longitude': -73.9949174}",263,4.0,10018
+Xl-zlT0NLLiKhym88em22w,Adda,31-31 Thomson Ave,"{'latitude': 40.74507, 'longitude': -73.93415}",150,4.5,11101
+cJfbydHniqWsGL2VHVDHEg,Bombay Grill,8716 3rd Ave,"{'latitude': 40.62238, 'longitude': -74.03183}",209,4.0,11209
+zSCp9pjEQ_M3LBuPRDo-Bg,Desi Grill,46 Wyckoff Ave,"{'latitude': 40.705618, 'longitude': -73.9218269}",288,4.0,11237
+-MXQI-AjTJViEekzs_5_8A,Corner Delhi,447 Bergen St,"{'latitude': 40.681277, 'longitude': -73.976069}",52,4.5,11217
+yLcJTiE4n_w4sZwSfMZYZA,Bombay Kabab,54 7th Ave,"{'latitude': 40.67606, 'longitude': -73.97455}",70,4.0,11217
+pgGT9m03pNI15Ag2pAdY1Q,Kurry Qulture,3605 30th Ave,"{'latitude': 40.7649112016844, 'longitude': -73.917061437621}",298,4.5,11103
+lIE4KHySIenwPbta1JuM8Q,Mumbai Masala,1768 Amsterdam Ave,"{'latitude': 40.82695, 'longitude': -73.94676}",155,4.5,10031
+Nt7vyXyaxnyXpP4NNgrSvw,Joy Indian Restaurant,301 Flatbush Ave,"{'latitude': 40.67883, 'longitude': -73.9734299}",638,4.0,11217
+V2oWqXcoJkgGeIPOaS9eDA,Masala Times,194 Bleecker St,"{'latitude': 40.7292728223798, 'longitude': -74.0015978515206}",518,4.0,10012
+1ckkPS7KtGSu_xXXWKcbvQ,Tandoori Masala,1695 Broadway,"{'latitude': 40.6840199, 'longitude': -73.91184}",156,4.0,11207
+9heTBCW1DDAKyO0GrY3Nxw,Delhi Masala,2077 Adam Clayton Powell Jr Blvd,"{'latitude': 40.8079899, 'longitude': -73.94856}",141,4.0,10027
+NhBUzlITbu3rdjm9UEfWsw,Raj's Indian Kitchen,27-18 Queens Plz S,"{'latitude': 40.7498435974121, 'longitude': -73.9393692016602}",209,4.0,11101
+sCHiXF4mZcsiY8_cBHNiqw,indikitch,25 W 23rd St,"{'latitude': 40.7422142028809, 'longitude': -73.9904403686523}",669,4.0,10010
+2LFYEpREb8A0gr-rQSrnXA,Indian Project,243 W 38th St,"{'latitude': 40.75426, 'longitude': -73.99028}",278,4.0,10018
+uVRau5cd-OpqWIA-qsCiJA,All About Indian Food,443 Bushwick Ave,"{'latitude': 40.702309, 'longitude': -73.936897}",73,4.0,11206
+1KGvtMU7VBcdlvxo2brdQg,Clove Indian Restaurant & Bar,1592 Amsterdam Ave,"{'latitude': 40.8212624, 'longitude': -73.9506836}",233,4.0,10031
+lP8uDU4oNEkPD8-Ik-PvQQ,Awadh,2588 Broadway,"{'latitude': 40.79583, 'longitude': -73.970716}",279,3.5,10025
+3dZsX3mqbVsLEXPwMYKPsw,Zaika New York,230 E 44th St,"{'latitude': 40.75135, 'longitude': -73.97209}",78,4.5,10017
+80u4xIY1kp_25AUh9BW0Bw,Kanan Indian Restaurant,452 3rd Ave,"{'latitude': 40.6716593194782, 'longitude': -73.9908374121948}",119,3.5,11215
+jYhbUh1TV7SCfPxjIhVpcg,Baar Baar,13 E 1st St,"{'latitude': 40.7244378855031, 'longitude': -73.9915524}",424,4.0,10003
+HY7Hx-z5lq1vAacDwYBfoA,Diwan Grill Indian Cuisine,678 Franklin Ave,"{'latitude': 40.675363, 'longitude': -73.956548}",64,4.5,11238
+_R6EjbrynW_LFnmWoRqgww,Surya,154 Bleecker St,"{'latitude': 40.7281, 'longitude': -73.99963}",186,4.0,10012
+jJYQJGygWjIX6_0MiIoJRQ,Ashoka on 2nd Avenue,1718 2nd Ave,"{'latitude': 40.7798555, 'longitude': -73.9500904}",90,4.5,10128
+N7pDKAFOR1F_oCVH_Fc7Wg,Ahimsa,210 Thompson St,"{'latitude': 40.72878, 'longitude': -73.99924}",233,4.0,10012
+wm10mMj_41_-l_gRhRH3TA,indikitch,940 8th Ave,"{'latitude': 40.76573, 'longitude': -73.98338}",404,4.0,10019
+zVLG_O3AQnvQ53PSJ5mTMA,Om Restaurant,1593 2nd Ave,"{'latitude': 40.77583, 'longitude': -73.95364}",461,4.0,10028
+yKQZqmCbk3EkGC5ajHgEGg,Amma,246 E 51st St,"{'latitude': 40.75554, 'longitude': -73.96874}",477,4.0,10022
+7USPKYeaAfxl0Ch9j_1l7A,Moti Mahal Delux,1149 1st Ave,"{'latitude': 40.76213, 'longitude': -73.9605}",428,4.0,10065
+QqrEF8_ZQCGi63cL10J5oA,Chola,232 E 58th St,"{'latitude': 40.76026, 'longitude': -73.96576}",560,4.0,10022
+L9n68f-cdk7RMQvRJvC6bA,Spice Kitchen,71-04 Grand Ave,"{'latitude': 40.72766, 'longitude': -73.89191}",166,4.5,11378
+HsEmXckXmsRAAEVDFCGYYg,Namaste,31-15 30th Ave,"{'latitude': 40.7668, 'longitude': -73.92068}",489,4.0,11102
+objNX6cuj1JyUijFjw21Qw,The Drunken Munkey - West Village,31 Cornelia St,"{'latitude': 40.73136, 'longitude': -74.00253}",105,4.5,10014
+QHZxlt8nFqycBrxxizwKmA,Taj Masala,256 Malcolm X Blvd,"{'latitude': 40.684399, 'longitude': -73.929653}",90,4.0,11233
+sQ_L8O9WMU4apxSTVa9JKg,Agra Taj Mahal,1005 Manhattan Ave,"{'latitude': 40.7332729, 'longitude': -73.9550299}",140,3.5,11222
+7eUoHxFCZKdYkl7ONixCKA,Nepalese Indian Restaurant,907 Seneca Ave,"{'latitude': 40.700617, 'longitude': -73.903777}",193,4.0,11385
+m5Whyz8O8jM4DrE808h71g,Darbar Grill,157 E 55th St,"{'latitude': 40.759357, 'longitude': -73.968826}",495,4.0,10022
+maXkjUEZGWrKF7BFrrUUXQ,King of Tandoor,600 Flatbush Ave,"{'latitude': 40.6588935852051, 'longitude': -73.9608535766602}",237,4.0,11225
+z2VXX7wGl8XZ6_oo9W3koA,Patiala Indian Grill,371 W 34th St,"{'latitude': 40.7533149, 'longitude': -73.9960898}",239,4.0,10001
+6NcU2JAznLr9dDHp6GgQyw,Doaba Deli,945 Columbus Ave,"{'latitude': 40.7994, 'longitude': -73.9624}",217,4.5,10025
+p-JaS3lxVQGdJp4ikjzqfg,Taste of India II,287 New Dorp Ln,"{'latitude': 40.57219, 'longitude': -74.11273}",165,4.0,10306
+RdETxi25tbocKIcMiW5TxQ,Darbar Fine Indian Cuisine,152 E 46th St,"{'latitude': 40.75358, 'longitude': -73.97348}",516,4.0,10017
+ZrdTKStTAo2pchslOev1KQ,Chennai Garden by Tiffin Wallah,127 E 28th St,"{'latitude': 40.74298, 'longitude': -73.98274}",724,4.0,10016
+dOQjniOt57mI9l9CmrCSJQ,Curry India,148 W 49th St,"{'latitude': 40.76006, 'longitude': -73.98306}",106,4.5,10019
+JSX6Pk56w4BhgO8eSvCrKg,aRoqa,206 9th Ave,"{'latitude': 40.74609, 'longitude': -74.00138}",214,4.0,10011
+ut-560tVcs2g-ZU0Y_qqHQ,Saar Indian Bistro,241 W 51st St,"{'latitude': 40.7626659, 'longitude': -73.9847093}",95,4.5,10019
+T1CRoZ-f-hwrjdkBvt7_kg,Indian Tanpura,564 Amsterdam Ave,"{'latitude': 40.78869, 'longitude': -73.97468}",132,4.0,10024
+oOz--_ORMzLSee92b_ksaQ,Masala Box,4202 Bell Blvd,"{'latitude': 40.76245, 'longitude': -73.77073}",184,4.0,11361
+OxQ1lGq3uzl8_fgW67rXdQ,Tikka Indian Grill Restaurant & Catering,119-30 Metropolitan Ave,"{'latitude': 40.7058236, 'longitude': -73.8311437}",176,4.0,11415
+uucP1LoFyamFS0qDwgMXbg,Ghandi Cafe,283 Bleecker St,"{'latitude': 40.73194, 'longitude': -74.0033}",347,4.0,10014
+mZALre3ahuetu5X8_uUJew,Thelewala,112 Macdougal St,"{'latitude': 40.72963, 'longitude': -74.00068}",442,4.0,10012
+bgMbt6XbOaAu5VNXr5kCdQ,Polash,2179 3rd Ave,"{'latitude': 40.79965, 'longitude': -73.93855}",200,4.0,10035
+PEEw2ip9VrmiMBP4b6op_g,Govinda's Vegetarian,305 Schermerhorn St,"{'latitude': 40.68771, 'longitude': -73.98241}",162,4.5,11217
+qhXIW0LDT4XsoN2IE6dZHg,Ahimsa Garden,265 E 10th St,"{'latitude': 40.72849, 'longitude': -73.98319}",70,4.5,10009
+iYh7mB7PDd5ZvZZ4lFPF1w,Anand Indian Cuisine,304 E 78th St,"{'latitude': 40.77228, 'longitude': -73.95525}",92,4.5,10075
+50eKjWOB-H9iuo1ocACOaQ,Imli Urban Indian Food,1136 1st Ave,"{'latitude': 40.7616660604253, 'longitude': -73.9601389691234}",150,4.5,10065
+A-ert0jDRBfku9ogyW_mEg,Spice Symphony,150 E 50th St,"{'latitude': 40.7558937072754, 'longitude': -73.9715347290039}",346,4.5,10022
+HGNqWrRYJNyhJSS8yia8HQ,Ruchi,120 Cedar St,"{'latitude': 40.7096108910337, 'longitude': -74.0127293677959}",330,3.5,10006
+SB4t6vWpxlVQAfCQ3oC1BQ,Curry Heights,151 Remsen St,"{'latitude': 40.693685, 'longitude': -73.992154}",248,3.5,11201
+t6PzD4uzBOfyCLcd_lT8cQ,Sathi,216 3rd Ave,"{'latitude': 40.73621, 'longitude': -73.98528}",23,4.5,10003
+_nScWpFX3M1K7s30hFEsRw,Inday,1133 Broadway,"{'latitude': 40.7434986, 'longitude': -73.9892206}",318,4.0,10010
+2jHud9AFiBYLrPlmz0UyqA,Roasted Masala,914 Columbus Ave,"{'latitude': 40.79846, 'longitude': -73.96366}",5,5.0,10025
+9eZrG8nANKuoyGSqdj_gew,Ashoka Grill,1436 Flatbush Ave,"{'latitude': 40.6356477, 'longitude': -73.9508667}",182,4.0,11210
+gsZUN1Vtpd3P7rdvANbrmg,Indian Kitchen,739 Grand St,"{'latitude': 40.71199, 'longitude': -73.94332}",160,4.0,11211
+eTzH9lmkmouNlmuJ77i8Ow,Angaar,283 Columbus Ave,"{'latitude': 40.7782, 'longitude': -73.97802}",38,4.5,10023
+DZE4ThXa7d0kSXnR3Hb-kg,Junoon,27 W 24th St,"{'latitude': 40.743193, 'longitude': -73.990838}",1345,3.5,10010
+Q7wFlNr4OFU0eCJXcOmopg,Bombay's Indian Restaurant,60 Pearl St,"{'latitude': 40.70344, 'longitude': -74.01109}",178,3.5,10004
+FlwWBzM_1fzo81fRL__srw,Nasheman Grill And Restaurant,3149 Coney Island Ave,"{'latitude': 40.579261, 'longitude': -73.959411}",54,4.0,11235
+eht_0com4C1sQbl9qCzlag,Hungry Bird,980 Morris Ave,"{'latitude': 40.82847, 'longitude': -73.91669}",178,4.5,10456
+iAW1UTfP8jL_vpwRh93VcA,Bombay Xpress,964 Dekalb Ave,"{'latitude': 40.69295, 'longitude': -73.93671}",62,3.5,11221
+3N3XesISm5tg_nsjL10eFA,Chapati House,3153 Broadway,"{'latitude': 40.814613, 'longitude': -73.95959}",199,4.0,10027
+Z2qZSs6oVJQFSc44tytAHg,India House Restaurant,586 Nostrand Ave,"{'latitude': 40.6787193651342, 'longitude': -73.9496699720621}",111,4.0,11216
+Va_mnsEvBghHXvc7uZIWJQ,Spice Symphony,182 Lexington Ave,"{'latitude': 40.744722, 'longitude': -73.981202}",553,4.0,10016
+zGa3GrjdAQLm2l40SPD8CA,Garam Masala,1819 Palmetto St,"{'latitude': 40.703375, 'longitude': -73.90747}",5,4.5,11385
+SP4bvMvxel_UPdof_er3HA,Taco Mahal,73 7th Ave S,"{'latitude': 40.732337, 'longitude': -74.003303}",449,4.5,10014
+guwS_mhhUjOT5d8sYfEluQ,Adyar Ananda Bhavan,1071 1st Ave,"{'latitude': 40.759381, 'longitude': -73.962489}",294,4.0,10022
+yV7brOiTLS3Lmwws8e3nXA,Dil-e Punjab Deli,170 9th Ave,"{'latitude': 40.74482, 'longitude': -74.00206}",177,4.5,10011
+S6r0P0PItA9EYHV1nCiQgg,Mysttik Masaala,399 Park Ave,"{'latitude': 40.75932, 'longitude': -73.97209}",346,4.5,10022
+MP8Ey2ezsDCSowR-1X6hKg,Dosa Royale,258 Dekalb Ave,"{'latitude': 40.689244, 'longitude': -73.968634}",200,3.5,11205
+FXDMFBM-rV2s5MHzA33d2g,Bombay Grill House,764 9th Ave,"{'latitude': 40.76415, 'longitude': -73.98806}",208,4.0,10019
+aLnt6DwRxlSm8xD9nuEEmA,Mumbai Place,655 Vanderbilt Ave,"{'latitude': 40.677229, 'longitude': -73.968651}",50,4.0,11238
+LWghzX6Vsw1ytEFP6lA8oA,Apna Masala Indian Cuisine,344 E 6th St,"{'latitude': 40.726383463261, 'longitude': -73.9864511163941}",194,3.5,10003
+5lB2jlIeaEE-xoQ7fKygSw,Indian Masala,1174 St Marks Ave,"{'latitude': 40.67407, 'longitude': -73.93103}",55,4.0,11213
+WSesw7dMYKmF3XHqD0K0WQ,Asya Indian Restaurant,46 Henry St,"{'latitude': 40.69963, 'longitude': -73.9921}",243,3.0,11201
+S8a--JIL9yEaU-D1yucI9Q,Haveli Restaurant,100 2nd Ave,"{'latitude': 40.727119, 'longitude': -73.988349}",333,4.0,10003
+NVCLcLa_7LMEJipAQmNlZw,Agra Restaurant,807 Lexington Ave,"{'latitude': 40.7642247, 'longitude': -73.9665107}",175,4.0,10021
+_Hig4rf_SEAhq13eBdJ4CQ,Kismat Indian Restaurant,603 Fort Washington Ave,"{'latitude': 40.8552891007756, 'longitude': -73.9370184099689}",329,3.5,10040
+1TLoaB7SXJZo3W5f4OGm8w,Ayurveda Cafe,706 Amsterdam Ave,"{'latitude': 40.79305, 'longitude': -73.97132}",295,4.0,10025
+zDiKwE9LPwWo9k2kdwMEZw,Saffron Indian Cuisine,4404 Broadway,"{'latitude': 40.757176, 'longitude': -73.915762}",226,3.5,11103
+jf3JRaxUYU93x8LFU-8gkA,GupShup,115 E18th St,"{'latitude': 40.7368323318866, 'longitude': -73.9877132715179}",134,4.0,10003
+IDEq8v88W58i2QZuNFjl-w,Bombay Kitchen,733 Knickerbocker Ave,"{'latitude': 40.694066, 'longitude': -73.909556}",183,3.5,11221
+5Uxgo1hIzZNPPGmh40AGWQ,Rajdhani Indian Restaurant,206 12 Hillside Ave,"{'latitude': 40.721055, 'longitude': -73.759001}",150,4.0,11427
+bgKGT3osx4KNjrdva4lYpQ,Aroma Indian Cuisine,6340 Woodhaven Blvd,"{'latitude': 40.7235243, 'longitude': -73.8688034}",83,4.0,11374
+t_tWuzMEsoD9GDgAm_0l7g,Swagat,411 Amsterdam Ave,"{'latitude': 40.78353, 'longitude': -73.97782}",370,3.5,10024
+BNdEbtO1rjCulgqK3zDnyQ,Hyderabadi Biryani & Chat,44-27 Kissena Blvd,"{'latitude': 40.7534816, 'longitude': -73.8220844}",152,3.5,11355
+BPyt7S9TdcR1u571iacg7g,The Kati Roll Company,49 W 39th St,"{'latitude': 40.75269, 'longitude': -73.98466}",1427,4.0,10018
+IRRhwACUiMaqkBVAZiCzeg,Hampton Chutney,143 Grand St,"{'latitude': 40.72007, 'longitude': -73.99959}",82,4.0,10013
+dJmC6GmMgX3VLSdaLhcJdg,Tandoor Restaurant,9524 Queens Blvd,"{'latitude': 40.730351, 'longitude': -73.863868}",203,3.5,11374
+iU0McmYWdsnD-NKRUZXhQQ,Sapphire Indian Restaurant,435 Dekalb Ave,"{'latitude': 40.6906127929688, 'longitude': -73.9599838256836}",36,3.5,11205
+JCFEtB6jJXbOMJ7_ZUpD3g,Spice Grill,48 W 48th St,"{'latitude': 40.7579956054688, 'longitude': -73.9803848266602}",114,3.5,10036
+OCBvpZwdnTh5rL9vtCkwhw,Bawarchi Indian Cuisine,1396 Madison Ave,"{'latitude': 40.78787, 'longitude': -73.95403}",52,4.5,10029
+jzO5HyrTtumHpe-pbUlndQ,Aangan,2701 Broadway,"{'latitude': 40.799446, 'longitude': -73.968795}",185,3.5,10025
+m9Q9x-Hcxp24gZCaTTJY-A,Sahib,104 Lexington Ave,"{'latitude': 40.74232, 'longitude': -73.9830099}",156,4.0,10016
+iGIr7N3UlcidQ0FlPBSK4A,Mumtaz Indian Restaurant,1582 York Ave,"{'latitude': 40.77413, 'longitude': -73.94821}",86,3.5,10028
+6KOeVK9KMmVG6Q3chyZ_Bg,Taste of Bengal,2827 31st St,"{'latitude': 40.7677209471176, 'longitude': -73.9204675118383}",147,4.5,11102
+gc5VOvoqzM8UQJwV1mhdkA,Taj Kabab King,568 Grand St,"{'latitude': 40.710938, 'longitude': -73.9491}",285,3.5,11211
+D_xGTuIZqh1g6ie9QybcYw,Bawarchi Indian Cuisine,1546 Madison Ave,"{'latitude': 40.792804, 'longitude': -73.950393}",101,4.0,10029
+mc9lvusD4Na-KXT2z4ulzQ,Dosa Hutt,45-63 Bowne St,"{'latitude': 40.7529486, 'longitude': -73.8171946}",200,4.5,11355
+HVWlYTXsR9Vx9ZoxJQa2zg,Cinnamon Garden,328 E 6th St,"{'latitude': 40.72674, 'longitude': -73.9872199}",55,4.5,10003
+VC1udoc_sbHdFaBr0-bMsA,Bombay Chowk,1378 1st Ave,"{'latitude': 40.76873, 'longitude': -73.9549}",45,4.0,10021
+pv_9QjRf45GRd3pMeKmmKw,Jay's Quick Bites,1961 Flatbush Ave,"{'latitude': 40.622162, 'longitude': -73.935937}",9,4.5,11234
+3C6c_zqRz_U2AyeN_7LTsg,Himalayan Yak,72-20 Roosevelt Ave,"{'latitude': 40.74647, 'longitude': -73.89275}",578,4.0,11372
+OD1CCNpXwUvXB9P6WkTy9A,Tandoor Palace,88 Fulton St,"{'latitude': 40.7091703265905, 'longitude': -74.0057663619518}",155,3.5,10038
+G4Y3yF4UfcCNSj0JFQQVDw,A Saffron Thread Fresh Indian,98 Chambers St,"{'latitude': 40.71461, 'longitude': -74.00774}",104,3.5,10007
+o21M4dKM4KQbzGVrlq_3Iw,Pearl Indian Food,738 Franklin Ave,"{'latitude': 40.673183, 'longitude': -73.957329}",139,3.5,11238
+4x4M_p_b8GvLkc4fe00GHA,Biryani House Cart,140 Broadway,"{'latitude': 40.70865, 'longitude': -74.01011}",151,4.0,10005
+xeIhR9gx0OsTdoQ0mmEUsA,Badshah,788 9th Ave,"{'latitude': 40.76483, 'longitude': -73.98756}",228,4.0,10019
+w2-VGvlBCMYo9ko8Y_PzAw,Masala King,,"{'latitude': 40.747176, 'longitude': -73.981957}",87,4.5,10016
+3uEkZEAp7biQEtt0S7W1Vg,Vatan Indian Vegetarian,409 3rd Ave,"{'latitude': 40.74236, 'longitude': -73.9803699}",575,4.0,10016
+uy7QmtN9Sdb8z5hm2_VZSQ,Pondicheri,15 W 27th St,"{'latitude': 40.744449, 'longitude': -73.988307}",295,3.5,10001
+l_Td-NFRIdxu7m6pgJUqhQ,Manhattan Valley,2636 Broadway 100 St,"{'latitude': 40.797005967886, 'longitude': -73.9697319902153}",80,3.5,10025
+6lHhC-WND3Vs2DhTnDtgjQ,Taza Mkt,254 36th St,"{'latitude': 40.6563057324335, 'longitude': -74.0081928122302}",8,5.0,11232
+7rTl_d-dqlK5dGG31ogSBg,Nanking,134-07 Rockaway Blvd,"{'latitude': 40.67484, 'longitude': -73.80398}",318,4.0,11420
+KtYEMI-_zy5hoZTBd3i3Tw,Indian Curry Heights,125 Ralph Ave,"{'latitude': 40.6858099, 'longitude': -73.92315}",55,3.5,11221
+PdzL9svqapSqH4o8bF86Pw,Punjabi Grocery & Deli,114 E 1st St,"{'latitude': 40.7227225423661, 'longitude': -73.9866224576721}",371,4.5,10009
+niivJKBqY5wToDukqZHetQ,Karma Kafe,505 Washington St,"{'latitude': 40.74238, 'longitude': -74.02909}",562,4.0,07030
+jb-Fe1cC3ZARF9xyFvJQYQ,Tandoor Oven,175 E 83rd St,"{'latitude': 40.7771396, 'longitude': -73.9556964}",152,3.5,10028
+RkPakW9XloEm-QB0eNlHmw,indi thai,123 Allen St,"{'latitude': 40.71983, 'longitude': -73.99035}",47,4.5,10029
+EPHhPGDFvnq2ARTBxAikuw,Milon,93 1st Ave,"{'latitude': 40.726322, 'longitude': -73.986648}",493,3.5,10003
+uqBBk5o9McSEYQ88CG6yHg,indikitch,109 W 37th St,"{'latitude': 40.75216, 'longitude': -73.98724}",81,4.0,10018
+Ez1WypSZf-X-5vlTxeR0mA,Frankie Goes To Bollywood,204 Spring St,"{'latitude': 40.72526, 'longitude': -74.00364}",19,4.0,10012
+jG3XHl8Bkw5KEwAI93ciVw,Nirvana,346 Lexington Ave,"{'latitude': 40.74998, 'longitude': -73.97729}",465,3.5,10016
+4Kv4EVmrQ8TdlSD7MW0wHg,Babu Ji,22 E 13th St,"{'latitude': 40.73469, 'longitude': -73.99315}",168,3.5,10003
+jt6ygaAb0W_o3nWqbr_UjQ,Bombay Spice,1018 Bergen St,"{'latitude': 40.676071, 'longitude': -73.952543}",43,3.5,11216
+fmH4YbvpYdcpaaYOL1g7wg,Bombay Heights,1070 Bedford Ave,"{'latitude': 40.688221, 'longitude': -73.955137}",50,3.5,11216
+ZrhOYpCBzHYxM6jPQLNerQ,Indian Xpres,19 Corson Ave,"{'latitude': 40.6383408, 'longitude': -74.0793587}",35,3.5,10301
+dxK7_NNqLDYG39VGZI9B3w,Himalayan Curry house,254 W 108th St,"{'latitude': 40.8023275567219, 'longitude': -73.9662716345275}",14,3.5,10025
+ciIoPi0WqaNyB6xkwRKxzA,Joy Curry & Tandoor,32 W 39th St,"{'latitude': 40.75207, 'longitude': -73.98402}",107,3.5,10018
+3hlAeWgSKAnSQ1tg8k8D8g,Alachi Masala,488 Amsterdam Ave,"{'latitude': 40.78616, 'longitude': -73.97635}",192,4.0,10024
+9x95RpLEIDRWG2Y9w4qz4Q,INDAY,708 3rd Ave,"{'latitude': 40.75243, 'longitude': -73.97378}",69,4.0,10017
+8soP-zjZsslrb5egCkRDvQ,Delhi Heights,577 Decatur St,"{'latitude': 40.6831017, 'longitude': -73.9201813}",143,3.5,11233
+ar2ERFxW_GN76Xd8H0CtCQ,The Bombay Bread Bar,195 Spring St,"{'latitude': 40.72534, 'longitude': -74.0031}",188,3.5,10012
+u7sK1-iVkY5wLY3sOe2i2w,Riverdale Indian Cuisine,308 West 231 St,"{'latitude': 40.8808412, 'longitude': -73.9087478}",31,4.5,10463
+Csg_qjYzhQxKAinj814AKw,Namaste,1448 1st Ave,"{'latitude': 40.76985, 'longitude': -73.95412}",25,4.0,10021
+tN37MOvqzrmpU0h0PfoDmw,Utsav,1185 Avenue Of The Americas Plz,"{'latitude': 40.7578756, 'longitude': -73.9824244}",459,3.5,10036
+f26O6kd8FCWoCXfQUNWJ2g,Great Indian Curry,1241 Flatbush Ave,"{'latitude': 40.64005, 'longitude': -73.95497}",90,3.5,11226
+fu5f6biOPsvgKYEfPfSZEQ,Agra Heights,226 Wilson Ave,"{'latitude': 40.698017, 'longitude': -73.921467}",120,3.5,11237
+Y2I946V78wOdwaUD9chmqg,Roti Roll Bombay Frankie,994 Amsterdam Ave,"{'latitude': 40.8026, 'longitude': -73.96437}",355,4.0,10025
+I2Y3_18dUz0CaSzsx_x7Ag,Dosa Garden,323 Victory Blvd,"{'latitude': 40.6343269348145, 'longitude': -74.0857772827148}",108,4.0,10301
+nd0uXNXaeaDMuMk4C1GusA,Bukhara Grill,217 E 49th St,"{'latitude': 40.75501, 'longitude': -73.97028}",525,3.5,10017
+NztBFASX-zzg0tROoLiKOg,Mysttik Masaala,4702 5th St,"{'latitude': 40.7457595094109, 'longitude': -73.9562999129669}",51,4.5,11101
+EgxnURDBkeKXV9rKzHrJLA,Aanchal Indian Restaurant & Bar,45-12 23rd St,"{'latitude': 40.74659, 'longitude': -73.94573}",118,3.5,11101
+Rk6TXh7nINbzJoGtI2C5cA,Desi Galli,172 Avenue B,"{'latitude': 40.72739, 'longitude': -73.97978}",74,3.5,10009
+8dVc3lg1fQn0hYoc6crDcw,Ayurvedic plate,1616 Cortelyou Rd,"{'latitude': 40.6416869, 'longitude': -73.9629945}",35,4.0,11226
+yauWDobtVPplAiACo1JuYA,Kabab Bites,369 Broome St,"{'latitude': 40.72002, 'longitude': -73.99592}",79,4.0,10013
+h0Z2RZBZbiqS-Yw22WyTaQ,Maharaja Palace,2113 Frederick Douglass Blvd,"{'latitude': 40.8033065717907, 'longitude': -73.9562846158103}",159,3.5,10026
+XgqIDfU6tKPUdRxRG5uDNw,Desi Deli Indian Restaurant,724 10th Ave,"{'latitude': 40.76433, 'longitude': -73.99182}",101,3.5,10019
+B0IXsKwCk21hNQffYPJmHA,Chaiwali Harlem,274 Lenox Ave,"{'latitude': 40.80678, 'longitude': -73.94588}",187,3.5,10027
+RRg3P3NsYzutXn5M6mluxw,Lasani Restaurant,15 W 29th St,"{'latitude': 40.74588, 'longitude': -73.98792}",45,3.5,10001
+dOsIIVVfgiDevGZLWaPnTg,DiwaneKhaas,53 Nassau St,"{'latitude': 40.70903, 'longitude': -74.00912}",112,3.5,10038
+Gxlxu7Rug2tM_V7sS4x6fQ,Tadka Indian Cuisine,13-15 43rd Ave,"{'latitude': 40.75096, 'longitude': -73.94578}",5,4.5,11101
+1SgiWHlFN5mp5gNLSGx2Ww,Panna II Garden Indian Restaurant,93 1st Ave,"{'latitude': 40.72626, 'longitude': -73.9865}",968,3.0,10003
+TlKUPuAnVptyR2x1JHSqfA,Cumin Indian Restaurant,3549 Johnson Ave,"{'latitude': 40.88653, 'longitude': -73.90987}",140,3.5,10463
+IpiGGEXxz-5QVJpijXVmmA,Jackson Diner,3747 74th St,"{'latitude': 40.7477755, 'longitude': -73.8915002}",593,3.5,11372
+5z7OuOWuZRu6byp2XDKbQw,Saravanaa Bhavan,81 Lexington Ave,"{'latitude': 40.7414, 'longitude': -73.98306}",834,3.5,10016
+ugEZc_Cc4tu71j-yuj9HCQ,Chawlas 2,131-19 Rockaway Blvd,"{'latitude': 40.67507, 'longitude': -73.8066}",72,4.0,11420
+7k2uvrFxOoBwV7c2m0UBNw,Curry Express,130 E 29th St,"{'latitude': 40.74305, 'longitude': -73.98175}",217,3.5,10016
+9e78dH4McZRT5WcoSCI-zg,Indian Xpress 2,1201 Hylan Blvd,"{'latitude': 40.59834, 'longitude': -74.08302}",23,4.0,10305
+9y6UQ2GYKe08-WF_1jTX0A,Touch Of Spice - Indian Cuisine,4114 Park Ave,"{'latitude': 40.77494, 'longitude': -74.01993}",181,4.0,07086
+hKKDfUPcDX_c-RCWBMOr1w,Bombay Sandwich Co.,48 W 27th St,"{'latitude': 40.7450715521913, 'longitude': -73.990359620218}",368,4.0,10001
+nQfPwIasXCi8NwNKq65vfw,Mysttik Masaala,250 Park Ave,"{'latitude': 40.7551374, 'longitude': -73.9760147}",105,4.5,10172
+aFhnb8k6H-wD070vvxt4Fw,Kababish,70-64 Broadway,"{'latitude': 40.747598, 'longitude': -73.893979}",146,4.0,11373
+1TJOTRt9Ws1vHh-zKNZmsw,India Cafe,94-08 Lefferts Blvd,"{'latitude': 40.68235, 'longitude': -73.82226}",57,3.5,11419
+ggLd3EdBQxHK7IQHnY_hhg,Soul Curry,618 Washington St,"{'latitude': 40.7441510834885, 'longitude': -74.0291017937366}",67,4.0,07030
+GVaTZnN7a-DkrK57l7BbGw,Boishakhi Restaurant,2914 36th Ave,"{'latitude': 40.7569548876687, 'longitude': -73.9310011267662}",63,4.0,11106
+DOdbSGm9ULZlVz-1-Jjhmg,Chote Nawab,115 Lexington Ave,"{'latitude': 40.742462, 'longitude': -73.982322}",506,3.5,10016
+fZOmB4eaVlnf6LIejL2vBg,Jalsa - Grill & Gravy,964 Coney Island Ave,"{'latitude': 40.63393, 'longitude': -73.96746}",63,5.0,11230
+zi4fUgOwwGB5PYR2xq0OCQ,Namaste India,880 River Rd,"{'latitude': 40.8254575544108, 'longitude': -73.9746380866244}",246,4.0,07020
+5faOK0osoS-zdEwT21S-Cg,Saravanaa Bhavan,413 Amsterdam Ave,"{'latitude': 40.7835899, 'longitude': -73.97777}",290,3.0,10024
+MotfuoOFiEmOKOcRCnRhdA,Lahore Deli,132 Crosby St,"{'latitude': 40.72478, 'longitude': -73.99632}",157,4.0,10012
+YM5AbOOg-TjuHJrQmfd0Hw,Desi Galli,101 Lexington Ave,"{'latitude': 40.742069, 'longitude': -73.982528}",287,3.5,10016
+UOaXJyVrr9l1XO7lGaT-bQ,Sweetness,1150 Coney Island,"{'latitude': 40.629718, 'longitude': -73.966388}",46,4.0,11230
+sng5ejEyAA22ncDwxdu2lw,Chandni Restaurant,13 W 29th St,"{'latitude': 40.7459602355957, 'longitude': -73.9878234863281}",137,3.5,10001
+hfCU-GH8GP6vjAknXUyhKQ,Cardamom,43-45 43rd St,"{'latitude': 40.7444521, 'longitude': -73.9210975}",64,4.0,11104
+hG1H6NRQvWQkr7OeTFqDSw,Anarkali Indian Cuisine,1125 Church Ave,"{'latitude': 40.647476, 'longitude': -73.9686}",98,3.5,11218
+wQjQHZKH_DxwntbSe1QdxQ,Brick Lane Curry House,79 2nd Ave,"{'latitude': 40.7265407754881, 'longitude': -73.9893999248542}",965,3.5,10003
+bB74yGzEa3N3k4YYU2rcXQ,Tong,37-08 73rd St,"{'latitude': 40.74851, 'longitude': -73.89285}",17,5.0,11372
+x3NeZ4xToUxVKDoZ32D5tg,NY Dosas,50 Washington Sq S,"{'latitude': 40.7308386079893, 'longitude': -73.99863779767}",379,4.5,10014
+bFUVp77ApNkACqXvgiekPQ,Bhatti Indian Grill,100 Lexington Ave,"{'latitude': 40.74221, 'longitude': -73.98308}",660,3.5,10016
+Xzc4Ex6Vx4T-RBc3N9fW5g,Modhu Mita Indian Restaurant,2546 7th Ave,"{'latitude': 40.8233607931338, 'longitude': -73.9381812037132}",58,3.5,10039
+h1PXV90jW1bXIWVlKiF0NQ,DesiBowl,49-11 Vernon Blvd,"{'latitude': 40.74297, 'longitude': -73.95369}",68,4.0,11101
+llzZ19xTIrueN5XBZi4zWg,Indian King Biryani House,140 Broadway,"{'latitude': 40.709089983905, 'longitude': -74.0107886718552}",47,4.0,10005
+nqGp208f_wdqoLfNQgn_Ig,Haat Bazaar,3711 73rd St,"{'latitude': 40.748491, 'longitude': -73.892382}",102,4.0,11372
+KJNXC2NtxRPeu_nkk1PC4A,Punda Tibetan Restaurant,3935 47th Ave,"{'latitude': 40.74209, 'longitude': -73.92516}",64,4.0,11104
+RRwz0t3XcaMCSjTWDy3C9A,Lahori Chilli Restaurant & Sweets,1026 Coney Island Ave,"{'latitude': 40.63253, 'longitude': -73.96705}",58,3.5,11230
+pKnqJZpCX3xYIURHOnWuig,Paradise Restaurant,4904 Fort Hamilton Pkwy,"{'latitude': 40.638399991291, 'longitude': -73.9980449527502}",25,3.5,11219
+yb9o5T88FPUXYOzxyXlUcw,Ganesh Temple Canteen,143-09 Holly Ave,"{'latitude': 40.75262, 'longitude': -73.816511}",226,4.0,11355
+UnFe6mLcCdHVyyDxnIBkAA,Manchi,224 W 35th St,"{'latitude': 40.75202, 'longitude': -73.99121}",87,4.0,10001
+eTe0fY7PUIKuxgSdxgkD_A,Silli Point Indian Fusion,498 Anderson Ave,"{'latitude': 40.82157, 'longitude': -73.9903}",186,4.0,07010
+MzIUB4_G9TemKsPZJkelIw,Sapphire Indian Cuisine,1845 Broadway,"{'latitude': 40.76937, 'longitude': -73.9824}",326,3.0,10023
+HsEK7jGmzI7KP1e0N_6uQw,Mysttik Masaala,2177 31st St,"{'latitude': 40.7761445017191, 'longitude': -73.9109029826748}",28,5.0,11105
+K9t9xqhbLIePem5Okb3J9Q,Indian Express,301 W 154th St,"{'latitude': 40.82871, 'longitude': -73.93802}",25,4.0,10039
+HHkTmzDBE9sGWvtSW9Ne8A,Tangra Masala,87-09 Grand Ave,"{'latitude': 40.736536, 'longitude': -73.878328}",297,3.5,11373
+aM4h2RwyHyngSDehB_qq3g,Dawat Haute Indian Cuisine,210 E 58th St,"{'latitude': 40.7605, 'longitude': -73.96633}",169,3.5,10022
+YMMzKiyXHhltXIqy2sMiAA,Curry & Kebab,3111 Bainbridge Ave,"{'latitude': 40.8740694334906, 'longitude': -73.8795868679881}",61,4.0,10467
+gHw2LnjgqyJclvlOjISv6g,Spice Wala Indian Cuisine,97 1st Ave,"{'latitude': 40.7263365, 'longitude': -73.9864126}",25,3.5,10003
+rML0mPoWQHxG8ifHGuI7pQ,Mashallah Sweets & Restaurant,663 Coney Island Ave,"{'latitude': 40.641254, 'longitude': -73.969039}",88,3.5,11218
+PAhIveQCsTzi7FNPPQPutA,Chandni Chowk Restaurant,2570 Bronxwood Ave,"{'latitude': 40.86531, 'longitude': -73.8613699}",14,4.5,10469
+ItocvsIyniVxMARBkHZaoA,indikitch,601 8th Ave,"{'latitude': 40.755667, 'longitude': -73.991354}",32,4.0,10018
+9lKYC8qs6owmBazkVR5XDA,Minar Indian Restaurant,138 W 46th St,"{'latitude': 40.757882, 'longitude': -73.984024}",307,3.5,10036
+WdaLydR9O57rWbTnQQQ1OQ,Ruma's Kitchen,37-01 61st St,"{'latitude': 40.7493792, 'longitude': -73.9016969}",29,4.0,11377
+0s8rxDQhglhh28BLz-80qw,Mysttik Masaala,90 Park Ave,"{'latitude': 40.75074, 'longitude': -73.97936}",2,5.0,10016
+uPW_isMEB92IDrX04pLK1g,Delhi Heights,37-66 74th St,"{'latitude': 40.7471, 'longitude': -73.89176}",301,3.5,11372
+V4C5SzWmNkgPMjiCfEZ41g,Kinara II Indian Restaurant,368 Myrtle Ave,"{'latitude': 40.6930084228516, 'longitude': -73.971435546875}",89,3.5,11205
+xdioStDO8FAyQiZWHJiGZQ,Rajbhog Sweets and Snacks,72-27 37th Ave,"{'latitude': 40.7489301, 'longitude': -73.8932955}",187,4.0,11372
+kB3QyyhHFVyhGgp35Rnuew,The Kati Roll Company,99 MacDougal St,"{'latitude': 40.729634, 'longitude': -74.000964}",840,4.0,10012
+_2XWB0vPqUqkWdQuXfWi2w,Indian Taj,37-25 74th St,"{'latitude': 40.7482641393121, 'longitude': -73.891643603866}",258,3.5,11372
+v6T5UgEnKdJneY0cO0nSoA,Agra Palace Restaurant & Party Hall,116-33 Queens Blvd,"{'latitude': 40.7158643, 'longitude': -73.832629}",7,4.0,11375
+_RVeBqIldnrh757oxL-b7w,Salaam Bombay,319 Greenwich St,"{'latitude': 40.7171105, 'longitude': -74.0105843}",149,3.0,10013
+7-mcmUETyMifs3rbpvCObA,Yeti Spice Grill,1764 1st Ave,"{'latitude': 40.7802334786396, 'longitude': -73.9467215538025}",32,4.0,10128
+yx8cpBwPttpdBvm4V1EawQ,Joy Curry & Tandoor,148 E 46th St,"{'latitude': 40.75352, 'longitude': -73.9736117202377}",176,3.5,10017
+S3dtt6qNyYfdF-I4rZTbXw,Graffitti Earth,190 Church St,"{'latitude': 40.7159379, 'longitude': -74.0071884}",20,3.5,10013
+ZkpKRf_AenlKegg2-NSA3g,Royal Bangladesh Indian Restaurant,93 1st Ave,"{'latitude': 40.726322, 'longitude': -73.986648}",214,3.0,10003
+WkN7pVHWEXpHJrIS1ohXUA,Deccan Spice - New York,120 Lexington Ave,"{'latitude': 40.7428209, 'longitude': -73.9825668}",141,4.0,10016
+YRXXIqqaLcWJaL22lnj7mQ,Taj Village,79-28 Metropolitan Ave,"{'latitude': 40.713021, 'longitude': -73.87246}",50,4.5,11379
+0_ONgLkWOmGnjhCecpZPYQ,Samossa Bites,35-27 31st St,"{'latitude': 40.757283, 'longitude': -73.928761}",57,3.5,11106
+-mQG7oEHSAMr9dBDrrqI2g,indikitch,1190 6th Ave,"{'latitude': 40.75763, 'longitude': -73.9817}",111,3.5,10036
+FZ0fKxW-d6Qc70IjDQIQKA,My Biryani,"1133 6th avenue , 44th street","{'latitude': 40.75605, 'longitude': -73.98386}",13,4.5,10036
+KLLRrrPHsA5oQKYwreTI9w,Randiwa,1405 Richmond Ave,"{'latitude': 40.61364177952, 'longitude': -74.157749999909}",20,4.5,10314
+MfHEjRvZVplBVQyLC4wQOg,La Central,518 W 27th St,"{'latitude': 40.7504096665126, 'longitude': -74.0034449800957}",24,4.5,10001
+URKDkoIl1s1rIfGOfPe7PA,Curry Leaf,19 Corson Ave,"{'latitude': 40.6383229, 'longitude': -74.0795607}",5,4.0,10301
+NHoKf98A1Hi8htHEfeptgw,Sapid Indian Food,595 Washington Ave,"{'latitude': 40.679767, 'longitude': -73.963936}",141,4.0,11238
+e0HGXP2YlFtpgF6hy9dVdA,NaanChing Bistro & Bar,103 Montgomery St,"{'latitude': 40.71674, 'longitude': -74.03896}",75,3.5,07302
+Bft47FX6dorGwlUypMrG2w,Merit Kabab Palace,37-67 74th St,"{'latitude': 40.74711, 'longitude': -73.8912299}",91,4.0,11372
+ylXJn53D2FLrIV0yOLHawQ,Sagara Restaurant,98 Victory Blvd,"{'latitude': 40.63767, 'longitude': -74.07973}",9,4.5,10301
+-GkhPQ0AVLoIAzPGfQ_SaA,Halal West Indian and American Cuisine,621 Flatbush Ave,"{'latitude': 40.6582221984863, 'longitude': -73.9601211547852}",13,4.5,11230
+TXjvmpAl7otZcuk_7hYZ2g,Tandoori Place,2146 Starling Ave,"{'latitude': 40.83608, 'longitude': -73.85363}",4,5.0,10462
+gWuHmSQ8G5FiKv-rEogwvA,Pongal,110 Lexington Ave,"{'latitude': 40.74246, 'longitude': -73.9829}",421,3.5,10016
+CP5zlAOYYne7uhzUC1LyuQ,Annam Brahma,8443 164th St,"{'latitude': 40.7128253499287, 'longitude': -73.801268327869}",68,4.0,11432
+Scs2L-4imyt_lorJ6biFKA,While In Kathmandu,758 Seneca Ave,"{'latitude': 40.7020642, 'longitude': -73.9067213}",94,4.5,11385
+KDr72efaFAcQXccdA4yoaw,Cas West Indian & American Restaurant,135 Kingston Ave,"{'latitude': 40.67525, 'longitude': -73.94136}",15,4.5,11213
+JvV8sTgUX6abRQPzb3hLgg,New Curry Hut,534 9th Ave,"{'latitude': 40.75674, 'longitude': -73.99347}",105,3.5,10018
+dZENEWBMFMIbqIBGtlUwsQ,The Kati Roll Company,128 2nd Ave,"{'latitude': 40.72834, 'longitude': -73.98764}",75,4.0,10003
+c5vz72Q9mAmRs2NZUsWpRQ,New Asian Food,140-13 Cherry Ave,"{'latitude': 40.7540725171566, 'longitude': -73.8225969672203}",8,4.0,11355
+ln1QgdpUNy2E4MY_sYv_yQ,Spicy Curry House,8327 Parsons Blvd,"{'latitude': 40.7148656093464, 'longitude': -73.8073881715536}",14,4.0,11432
+y-y2rMiSf5alNXMJTpTuDg,Mehak,8306 Austin St,"{'latitude': 40.70895, 'longitude': -73.82961}",144,3.5,11415
+VvIzNbkl4PDPzutZdxWCJw,Ittadi Garden & Grill,7307 37th Rd,"{'latitude': 40.7472744, 'longitude': -73.8922265}",41,4.0,11372
+aczqK-esIyqhyk7QLqcc1A,TAJ,310 E 6th St,"{'latitude': 40.7270453396453, 'longitude': -73.9879390597343}",242,3.5,10003
+ODpSYoZ8fkaX3UaDzBLhsg,Kamal Palace,623 Ridge Rd,"{'latitude': 40.79841, 'longitude': -74.12641}",176,4.0,07031
+K_s7EXV9Ly5jlxyNZ39QDg,Al Aqsa Restaurant,2107 Starling Ave,"{'latitude': 40.83623, 'longitude': -73.85483}",22,3.5,10462
+de_HHnpR9mYejcImO8jmVQ,Falguni Family Restaurant,1326 Newkirk Ave,"{'latitude': 40.63491398402, 'longitude': -73.9643950150184}",5,4.0,11230
+kNzjRlXzL5XJInDqNwfMgA,Mysttik Masaala,32-07 30th Ave,"{'latitude': 40.7665765, 'longitude': -73.9203027}",3,4.5,11103
+HM7Mz6Hpxts58JJP7qELNQ,Eggmania,14 Liberty Ave,"{'latitude': 40.7360784317498, 'longitude': -74.0648451989719}",263,4.0,07306
+b8O2Tiz6Xdw25GXCxCm3wg,Lungta - Asian Bistro,7516 Broadway,"{'latitude': 40.7459679, 'longitude': -73.8901016}",8,5.0,11373
+VNmSye6SGkwtSijlPnV5YA,Spice Rack,1791 Victory Blvd,"{'latitude': 40.61321, 'longitude': -74.12325}",24,3.0,10314
+fjjzAn0j6zCs2SNViuNfwQ,Kailash Parbat,99 Lexington Ave,"{'latitude': 40.74206, 'longitude': -73.98273}",264,3.5,10016
+XYusVoJKFBU_-LIGYlkZeQ,Punjab Restaurant,691 Coney Island Ave,"{'latitude': 40.640671, 'longitude': -73.968811}",24,3.5,11218
+txfjMwfqr0HXNFZTJTkYiA,Khalil Biryani House,1445 Olmstead Ave,"{'latitude': 40.8353157662589, 'longitude': -73.8550591682938}",18,4.0,10462
+o5sUOmtzcHAeSWtUuFJ00g,Anjappar Chettinad Restaurant,116 Lexington Ave,"{'latitude': 40.742603, 'longitude': -73.982795}",287,3.0,10016
+7YJxZAvMxB-oVZfHAuvBmw,Lakruwana,668 Bay St,"{'latitude': 40.62571, 'longitude': -74.075373}",265,4.5,10304
+nBoOm-TAhRvbcDkHfKOwGg,Swagat Indian Restaurant,205 W 29th St,"{'latitude': 40.748161, 'longitude': -73.993194}",101,3.0,10001
+CPBVjdezPyeBTxW1q6R1Zg,Moharani Indian Takeaway Restaurant,185 Norman Ave,"{'latitude': 40.727267, 'longitude': -73.946939}",37,3.5,11222
+SExVenfR3ScUzIJHdUpxuw,Aman,3594 Jerome Ave,"{'latitude': 40.885147, 'longitude': -73.8794078}",26,4.5,10452
+FdpEdKi4YbTu4t7B0tufIQ,Punjabi Dhaba Catering & Sweets,11916 101st Ave,"{'latitude': 40.689913, 'longitude': -73.825223}",18,4.5,11419
+zUs0dYx8zPKTkFiLdQKf_Q,Punjabi Kabab and Gyro,108-03 101st Ave,"{'latitude': 40.6874110142563, 'longitude': -73.835311942224}",38,4.0,11419
+U3hvDT5CtQrnpg2zhJg3mQ,Kashmir 9 - Cuisine of Pakistan,478 9th Ave,"{'latitude': 40.7549782340085, 'longitude': -73.9948511123657}",171,3.5,10018
+vS5WZNErrgWvHtiO3CTmqA,Sheezan Restaurant,183 Church St,"{'latitude': 40.71566, 'longitude': -74.00717}",26,3.5,10007
+NH7Ws65ZwlmOosiblfGTRw,Spice Hut Indian Restaurant,2036 2nd Ave,"{'latitude': 40.78967, 'longitude': -73.94278}",56,3.0,10029
+oSMFe-10TyH40NIXG0Zahw,Vaibhav Indian Spice Journey,737 Newark Ave,"{'latitude': 40.73503, 'longitude': -74.0624069}",386,3.5,07306
+khZwIk7s0AqTk0jy0WPvkw,Agra Grill,3835 White Plains Rd,"{'latitude': 40.88465, 'longitude': -73.86244}",71,3.5,10467
+XUYR7XBtPn0cIAn5hCl4Cw,Curry Spot,4268 Katonah Ave,"{'latitude': 40.89776, 'longitude': -73.86706}",90,3.5,10470
+O5MN8tijDGzJS8uin9zQ2Q,Chef Of India,324 Central Ave,"{'latitude': 40.74595, 'longitude': -74.04902}",181,3.5,07307
+jRiMLcjWiNfGJlQbu12-HQ,Finest Food House,1075A Liberty Ave,"{'latitude': 40.678554, 'longitude': -73.869642}",2,4.5,11208
+J0vr8Jpe9t7UgoybpbgkFQ,Bajeko Sekuwa,43-16 Queens Blvd,"{'latitude': 40.7431256, 'longitude': -73.9209581}",74,4.0,11104
+lIXVm16VchbDXOf7v4hxMA,Haandi,113 Lexington Ave,"{'latitude': 40.7424, 'longitude': -73.98237}",286,3.5,10016
+fv2mCAA4VtJxrwke3TH1cw,S & A West Indian Restaurant,10306 Liberty Ave,"{'latitude': 40.681556, 'longitude': -73.837455}",68,4.5,11417
+rcXD-hf7KTsY28ikeVJMuw,Thali Bar Baar,1949 Richmond Ave,"{'latitude': 40.60054, 'longitude': -74.16262}",17,3.5,10314
+Yj8Tpy8tVf-fpct6_EUIhQ,Burger N Grill,176 Church St,"{'latitude': 40.71561, 'longitude': -74.00762}",6,4.0,10013
+KbCLZOKvPdNY7ptAg0kGxw,The Kati Roll Company,229 E 53rd St,"{'latitude': 40.7572680281001, 'longitude': -73.9678144454956}",312,3.5,10022
+T5aGLWBjIZoV0pSW80nJXA,Amiya,160 Greene St,"{'latitude': 40.719811, 'longitude': -74.035177}",292,3.5,07311
+PPhUz-roOHiIp9vA0rEoIA,Patel Grocery,5303 4th Ave,"{'latitude': 40.644504, 'longitude': -74.014202}",13,4.0,11220
+3Y-beEWD9prfpSZXrQjMPg,Tandoori Palace,7414 37th Ave,"{'latitude': 40.7488341, 'longitude': -73.8914834}",3,4.0,11372
+ATrDmKiZ-YrAcG3hR7LLgg,Tadka Fine Indian Cuisine,1297 Paterson Plank Rd,"{'latitude': 40.79015, 'longitude': -74.05819}",100,3.5,07094
+CX6_T61ZANH5ttfMLeKKIA,The Kati Roll Company,22 Maiden Ln,"{'latitude': 40.7091424, 'longitude': -74.00909}",20,3.0,10038
+60LpoBux4MKHBLiQJfMbYQ,Mysttik Masaala court square,2525 44th Dr,"{'latitude': 40.74751, 'longitude': -73.94261}",10,4.5,11101
+R7MDZP5G374JA1-kaR2CLw,Raja Sweets & Fast Food,7231 37th Ave,"{'latitude': 40.7489325, 'longitude': -73.8932727}",81,4.0,11372
+RXGa5YeRxilvUQFmbFPopQ,The Last Stop,5977 Broadway,"{'latitude': 40.88976, 'longitude': -73.89854}",36,5.0,10471
+yPWE_stCrD48WZ-xaxfz_A,The Burp Kitchen,7000 Kennedy Blvd E,"{'latitude': 40.790152, 'longitude': -74.000747}",53,4.5,07093
+R0FryAIetxATjdYwOdy1aQ,Bay Leaf,561 Flatbush Ave,"{'latitude': 40.6600418479762, 'longitude': -73.9604364342821}",75,2.5,11225
+K7u5sEQW1LcIJxjpUS1STg,Chicken Tikka Masala,134 E 27th St,"{'latitude': 40.7419917609026, 'longitude': -73.9828405156732}",1,5.0,10016
+U7QMrNTwRrPJ__0jbb6EYQ,Dosa Delight,3566 73rd St,"{'latitude': 40.7495245, 'longitude': -73.8929686}",271,3.5,11372
+GELFb5_zjbWmca45jxzHZg,Harlem Masala,2036 2nd Ave,"{'latitude': 40.78967, 'longitude': -73.94278}",1,5.0,10029
+CpsnurlPqkUBWwqO69xS7A,Punjab On Third,220 3rd Ave,"{'latitude': 40.73633, 'longitude': -73.98519}",4,3.5,10003
+LQvI-JYji1jO5wySb8KZiw,Royal Curry & Kabab,19-25 St Nicholas Ave,"{'latitude': 40.7996913391433, 'longitude': -73.9526741331352}",47,3.5,10026
+1tL5GVMiTK-KcR3oMizeoA,Skyway Restaurant & Kabab House,2032 Bath Ave,"{'latitude': 40.600608, 'longitude': -74.000778}",10,3.5,11214
+mNf8XWHW8peGNhCr9HNWQw,Mirch Grill And Clay Oven,172-27 Hillside Ave,"{'latitude': 40.711963143455, 'longitude': -73.7899665462448}",113,3.5,11432
+pf_84vrm2-Ir0mVwzK8VNw,Sri Annapoorna Bhavan,105 Greene St,"{'latitude': 40.71629, 'longitude': -74.0359}",86,3.5,07302
+Yf4SjE9tfd1ASaT3xtwYzQ,Bombay Biryany Cart,Broadway & Liberty St,"{'latitude': 40.7090803971022, 'longitude': -74.0105903148651}",5,4.5,10005
+bNO0801dOoSSFJuDdTDzYQ,Hadramout Restaurant,172 Atlantic Ave,"{'latitude': 40.6898184, 'longitude': -73.9938774}",65,4.0,11201
+ml3ASw5_B5XLnd9kE8xx3g,Salt & Pepper,139 W 33rd St,"{'latitude': 40.7498789, 'longitude': -73.9900547}",87,2.5,10001
+lMoV8XWfzPsN1Q_Yl40sAg,Trinciti Roti Shop & Restaurant,111-05 Lefferts Blvd,"{'latitude': 40.68033, 'longitude': -73.82094}",355,4.0,11420
+FZQ-l92qE1NqpI5lbmAM_g,Hyderabad Goat Kacchi Biryani,6TH -7th Ave N 50th St,"{'latitude': 40.7604963615585, 'longitude': -73.9819329231977}",11,3.5,
+xnrn6Ibn4T22vTjYX1H1zQ,Afghan Kabab and Grill House,1015 Manhattan Ave,"{'latitude': 40.73359, 'longitude': -73.95498}",29,4.5,11222
+trkn76h8vQeB8kCUgHJyuw,Inday Go Go,570 Lexington Ave,"{'latitude': 40.75686, 'longitude': -73.97228}",8,3.5,10022
+fdmb0uiAMEOOayPzIqvm5A,Namaste Fusion,169 Anderson Ave,"{'latitude': 40.81482, 'longitude': -73.99685}",1,5.0,07022
+_00YTCiVAS8JBkxv3sahtw,2 Priya,215-45 Jamaica Ave,"{'latitude': 40.7177099, 'longitude': -73.73922}",17,4.5,11428
+noBCTbD1Ylf5QR7PXy-rkA,Cafe Himalaya,78 E 1st St,"{'latitude': 40.7232289034083, 'longitude': -73.9879441220901}",578,4.0,10009
+TTwPVEHeSeyFMLF6cik8Lw,Raj Mahal,322 E 6th St,"{'latitude': 40.72684, 'longitude': -73.98746}",197,3.0,10003
+til9hZedX5st86EamUudMA,Maharaja Sweets & Snacks,7310 37th Ave,"{'latitude': 40.74872, 'longitude': -73.89254}",146,3.5,11372
+yDS7SUTAe6y3BYKdepIrbg,Szechaun Mirchi,633 Anderson Ave,"{'latitude': 40.8258285522461, 'longitude': -73.9878692626953}",168,3.5,07010
+AKaO-EaJ8EgUnx5EPZ8N4g,Ali's Original Roti Shop,337 Utica Ave,"{'latitude': 40.6665, 'longitude': -73.9312}",119,3.5,11213
+NqnCmOlPIJ_QBQzvZ28djA,Sapthagiri Taste Of India,804 Newark Ave,"{'latitude': 40.73571680043, 'longitude': -74.0650333434929}",400,3.5,07306
+QqhZ92fhT70QF6cgzRZ54Q,Bombay To Goa,785 Newark Ave,"{'latitude': 40.73526, 'longitude': -74.06444}",46,4.0,07306
+YMtQ5NZY3WUn3tetby6Uog,Taste of Persia,12 W 18th St,"{'latitude': 40.73891, 'longitude': -73.99298}",285,4.5,10011
+1F0Msl92xYTctkifFYwVCQ,LIC Grill Indian and American Cuisine,3944 21st,"{'latitude': 40.755609, 'longitude': -73.941215}",4,4.0,11101
+NzU2hb0z0jGEOOv0-zTLEQ,Sigiri,91 1st Ave,"{'latitude': 40.726261, 'longitude': -73.986686}",573,4.0,10003
+NDxfIV_QMyXaj4Oa4azXTg,New York Pulao Kabab,36-02 Steinway St,"{'latitude': 40.7535952, 'longitude': -73.9237152}",20,4.5,11101
+hjEjLPf1lnAVYR3mMiuSQQ,Rockaway Grill,141-16 Rockaway Blvd,"{'latitude': 40.6739, 'longitude': -73.79925}",6,4.0,11436
+SJ6gBwqF219nV6dAZBt93Q,Indian Food & Falafel,6742 5th Ave,"{'latitude': 40.634593, 'longitude': -74.020967}",24,3.5,11220
+m6WOGq7BSB8YPjKoOpNTLQ,Cafe Tibet,1510 Cortelyou Rd,"{'latitude': 40.6412398285348, 'longitude': -73.9640751187889}",306,4.0,11226
+_ZxbRvQDWD3uVu3o9df82A,J & R West Indian Restaurant,294 Rogers Ave,"{'latitude': 40.6662292480469, 'longitude': -73.9538803100586}",1,5.0,11225
+J4C5Y13rwXQJYR8rKPUDkw,Sumnima Kitchen,3904 64th St,"{'latitude': 40.7463337, 'longitude': -73.9000145}",3,5.0,11377
+eXrk95smyEBBIOJigCvo7Q,Punjabi Diner,116-1 101st Ave,"{'latitude': 40.6893308825209, 'longitude': -73.828362131187}",11,2.5,11419
+SP-WFoCXb_uUTy0Kg1G03Q,Burger Walla,47 Halsey St,"{'latitude': 40.74091, 'longitude': -74.17134}",245,4.0,07102
+QK4oWeb8EItwV5U3YH_R8Q,Lash West Indian And American Cuisine,800 Burke Ave,"{'latitude': 40.87122, 'longitude': -73.8632}",110,3.5,10467
+qZgRPGUl01ldRuTd6pSOnA,Dera Restaurant,7209 Broadway,"{'latitude': 40.7477416992188, 'longitude': -73.8934860229492}",237,3.0,11372
+17hj-J-E7UFki3Brshu0lQ,Taste Of India,166 Cedar Ln,"{'latitude': 40.8857883, 'longitude': -74.0123522}",58,4.0,07666
+35bJdPviyOHhiFHOFStN4Q,Al Humza,629 Richmond Rd,"{'latitude': 40.6114672081574, 'longitude': -74.0885573724213}",15,3.5,10304
+OHD58Nwnf5sSMpSgpiUk3Q,Aroma Palace Restaurant,461 Port Richmond Ave,"{'latitude': 40.6311378479004, 'longitude': -74.1384887695312}",3,4.5,10302
+CN-ZjeSCht_lOcEsuVSfgA,Raaz,537 Washington Blvd,"{'latitude': 40.727503, 'longitude': -74.034882}",208,3.5,07310
+mYu2soE6QEUYvIth0KL9HQ,Raj Sohna Punjab Restaurant,116-20 Atlantic Ave,"{'latitude': 40.693386, 'longitude': -73.829759}",42,3.5,11419
+RdcqVP_xjxQEbNRMYccBQw,Tandoori Hut,119-08 94th Ave,"{'latitude': 40.69359, 'longitude': -73.82733}",118,3.0,11419
+P5mFtOSiQmplOj0yVP13PQ,Rasoi Restaurant,810 Newark Ave,"{'latitude': 40.7358078362318, 'longitude': -74.0657707092621}",370,3.5,07306
+aaVV388ojMgIayC3cVIEVg,Mausam Indian Curry N Bites,76 Market St,"{'latitude': 40.84595, 'longitude': -74.16121}",185,4.0,07012
+leK-lUQAEVFcNkIWc-LSmg,Tandoor Grill,1042 W Beech St,"{'latitude': 40.58581, 'longitude': -73.69851}",138,4.5,11561
+AJjQwst3ppWZ9BCfk-tQPA,Bhojon,15 E 30th St,"{'latitude': 40.7455041728767, 'longitude': -73.9850751015234}",1,4.0,10016
+vnf1WSV7dTmOeOkIJ46hiw,Curry King,942 Columbus Ave,"{'latitude': 40.799566279368, 'longitude': -73.9629824840441}",45,3.0,10025
+BYIfW55zHJNKzTvMv6hAZA,Baul Dada Jhal Muri Shop,37-07 73rd St,"{'latitude': 40.7480594645192, 'longitude': -73.8924932725525}",8,4.0,11372
+IPObt34MFs_Icr83NE7RFQ,Indo Pak Halal Restaurant,2173 2nd Ave,"{'latitude': 40.7934736702072, 'longitude': -73.9403164386749}",43,3.0,10029
+Qz5E5sPtETWD3kwEUsBZpw,Kabul Kabab House,42-51 Main St,"{'latitude': 40.753857, 'longitude': -73.827635}",449,4.0,11355
+WrMu2G5M2im56uYKTd4Bgw,Curry In A Hurry,119 Lexington Ave,"{'latitude': 40.74268, 'longitude': -73.9822499}",452,3.0,10016
+dRbwsnfm4Emg_P25IuPd_g,Kay Kay Chinese Food,3625 S La Brea Ave,"{'latitude': 34.020531, 'longitude': -118.35590217}",20,3.0,10314
+yC-GsIbqeQnoVd9LYiOabQ,Mantra,253 Washington St,"{'latitude': 40.71643887105, 'longitude': -74.0377577111708}",192,3.0,07302
+hLdrBdGwy_eDvayx8VAndQ,Panahar Indian Cuisine,90-40 160th St,"{'latitude': 40.7047138828749, 'longitude': -73.7998260608784}",3,4.5,11432
+IbB_7AxWQtDFW1iKnoD1Ug,BK JANI,276 Knickerbocker Ave,"{'latitude': 40.701969, 'longitude': -73.924402}",280,4.0,11237
+_ztYFP1H6uJmR-9cVLDU5w,Madina Restaurant & Sweets,563 Coney Island Ave,"{'latitude': 40.6435699, 'longitude': -73.96981}",73,3.0,11218
+zy5MD9rhrPaZkCM1d1vmrg,44th Street Minar,160 E 44th St,"{'latitude': 40.7522011, 'longitude': -73.9741974}",54,3.0,10017
+beILZHnGvC98CO59aOmo1w,Island Grocery,1791 Victory Blvd,"{'latitude': 40.6131963057268, 'longitude': -74.1232953978945}",17,3.5,10314
+Rr55bXbJcfdm4lIf-1f0Qw,Kwik Gourmet,250 Park Ave E 47th St,"{'latitude': 40.75332, 'longitude': -73.97106}",240,4.0,10177
+Pqp4dGeEwCG1cH9mZq2rJA,Bombay Bazaar,12418 Liberty Ave,"{'latitude': 40.687797, 'longitude': -73.819404}",1,5.0,11419
+BxB7lV381jp5pmosnIBpGA,Kottu House,250 Broome St,"{'latitude': 40.71822, 'longitude': -73.989659}",259,4.5,10002
+blDT9_3bnnWAwtBAODIENA,Yemen Cuisine,6726 5th Ave,"{'latitude': 40.63487, 'longitude': -74.02061}",77,4.5,11220
+EVaeiIE_p0m2LkeG6rhh2g,Joy of India,127 E 28th St Frnt,"{'latitude': 40.74298, 'longitude': -73.98274}",1,5.0,10016
+bVkia681mgwsvAe0TckVbQ,Golden Punjab,13002 101st St,"{'latitude': 40.692299, 'longitude': -73.81681}",16,3.5,11419
+UL1HHTZCOJqBTgQMPtvA6Q,Punjabi Kabab House,91-52 Lefferts Blvd,"{'latitude': 40.6944521, 'longitude': -73.8283919}",77,3.0,11418
+vksCRTDJO6ZrM_JFRxnG9w,Desi Junction,688 10th Ave,"{'latitude': 40.763465, 'longitude': -73.992317}",4,3.5,10019
+XBZkwp9lNsZfjD3ejBE7Yw,chandni restaurant,31 W 46th St,"{'latitude': 40.75669, 'longitude': -73.98029}",1,5.0,10001
+HSlEzWSQbN0vRqIpN5WOZA,Kabab and Gyro Grill,131-07 Liberty Ave,"{'latitude': 40.69037, 'longitude': -73.81472}",12,4.0,11419
+oqVG2LsTwvRzgJxId5pqiw,Dar 525,525 Grand St,"{'latitude': 40.711266, 'longitude': -73.950317}",416,4.0,11211
+7CloPu57SYPIrJAB1Ie0Ew,DhanShiri,169-28 Hillside Ave,"{'latitude': 40.710867, 'longitude': -73.7921906}",59,3.5,11432
+JuP4192zOiVFyPXPuc8EtQ,Abdullah Sweets and Restaurant,91 Church Ave,"{'latitude': 40.6428985595703, 'longitude': -73.9799499511719}",21,4.0,11218
+pMdhVoZuxIQGYOD8tsWMpA,Prabhu Kirpa Restaurant and Sweets,13403 Rockaway Blvd,"{'latitude': 40.67483, 'longitude': -73.80412}",3,5.0,11420
+KT8Th7GSEdBiIhkIlqOV5g,Kathmandu Fusion Kitchen,39-26 61st St,"{'latitude': 40.74651, 'longitude': -73.90324}",6,3.0,11377
+DTxsUnrcAQO-OXwwypPZjQ,Shadman Restaurant,293 1/2 Grove St,"{'latitude': 40.7184, 'longitude': -74.0438}",194,3.5,07302
+AZXVhEWU2FAqI40b0ZvzfQ,Gourmet Sweets,1107 Coney Island Ave,"{'latitude': 40.6306457519531, 'longitude': -73.965934753418}",38,3.5,11230
+WtaM26GHmDBiUpVB4lnl2w,The Roti Shack,2915 Fulton St,"{'latitude': 40.679361, 'longitude': -73.887147}",1,4.0,11207
+SxpRklyvo-VHZwzO2IrpXQ,Persis Biryani Indian Grill,789 Newark Ave,"{'latitude': 40.7353, 'longitude': -74.06465}",65,3.5,07306
+321dvWH3DwQE4uaVJX2Kvg,Sigri Indian BBQ,155 University Ave,"{'latitude': 40.74251, 'longitude': -74.17375}",26,4.0,07102
+SGjNkoNrAXIIHF5NQFwJVw,Raagini,924 Atlantic Ave,"{'latitude': 40.6394412229282, 'longitude': -73.6078367135734}",176,4.5,11510
+5xk_sMKB5S-uo_6mgJqA9A,Sagar Restaurant,168-25B Hillside Ave,"{'latitude': 40.71173, 'longitude': -73.79021}",95,3.5,11432
+C6AAKuzSw-HrP7G47y47TQ,Namaste Nepal,43-16 Queens Blvd,"{'latitude': 40.7431256, 'longitude': -73.9209581}",1,4.0,11104
+G3U1nTTNNJ0QIH3q_OxWWQ,Haldi Chowk,1409 Rt 35 N,"{'latitude': 40.4010313, 'longitude': -74.121148}",115,4.5,07748
+oyRcOkU1wvznOfQ_Wp3IzQ,Mamtaj Mahal,135B N 5th St,"{'latitude': 40.71702, 'longitude': -73.95918}",20,2.5,11211
+PwK_4LPh7yQ2VcIGKNKLNw,44th Street Curry House,160 E 44th St,"{'latitude': 40.75214, 'longitude': -73.97394}",12,3.0,10017
+TemMTqYoDJ53doNF-PCKZA,Cafe Kashkar,1141 Brighton Beach Ave,"{'latitude': 40.5778011, 'longitude': -73.9557381}",227,4.0,11235
+jlH66jTIZUwX5MT1D-lhvg,Tikka Grill,2402 82nd St,"{'latitude': 40.7646759, 'longitude': -73.8871923}",31,4.0,11370
+-W7VgS94bFBtxlj750rPWA,Downtown Dhaba,266 Center Ave,"{'latitude': 40.9921873436783, 'longitude': -74.0320478943364}",158,4.5,07675
+-HYrr7-Bx-RuQO0Bo0F4iw,Flavours of India Restaurant,424 Harrison Ave,"{'latitude': 40.746961, 'longitude': -74.154983}",17,4.0,07029
+x31Xmdw1ekbG-TdD8hT0_w,Curry Dream,66 W 39th St,"{'latitude': 40.7526251, 'longitude': -73.9852003}",215,2.5,10018
+fNxI--522GxiStC-J3SnTw,Starlight Grill Restaurant & Sweet,8002 Astoria Blvd,"{'latitude': 40.76496, 'longitude': -73.88882}",19,4.0,11370
+-_LtKO0FdpINUMAWMfDOOQ,Al Naimat Restaurant & Sweets,3703 74th St,"{'latitude': 40.74882, 'longitude': -73.891538}",118,4.0,11372
+UFRW4RurzgXnn3eeZXLjJQ,Punjab Palace,11 W 30th St,"{'latitude': 40.74641, 'longitude': -73.98729}",3,3.5,10001
+s4pRTGVcKMfybxpyKu4KzA,Royal India Palace,11806 Atlantic Ave,"{'latitude': 40.69362, 'longitude': -73.82837}",50,3.5,11419
+0ORwxqRAliQvbYMIND19FQ,Masala Cafe,27 Academy St,"{'latitude': 40.7376, 'longitude': -74.17251}",38,3.5,07102
+Q3q5ODGrzCGjTUKaFEWJkw,New Green Leaf,651 Manhattan Ave,"{'latitude': 40.7242889, 'longitude': -73.9514008}",5,1.5,11222
+phEamT8HRnu-RFFoCbJ5Bg,Ujala Kabab,3403 Kennedy Blvd,"{'latitude': 40.7753927984004, 'longitude': -74.0307963014235}",11,4.5,07087
+EVH3Y_xhthvSJN-TRtzZFg,Saffron,92 St John's Road,"{'latitude': 53.479102, 'longitude': -3.024611}",1,4.0,L22 9QQ
+GbBmq42FMVX5dOteBm9mvw,Hot Breads,134 Lexington Ave,"{'latitude': 40.7431564331055, 'longitude': -73.9824066162109}",1,4.0,10016
+AtPhAHLLdmro_p6FP61qtw,Kustory Kabab,126 Lexington Ave,"{'latitude': 40.742961, 'longitude': -73.9824728}",17,3.5,10016
+iSiOfm9CdUhbS0eDHPHUNA,Desi Food Truck,,"{'latitude': 40.7251853942871, 'longitude': -73.9992523193359}",69,3.5,10012
+3rZwXDjkyDLAHNSdPUI5WA,Korai Kitchen,576 Summit Ave,"{'latitude': 40.73381, 'longitude': -74.0592099}",166,5.0,07306
+6oWB_Y4H0xQ7th3ZaGo4yA,Brick Lane Curry House,540 Valley Rd,"{'latitude': 40.838197, 'longitude': -74.207413}",375,3.5,07043
+4SK9aWKC-Qwk-cqS2dWbfw,Kebab N grill,775 Bergen Ave,"{'latitude': 40.7259164, 'longitude': -74.0678749}",36,4.0,07306
+JCewNUA2d-CHcVwz8ZbqlA,Kebab Empire,934 8th Ave,"{'latitude': 40.7656039202982, 'longitude': -73.9835444862394}",213,4.5,10019
+7ei0rqEbo1LZJF_FsWEXUQ,Running Cool,2263 Jerome Ave,"{'latitude': 40.85817, 'longitude': -73.90423}",3,4.5,10451
+TmjnScDis_LA6UuqDHjhGA,Desi Cuisine,62-08 Roosevelt Ave,"{'latitude': 40.7457081665528, 'longitude': -73.9018881307842}",3,4.5,11377
+b_RZL-wE1PpH0nX9cv7twg,Melanie's Roti & Grill Restaurant,1248 Castle Hill Ave,"{'latitude': 40.8333, 'longitude': -73.851045}",42,3.5,10462
+oWmHgBlcY9yNgjUo7mNX4Q,Seven Rivers of India,203 E Houston St,"{'latitude': 40.72236, 'longitude': -73.98743}",4,3.5,10002
+WcTJzuVYTWHd0hvdAWO5Nw,Golden Grill,120-23 Atlantic Ave,"{'latitude': 40.694809, 'longitude': -73.8265228}",16,3.0,11418
+ArRjkFlv7aIUfxNLvI1bwA,Roti Boti,2709 21st St,"{'latitude': 40.7718974, 'longitude': -73.9259744}",75,3.5,11102
+shNn0uGXQBD7wEIhbtzeIg,Malika Exclusive Indian Restaurant,210 E 43rd St,"{'latitude': 40.7511443, 'longitude': -73.9736139}",2,2.5,10017
+Fj5RosdsJV24ZT8S6X-nNQ,Om Wok,89-17 Northern Blvd,"{'latitude': 40.7565331, 'longitude': -73.8782364}",47,3.5,11372
+zzZ366NuT7PCfVuPAySnaw,"Weekender Billiards & Bar, Inc",41-46 54th St,"{'latitude': 40.7438437425871, 'longitude': -73.9108329920654}",13,4.5,11377
+T-oHllUXvyGBvhn3id5Vwg,New Asha Sri Lanka Restaurant,322 Victory Blvd,"{'latitude': 40.6342048, 'longitude': -74.0855344}",108,4.5,10301
+q6BN2aVJFFFkUF4BgpeuyA,Taj Mahal Restaurant & Party Hall,14801 Hillside Ave,"{'latitude': 40.706236, 'longitude': -73.808838}",82,3.0,11435
+VakC43fJQAT5c6f3rqPlOw,Indian Fast Food Cart,Park Ave & 53rd St,"{'latitude': 40.7590263066947, 'longitude': -73.9725049020592}",25,3.5,10022
+jNYhFfAXN3qyy9JbKla9AA,Richi Rich Palace,11019 Atlantic Ave,"{'latitude': 40.692231, 'longitude': -73.835224}",48,3.0,11418
+ju6btoDb3UFhnmmPwrOWgA,Beni's,12920 Liberty Ave,"{'latitude': 40.68933, 'longitude': -73.81545}",7,4.5,11419
+uMCOyB83Et3GAMNi75Tb3w,Indian Tasty Halal Food,E 44 St & 6 AV,"{'latitude': 40.7560234987163, 'longitude': -73.9829876329546}",1,4.0,10036
+WYFPMrpRKoBaBPd-yOoiEA,Bismillah Kabab & Curry,1203 Liberty Ave,"{'latitude': 40.679204, 'longitude': -73.864977}",2,3.0,11208
+UtknyDJ_DPut-FKRqs0wpQ,Royal Grill Halal Food,44th St And 6th Ave,"{'latitude': 40.75602, 'longitude': -73.983245}",245,5.0,10018
+5iKAeJ8RVrNGRUNy-355jQ,Deccan Spice,771 Newark Ave,"{'latitude': 40.73522, 'longitude': -74.06385}",343,3.5,07306
+tXZOJhUUknjTRRo9j4ckZg,Farida Central Asian Cuisine & Grill,498 9th Ave,"{'latitude': 40.75568, 'longitude': -73.99441}",139,4.5,10018
+sUVRmTS3gwZtdDbjA5TPpA,Kebab & Curry In A Hurry,2409 2nd Ave,"{'latitude': 40.8019218, 'longitude': -73.9345703}",8,2.0,10035
+NdO1fbZL1DGi_WRyV1_sgQ,Spice Villa Restaurant,280 Central Ave,"{'latitude': 40.74428, 'longitude': -74.05014}",9,4.0,07307
+U45dUNzVKs2KlM5HRgbDGA,Halal International,574 Atlantic Ave,"{'latitude': 40.68442, 'longitude': -73.97881}",41,4.0,11217
+2FFkYc6LbRanDbOwKumLEw,Cinamon,Lexington Ave 104,"{'latitude': 40.7422601, 'longitude': -73.9828516}",1,4.0,10016
+z5z6_y69b_ufy73GZUt7Tg,Dosa Spot,15 Exchange Pl,"{'latitude': 40.7158377, 'longitude': -74.0339471}",11,3.5,07302
+MeyBDyi-wxPm9ytY9Npalw,Desi Dhaba,4A Columbus Dr,"{'latitude': 40.717364419652, 'longitude': -74.0352404016294}",1,4.0,07302
+4LVINhq3y4hCrxtShrNkYQ,Momo Ramen,78 5th Ave,"{'latitude': 40.680536624141, 'longitude': -73.9777918857649}",231,4.0,11217
+jQD0E2iEhPmNqkEs-3QUwQ,Cafe Spice Express,109 E 42nd St,"{'latitude': 40.7493320505453, 'longitude': -73.9749096455078}",68,3.0,10017
+LaMbEoM5Vw9CQP5usaD2xA,Tawa Food,3738 72nd St,"{'latitude': 40.7476070420478, 'longitude': -73.8939757526805}",86,4.0,11372
+lhfgFU9cQIquGaLpSi4r6g,Sohna Punjab,117-10 Atlantic Ave,"{'latitude': 40.6934876, 'longitude': -73.8291999}",8,3.5,11419
+sOu_0B7CgxYEzwagOh27Tw,Biryani Xprx,310 Harrison Ave,"{'latitude': 40.74656, 'longitude': -74.15762}",51,3.5,07029
+F6gTjIhONOg_6OPkmRKGNQ,Dilkhush Indian Grill,500 Schuyler Ave,"{'latitude': 40.80099, 'longitude': -74.11592}",1,5.0,07071
+I8X2NYRYHdWrGrxIHZFJ5A,Tangra Asian Fusion Cuisine,3923 Queens Blvd,"{'latitude': 40.74427, 'longitude': -73.92489}",228,2.5,11104
+--IdKkia9zPNgB-rQreyBQ,Hungry,821 Newark Ave,"{'latitude': 40.73535, 'longitude': -74.06591}",26,4.0,07306
+VMSO12sjs6W415PSogC7PA,Paratha Junction,779 Newark Ave,"{'latitude': 40.7352836673254, 'longitude': -74.0638660967438}",141,3.0,07306
+sEShqxRbZuWqjXEVCGMK9g,Talk of the Town,37-21 72nd St,"{'latitude': 40.74807, 'longitude': -73.89348}",86,3.0,11372
+PZLdVjlGHc9XlvFDdxHcIw,Jassi's World Famous Deli,4344 21st St,"{'latitude': 40.749784, 'longitude': -73.946762}",17,3.0,11101
+_Vv-J0FFJtDBbgZpYBf-cg,Color Of Spices,306 Sunrise Hwy,"{'latitude': 40.65688, 'longitude': -73.64288}",55,4.5,11570
+L3PwWn54PvHm5Rd4oUg7xw,B&D Halal Food,163B W 29th St,"{'latitude': 40.7477911583293, 'longitude': -73.9923941393954}",69,4.5,10001
+S2Jgo8dvZOypehJzMrQpbQ,Veda,2141 10 Jay St,"{'latitude': 40.92538333, 'longitude': -73.96363167}",25,4.5,07670
+bVyA5z69287U9B9W88hERg,Kabab King,7301 37th Rd,"{'latitude': 40.7472744, 'longitude': -73.8922265}",304,3.0,11372
+3lzpz9U3xLuiBsefmxMzYQ,Coromandel Cuisine of India,30 Division St,"{'latitude': 40.9089016914368, 'longitude': -73.7835279107094}",196,4.0,10801
+-K9aoYpCy5_99gojar4nWg,Brooklyn Bites,867 Nostrand Ave,"{'latitude': 40.667044, 'longitude': -73.950463}",22,2.5,11225
+_nozpz6d5t3KrabkzwFjpg,Shama Restaurant,232 Neptune Ave,"{'latitude': 40.58134, 'longitude': -73.961738}",9,3.5,11235
+fKCbpU4CUazTwg3wgceHnQ,Dhaka Hajir Biryani,17016 Hillside Ave,"{'latitude': 40.7110421, 'longitude': -73.7917103}",8,3.5,11432
+vTX77dgdGryT9zc6mKXEsQ,Lali Guras,3763 76th St,"{'latitude': 40.7476422051, 'longitude': -73.8898337637}",178,4.0,11372
+nNBYKojg6wD3Ov52Et6Omw,Urban Thadka,48th & 10 Ave,"{'latitude': 40.7634315, 'longitude': -73.9926987}",1,3.0,10019
+gMgnrr8dJzJJLVH1IbFUZw,Prime Food Market,180 10th St,"{'latitude': 40.7289087868878, 'longitude': -74.0412905350652}",28,4.0,07302
+7UJRw4Klt5yfE7q9vznEHA,Kabob Shack,182 Havemeyer St,"{'latitude': 40.710663537386, 'longitude': -73.957783053073}",154,4.0,11211
+hXqrA_Z3jZ8Q1O6ZehWSwQ,Sami's Kabab House,35-57 Crescent St,"{'latitude': 40.7587874, 'longitude': -73.9326435}",296,4.5,11106
+-km0gGCxrhcvD62mlDvV4w,Mana,646 Amsterdam Ave,"{'latitude': 40.79128, 'longitude': -73.97279}",150,4.0,10025
+w5OkGoc_gcA3EA399aV1Jg,Sri Ganesh's Dosa House,809 Newark Ave,"{'latitude': 40.73543, 'longitude': -74.06535}",157,3.5,07306
+R2VSWR_2bNhfchNqdgQR2g,Abir Halal Restaurant,526 Nostrand Ave,"{'latitude': 40.6808, 'longitude': -73.94981}",11,3.0,11216
+zv0mrfqDWW6o3-rX0U7_Sw,Roti Corner,18018 Hillside Ave,"{'latitude': 40.712823, 'longitude': -73.781845}",10,4.0,11432
+CjDtZLx2USjMY9l_YVOksQ,Apna Punjab Indian Restaurant,619 Bloomfield Ave,"{'latitude': 40.7950382433895, 'longitude': -74.1984696686268}",28,4.0,07003
+VLQrI-Qua7Ok02fAAuwvAA,Shandar Sweet & Restaurant,679 Coney Island Ave,"{'latitude': 40.64094, 'longitude': -73.9689}",20,3.5,11218
+kb8XwDiipKL2xGVW2tj63Q,Diwan,37 Shore Rd,"{'latitude': 40.8359349, 'longitude': -73.7011805}",147,4.0,11050
+9AL3VA_4H_PMw0GPriIGQw,Tangra,103 Lexington Ave,"{'latitude': 40.7421999, 'longitude': -73.98262}",31,3.5,10016
+RFiR-vXB46apdqHYr4S57w,K2 Delight Cafe - Bombay Chat,73-19 37th Rd,"{'latitude': 40.74732, 'longitude': -73.8918}",11,3.5,11372
+p7Dj6-OEWfFTP_o_MsJyxw,Roti in a Box,216 3rd Ave,"{'latitude': 40.73621, 'longitude': -73.98528}",1,4.0,10003
+7f-oylSG7GlfPRbfWo99LA,Ghoroa Restaurant,16841 Hillside Ave,"{'latitude': 40.7107539517878, 'longitude': -73.793530203402}",46,3.5,11432
+o0KsfMVarWBDsTOGFXVHsA,Gakyizompe,4711 47th Ave,"{'latitude': 40.7411023, 'longitude': -73.9175822}",31,3.5,11377
+jvPYm9rYK-5ddnjU30Oz4Q,Avant Garden,130 E 7th St,"{'latitude': 40.7261499, 'longitude': -73.98402}",276,4.5,10009
+3Wu7lGDEwuP-5OW1rdg0OQ,Sammy's Halal,70 W 39th St,"{'latitude': 40.75276, 'longitude': -73.9853}",151,4.0,10018
+TB9jN3Fe-JHjyjYWmIQ_EA,Kabab & Curry Cafe,37-49 74th St,"{'latitude': 40.7477283924279, 'longitude': -73.8914734125137}",1,4.0,11372
+NKI1VvfXYluRjnq4S6yEuw,Divya's Kitchen,25 1st Ave,"{'latitude': 40.72378, 'longitude': -73.98849}",276,4.5,10003
+yVvx0wKmBplFlMd9z10Ytw,Mithaas Jersey City,795 Newark Ave,"{'latitude': 40.7354965, 'longitude': -74.0648916}",250,3.5,07306
+YJ05uT-i4-pTUB_y1an6zw,Awash Brooklyn,242 Court St,"{'latitude': 40.6858, 'longitude': -73.99441}",154,4.0,11201
+bvNXEdDaUyy8zkth500qaw,Indian Curry Express,132-04- Jamaica Ave,"{'latitude': 40.70188, 'longitude': -73.82022}",101,2.0,11418
+hswirO2tzhjdopGrjEE3xg,Halal Cart,41st & Madison,"{'latitude': 40.7519506788492, 'longitude': -73.980059211846}",13,4.5,10017
+MAjVFhRwxbOsMHLkObzh4Q,Canteen Desi Dhaba,117 Tonnele Ave,"{'latitude': 40.7352069, 'longitude': -74.0671543}",96,3.0,07306
+uVl0KhDvJYRXxCh2thzclw,Southern Spice,1635 Hillside Ave,"{'latitude': 40.7489875, 'longitude': -73.6839657}",206,4.0,11040
+T4yKvlaCm0Y3TeWc2Or5Mg,Bollywood Grill,435 N Beverwyck Rd,"{'latitude': 40.876295, 'longitude': -74.3814138}",238,4.5,07054
+Tx3pJnxQo00twdxjvjc8Ow,Habibi Halal Food,115 E 23rd St,"{'latitude': 40.7401285, 'longitude': -73.9855201}",38,4.5,10011
+vJ8sWhkDCE0YFPyMkTvaWw,Sans,329 Smith St,"{'latitude': 40.68063, 'longitude': -73.99446}",36,3.5,11231
+5g7Kz9ffnv7t47oaomIlqA,Singh's Roti Shop & Bar,13118 Liberty Ave,"{'latitude': 40.6901083, 'longitude': -73.8144673}",203,3.5,11419
+YGH_FoxpVIpOJ4M5hAtQZg,Green House Restaurant,90 Church Ave,"{'latitude': 40.64248, 'longitude': -73.97989}",9,3.0,11218
+mt4KWnuakQLhJ6NhgbXqVA,Tasty Delicious,1397 Rockaway Ave,"{'latitude': 40.6476853, 'longitude': -73.9049402}",7,4.0,11236
+lTKwlr9_vWjNDPbt4I7bog,Chaska Fine Indian Cuisine,826 Newark Ave,"{'latitude': 40.73596, 'longitude': -74.06606}",105,4.0,07306
+CxvXmplrCyvnHIGDrNKRyg,Restaurant Joy,127 E 28th St Frnt,"{'latitude': 40.74298, 'longitude': -73.98274}",1,5.0,10016
+V3mSoUHcuFQwDHBPLTSbdg,King Kabab,167-09 Hillside Ave,"{'latitude': 40.7096623368022, 'longitude': -73.796104238621}",24,3.5,11432
+JFGHmvKmzW_TP6NjdvoWow,Lotus Progressive Indian Cuisine,131 Erie St,"{'latitude': 40.7266075564457, 'longitude': -74.0437098965049}",35,2.5,07302
+OP2M0Yb4P6S64h0xFdSvsQ,Begum Palace,300 Main St,"{'latitude': 40.749854, 'longitude': -74.398791}",215,4.5,07940
+j0n_poMVZnODYOFviLbh0Q,Taim West Village,222 Waverly Pl,"{'latitude': 40.736002376347, 'longitude': -74.0019588366439}",1467,4.5,10014
+GYM5iBUBD6Ocn6you91Rjg,Royal Curry Indian Resturant,Market Place Ii,"{'latitude': 40.421871, 'longitude': -74.2639368}",118,4.5,07747
+8wYaKJvVrRUaOwqVrVw-jQ,The Makhani Shop,102 Lexington Ave,"{'latitude': 40.74227, 'longitude': -73.98305}",3,3.5,10016
+u_j2PopX_tFfQvrlerjmmA,Golconda Chimney,806 Newark Ave,"{'latitude': 40.73585, 'longitude': -74.06517}",144,3.0,07306
+pySuU21NBcNpM0mr3_bggg,Taste of India,30 Mall Dr W,"{'latitude': 40.727075, 'longitude': -74.038636}",178,3.0,07310
+0jqs32xyAioVbz7BBzrO6A,Chinese Dhaba,98 Chambers St,"{'latitude': 40.71469, 'longitude': -74.00768}",1,4.0,10007
+EXFJUuKdtnf4eV1IF1drWQ,Shah Taj,287 Grove St,"{'latitude': 40.71813, 'longitude': -74.04407}",60,3.5,07302
+pg2NNr7wQeMo5cJoTYPBRQ,Revolution Sandwich NY,52 Walker St,"{'latitude': 40.7191286, 'longitude': -74.0032257}",57,4.5,10013
+wMhJPpAQqmbGhOFErPh4zg,Woodlands Cafe,160 Frederick St,"{'latitude': 40.8749112, 'longitude': -74.1021732}",51,4.0,07026
+9Wzn5eRNDZxAqbprKF31Pw,Green Recipes,147 16 45th Ave,"{'latitude': 40.7554187, 'longitude': -73.8146905}",31,4.5,11355
+IFZ3_d01uflGixWrrD8_gg,Ariana Afghan Kebab Restaurant,787 9th Ave,"{'latitude': 40.76515, 'longitude': -73.98813}",454,4.0,10019
+eeGh0KSBTBEeHzL3wSbdWg,Raangoli Indian Cuisine,244 Franklin Ave,"{'latitude': 40.81601, 'longitude': -74.16146}",148,3.5,07110
+dgz6m-9WZhahheWVguwfBw,Bawarchi Indian Cuisine,1149 W 53rd St,"{'latitude': 40.6346512, 'longitude': -73.9972916}",1,2.0,10065
+6YsCjSkCoUJ6rVDJe04Yuw,Lhasa Fast Food,37-50 74th St,"{'latitude': 40.74748, 'longitude': -73.89183}",259,4.5,11372
+udXW3gmKrCvtwWH_L5tIng,Spice Bazaar - Casual Indian Dining,114-116 Quimby St,"{'latitude': 40.6514, 'longitude': -74.34759}",164,4.5,07090
+Y6Q4uhE-GsP2iykSW9oJPw,Rudra Indian Bistro,561 Cedar Ln,"{'latitude': 40.89044, 'longitude': -74.02528}",3,5.0,07666
+idPuFfnCBOTckYzVaYpfBA,Chutneys,827 Newark Ave,"{'latitude': 40.7355193, 'longitude': -74.0661636}",124,3.0,07306
+pcVrO95BWDT-4TK38zki_A,Neha Palace,27 Meyer Ave,"{'latitude': 40.9240102, 'longitude': -73.8566552}",205,4.0,10704
+kgQB4y-0Rhjm0FVKyecdJw,Star of India Restaurant,496 Blvd,"{'latitude': 40.6760735, 'longitude': -74.2925946}",221,4.0,07033
+7_NCS8bQ8UA_nEANIWm-hQ,The Kati Roll Company,685 Third Ave,"{'latitude': 40.75158, 'longitude': -73.97333}",41,2.5,10017
+M1VHR29gMNs3EavDXdE_PA,Momos & Buns,120 Lexington Ave,"{'latitude': 40.7428398, 'longitude': -73.9826202}",3,3.5,10016
+EBwxGsAW8H3kJoq0nqWmNw,Tashan Divine Indian Dining by Khyber Grill Caterers,555 Passaic Ave,"{'latitude': 40.84991, 'longitude': -74.29787}",87,4.5,07006
+p0aDcwnhhjnAfn67tEFesg,Asha Indian Food,151 E 103rd St,"{'latitude': 40.7902707, 'longitude': -73.9473015}",5,1.5,10029
+_RmV0tpSELJYpTE777kGnA,Manjal Indian Fusion,95 Lincoln Ave,"{'latitude': 40.945104, 'longitude': -74.147266}",106,4.5,07410
+QsujlS_gBXtR6SQjWl02Ew,Taste of Punjab,95-04 Van Wyck Expy,"{'latitude': 40.69599, 'longitude': -73.81358}",14,2.5,11419
+zcgPjeIpjYDDVbTar9mfAQ,Goemon,29 Kenmare St,"{'latitude': 40.72083, 'longitude': -73.99509}",115,4.0,10012
+3_pn5nxp9NuGv7tJ61Mslw,Dhaka Garden,7223 37th Ave,"{'latitude': 40.749065, 'longitude': -73.892934}",44,3.0,11372
+KXD44wWmrGf7mzyyr0bikw,P.S. Kitchen,246 W 48th St,"{'latitude': 40.76066, 'longitude': -73.98664}",283,4.0,10036
+VSPkVw9gSQx-5v4A6aC_YA,Manousheh,193 Bleecker St,"{'latitude': 40.7293499, 'longitude': -74.00134}",380,4.5,10012
+fKsGFEKMD0e39B7SW-G8xw,Fahima Halal,Corner Of 47th And 3rd,"{'latitude': 40.75394, 'longitude': -73.97214}",8,4.5,10036
+MVNhVKCIqWXUyhwqWMOnYg,Kharian Deli,184 7th Ave,"{'latitude': 40.74283, 'longitude': -73.99692}",13,3.0,10011
+XNJgKHavBZm47RpudtAn3A,Taste Of Lahore,73-10 Northern Blvd,"{'latitude': 40.7545891, 'longitude': -73.8931961}",79,3.0,11372
+01i6ZcU8rFhLegn6PuQb1A,Bamboo House & Bar,76-03 37th Ave,"{'latitude': 40.7492944, 'longitude': -73.8897555}",4,3.5,11372
+cmPsGe-4ZcQ6PJD9oom8Sg,Spice Village,8 Columbus Ave,"{'latitude': 40.9506602, 'longitude': -73.8272982}",141,4.0,10707
+5YFgQpN3AnlLFG4m5fCvzA,Gulshan Terrace,5915 37th Ave,"{'latitude': 40.7498753, 'longitude': -73.9027518}",3,4.0,11377
+cecWBm6P2T1dIXrTfJWKng,Jenny's Roti Shop,1262 Castle Hill Ave,"{'latitude': 40.8337936401367, 'longitude': -73.8511505126953}",34,3.5,10462
+YB3Zygy4g4ga6jDFqjfsAg,Sati's Roti Shop,133-17 Rockaway Blvd,"{'latitude': 40.67485, 'longitude': -73.8046899}",9,4.0,11420
+WbCZW0OBcakQ9oxsLsw8vg,Honest Restaurant,811 Newark Ave,"{'latitude': 40.7355188, 'longitude': -74.0654693}",135,3.5,07306
+j1cyPRsQBHdeOEcjqRXs3Q,Jay's Roti Hut,135-09 Lefferts Blvd,"{'latitude': 40.6702487734515, 'longitude': -73.8207999125121}",3,3.5,11420
+YIDYFogrH8sqQx1kd5VmHQ,Jyoti,24 US Highway 46,"{'latitude': 40.892129526639, 'longitude': -74.2640055249833}",162,3.5,07470
+sFxXJP8i9ldd-7UFHgJSeg,Coriander Modern Indian,154 Larchmont Ave,"{'latitude': 40.92851, 'longitude': -73.75309}",117,4.0,10538
+elLwg1PVFUEnoyKpzMP8DQ,Bali Kitchen,128 E 4th St,"{'latitude': 40.725371, 'longitude': -73.987617}",101,4.5,10003
+oZL2RilA-P-PgkMU0AdR-Q,Tandoori Chef,260D Main St,"{'latitude': 40.886338, 'longitude': -74.041491}",195,3.5,07601
+2DGTVgGGme6CoXFCgooqVw,Premium Sweets & Restaurant,2104 Starling Ave,"{'latitude': 40.8359499, 'longitude': -73.85487}",20,4.5,10462
+pzVUUB9bXZMK8KvRLOoUWg,Kiran Continental Indian Cuisine,94 Chambers St,"{'latitude': 40.71463, 'longitude': -74.00752}",1,3.0,10007
+AvTezlpt3GXTdSEnXbHP4w,Fatima's Halal Kitchen,25-25 Broadway,"{'latitude': 40.7631186084319, 'longitude': -73.9275405041124}",354,4.0,11106
+U0QlNZX8FVwiXCIIaHqhGw,Mustang Thakali Kitchen,74-14 37th Ave,"{'latitude': 40.7489418844067, 'longitude': -73.8914922910723}",161,4.0,11372
+4QVv74DjxTfhPmVE2r345Q,Akbar,2 South St,"{'latitude': 40.73468, 'longitude': -73.60529}",239,4.0,11530
+oy_FqW6XO8S06pg6nHbhog,Ramen Hood,62 Spring St,"{'latitude': 40.7223112701284, 'longitude': -73.9973774072879}",127,4.5,10012
+XEBXO6nK4MY2dh-ITN4XKA,Tiffin - East Hanover,249 Rt 10 E,"{'latitude': 40.80643, 'longitude': -74.37279}",130,4.0,07936
+2KCyOxOM5J9glFSpmLqb9Q,Biryani Pot,824 Newark Ave,"{'latitude': 40.7357829, 'longitude': -74.0659607}",152,3.0,07306
+8xNhGFStbZkAN8HGtcP_1Q,BayLeaf Redefined Indian Cuisine,115 S Orange Ave,"{'latitude': 40.74583, 'longitude': -74.2569}",56,4.0,07079
+32163sAKsk3y_HagU9oIUA,Salam Restaurant,104 W 13th St,"{'latitude': 40.73669, 'longitude': -73.997985}",89,4.0,10011
+l4fwf8VwAokv3MWT45Ab7g,Bunna Cafe,1084 Flushing Ave,"{'latitude': 40.705042, 'longitude': -73.928078}",520,4.5,11237
+JX5QkNfMd-jP-Nz5iQ_QeA,Thai Nara Halal Restaurant,64-02 35th Ave,"{'latitude': 40.75011, 'longitude': -73.89848}",13,4.5,11377
+_t0sNRN5yfj1nEopg2bwwg,Kohinoor Restaurant,413 Cortelyou Rd,"{'latitude': 40.6384328172609, 'longitude': -73.9751159089469}",2,3.0,11218
+80YK6JElg_pHjlHLlOvkmw,Istanbul Park,293 7th Ave,"{'latitude': 40.667868, 'longitude': -73.980688}",305,3.5,11215
+228DO__YwYmliMx6Q5jTtw,Turco Mediterranean Grill,604 9th Ave,"{'latitude': 40.75913, 'longitude': -73.9918}",502,4.0,10036
+1HCAu_tB8mzZ0qCFltGfew,Bhoj,430 Market St,"{'latitude': 40.89861, 'longitude': -74.11246}",222,3.5,07407
+Je-1Zp0MT0xn0o8RooFisQ,Talk Of The Town,14 Marconi Ave,"{'latitude': 40.5742224156025, 'longitude': -74.3244423284531}",423,4.5,08830
+_04FYEa8HLjhO-cS8G19Sg,Natraj Palace,619 Bloomfield Ave,"{'latitude': 40.79508, 'longitude': -74.19844}",125,3.5,07003
+jUD3vbZS_MGkDk2yfBXZuQ,Queen Sheeba,317 W 141st St,"{'latitude': 40.8208581437951, 'longitude': -73.9447144351328}",61,4.0,10030
+iFK9h-kNYbL6j6kRy3L6CQ,Tabla Fine Indian Cuisine,16 Broad St,"{'latitude': 40.9791685, 'longitude': -74.120767}",66,4.5,07450
+8mNN98-kejLAJLR9p7_mvQ,Taj Mahal Indian Restaurant,135 N 5th St,"{'latitude': 40.71702, 'longitude': -73.95918}",18,2.0,11211
+L02D3DmTwrkap-BaAfIg8g,Lucky Sweets & Restaurant,3310 36th Ave,"{'latitude': 40.755595, 'longitude': -73.9279987}",4,3.0,11106
+goIlFGh8EhPQ1fJlzn-NPw,Ceylon Curry,324 Victory Blvd,"{'latitude': 40.63405, 'longitude': -74.08541}",18,3.5,10301
+MhKxCsST8TfvEmqLtzj2Yw,New Delhi Palace,136 Main St,"{'latitude': 40.88233, 'longitude': -74.04305}",29,3.5,07601
+xWUL-j6TQyKQHIfOtetu-Q,Hangawi,12 E 32nd St,"{'latitude': 40.746737, 'longitude': -73.984662}",1075,4.0,10016
+_oB3M47mlg3dJGKKIYkRIA,Jewel of India,324 E 6th St,"{'latitude': 40.7266884, 'longitude': -73.9874496}",13,2.5,10003
+qUraxsVOyvQ60ELLhFSDVA,Red Pepper,2520 Rt 22 E,"{'latitude': 40.66449, 'longitude': -74.38682}",168,4.0,07076
+HYW2O2qycmFiGUNt_TlyPA,Shawarmania,22-49 31st St,"{'latitude': 40.7749304, 'longitude': -73.9119036}",223,4.0,11105
+XwJwqa89PK-xPSiEXAs_6g,Mughal Indian Restaurant,75TH And Columbus Ave,"{'latitude': 40.7795372331698, 'longitude': -73.9775128214034}",11,1.5,10023
+viPKFWURtx09AVOa6iiKSg,Momo Crave,3807 69th St,"{'latitude': 40.7468991, 'longitude': -73.8962601}",58,4.5,11377
+FNhR8BBvxTLYUfAO7V8e1g,Mausam Indian Cuisine,379 Bloomfield Ave,"{'latitude': 40.812679, 'longitude': -74.215396}",181,3.5,07042
+i9EgpwRQVS8kEcgbyEzOeQ,Red Chili,3094 Steinway St,"{'latitude': 40.7616882, 'longitude': -73.9170837}",4,2.0,11103
+0nPCpOj_okwdhrNcSL-Ztw,786 Moon Light Grill,91-81 111th St,"{'latitude': 40.69242, 'longitude': -73.83469}",5,2.5,11418
+7tJq-a_K-yKOWSqyXVOlFg,Suzy's Roti Parlour,907 Church Ave,"{'latitude': 40.64666, 'longitude': -73.97048}",114,4.5,11218
+clRkIWrwyNVpcZdhrYVB5g,Khaabar Baari Restaurant,3722 73rd St,"{'latitude': 40.7482398874526, 'longitude': -73.8927657623513}",19,2.5,11372
+ExOHOMrBuPSFmDaLDvtSJw,Trini Gyul,112-16 Liberty Ave Queens,"{'latitude': 40.68504, 'longitude': -73.82958}",11,3.5,11419
+FoXPtrmgnbWf2RhUrzF4jA,Santoor Indian Restaurant,25705 Union Tpke,"{'latitude': 40.7461651, 'longitude': -73.714548}",291,4.0,11004
+R7PHDW6wKzYHOOh4f6MrzA,Pakiza Restaurant,1032 Coney Island Ave,"{'latitude': 40.632373, 'longitude': -73.967124}",22,3.0,11230
+WCzh8JOXq1xFrOhizQKCEw,Kabab Diner,133-23 Rockaway Blvd,"{'latitude': 40.67484, 'longitude': -73.80452}",11,2.5,11420
+3rQYiiLz1g29D4qHJEUq4A,Red Mist Hookah Lounge & Cafe,569 Coney Island Ave,"{'latitude': 40.643437, 'longitude': -73.969644}",59,3.5,11218
+hmNxdAbt0tiGm8_vPdXCSA,Afghan Kebab House II,1345 2nd Ave,"{'latitude': 40.768066, 'longitude': -73.959243}",176,3.5,10021
+j7fFfjr8rIqXjfEJ4FUs2g,Apna Virsa,118-5 101st Ave,"{'latitude': 40.6899266, 'longitude': -73.8266505}",4,2.5,11419
+Gol6yMg-EYy2-unPykGXvg,Khyber Kabab Restaurant,11211 Jamaica Ave,"{'latitude': 40.6977735, 'longitude': -73.8359818}",6,3.5,11418
+vfpOoIrPQXZ3KUydNpM2xQ,Balady Foods,7128 5th Ave,"{'latitude': 40.63199, 'longitude': -74.02178}",67,4.5,11209
+BKqeOrA8Vfg2oUc9QdcoUA,Tandoori Taste of India,163 N Main St,"{'latitude': 41.0036564, 'longitude': -73.6602835}",115,4.0,10573
+cuUmPDEY-1KXzShGdpsqag,Turkish Kitchen,386 3rd Ave,"{'latitude': 40.74189, 'longitude': -73.98136}",536,4.0,10016
+9tjTiVC2HepvHwEPdc677g,Bawarchi Biryani Corner,839 Newak Ave,"{'latitude': 40.73562, 'longitude': -74.0665}",123,2.5,07306
+LpQIn07liSugCw3IIQNyvA,Mela on the Sixth,320 E 6th St,"{'latitude': 40.72677, 'longitude': -73.98761}",4,2.0,10003
+hdvuag9_Kx0g8Iz8hzF1lA,Jewel of Himalaya,751 Central Park Ave,"{'latitude': 40.99722, 'longitude': -73.81764}",113,4.5,10583
+Fw80xvMMYDBwRTsvbOUXfg,Namaste Indian Restaurant,258-11 Hillside Ave,"{'latitude': 40.73731, 'longitude': -73.70979}",108,4.0,11004
+F45gH5oEHbuptyHLRV8ZWw,Shahi Kabob and Curry,641 Lydig Ave,"{'latitude': 40.8544080729646, 'longitude': -73.8681019819282}",14,2.5,10462
+lz4lljmw2kdx3B3nQ2dKHw,Chatni,381 Bloomfield Ave,"{'latitude': 40.81269, 'longitude': -74.21552}",216,3.5,07042
+F3dTT21cnXG3dB9vGQe9MQ,Royal Chinese,153-33 Hillside Ave,"{'latitude': 40.7078285, 'longitude': -73.8031998}",1,4.0,11432
+ujKLiI39ie5K_iB-TLaFMg,Chennai Dosa Express,2986 John F Kennedy Blvd,"{'latitude': 40.73506, 'longitude': -74.06278}",40,3.0,07306
+7CM15wd5d8WC_pHR674YXA,Hummus Kitchen,1613 2nd Ave,"{'latitude': 40.7763650431587, 'longitude': -73.9529693360589}",677,4.0,10028
+UxfGwHayDA6edmGoRCFCPA,Bombay Hut,8A W Prospect St,"{'latitude': 41.011103, 'longitude': -74.120569}",138,4.0,07463
+QdvIoal1WXewTcRClBRLoA,Monsun,606 Kinderkamack Rd,"{'latitude': 40.9285, 'longitude': -74.03398}",71,4.0,07661
+N6GRJhXLt3LTA-DbI4g91w,Surya Sweets and Snacks,250-18 Hillside Ave,"{'latitude': 40.73522, 'longitude': -73.71667}",30,3.5,11426
+yqKzYJHASzNlytsMUmyAsw,Chennai Flavors,523 Newark Ave,"{'latitude': 40.73069, 'longitude': -74.0561}",30,3.5,07306
+iFhpdc5cI_uiNAZrPlflpQ,Jivamuktea Café,841 Broadway,"{'latitude': 40.7343094009, 'longitude': -73.9910125948}",117,3.5,10003
+r5LG5dHWwth4A--dfYSfIQ,Tandoori Chef 2,6 Highland Pl,"{'latitude': 40.7310596, 'longitude': -74.2784847}",123,3.5,07040
+zKGv7E_UNpL8vCiyfUkJEw,Gyro King - Staten island,1267 Forest Ave,"{'latitude': 40.62666, 'longitude': -74.13177}",68,4.0,10302
+yxNl-s1wpguz-7BnQ-EbTA,Friend Restaurant,110-15 101st Ave,"{'latitude': 40.6879992, 'longitude': -73.8333652}",12,3.5,11419
+8woH0nY6mV7GxVg6mtzrIg,Calcutta Wrap & Roll,465 Ashford Ave,"{'latitude': 41.012637, 'longitude': -73.848512}",208,4.0,10502
+_kaQarBVxm8rHnyeFlCwTQ,Cafe 22,5 Times Sq,"{'latitude': 40.7557116976974, 'longitude': -73.9872019943609}",15,4.0,10036
+1gK-0_lGqjxbwiHWcXXdzg,ABCV,38 E 19th St,"{'latitude': 40.7379039812942, 'longitude': -73.9888740099824}",370,4.0,10003
+DJSsqXhaP2C4wXG8EPL1bg,Mantra,275 W State Rt 4,"{'latitude': 40.9146266251575, 'longitude': -74.0462636947632}",229,3.5,07652
+Ohi-o00luDtU7TMpVtJHJw,Blossom,187 9th Ave,"{'latitude': 40.745513, 'longitude': -74.002365}",981,4.0,10011
+vwgLem_9f5zJUXI_c0gM8w,Halal Cart,315 Lafayette St,"{'latitude': 40.7251055040693, 'longitude': -73.9949115604255}",8,5.0,10012
+MidK0WWI0_1tZL8AuR7Jhw,Candle 79,154 E 79th St,"{'latitude': 40.774627, 'longitude': -73.958697}",1272,4.0,10075
+0SqFgkdmfNWj9iUQgfghEA,Veronica's Kitchen,Front St & Pine St,"{'latitude': 40.7056045963693, 'longitude': -74.0064248767212}",154,4.0,10005
+F3mRjSCTKlA1qj7OiRikiQ,Choten Nawab,150-154 Lexington Ave,"{'latitude': 40.7424964904785, 'longitude': -73.9823989868164}",2,2.5,10016
+CflDIalFPdd7U3-fcq4Lkg,Lhasa Liang Fen,80-07 Broadway,"{'latitude': 40.7439271419, 'longitude': -73.8846904412}",23,4.0,11373
+mKPyAUJkJlr_1TNTSSoVMQ,Titash Restaurant Kebab & Grill,71-06 35th Ave,"{'latitude': 40.7504, 'longitude': -73.89465}",3,3.5,11372
+Rta-_ALLo7g9xTUi23pmRw,Curry On,765 Newark Ave,"{'latitude': 40.7351913452148, 'longitude': -74.0635375976563}",112,3.0,07306
+6CL5flA8uiN1kKZloB6wrw,Spice Grill,111 US Hwy 46,"{'latitude': 40.8578567, 'longitude': -74.3514233}",204,4.0,07981
+61H9oV-8y6EMZdcKnQc-jA,Bakhter Halal Kababs,68-16 Fresh Meadow Ln,"{'latitude': 40.733285, 'longitude': -73.794737}",238,3.5,11365
+xc5jT9-87-MOyom3d1DWRQ,Rose Bengal Food,77-01 101st Ave,"{'latitude': 40.68036, 'longitude': -73.8605199}",2,3.0,11416
+WBJLoLeRSSzRDrzOv5IRng,Sonali Indian Restaurant,326 E 6th St,"{'latitude': 40.7266693115234, 'longitude': -73.9873733520508}",3,2.5,10003
+JQnjDRS2XQvjGnl27aoc_A,Curry Tub,40 Chatham Rd,"{'latitude': 40.725376199916, 'longitude': -74.3252452882083}",48,4.0,07078
+M7UzAe_RgBtBpWuwPKnf9g,Saffron,327 Franklin Ave,"{'latitude': 41.01208, 'longitude': -74.16731}",47,4.5,07481
+wqOBqXkMar3xPOHfkWGwDA,The Soul Spot,302 Atlantic Ave,"{'latitude': 40.688221, 'longitude': -73.988875}",246,3.0,11201
+eVZGBIWAmQxiTwVYA0pjWA,Little Gujrat Deli,946 Columbus Ave,"{'latitude': 40.799697, 'longitude': -73.962936}",5,3.0,10025
+IJg3TdXz8IzKTfcspmr8MQ,Seasoned Vegan,55 St Nicholas Ave,"{'latitude': 40.80064, 'longitude': -73.952804}",986,4.0,10026
+ugYhnKrr3Q1TVV15R0EEWQ,AnTalia NYC,17 W 45th St,"{'latitude': 40.755905, 'longitude': -73.980346}",388,4.0,10036
+BKABojUN3G9vUrG3AlDZgQ,Wild Ginger,182 N 10th St,"{'latitude': 40.718859, 'longitude': -73.955371}",132,3.5,11211
+Hu-HQXpW1Dj0FxGsU8iLkA,Inda Place,2023 Mcdonald Ave,"{'latitude': 40.60315, 'longitude': -73.97201}",1,1.0,11223
+CK1DFE8o2Iuk_csJZ2V1jQ,Rockaway Halal Buffet & Catering hall,122-21 Rockaway Blvd,"{'latitude': 40.6757672, 'longitude': -73.8156833}",4,2.5,11420
+rp_TaJRjaNmOCb8vJ2S_sw,Blossom on Columbus,507 Columbus Ave,"{'latitude': 40.7853146, 'longitude': -73.9728638}",320,4.0,10024
+DfYRsSozlq-z5ovrWsZvmQ,Biryani Darbar,769 Newark Ave,"{'latitude': 40.73521, 'longitude': -74.06371}",17,3.5,07306
+zBf-m72ATTPTey-_9vu3Yw,Peacefood Cafe,460 Amsterdam Ave,"{'latitude': 40.785326, 'longitude': -73.97713}",1179,4.0,10024
+L6DAp6L1ZJKeeDN2PwoOLQ,Adel's Famous Halal Food,49th & 6th,"{'latitude': 40.76394, 'longitude': -73.99193}",209,4.5,10019
+_HLttAGWRfbWJUmmjK0xxA,Manjal,37 Godwin Ave,"{'latitude': 40.9790513947864, 'longitude': -74.1228970088499}",55,4.5,07450
+2K9dTgbmn3vS9YyFmun1sA,Halal Cart,570 10th Ave,"{'latitude': 40.7594583435888, 'longitude': -73.9954920728092}",2,4.0,10036
+uwx3yy7Wu5u55EiXRv03aQ,Ali Baba,912 Washington St,"{'latitude': 40.74775, 'longitude': -74.02808}",225,4.0,07030
+2wkDxFATkqvhAojWtRdrQg,Sonali Cafe & Restaurant,413 Cortelyou Rd,"{'latitude': 40.638485, 'longitude': -73.974869}",1,1.0,11218
+tG3ojlIvdbf79RXrO2oGKQ,Gyrohouse NYC,Cedar St and Broadway,"{'latitude': 40.7088103, 'longitude': -74.0108584}",34,4.0,10003
+qa8OUhoOiOmCYbAAQAj1cA,Madina Deli Shop,402 E 11th St,"{'latitude': 40.72914, 'longitude': -73.98367}",4,3.5,10009
+yndzCcgUIkGhvTyF4va-Eg,Sunshine Restaurant and Sweets,6915 Northern Blvd,"{'latitude': 40.7543280562698, 'longitude': -73.8973474502563}",29,3.0,11377
+xKi-O_l0BkXE25Q7824XHw,Prabhu Kirpa,135-16 109th Ave,"{'latitude': 40.6866990527001, 'longitude': -73.8088811227215}",1,4.0,11419
+UQV4XEaZwIRfi5SLs48sDA,Alauddin Sweet Meat USA,3714 73rd St,"{'latitude': 40.748407, 'longitude': -73.893013}",3,3.5,11372
+QZcRSVUltJ6YreTeDx52lQ,Mr Falafel,226 7th Ave,"{'latitude': 40.670295715332, 'longitude': -73.9790954589844}",181,4.0,11215
+7aH8qPfHxuy9Hub5Q8GKFw,Tibet kitchen,Roosevelt Ave (74th St),"{'latitude': 40.7466891, 'longitude': -73.8908579}",8,5.0,11372
+lPvxWBM1ruaUtOr7gI-yrA,Art Of Spice,159 Main St,"{'latitude': 40.883292, 'longitude': -74.0432886}",241,4.0,07601
+E8atCW6l6y1SVeEXbbXzEA,Sacred Chow,227 Sullivan St,"{'latitude': 40.72959, 'longitude': -73.99944}",525,4.0,10012
+ubeG-hyIV8qoSSAk_pAZ2A,No Pork Halal Kitchen,50 4th Ave,"{'latitude': 40.68332, 'longitude': -73.97936}",109,4.0,11217
+j0Q-yyxS2WiL3foCJEV4eg,Dirt Candy,86 Allen St,"{'latitude': 40.7179075, 'longitude': -73.9907183}",565,4.0,10002
+tdhz1FN3OdTxdDkLljySJA,The Cinnamon Snail,70 Pine St,"{'latitude': 40.7065047, 'longitude': -74.0077715}",69,4.0,10270
+8YEW9Skc7m_Fl-7crFzPyQ,Premium Sweets & Restaurant,3714 73rd St,"{'latitude': 40.748407, 'longitude': -73.893013}",42,2.5,11372
+dzI6MzwKbrhJN5dEeUbX0w,The Hummus & Pita,585 6th Ave,"{'latitude': 40.73928, 'longitude': -73.99605}",602,4.0,10011
+e_Ee9lzCrTTjghDepvbM9Q,Taste of India,135-08 Liberty Ave,"{'latitude': 40.6917153, 'longitude': -73.811519}",1,2.0,11419
+CnixInBJQ7LIf3WgBAEV0A,Al Mehran Restaurant,8746 Parsons Blvd,"{'latitude': 40.7081826, 'longitude': -73.8032576}",11,4.0,11432
+oL3NzwNMn-e02cxGwvsPcw,New Shri Sai,133 E 45th St,"{'latitude': 40.7529258728027, 'longitude': -73.9742202758789}",1,4.0,10017
+_ArDQIKj5qHgmwNnnIaIIg,I Am Thai Restaurant,49-08 43rd Ave,"{'latitude': 40.7445421133747, 'longitude': -73.9154577255249}",260,4.0,11377
+zIp8N3qSklx2-ewVOAR0LA,Chatkhara Kabab,4311 Main St,"{'latitude': 40.7522831, 'longitude': -73.8265136}",6,3.0,11355
+yFub1BhKEP-W-_ZM3_nJoQ,Bodhi Kosher Vegetarian Restaurant,77 Mulberry St,"{'latitude': 40.71641, 'longitude': -73.99931}",293,4.0,10013
+xyHakz7K8D6y0tZ07xl-Uw,Nawab,2 Hudson St,"{'latitude': 40.9330657, 'longitude': -73.8987112}",113,4.0,10701
+Om0aCW8qfvqApu_vU7jyIA,Neelam Exotic Indian Cuisine,1178 State Rt 35,"{'latitude': 40.3977051902517, 'longitude': -74.1113828743015}",92,3.5,07748
+-DT3bduqJca_u3DGDarUkw,Laziz International Inc,134 E 27th St,"{'latitude': 40.7417946, 'longitude': -73.9827194}",9,2.5,10016
+oYiswrz5gNiZBsd3QUR9LQ,Bahar Masala,984 Coney Island Ave,"{'latitude': 40.633419, 'longitude': -73.9674225}",77,3.5,11230
+MHuhN-URZQ22Anrpu6juhg,Main Bakhtar Halal Kabab,67-29 Main St,"{'latitude': 40.7334864923026, 'longitude': -73.8250243663788}",99,4.0,11367
+9MO5UogFuvqAriOA9RlqKA,Saravana Bhavan,32 Old Slip,"{'latitude': 40.7038, 'longitude': -74.00816}",1,2.0,10005
+upaVTWhLsxcu1HXqN8iHVQ,Ladybird,111 East 7th St,"{'latitude': 40.726769311104, 'longitude': -73.9847712789363}",215,4.0,10009
+UM11sCoaZizH2QajqPOubA,Rani Mahal Indian Cuisine,327 Mamaroneck Ave,"{'latitude': 40.9513807, 'longitude': -73.7350003}",92,3.5,10543
+HGJU4aVI5uXxSWLVqp9LgA,Loving Hut,76 Bushwick Ave,"{'latitude': 40.712446359218, 'longitude': -73.9411109479789}",308,4.0,11211
+5mOzZ17qU_8ijlP54Q206Q,Safari Restaurant NYC,219 W 116th St,"{'latitude': 40.80381, 'longitude': -73.9535}",163,4.5,10026
+7d9M58Bi4ZzgZZjLjvrzUQ,Lasani Afghani Restaurant,580 Montgomery St,"{'latitude': 40.72308, 'longitude': -74.06084}",15,4.5,07302
+hgoT9kFq-6YtQ1C1z6FK0A,Asian Halal Food Restaurant,39-44 21st St,"{'latitude': 40.756012, 'longitude': -73.9407196}",3,1.0,11101
+o8KtWVBIVI9E3YYM5r0dPw,Damas Falafel House,407 Myrtle Ave,"{'latitude': 40.693359375, 'longitude': -73.9695205688477}",106,4.0,11205
+3RuiiqUg8C3HZ-RuvlqtBg,Tawa Wok,608 Grove St,"{'latitude': 40.7322445520707, 'longitude': -74.0408217887441}",66,2.5,07310
+E1NbrEDNxq_cl39sMfxX5A,Phayul,37-65 74th St,"{'latitude': 40.74716, 'longitude': -73.89124}",245,4.0,11372
+uZ_Ht4U1dAdUrdUNdoVHOg,A8 Pan Asian Vegan Cuisine,268 Prospect Park W,"{'latitude': 40.65854, 'longitude': -73.98219}",17,4.0,11215
+JtmzTnEDpS03tMytXOPUQw,NYC Falafel,201 Allen St,"{'latitude': 40.7225149191837, 'longitude': -73.9890300482512}",37,4.0,10002
+Tl62WKPOTpGfhSTcHNKkLQ,Express Halal Cart,William St,"{'latitude': 40.7074818321323, 'longitude': -74.008410199089}",1,5.0,
+x7apQYW3lRYo0D7Fv3q3FQ,SJ Indian Restaurant,251 Mclean Ave,"{'latitude': 40.911685261974, 'longitude': -73.8905262574553}",5,4.5,10705
+XEN8cu1woUXfadkWBoxjRQ,Premium Sweets,168-03 Hillside Ave,"{'latitude': 40.7101171463728, 'longitude': -73.7945732474327}",17,2.5,11432
+-jSxoTeK6DXEqtEhlj2YFw,Faith's Halal Food,7TH And 8th Ave,"{'latitude': 40.7533527777398, 'longitude': -73.9900875091553}",4,4.0,10001
+rn6SmSqAYx2kLFIAxytMMQ,Kajitsu,125 E 39th St,"{'latitude': 40.7498614, 'longitude': -73.9777215}",211,4.0,10016
+__XmiV4VwrbVDVHrRzn3oQ,Vatan,839 Newark Ave,"{'latitude': 40.7356, 'longitude': -74.06661}",97,2.5,07306
+B3_K2kUVbYOU0VaLcj_LTw,Thai Villa,5 E 19th St,"{'latitude': 40.73902, 'longitude': -73.99065}",2455,4.5,10003
+DodCeSN_hkXCJDoJ0uVxKg,Nix,72 University Pl,"{'latitude': 40.73323, 'longitude': -73.99359}",452,4.0,10003
+azCB19UzoGl7njg5FDudaw,Sumac,1198 Forest Ave,"{'latitude': 40.6263033995038, 'longitude': -74.1298565325409}",123,3.5,10310
+xEnNFXtMLDF5kZDxfaCJgA,The Halal Guys,W 53rd St 6th Ave,"{'latitude': 40.7617559582706, 'longitude': -73.979229927063}",9134,4.0,10019
+kTi9RbFCUGRySbZnq0pdlQ,Balkh Shish Kabab House,2310 31st St,"{'latitude': 40.774216658895, 'longitude': -73.9132948450994}",134,4.0,11105
+8AM1gGIk6KVb27Q9TYwD9Q,Green Symphony,255 W 43rd St,"{'latitude': 40.7575266, 'longitude': -73.9880669}",432,4.0,10036
+-PCQyh7uZPBamQYfpI8RBw,Dosa Hut,777 Newark Ave,"{'latitude': 40.7352599, 'longitude': -74.06407}",104,3.0,07306
+0eRir9RUGAnfKov68kvKVA,Larosh,37 E 29th St,"{'latitude': 40.744457244873, 'longitude': -73.9842758178711}",4,1.5,10016
+TFE8EAjOqkrHYM9jH6De0A,Namaste Tashi Delek,37-66 74th St,"{'latitude': 40.7470984, 'longitude': -73.8917629}",39,4.0,11372
+KeVQTRyG41doVE3YVsV7Pw,Rajbhog Sweets and Snacks,812 Newark Ave,"{'latitude': 40.73588, 'longitude': -74.06544}",83,3.0,07306
+hlbihpX8g_mL5A2Wjj8unw,Kaieteur Bronx Restaurant & Bakery,4379 White Plains Rd,"{'latitude': 40.89778982351, 'longitude': -73.8548576879766}",8,2.5,10466
+ssIHAQ0NKGA92hAaWPkBFQ,Bricklane Curry House,34 Franklin Ave,"{'latitude': 40.9810043, 'longitude': -74.118549}",214,3.5,07450
+g1BlxkiS6oXC5am707oOXQ,5 Star Indian Cuisine,247 Jericho Tpke,"{'latitude': 40.7351018, 'longitude': -73.6879082}",18,4.0,11040
+M2mrXwTFOFzhvW1CbfhvMw,Sandy's West Indian & Amer Restaurant & Cuisine,19621 Linden Blvd,"{'latitude': 40.6937055, 'longitude': -73.7554172}",1,4.0,11412
+QzPaA7e4O7iabpwr99pmiQ,Tawa Tandor,49 74th St,"{'latitude': 40.7475662231445, 'longitude': -73.8915100097656}",4,2.0,11372
+zXUT68k11FQoOH-qCR25TQ,Kathiyawadi Kitchen,20 Jernee Mill Rd,"{'latitude': 40.454331, 'longitude': -74.367215}",69,4.5,08872
+3DVKbi5cSLMlmph43RF_kA,LuAnne's Wild Ginger All-Asian Vegan,112 Smith St,"{'latitude': 40.687936, 'longitude': -73.989925}",331,4.0,11201
+bzWazLmV5qG4mX8kFjyobw,Sahara Halal Food Cart,107-16 71st Ave,"{'latitude': 40.7204758375883, 'longitude': -73.8445293903351}",61,3.5,11375
+SsqOSlThMBxpcNxF9ZkLDA,Grand Indian Restaurant,22 Columbia Ave,"{'latitude': 40.93605, 'longitude': -73.99612}",33,3.5,07621
+0dQ0z5qAqg9CmMmbEDs7rg,Desi Wok,769 Newark Ave,"{'latitude': 40.73521, 'longitude': -74.06371}",15,2.5,07306
+EJPqwdHlr6smIgI5SFP6vg,Khan Baba Restaurant,7415 Roosevelt Ave,"{'latitude': 40.7470142, 'longitude': -73.8911845}",2,2.5,11372
+GcZvNZtHiQYluLx43kk00Q,India Palace,124 New Jersey 27,"{'latitude': 40.5930872, 'longitude': -74.2924835}",115,4.0,07065
+XDFrK9kelRfGcQvBN3O1OA,Dosa and Biryani House,350 Market St,"{'latitude': 40.896566, 'longitude': -74.095439}",119,3.0,07663
+S37Fd4Jrwuv6R1DukmlqSQ,Khyber Pass,34 Saint Mark's Pl,"{'latitude': 40.7286266, 'longitude': -73.9883754}",335,3.5,10003
+3VZrUBCmSUt37jMB13-7yQ,The Hummus & Pita,616 8th Ave,"{'latitude': 40.7556856020028, 'longitude': -73.9907276053871}",346,4.0,10018
+SenZItlZ9eIWNCZ5yB6PdA,Savannah Bhaven,102 Lexington Ave,"{'latitude': 40.742267, 'longitude': -73.983047}",7,4.0,10016
+vakXD04_SQRt6gPKZJlHAw,kabab house nyc,4339 Main St,"{'latitude': 40.7516239090008, 'longitude': -73.8258079066873}",1,1.0,11355
+4Hxhgx2AufLIuhrqyz_7IA,Alam's Halal Cart,4805 Center Blvd,"{'latitude': 40.74492, 'longitude': -73.9578}",12,5.0,11101
+LuD7Og61tQLujABs-vUnxg,Bollywood Tadka,415 Rt 18,"{'latitude': 40.44711, 'longitude': -74.39791}",168,4.0,08816
+paYjzym8MVzYlzlT8bUWvA,Jackson Diner,256-01 Hillside Ave,"{'latitude': 40.7367036060137, 'longitude': -73.7118688067865}",90,4.0,11004
+5zbm-v588DGgpce2MjG_5A,Jacob Restaurant,2695 Frederick Douglass Blvd,"{'latitude': 40.8218073, 'longitude': -73.9429281}",82,4.0,10030
+elf74aPleU0z_8muDS2sFQ,Madhavi's Food Court,796 Newark Ave,"{'latitude': 40.7357394273827, 'longitude': -74.0648255869746}",4,4.5,07306
+tAHRDrCR0l_utA91IyOYNw,Baba Ghanouge,165 Church St,"{'latitude': 40.71511, 'longitude': -74.00758}",137,3.0,10007
+cWzdIJhEDZIjSGDpYGWy3Q,Buka New York,946 Fulton St,"{'latitude': 40.68242, 'longitude': -73.96301}",220,3.0,11238
+85123ck6ZQF5-4rTQbDHjA,Hurry & Tasty Curry,133 E 45th St,"{'latitude': 40.7532799, 'longitude': -73.97418}",2,1.0,10017
+kjDnwT4HwQDVjGo1OInaEg,Tandoori Curry & Grill,15412 Rockaway Blvd,"{'latitude': 40.667821, 'longitude': -73.781274}",21,3.5,11434
+yKmGGnebabFQ7gsgFzFG7g,Indian Food Cart,27TH Street And 5th Ave,"{'latitude': 40.74406, 'longitude': -73.98775}",2,3.5,10001
+_hEfuDthNKUPSfIoGwobgw,Halal Cart,Delancey & Essex,"{'latitude': 40.7186628897392, 'longitude': -73.9878488416535}",7,4.5,10002
+5yEX566DCppdRBcd_c1jvA,Potala Fresh Momo,Broadway & 37th Rd,"{'latitude': 40.7475311406192, 'longitude': -73.8934052236175}",79,4.0,11372
+6i4PFQw19NJJc7GL2IkFLA,Blue Nile Healthy Foods,621 Flatbush Ave,"{'latitude': 40.658222, 'longitude': -73.960121}",4,4.5,11225
+367JyCXTLYT9tlCqy3gGog,De Hot Pot,1127 Washington Ave,"{'latitude': 40.66142, 'longitude': -73.96051}",144,4.0,11225
+Pl7usBOnUHmpCGWgD4J0Mg,Eata Pita,89 E 42nd St,"{'latitude': 40.7524183, 'longitude': -73.977933}",93,3.0,10017
+9DceMTrjyVqBgQRqgR6GWw,Red Bamboo,140 W 4th St,"{'latitude': 40.7313183707867, 'longitude': -74.0003546456233}",1634,4.0,10012
+jKCSGAMyS0KIcS-vKpEuaA,Sammy's Halal Food,NE Corner 6th Ave W 4th St,"{'latitude': 40.72898, 'longitude': -73.99541}",102,4.0,10012
+qf098TQ-Frxq4QyrlYqDJw,Hazar Turkish Kebab,7224 5th Ave,"{'latitude': 40.631191, 'longitude': -74.022193}",134,3.5,11209
+pwarWuPn7Aw_il-epzJEgg,Awash Ethiopian Restaurant,338 E 6th St,"{'latitude': 40.72658, 'longitude': -73.98682}",301,3.5,10003
+kvEwaIol5uzKiHnVS5UnGw,Masala Twist and Grill,628 N Stiles St,"{'latitude': 40.627058544232, 'longitude': -74.2670148611069}",12,4.5,07036
+PMW6BWzFvjI--okTQ4CVQg,Bombay Blue Indian Bistro,1963 Oak Tree Rd,"{'latitude': 40.5739746689842, 'longitude': -74.3669636109413}",111,4.5,08820
+oRTrer4FQi0VmICNpEK3ew,Khalsa Sweet House,783 Roosevelt Ave,"{'latitude': 40.5884556161307, 'longitude': -74.2280758917332}",19,4.5,07008
+-tI3uIKZVLc2YXWUdYWgjQ,Indian Curry King,980 Morris Ave,"{'latitude': 40.8284302, 'longitude': -73.9166946}",1,1.0,10456
+m_BTgSsjn8T881XxMMmDuw,Flatbush Halal Restaurant,1210 Flatbush Ave,"{'latitude': 40.640733, 'longitude': -73.956189}",7,3.5,11226
+FE80r0k7fyRMGKCF1gaWdQ,Patel’s Paan Bar,786 Newark Ave,"{'latitude': 40.73575, 'longitude': -74.0643782}",1,5.0,07306
+L1gBXF7Ux5mUmDQ0qpOMkw,Alauddin Sweets and Cafe,3766 74th St,"{'latitude': 40.747114, 'longitude': -73.89176}",3,3.5,11372
+1ubEg-rrSE8IWXl6lJzIGw,Nur Thai,63-32 Woodhaven Blvd,"{'latitude': 40.7235516378586, 'longitude': -73.868817789544}",472,4.0,11374
+xhWqjDuoORYBVgZVc4uK3g,Natural Blend,769A Washington Ave,"{'latitude': 40.6738776, 'longitude': -73.9628763}",185,4.5,11238
+vHHVrNOhGDCbqzpYgKcUYw,Minar,46th & Broadway,"{'latitude': 40.7567254, 'longitude': -73.9142197}",2,2.0,11103
+R1hRLBVYITw5aIkLa58xFQ,Tropix: A Taste of Guyana,733 A W Side Ave,"{'latitude': 40.7255858817225, 'longitude': -74.0776069834828}",10,3.0,07306
+0XC6L2GCtuaNEI8XFEyD2g,Jungle Cafe,131 Greenpoint Ave,"{'latitude': 40.730358, 'longitude': -73.954885}",210,4.0,11222
+nKcyBE_1b8Pz2aEI5BW7QQ,Rockaway Roti Shop,12221 Rockaway Blvd,"{'latitude': 40.6756620660596, 'longitude': -73.8153571760402}",22,2.0,11420
+cP7vkHiDU0emIPrEexv5vA,Sammy's Halal Food,73RD St And Broadway,"{'latitude': 40.74712, 'longitude': -73.89239}",388,4.0,11372
+DY3RKjbIT3G8URhVEvQ_UA,Shirley's,23 S Division St,"{'latitude': 40.9074608, 'longitude': -73.7823048}",5,4.0,10805
+zx2W0dbJGbsYifgoRE2GKw,Kriss West Indian Restaurant,11204 Farmers Blvd,"{'latitude': 40.700467, 'longitude': -73.764465}",12,3.0,11412
+ypIozGpyE9d4kVt8GiJ7ew,Fatema Tandoori Restaurant,167-09 Hillside Ave,"{'latitude': 40.71014, 'longitude': -73.79534}",1,3.0,11432
+rzE_duqZUMHwBnHJe1BauQ,Feroza's Restaurant Roti,716 Burke Ave,"{'latitude': 40.8713823399344, 'longitude': -73.8664696054969}",89,4.0,10467
+OQjI8bMxpnx-9WKzyGqfmg,Spicy Tibet,75-04 Roosevelt Ave,"{'latitude': 40.7468366, 'longitude': -73.8902328}",65,4.0,11372
+STs_MM2Xsa2q54EseY9vcg,Swagath Gourmet,1700 Oak Tree Rd,"{'latitude': 40.5735114, 'longitude': -74.345473}",203,4.0,08820
+ahKL-52Ogn7iPFjhQbbb3w,Carifesta Restaurant,4251 White Plains Rd,"{'latitude': 40.89485, 'longitude': -73.8568}",16,4.0,10466
+g4EXxoV0z_TnyWF8h9xMKQ,May Kaidee East Broadway,215 E Broadway,"{'latitude': 40.7140637, 'longitude': -73.987464979291}",25,4.5,10002
+FejdpQ-25jy6NcatdbKwrA,Dhaka Sweets & Restaurant,16832 Hillside Ave,"{'latitude': 40.7102866, 'longitude': -73.793664}",20,4.0,11432
+cOnQnP9GwyvhQjCJbSz5Fg,Mahboob-e-Elahi,580 Montgomery St,"{'latitude': 40.723083, 'longitude': -74.060844}",8,3.0,07302
+m1sfDqgDiKKyUaXo9DWVeQ,Bodai Vegetarian,59-08 Main St,"{'latitude': 40.7436919012724, 'longitude': -73.8257248906878}",261,4.0,11355
+jRN12bcaeb2MjJoe2HmuJQ,Dera Masala Grill,741 Broad St,"{'latitude': 40.8696791003385, 'longitude': -74.1687960550189}",60,3.0,07013
+_lixxjh89aMAcEhyvQDIiQ,Paradise Biryani Pointe,835 Newark Ave,"{'latitude': 40.735577, 'longitude': -74.06649}",128,2.0,07306
+55spA8dSOvKRme3ix-k7gg,Westville - West,210 W 10th St,"{'latitude': 40.7340046, 'longitude': -74.0041863}",910,4.0,10014
+UTsBON3O7wIKWupchuhRug,Bukhari Grill,98 Willow Ave,"{'latitude': 40.7379251, 'longitude': -74.0347118}",1,1.0,07030
+iiwV70LVeKi9_ZTlCFhfZg,Tandori Hut,11908 94th Ave,"{'latitude': 40.693618, 'longitude': -73.827346}",5,2.5,11419
+mnD34K3pqM0oM7fLbaHDCQ,Masala Kraft Cafe,206 E Hartsdale Ave,"{'latitude': 41.0121885, 'longitude': -73.7962658}",122,3.5,10530
+G7ma8oBvtJpgqlVHpXyOFQ,Dawat E Khaas Restaurant,324 N Central Ave,"{'latitude': 40.6764921, 'longitude': -73.7094549}",32,3.0,11580
+utbWLB3zYR1o__iDI9-Xgg,Namaste Chautari Restaurant,7415 Roosevelt Ave,"{'latitude': 40.7470142, 'longitude': -73.8911845}",18,2.5,11372
+GFu9tYQD3y8HhSJ6tG4rYQ,BBQ Village Palace,18112 Hillside Ave,"{'latitude': 40.7131012, 'longitude': -73.7814945}",23,2.5,11432
+s4nLGFvSINH6SekvC8s9iA,Classic Nirala Restaurant,213 Route 46,"{'latitude': 40.89376, 'longitude': -74.11694}",35,4.5,07407
+tHY4jNvSgdIYoWnE9b7IZg,Banana Boat Restaurant,1138 Flatbush Ave,"{'latitude': 40.6426217691169, 'longitude': -73.9581528236144}",11,4.0,11226
+w2oSwwvOf-DBnEUumq_TIA,The Buffet,20-07 127th St,"{'latitude': 40.7814553818979, 'longitude': -73.8411498069763}",705,3.0,11356
+b7cwwjX2vT0v-xc2mySYgw,Gyro Express,87-44 Parsons Blvd,"{'latitude': 40.7081909, 'longitude': -73.8032684}",8,2.5,11432
+xpW1GmI-IETWNGwMl11cBg,Mumbai Xpress,256-05 Hillside Ave,"{'latitude': 40.7367064001505, 'longitude': -73.7116847299956}",150,4.0,11004
+eRBcBaXw3TjQE9CfQqKJzA,Papa Halal Chicken Corporation,1787 Forest Ave,"{'latitude': 40.62523, 'longitude': -74.14849}",18,3.0,10303
+8YMplA3OLfE8uBSai6cF7A,Express Power Lunch,48th St & Park Ave,"{'latitude': 40.7558856007975, 'longitude': -73.9747852555893}",10,3.5,10017
+VEjkxniAlG35cR3pjHvF-A,Sagar Chinese - Jackson Heights,74-19 37th Ave,"{'latitude': 40.7491052, 'longitude': -73.8914956}",95,3.0,11372
+S7ivv5O0beH3U9cV3cRD_Q,Jujube Tree,35-02 30th Ave,"{'latitude': 40.76512, 'longitude': -73.91821}",342,4.5,11103
+jf3OvEnL0GZuxOV4-SR3uQ,Milk + Honey,160 Broadway Ave,"{'latitude': 40.70944, 'longitude': -74.01012}",23,2.5,10038
+l2mIxUN1Tv_hsxQS7xxrgQ,York and 70th Halal Cart,70TH And York Ave,"{'latitude': 40.7655487, 'longitude': -73.9546967}",10,4.0,10021
+NKuIbA9B1MwVsCi7TE4pyg,Nio's Trinidad Roti Shop,2702 Church Ave,"{'latitude': 40.65057, 'longitude': -73.95221}",39,3.5,11226
+6xCZHAr7yj_vWwRJalAEOg,Seed + Mill,409 W 15th St,"{'latitude': 40.7420723, 'longitude': -74.0056454}",184,4.5,10011
+1jHX_Q79OjC9PtTsnseANQ,Taj Mahal Lunch Truck,138 Warren St,"{'latitude': 40.74084, 'longitude': -74.17853}",11,3.5,07103
+Tp3MF3DNXuW41A10PQ2nFw,Amali,115 E 60th St,"{'latitude': 40.7633557384716, 'longitude': -73.9686296877489}",356,4.0,10022
+3vpqJK9Oz515AZR-bFW5Ig,Dosas's Uthappam,1-15 Liberty Ave,"{'latitude': 40.7357445, 'longitude': -74.0651245}",1,4.0,07306
+iHiEMvbpLzNYTMsd5-VnQw,Jacob Restaurant,373 Lenox Ave,"{'latitude': 40.810025, 'longitude': -73.9439219}",313,4.0,10027
+TPEkQX8Amp6Jb7FQmFKZxA,Gyro King,1017 Foster Ave,"{'latitude': 40.6322186, 'longitude': -73.9671913}",124,3.5,11230
+WI5kC9Ba8QClXq_mslg07A,Cafe Utsav,769 Newark Ave,"{'latitude': 40.735214, 'longitude': -74.063713}",7,2.5,07306
+BSBCcMu6ups8bf8t8R29HA,Mado Restaurant,570 Kinderkamack Rd,"{'latitude': 40.92695, 'longitude': -74.03388}",66,4.5,07661
+GafVAOtTmzjiC9B8jKPm_g,Upi Jaya,76-04 Woodside Ave,"{'latitude': 40.743198, 'longitude': -73.888633}",160,3.5,11373
+_U9PlIheyEyfAn7UUxABeg,Smile of the Beyond,8614 Parsons Blvd,"{'latitude': 40.7091044, 'longitude': -73.8047199}",72,4.5,11432
+3PabSEZ2ESexVFZznyozVw,Delice & Sarrasin,20 Christopher St,"{'latitude': 40.73377, 'longitude': -74.00065}",329,4.5,10014
+qI18SQBMcNTNo4ZqosfEig,Fitoor Cafe & Grill,179-22 Union Tpke,"{'latitude': 40.7266456, 'longitude': -73.788371}",42,4.0,11366
+74FFOreAgPphSwSZlfZzgw,Jones Wood Foundry,401 E 76th St,"{'latitude': 40.7703854340118, 'longitude': -73.9535711917713}",582,4.0,10021
+8qCmnJhn7jj5vqjsGzQmXA,Urban Spice,42 Marconi Ave,"{'latitude': 40.57508, 'longitude': -74.32452}",259,3.5,08830
+O2Wf9JozX-Av2SOV6EvmNw,Burgers By Honest Chops,99 Macdougal St,"{'latitude': 40.7296280240533, 'longitude': -74.0010289102793}",239,4.0,10012
+oUfTF9uBy6MyKiONbgkilw,Karahi Restaurant and Grill,72-08 Broadway,"{'latitude': 40.74739, 'longitude': -73.89353}",2,2.5,11372
+32OftwOMs1Fsggdv2iAIew,Dimple's Bombay Talk,999 Rt 9,"{'latitude': 40.45407, 'longitude': -74.2955449}",41,4.0,08859
+7lhmzhkct9-blnuBAp_HVQ,Five Stars Thai Cuisine,324 29th St,"{'latitude': 40.7702123810457, 'longitude': -74.0288150168948}",360,4.0,07087
+IgERw1hR7AC8Yozdf1lpEQ,Jassi's Fine Indian Cuisine,27111 Union Tpke,"{'latitude': 40.751998, 'longitude': -73.703189}",154,3.5,11040
+EGUPGM2TuwMMFi3vifYEVA,Ginger House,310 Ditmas Ave,"{'latitude': 40.6357, 'longitude': -73.97555}",111,4.0,11218
+xscOfj1dMkEKvhrRruLpIg,Quantum Leap,226 Thompson St,"{'latitude': 40.72916, 'longitude': -73.99874}",642,4.0,10012
+VyP6C-L9405boyQqWTN_mg,Daawat Restaurant,1211 Liberty Ave,"{'latitude': 40.6792259216309, 'longitude': -73.8647689819336}",3,1.0,11208
+zSAbFi6e9WTtnAzhD5infg,The Oneness-Fountain-Heart,157-19 72nd Ave,"{'latitude': 40.7278848183517, 'longitude': -73.811366558075}",195,4.5,11367
+6I9gle1o8MvbXqBDrnxgnw,Mumbai Spices,1727 Central Park Ave,"{'latitude': 40.9580688, 'longitude': -73.8419724}",66,3.0,10710
+TcuWyuZAORVnQBPCMNbTgw,Beyond Sushi,62 W 56th St,"{'latitude': 40.76331, 'longitude': -73.97717}",583,4.5,10019
+cEB3DcrN7xDyXiswWNe47Q,Halal Munchies,69-21 164th St,"{'latitude': 40.7325914, 'longitude': -73.804631}",101,4.5,11365
+PqqnNrUtU7XTKQvUM4cyqQ,Bar Verde,65 2nd Ave,"{'latitude': 40.7260849061034, 'longitude': -73.9897361397743}",144,4.5,10003
+1K-6nNnhw_pgpDZo6res2A,Momos Kitchen,236-03 Braddock Ave,"{'latitude': 40.72763, 'longitude': -73.73116}",13,4.5,11426
+pA33ZnfcZCGo4Xhimm7ukg,Spice House,2050 Route 27,"{'latitude': 40.524031, 'longitude': -74.389958}",43,4.5,08817
+OBQ2IKvREm5oW6_uu-v_uw,Shangerila Restaurant,2893 Buhre Ave,"{'latitude': 40.847301, 'longitude': -73.8330438}",225,3.0,10461
+RTES6LV41eqN3mfjkqASGw,Indian Diner,13508 Liberty Ave,"{'latitude': 40.6915665, 'longitude': -73.8116302}",3,1.0,11419
+kFV-XAalWCEZN5VW77_3Hg,Market Crates,26 W 33rd St,"{'latitude': 40.748279, 'longitude': -73.986576}",160,4.0,10001
+ct6ehNNxeDqAFL2czMC5Rw,Athidhi Dosa & Biryani Point,520 Ernston Rd,"{'latitude': 40.45329, 'longitude': -74.2935399}",22,4.0,08859
+-7PgxPVUGZh__U3CxRFKxg,Trinidad Golden Place Restaurant,788 Nostrand Ave,"{'latitude': 40.6718291030037, 'longitude': -73.950525317791}",114,4.5,11216
+7g8kuHMbH2EcL7RkOap7EA,Usha Foods Inc,255-03 Hillside Ave,"{'latitude': 40.7365326, 'longitude': -73.7126631}",143,4.0,11004
+rGmGim1ZDCxnF8n4NiKrYQ,Vegetarian Dim Sum House,24 Pell St,"{'latitude': 40.715023, 'longitude': -73.998161}",534,3.5,10013
+GsUOi6XcuMRZ4UT_zfuixQ,Taste of Mother India,117 Tonnele Ave,"{'latitude': 40.7350472794594, 'longitude': -74.0672495372616}",1,3.0,07306
+m2pSaGdxAqMWMP6Ims5v3g,Natural Bridge,45-12 23rd St,"{'latitude': 40.74659, 'longitude': -73.94573}",29,3.0,11101
+V_s192GXiLD9Zmboyykllg,Halal Cart,Richmond Ave NE,"{'latitude': 40.5602144807568, 'longitude': -74.1696614027023}",16,4.0,10312
+GeXd_6XseU9E8oC1p1SaNg,sweetgreen,311 Amsterdam Ave,"{'latitude': 40.7802977, 'longitude': -73.9801793}",187,3.5,10023
+DFxqKgVoJxYmKLIBxjpJLA,Chris & Sons Roti Shop and Bakery,198-21 Hollis Ave,"{'latitude': 40.706513, 'longitude': -73.758912}",42,4.5,11412
+W_7rRhz8Mlt12BSqZ8oJ4Q,Hillside Dosa Hutt,258-15 Hillside Ave,"{'latitude': 40.73736, 'longitude': -73.70954}",70,4.0,11004
+z4RiUzzM-gC8J0Wyxjtp5w,Wok & Grill,739 Elmont Rd,"{'latitude': 40.6919909586972, 'longitude': -73.7194449082017}",7,4.0,11003
+sDgN-TGeEz-wd8kWEUWwTA,VSPOT,156 5th Ave,"{'latitude': 40.67808, 'longitude': -73.9795}",641,3.5,11217
+tsh1odOSSHTAZ0FdOr8ZRA,Tower of India,499 Ernston Rd,"{'latitude': 40.454511, 'longitude': -74.294446}",39,3.5,08859
+p3E_1wktqB-Z4qtqqO9F-A,Terri,60 W 23rd St,"{'latitude': 40.74252, 'longitude': -73.9923}",834,4.0,10010
+gSOMj9g3Iy9BLeBXS8VjGw,Taste of Cochin,248-08 Union Tpke,"{'latitude': 40.7422491, 'longitude': -73.7217573}",74,3.5,11426
+JOXl-jcvaciJa_oQAvFkbA,Afghan Kebab House,764 9th Ave,"{'latitude': 40.7641549876443, 'longitude': -73.9883097706085}",259,3.5,10019
+F4lLNqPJULJbiIm5CeoE9g,Sagar Chinese - Jamaica,87-47 Homelawn St,"{'latitude': 40.7113002, 'longitude': -73.7928273}",141,3.5,11432
+NH-5cniqVsAZQPOxhZ8IgQ,Hu Kitchen,78 5th Ave,"{'latitude': 40.735823, 'longitude': -73.994185}",865,3.5,10011
+ue0fYo62ucnaAL6spAqSiw,Fine Buffet Indian Restaurant,218-38 Hillside Ave,"{'latitude': 40.72891, 'longitude': -73.74548}",2,1.0,11427
+HwvG1FXbVunyHOZCYZSblA,Geo Halal Meat Cash & Carry,1059 W Side Ave,"{'latitude': 40.7355385, 'longitude': -74.0709686}",3,4.5,07306
+HWKlqrWTOUzy54x2l7I4gA,Mirchi - Indian Homestyle Cuisine,252 Rte 46 W,"{'latitude': 40.8589668614062, 'longitude': -74.3569257874462}",79,3.0,07054
+BPxh-xVN8PLIDN8Df3GzlA,Addy's Barbeque,1199 Teaneck Rd,"{'latitude': 40.894012093262, 'longitude': -74.0016485681236}",211,4.5,07666
+uOwNAh9yZuq7yItvw4pZqw,The Barbecue Pit,5788 Mosholu Ave,"{'latitude': 40.90533, 'longitude': -73.89777}",100,3.5,10471
+efbSwd5-qPc2dkWCaX5Ucw,Taiim Falafel Shack,598 Warburton Ave,"{'latitude': 40.99658, 'longitude': -73.88171}",107,4.0,10706
+HDmk_Rhk8iZM5ULL70QsPA,Prince Kabab & Chinese Restaurant,37-56 74th St,"{'latitude': 40.7474201, 'longitude': -73.8919181}",18,3.0,11372
+j8M3pq0KmaI2JmQ3ZN9Tbg,Heritage of India,2024 Hillside Ave,"{'latitude': 40.751353, 'longitude': -73.676294}",69,3.5,11040
+YES1oCXuC-uggcnr8txElw,The Panorama of My Silence-Heart,84-73 Parsons Blvd,"{'latitude': 40.7124281, 'longitude': -73.8063559}",287,4.5,11432
+-WVTc2x7MjnpPlfw1KZOHw,Tabaq Restaurant & BBQ,1625 Oak Tree Rd,"{'latitude': 40.572603878308, 'longitude': -74.3373043123364}",253,4.0,08820
+x9wa2M7gvf32swUSBP3uXA,Blockheads,Worldwide Plz,"{'latitude': 40.7627155294445, 'longitude': -73.9876316100625}",741,3.5,10019
+x5HLJVEOYF-cCmGEZFu9yA,The Candle Cafe,1307 3rd Ave,"{'latitude': 40.771434, 'longitude': -73.959146}",862,4.0,10021
+ATfQtspdjKqGxyTGr91Stg,Mansi Indian Take Out & Caterers,228 Inman Ave,"{'latitude': 40.600137, 'longitude': -74.3123739920654}",3,3.5,07067
+FvyhJRPCth2_1pmXlBbTGA,Pine Box Rock Shop,12 Grattan St,"{'latitude': 40.70528, 'longitude': -73.93267}",215,4.0,11206
+DsW8a9zwKWXBA_xOqKO-yQ,Dao Palate,329 Flatbush Ave,"{'latitude': 40.677953, 'longitude': -73.972753}",226,3.5,11217
+EEYLyO-mcKFU1ZgfutzOow,Sohna Punjab Indian Restaurant,248-03 Union Tpke,"{'latitude': 40.742581, 'longitude': -73.7219231}",94,3.0,11426
+x4Xptj-YNZ-aGNhn4XyfsA,India Palace Restaurant,1059 W Side Ave,"{'latitude': 40.73554, 'longitude': -74.07097}",1,4.0,07306
+7P_0Tu5VFF8QSNsDuPsJew,Rajni,296 US Rt 46 W,"{'latitude': 40.8590689, 'longitude': -74.3576994}",109,3.5,07054
+Dw0D3560Yt3pQtdm74gGeQ,A&A Bake and Double and Roti Shop,1337 Fulton St,"{'latitude': 40.68043, 'longitude': -73.94795}",185,4.5,11216
+sPCbaWKFzV7UHilHJLhTJw,Vegans Delight,3565 Boston Rd,"{'latitude': 40.87852, 'longitude': -73.84436}",40,4.5,10469
+DU_z_ypJ1j3hoRrkTqQpEQ,Aria Kabab,7255 Kissena Blvd,"{'latitude': 40.72771, 'longitude': -73.81285}",66,4.0,11367
+eT2rROrWDAr0auGYqQrp9A,Layali Beirut Cafe Restaurant,25-60 Steinway St,"{'latitude': 40.76658, 'longitude': -73.9131}",105,3.5,11102
+AkbtpU7dqXs-huQCsDhz2g,Shaapz Sports Bar & Eatery,252-13 Union Turnpike,"{'latitude': 40.7439525, 'longitude': -73.7181356}",24,4.5,11426
+CqE_BNtAr0Y45yiDIN_Oow,People's Choice Restaurant,63 Central Ave,"{'latitude': 40.7511715, 'longitude': -74.2046391}",23,3.0,07018
+W52QAlFMg0S8jUi50u8MUQ,Amravathi Indian Restaurant,1008 New Jersey 34,"{'latitude': 40.40331, 'longitude': -74.2323399}",63,3.0,07747
+FJFliqqHXFZutkp_dmWdfw,Zen Vegetarian House,773 Flatbush Ave,"{'latitude': 40.65396, 'longitude': -73.95937}",257,4.0,11226
+-pSJz5dQAfl7xueK_kvU0w,Taj Mahal Restaurant,148-01 Hillside Ave,"{'latitude': 40.7126087102827, 'longitude': -73.7845617392878}",1,2.0,11432
+wfJCzfotoMELb74z4lITOA,Pet Shop,193 Newark Ave,"{'latitude': 40.72123, 'longitude': -74.04592}",195,4.0,07302
+u_3TLN0u6LyOL01vdjFOug,Champs Diner,197 Meserole St,"{'latitude': 40.7084397372605, 'longitude': -73.9407808520115}",1316,4.0,11206
+yPIQ_8KIokdKHNLdHAS6eg,Pakwaan Fine Indian Cuisine,20 N Beverwyck Rd,"{'latitude': 40.87752, 'longitude': -74.38237}",65,3.5,07034
+7QNfgCS66llLCsVu_8VOyA,VLife,348 7th Ave,"{'latitude': 40.7481116799498, 'longitude': -73.992917656414}",318,4.0,10001
+IdZ9HpVlPA4nVK20-VNQxg,M&M Bakery & Halal Restaurant,119-15 Liberty Ave,"{'latitude': 40.68668, 'longitude': -73.82363}",15,3.5,11419
+ZLOu3e4bQm6sXplI3b_94A,Abdullah Halal Chinese,93 Church Ave,"{'latitude': 40.64277, 'longitude': -73.97987}",12,2.5,11218
+zwY_UA8llhbJfR7rFeA3qA,Karaikudi Chettinad,1671 Oak Tree Rd,"{'latitude': 40.5718742098476, 'longitude': -74.3417110617252}",180,3.0,08820
+QV7OzZd6RsQjAkoxbHqEzQ,Essen Fast Slow Food,60 Madison Ave,"{'latitude': 40.7432981, 'longitude': -73.9864073}",171,3.5,10010
+O4fJTI3e11PsKwIOYGZkag,Roast Kitchen,740 7th Ave,"{'latitude': 40.760474, 'longitude': -73.984018}",204,3.0,10019
+svS70WtwCdlGriuhL1Gt4A,Moghul,1655-195 Oak Tree Rd,"{'latitude': 40.571356, 'longitude': -74.34025}",222,3.5,08820
+z-0XNRNvLK1-UOPLakh4HQ,Tandoori Hut Restaurant,413 Cortelyou Rd,"{'latitude': 40.6384811, 'longitude': -73.9748688}",1,2.0,11218
+rvUs5KjpZ5fV_CeD_uofZw,Sigiri,52 Lincoln Hwy Rte 27,"{'latitude': 40.5573636275065, 'longitude': -74.3438078463078}",105,4.0,08820
+kK5f5YDwhpD3jvUGg-VRHw,Dante's Gourmet Foods,166 William St,"{'latitude': 40.71022, 'longitude': -74.00568}",39,3.0,10038
+omIpmu1veq7OnuhGCli7oQ,Papa Pancho Pizza,1670-C Oak Tree Rd,"{'latitude': 40.5734923536357, 'longitude': -74.3413936166141}",149,4.0,08820
+CcncHLot-nt8qECbw3SNsg,Andrew's Healthy Foods,737 Broadway,"{'latitude': 40.672423, 'longitude': -74.1113671}",140,4.0,07002
+jp7Fn_eU2T90sVqMU_zKlQ,Sticky's,1024 Clinton Ave,"{'latitude': 40.724891, 'longitude': -74.224891}",3,3.0,07111
+3M8Cb4h1IslE2fSarFkBtw,Mithaas - Edison,1655 Oak Tree Rd,"{'latitude': 40.571061726657, 'longitude': -74.3395737659315}",260,3.5,08820
+ybdDbDDppPgoLVEQA5MAUA,Sri Dosa Place,271 Rt 27,"{'latitude': 40.572266, 'longitude': -74.323973}",119,4.0,08830
+MAwtBgCmrY-i_jbmXlDMkw,Peacefood Cafe Downtown,41 E 11th St,"{'latitude': 40.7332670924819, 'longitude': -73.9929751334153}",685,4.0,10003
+_z7fmrvjQwJviN98zoiNng,Dimple's Bombay Talk,1358 Oak Tree Rd,"{'latitude': 40.573962, 'longitude': -74.325235}",227,3.5,08830
+_WWJcqUTGFCCVp0cymu0wQ,Footprints Cafe,5814 Clarendon Rd,"{'latitude': 40.64461, 'longitude': -73.92119}",741,3.0,11203
+AxYFGu841V9vMk25rjfc1g,Samrat Palace Restaurant and Bar,246-04 Jericho Turnpike,"{'latitude': 40.7248872, 'longitude': -73.7220488}",14,2.5,11001
+ix1GGoQL_n2OGhMoMW2mzA,Masala Cafe,267 Degraw Ave,"{'latitude': 40.87577, 'longitude': -74.0214699}",1,2.0,07666
+C6Pa1FTC25v8F_vKD-NkLw,The Kabab Factory,567 Middlesex Ave,"{'latitude': 40.54222, 'longitude': -74.36422}",30,4.0,08840
+NupdQxf_6HUwnAhINKpvgg,Nanking Restaurant,2056 Hillside Ave,"{'latitude': 40.75107, 'longitude': -73.67439}",284,3.0,11040
+C4M3EEn698gdSftbY-Qtng,Honest Restaurant - Parsippany,794 US-46,"{'latitude': 40.8630397286479, 'longitude': -74.3745222119178}",15,3.5,07054
+1-4W4i1fj9rp0Blrg0Q1zg,Aroma Brazil Restaurant,75-13 Roosevelt Ave,"{'latitude': 40.7471117, 'longitude': -73.8902638}",110,4.5,11372
+i34wlziIjT8lHgUN1o0ToQ,The Shakespeare,24 E 39th St,"{'latitude': 40.7506062, 'longitude': -73.9801755}",339,4.0,10016
+MJujLVpgnp35vImtC-Cdrw,Royal Tangra Masala,2207 Hillside Ave,"{'latitude': 40.7517927, 'longitude': -73.6717994}",117,3.5,11040
+GBa6g6b3LOJz4IPl4JDMkw,Taci’s,102-07 Metropolitan Ave,"{'latitude': 40.71056, 'longitude': -73.85035}",132,3.5,11375
+TdDwvcgWYM8I4Jhiyd0mog,Calcutta Wok,1585 Oak Tree Rd,"{'latitude': 40.5727942511618, 'longitude': -74.3333876121909}",61,4.0,08820
+elvL_HW9jfLLDVhwoIx_Ww,Veggie Castle II,13209 Liberty Ave,"{'latitude': 40.6908513035417, 'longitude': -73.8138093799353}",327,4.5,11419
+gJSX5IDyhjeMjz9IS2DIwQ,Veggie Heaven,473 Cedar Ln,"{'latitude': 40.889845, 'longitude': -74.023091}",389,4.0,07666
+M1ezrU7GkA7nqlnvTkLs7A,King Kabab,371 N Central Ave,"{'latitude': 40.67776, 'longitude': -73.70918}",9,3.0,11580
+LjBKkUSpMwrpo99hXgtHYw,Franchia Vegan Cafe,12 Park Ave,"{'latitude': 40.7474712051298, 'longitude': -73.9812423408763}",848,4.0,10016
+vSiY8dfgvx8f3xO1HunYUA,Bombay paratha,1392 Oak Tree Rd,"{'latitude': 40.5738540453185, 'longitude': -74.3262923764159}",4,5.0,08830
+pGr5QuQU7Ur5GHLvXbT8bw,Paulie Gee's,60 Greenpoint Ave,"{'latitude': 40.729546, 'longitude': -73.958568}",1156,4.5,11222
+onDHsXRAd88j4tmuAVpukg,New Bakhtar Afghan Halal Kabab,110-23 Jamaica Ave,"{'latitude': 40.6968292491408, 'longitude': -73.837478818585}",49,3.0,11418
+IcEafi60F4pyEHaM4lR4Wg,Ali's Roti Shop,4220 White Plains Rd,"{'latitude': 40.894, 'longitude': -73.85684}",69,4.0,10466
+GgVSxkEzFRyAorxuODA1tQ,Masala Indian Cuisine,789 Newark Ave,"{'latitude': 40.7353, 'longitude': -74.06465}",2,1.0,07306
+jt_mFVGnAcPx27vIz4o29A,Fig & Olive Meatpacking,420 W 13th St,"{'latitude': 40.7406284811719, 'longitude': -74.0068594359003}",1302,3.5,10014
+ZZe3hb__sk5lddJF87LtLw,Chef's Table,2161 Oak Tree Rd,"{'latitude': 40.5771128518172, 'longitude': -74.383562826583}",132,3.5,08820
+5hUj1m67tJZsAUy3h4MjUg,St. John's Halal Cart,Union Tpke & 174th St,"{'latitude': 40.724744335851, 'longitude': -73.7951310882682}",22,4.0,11432
+bRPq-Nmct5bOuOtsu8fC7Q,S'MAC,197 1st Ave,"{'latitude': 40.730212, 'longitude': -73.983724}",2127,3.5,10003
+cmE7lNTfitRaHfulkTtp9Q,Rasoi II Restaurant,1567 Oak Tree Rd,"{'latitude': 40.5727055901405, 'longitude': -74.3339215563334}",236,3.0,08830
+qyio0vKMwH-du00mOARNiQ,Sonu Da Dhaba,825 Hwy 1 S,"{'latitude': 40.56518, 'longitude': -74.29899}",112,3.5,08830
+URYnt8_XJwt3gswIDIlPuw,Rajdhani,1667 Oak Tree Rd,"{'latitude': 40.57221, 'longitude': -74.34173}",16,3.5,08820
+mPo1hcqFcWuHoe5t5zi8gg,Biryani Pot,675 US Hwy 1,"{'latitude': 40.559454, 'longitude': -74.308531}",37,3.5,08830
+ZshusrRIXhvyT5GMShPCAw,Panshi,168-37 Hillside Ave,"{'latitude': 40.71076, 'longitude': -73.79366}",24,2.5,11432
+ZcmTj4LhC1w7YxJCzkxb4g,Sagar Ratna,25114 Hillside Ave,"{'latitude': 40.7355468, 'longitude': -73.7160069}",21,3.5,11426
+u5Kjydmh63lhOv1s1xZEUw,Kuma Inn,113 Ludlow St,"{'latitude': 40.71949, 'longitude': -73.98892}",385,3.5,10002
+0BcydXe2sU0aPwSRAq3zgw,Asian Taste 86,8610 Whitney Ave,"{'latitude': 40.74177, 'longitude': -73.87861}",66,4.0,11373
+177WmaOaHsO5KGGNfgm_TA,Akbar Restaurant,21 Cortlandt St,"{'latitude': 40.52538, 'longitude': -74.36157}",179,3.5,08837
+EqZEbtu-91BdCPd4chXPVw,Magic Mix Juicery,102 Fulton St,"{'latitude': 40.70961, 'longitude': -74.006735}",171,4.0,10038
+u1KbxbnFOpcBviPOwIPPRw,Picky Eaters Restaurant,1456 Flatbush Ave,"{'latitude': 40.6351299, 'longitude': -73.95055}",41,4.0,11210
+gmNCnGtIo7VoMTTU16rBMw,Taste of India,630 Old Country Rd,"{'latitude': 40.7401614925084, 'longitude': -73.6130413413048}",17,3.0,11530
+4oXj1ibfudrp4BkHcMjyrQ,Uncle's Fried Chicken,163-04 Hillside Ave,"{'latitude': 40.7085304, 'longitude': -73.7989883}",22,3.5,11432
+7X3hB3KtkHVKk1GZKAnlbA,Woodside Cafe,64-23 Broadway,"{'latitude': 40.749595, 'longitude': -73.89776}",53,3.0,11377
+5rs_4WCfU9kSktenC1PWXg,Samosa Cabana,560 N Ave,"{'latitude': 40.920942, 'longitude': -73.7875755}",3,3.5,10801
+PmQAKivnCUIC8eHA9vYsZA,Royal India Catering & Grocery,116 Broughton Ave,"{'latitude': 40.8146381378174, 'longitude': -74.187071621418}",3,2.5,07003
+XCnXYqZrUMAz9b1np3GXDQ,Taste Of Kerala Kitchen,267-05 Hillside Ave,"{'latitude': 40.7390199, 'longitude': -73.7016699}",31,3.5,11004
+TM8wJkjBw2NFzBp6Yy5HFA,Ikraveit Foods,34-02 30th St,"{'latitude': 40.7599291205406, 'longitude': -73.9282169938087}",109,3.5,11106
+tjstlcFtOiXnUU1MAG1uqg,Villa Brazil Cafe Grill,43-16 34th Ave,"{'latitude': 40.7552896059395, 'longitude': -73.9180071651936}",316,4.5,11101
+B7Ag0jClqRz7Ix8ewp_fuw,Quality Sweets,1384 Oak Tree Rd,"{'latitude': 40.5738623, 'longitude': -74.3260253}",13,4.5,08830
+9BB_D7fYCCHfaDvYrysGTA,Punjabi Kitchen,1691 Oak Tree Rd,"{'latitude': 40.57134, 'longitude': -74.34426}",56,3.5,08820
+kkp7VKm-A-IOeFyXNFAM2w,Brooklyn Standard,188 Nassau Ave,"{'latitude': 40.725221, 'longitude': -73.945621}",238,3.0,11222
+YTzWgctWFVyw_07NPTnDNA,Firangi Paani,194 State Rt 17 N,"{'latitude': 40.9052207, 'longitude': -74.0714593}",12,3.0,07662
+7-I3pf_c9CAgNNa9e3nYjQ,Zakir's Bakery Sweet & Restaurant,374 Union Ave,"{'latitude': 40.92003, 'longitude': -74.18658}",4,5.0,07502
+ud5ZnsGKFsgw0KErntD2lA,Hoy Wong Restaurant,81 Mott St,"{'latitude': 40.7165819, 'longitude': -73.9980213}",111,3.0,10013
+kk-Tm4qhAmlUtZwO7JFYRw,Ny Gyro King,588A Bloomfield Ave,"{'latitude': 40.793704, 'longitude': -74.198249}",168,4.5,07003
+L7SAE6REtK71TNI2C98_bQ,Ali's Trinidad Roti Shop,1267 Fulton St,"{'latitude': 40.68065, 'longitude': -73.95061}",267,4.0,11216
+r8mBcKFCRyK5gKg3Z67QQw,New Masala Grill Restaurant,1203 Saint Georges Ave,"{'latitude': 40.5797852575779, 'longitude': -74.2940521985292}",5,4.0,07067
+aBcQo4Xy-Lcf3JfVcn94XA,Mizumi,231-10 Northern Blvd,"{'latitude': 40.76357, 'longitude': -73.749}",1114,3.5,11362
+eTG_KeM6EbbjfBSkHkuIRg,Kabab Paradise,76 N Beverwyck Rd,"{'latitude': 40.880978, 'longitude': -74.38203}",570,4.5,07034
+QAD4BeDKUfvH5SmNtkVhkQ,The Halal Guys,72 Halsey St,"{'latitude': 40.7394856, 'longitude': -74.1717369}",180,3.5,07102
+a5SB7-QiYkEBqMb_1FQ16A,Mint Restaurant & Lounge,1 Ring Rd W,"{'latitude': 40.7405584510595, 'longitude': -73.6165169942713}",402,2.5,11530
+jpw7iGUzsj_AECKt351X8w,Wolfnights,99 Rivington St,"{'latitude': 40.7198896, 'longitude': -73.9885666}",485,4.0,10002
+F01dePvVzwREgGYEXqZtUQ,Sea Fish Market,205-02 Hillside Ave,"{'latitude': 40.720581, 'longitude': -73.7597229}",20,4.0,11423
+ac2JW6d4GAATQsPIjaTWiw,New Shan-E-Punjab,1192 Green St,"{'latitude': 40.572921, 'longitude': -74.318031}",24,3.5,08830
+FPuOTMD-dmXTFz3rUsEkMg,IchiUmi,6 E 32nd St,"{'latitude': 40.7465376026852, 'longitude': -73.9849521865082}",1336,3.0,10016
+Z9n1ZvEpovOA578ZNavWbg,Flavor of India,259-17 Hillside Ave,"{'latitude': 40.73753, 'longitude': -73.70858}",62,2.5,11004
+K2TtA0jOj6w3ywEGw2kI1Q,Bombay Spice,1396 Oak Tree Rd,"{'latitude': 40.5738759107401, 'longitude': -74.3264597373005}",5,4.5,08830
+1WhcWW4Hg5YPhCq6VQFc1g,Chef A Charminar,1700 Oak Tree Rd,"{'latitude': 40.5736, 'longitude': -74.3458}",36,4.0,08820
+Cq2IVq7VOlEzQ0YfdPqc-w,Amin's Chinese Halal Restaurant,215 Tonnele Ave,"{'latitude': 40.73828, 'longitude': -74.06586}",41,3.5,07306
+B-lbpKcK1sVfqGdlmagKag,Subia's Organic Market,506 Jersey Ave,"{'latitude': 40.7196564227343, 'longitude': -74.0471468120813}",164,4.0,07302
+k6C1yxzWz07p6AYAV5pgDQ,Veggies Natural Juice Bar,785 Franklin Ave,"{'latitude': 40.671975, 'longitude': -73.9571799}",130,4.5,11238
+2_EaHOkwF8qCIALVvZ3EsQ,King Of India,24904 Hillside Av,"{'latitude': 40.735161211808, 'longitude': -73.7180954217911}",20,3.0,11426

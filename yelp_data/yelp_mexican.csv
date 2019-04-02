@@ -1,0 +1,951 @@
+Business_ID,Name,Address,Coordinates,Num_of_Reviews,Rating,Zip_Code
+6Ct7OeTRn4caY9g0swFBsw,La Contenta,102 Norfolk St,"{'latitude': 40.71873, 'longitude': -73.98691}",671,4.5,10002
+-u5usGYF-cLqf9FMmApinw,Cafe 11-11,352 Broadway,"{'latitude': 40.70758, 'longitude': -73.9558796}",3,5.0,11211
+RzKR9QcYP03EQ_8DxTxowg,Barrio Chino,253 Broome St,"{'latitude': 40.718022, 'longitude': -73.990026}",1065,4.0,10002
+9aJ1MVTthZw3QjqoG7mPjg,Rosie's,29 E 2nd St,"{'latitude': 40.72492, 'longitude': -73.99079}",607,4.0,10003
+SUVMcqAwPHhcRMtfv_djRQ,Varrio 408,412 5th Ave,"{'latitude': 40.670226, 'longitude': -73.9857509}",334,4.5,11215
+pG-IkylRFOb-HlaD8NwvvQ,La Loteria,29 7th Ave S,"{'latitude': 40.7307865530978, 'longitude': -74.004135953373}",288,4.0,10014
+CfOBb6NU2awo8xclJpKU3g,Chela Modern Mexican,408 5th Ave,"{'latitude': 40.67032, 'longitude': -73.98569}",250,4.5,11215
+Wx6lMnEh7dCmX-9PQF1Ifw,Toloache 50,251 West 50th St,"{'latitude': 40.762325, 'longitude': -73.9855741}",1756,4.0,10012
+mmAlHhnTDXIohPC3wfl0hQ,Mesa Coyoacan,372 Graham Ave,"{'latitude': 40.715528, 'longitude': -73.944273}",726,4.0,11211
+95a04LtXLX6gePhPEwff9A,Amaranto Mexican Restaurant,887 Hart St,"{'latitude': 40.703111, 'longitude': -73.921892}",302,4.5,11237
+9_CEU7Wmvmwlyvqr-PJD6w,Ofrenda,113 7th Ave S,"{'latitude': 40.73391, 'longitude': -74.00242}",911,4.0,10014
+X2C0_I0seTtjW9uL8e8FBw,Don Chingon,216 Flatbush Ave,"{'latitude': 40.6810431221494, 'longitude': -73.9752403260395}",309,4.5,11217
+BbMUXd69i0tlWS2aoppwaQ,El Camion,194 Ave A,"{'latitude': 40.7291, 'longitude': -73.98105}",646,4.0,10009
+dgaNriM1VdI2nGochhHE_g,Casa Enrique,5-48 49th Ave,"{'latitude': 40.743404338358, 'longitude': -73.954350367693}",1038,4.0,11101
+_Kc_mFOk7zMPDcDhkdJE7A,Toloache Thompson,205 Thompson St,"{'latitude': 40.7286749, 'longitude': -73.9996277}",415,4.0,10012
+7bD22UAtH56ikWYslOSIQg,Calexico,1491 2nd Ave,"{'latitude': 40.77259, 'longitude': -73.95588}",554,4.0,10075
+nrwOQSXoRXfAYhkdjiUk8g,Toro Loco,15 Stone St,"{'latitude': 40.70421, 'longitude': -74.01208}",118,4.0,10004
+jnEv25Y2DosTq2sNnvmC9g,Los Tacos No.1,75 9th Ave,"{'latitude': 40.7425547, 'longitude': -74.0060838}",2617,4.5,10011
+6mdT2r5kIOrx-DUlR5bmOg,Cantina Cumbancha,232 N12th St,"{'latitude': 40.71935, 'longitude': -73.95293}",17,5.0,11211
+XO6IbZn2oxonPrfcXHK4HA,Casa Mexicana,894 Amsterdam Ave,"{'latitude': 40.7989892, 'longitude': -73.966955}",181,4.0,10025
+AUyKmFjpaVLwc3awfUnqgQ,Chela & Garnacha,33-09 36th Ave,"{'latitude': 40.7557171543477, 'longitude': -73.927811292412}",335,4.5,11106
+TPN2at7fMDHxeGYuQdQZVA,Homemade Taqueria,7103 Grand Ave,"{'latitude': 40.7279658, 'longitude': -73.8921686}",259,4.0,11378
+By8DjoW6JvyLXMbbcafP4w,El Mexicano Restaurant & Coffee,2102 E 15th St,"{'latitude': 40.59858, 'longitude': -73.95653}",173,4.0,11229
+xemN4tP9RlK5c-yUT-M71Q,Mamasita Bar & Grill,818 10th Ave,"{'latitude': 40.76733, 'longitude': -73.98945}",884,4.0,10019
+mhrLDFTxUzW2koRAzjlt5g,Chavela's,736 Franklin Ave,"{'latitude': 40.673484, 'longitude': -73.957267}",967,4.0,11238
+Zk8UgB9MDoIHWFYgAxNlIQ,De Mole,2 Hope St,"{'latitude': 40.71377, 'longitude': -73.95786}",62,4.5,11211
+ZZxYVgodx2TxbYwh-0YU1w,Taqueria Tlaxcalli,2103 Starling Ave,"{'latitude': 40.83622, 'longitude': -73.85488}",530,4.5,10462
+SPvW-SV2Ed7z8k-QXDUIDg,Tacos Matamoros,4508 5th Ave,"{'latitude': 40.6478187840292, 'longitude': -74.0076383498633}",563,3.5,11220
+ci0-GO_iMb0NdTCUYWjocQ,Noche De Margaritas,1726 2nd Ave,"{'latitude': 40.7801018, 'longitude': -73.9497833}",307,4.0,10128
+0AWdTQZ97G4rutU0z9Di6g,Fonda East Village,40 Avenue B,"{'latitude': 40.722852, 'longitude': -73.98286}",702,4.0,10009
+PAJdNrD4HFBN16OAFeDx4A,Ponche Taqueria & Cantina,420 W 49th St,"{'latitude': 40.76319, 'longitude': -73.99045}",470,4.0,10019
+Wm6vj0ekRAzZnaeaBEkOag,Taqueria Downtown,236 Grove St,"{'latitude': 40.7162, 'longitude': -74.04451}",1615,4.0,07302
+Nnuz_Ic0IdWOUbl64r4Hkg,Fonda Park Slope,434 7th Ave,"{'latitude': 40.663631439209, 'longitude': -73.9846343994141}",756,4.0,11215
+Yilk_Ucz4L6w9EmvAS2gHg,Taqueria Coatzingo,7605 Roosevelt Ave,"{'latitude': 40.7471912668812, 'longitude': -73.8895068500844}",400,4.0,11372
+ihzI-4yGesoQuAoIocao8g,Tacuba Hell's Kitchen,802 9th Ave,"{'latitude': 40.76542, 'longitude': -73.98719}",555,4.0,10019
+njV8tFM7PivgDhWng_Lb6g,Las Margaritas,7206 3rd Ave,"{'latitude': 40.6333399, 'longitude': -74.02719}",184,4.0,11209
+M8YeVFsrlYTvoAU_NFPk5Q,La Slowteria,548 Court St,"{'latitude': 40.675054752231, 'longitude': -73.9995680865082}",214,4.0,11231
+uvcEo61aL2F8e4PCzwZsYg,Chihuahua,47-02 Greenpoint Ave,"{'latitude': 40.7425222545862, 'longitude': -73.9176765829325}",126,4.5,11104
+Xjswj531-FkRZPpcccU6kQ,Vida Verde,248 W 55th St,"{'latitude': 40.7650089, 'longitude': -73.983215}",781,4.5,10019
+jzVv_21473lAMYXIhVbuTA,De Mole Astoria,4220 30th Ave,"{'latitude': 40.7625999, 'longitude': -73.9129028}",341,4.0,11103
+uVfOB37NyYEGRs5FITM-nQ,Leyenda,221 Smith St,"{'latitude': 40.68431, 'longitude': -73.99197}",183,4.0,11201
+Lq9HxEUrkceCUDut00qlHQ,El Kucho Mexican Restaurant,141 Wilson Ave,"{'latitude': 40.70073, 'longitude': -73.92551}",179,4.0,11237
+QH3VbBAf7MlePoaipxT4pA,Taqueria Kermes,66-36 Fresh Pond Rd,"{'latitude': 40.70785, 'longitude': -73.89798}",369,4.0,11385
+XipQLDbyTl5tsLlyzAWzug,Jajaja,162 E Broadway,"{'latitude': 40.7141530317142, 'longitude': -73.9904247969389}",625,4.5,10002
+Ck09FempamAKGSPsV_bX-A,Xixa,241 S 4th St,"{'latitude': 40.7104, 'longitude': -73.95854}",534,4.5,11211
+XjMjGq_2nO1e8pwIq-nEwg,Cantina Mexicana,140 New Dorp Ln,"{'latitude': 40.57359, 'longitude': -74.116153}",80,4.5,10306
+4ttqjZMCsfz6X0kQ_KR0xQ,Orale Mexican Kitchen,341 Grove St,"{'latitude': 40.720538, 'longitude': -74.043127}",967,4.0,07302
+boRM4i0UQswxQIp6CA9y_A,La Esquina,114 Kenmare St,"{'latitude': 40.721372, 'longitude': -73.997529}",1935,3.5,10012
+K4eXKHHG-ycydt7jeZTqSw,Taqueria El Puente,9300 5th Ave,"{'latitude': 40.61667, 'longitude': -74.03052}",105,4.0,11209
+DHFEpeJXemrdxIuGGcyurg,De Mole,4502 48th Ave,"{'latitude': 40.7391932, 'longitude': -73.9202624}",590,4.0,11377
+MfbVI5reXLIIs8Cc2HwgQw,Breakroom,83 Baxter St,"{'latitude': 40.7166907225542, 'longitude': -73.9999440120647}",1495,4.5,10013
+L5eqJRy8Yx_4El6rUxWmBw,El Vez Burrito Bar,259 Vesey St,"{'latitude': 40.7147356376792, 'longitude': -74.015635}",105,4.0,10282
+q3SwWmzxZhfbVmid1LRLWg,Taqueria Maria and Ricardo,915 Cortelyou Rd,"{'latitude': 40.63906, 'longitude': -73.96926}",56,4.5,11218
+cQWUPxESnMx69dshABS_rg,Taquitos Mexico,6720 14th Ave,"{'latitude': 40.6230108591414, 'longitude': -74.0011579838332}",187,4.0,11219
+f7g3GhoQs9nQVTJEL2p48Q,Gran Electrica,5 Front St,"{'latitude': 40.7027, 'longitude': -73.99314}",437,3.5,11201
+Pikhqmsy370W2BXHnNfP0g,Taqueria El Gallo Azteca,75 Victory Blvd,"{'latitude': 40.63842, 'longitude': -74.07867}",108,4.5,10301
+fJXCMGOhaS6rKGjoGldSSQ,Taqueria Tepango,568 Myrtle Ave,"{'latitude': 40.6937857, 'longitude': -73.9616331}",203,4.0,11205
+7KO4zcBtc2-2M5kJLfl0kw,Jolie Cantina,241 Smith St,"{'latitude': 40.683532, 'longitude': -73.992288}",380,4.0,11231
+_B0NHhM3GmirV68XE5csSA,Ojala Comida Mexicana,413 Myrtle Ave,"{'latitude': 40.69323, 'longitude': -73.9693}",37,4.0,11205
+3lACGsU8feB0RXhAVGOc8g,El Luchador,87 South St,"{'latitude': 40.70582, 'longitude': -74.00411}",389,3.5,10038
+_M5FVY4hkcuU-ASdVZPfRQ,Tacos El Bronco,4324 4th Ave,"{'latitude': 40.65006, 'longitude': -74.00915}",517,4.0,11220
+QIsFsiOP3H_NkgeWST7GPA,Maizal Restaurant & Tequila Bar,3207 34th Ave,"{'latitude': 40.759331, 'longitude': -73.926035}",280,4.0,11106
+okNIE5TrZVy43GI0A3aUIw,Rocco's Tacos & Tequila Bar,339 Adams St,"{'latitude': 40.69319596606, 'longitude': -73.9885798943981}",1146,3.5,11201
+KyOtOluTH8c8SICpf85thg,Mesa Azteca,91 Wyckoff Ave,"{'latitude': 40.70506, 'longitude': -73.92022}",213,4.0,11237
+iK2jJQA72XRjf4nUD3cAnA,Tortilleria Mexicana Los Hermanos,271 Starr St,"{'latitude': 40.7066299, 'longitude': -73.92198}",674,4.0,11237
+yvva7IYpD6J7OfKlCdQrkw,Mi Espiguita Taqueria,32-44 31st St,"{'latitude': 40.7612033639422, 'longitude': -73.9261436462402}",107,4.5,11106
+mY_dEQM9poopjV0y4Hvnww,Coszcal De Allende,6824 3rd Ave,"{'latitude': 40.63617, 'longitude': -74.0262}",115,4.0,11220
+Guy0Mow5rqt4a3RDMRTY5g,Gordo's Cantina,24-11 Bridge Plz N,"{'latitude': 40.7512226, 'longitude': -73.9407712}",178,4.0,11101
+EHUNrnIgnhwTnpOm3gEESg,Tacuba,35-01 36th St,"{'latitude': 40.75585, 'longitude': -73.92447}",605,3.5,11106
+DY2wlHlgC5eHITs-d5rT4w,Panchos,964 Amsterdam Ave,"{'latitude': 40.8015, 'longitude': -73.96534}",57,4.5,10025
+ifGXrRqs-zp6ek7LsoozrQ,Taqueria Diana,129 2nd Ave,"{'latitude': 40.7284337609976, 'longitude': -73.9879844318771}",687,4.0,10003
+FXgSgiLg6xgOO8zrG51mzg,Claro,284 3rd Ave,"{'latitude': 40.6773587963142, 'longitude': -73.9861984489446}",119,4.0,11215
+vpWPgusmUD0cYNKf0uEQIw,Cemitas El Tigre,45-14 48th Ave,"{'latitude': 40.7391913, 'longitude': -73.9198491}",194,4.5,11377
+tvqtAjAyc7dplVVwhw3VZQ,La Contenta Oeste,78 W 11th St,"{'latitude': 40.7352, 'longitude': -73.99808}",136,4.0,10011
+xGNzAsakHgbbl9fwgSoiUg,Kahlo,525 West 29th Street,"{'latitude': 40.75218, 'longitude': -74.0026}",47,4.5,10001
+sTu5z5HUcIYykg97HHj8xA,El Centro,824 9th Ave,"{'latitude': 40.76602, 'longitude': -73.98688}",791,4.0,10019
+Xod3ODMcVvAgZR_tS8LJVw,Taqueria El Mezcal,3910 4th Ave,"{'latitude': 40.652563, 'longitude': -74.006736}",61,4.5,11232
+DQuwci5xgJxXx7dxxp9FBA,Taqueria St. Marks Place,79 St Marks Pl,"{'latitude': 40.7278587780221, 'longitude': -73.9856138085992}",381,4.0,10003
+-kVueEw_fyO1Q2Gkmj6Few,Taqueria Santa Fe,4708 47th Ave,"{'latitude': 40.740766, 'longitude': -73.917876}",300,4.5,11377
+znlol6dCKwjoXpZZwV_ZOg,Nacho Macho Taco,82 5th Ave,"{'latitude': 40.680609, 'longitude': -73.977808}",135,4.5,11217
+t5bLApk2dbQPJiLuzfy5tg,Lucha Lucha,283 Nostrand Ave,"{'latitude': 40.688983, 'longitude': -73.951026}",256,4.0,11216
+tK_4ECZ0EPIhW8588hfn5g,El Nopal Restaurant & Juice Bar,631 5th Ave,"{'latitude': 40.663129, 'longitude': -73.9912745}",88,4.5,11215
+XsxnMWdMpVixA7Yyq_vq7Q,Paloma's,435 Menahan St,"{'latitude': 40.7034683227539, 'longitude': -73.9121246337891}",107,4.5,11237
+JHj7yzHWCDVFo-2z1RVamA,Fatty Daddy Taco,7720 3rd Ave,"{'latitude': 40.62958, 'longitude': -74.02873}",8,5.0,11209
+e7krRmyE5upHv2gsEOdR8w,Mayahuel Mariposa,304 E 6th St,"{'latitude': 40.72711, 'longitude': -73.98817}",589,4.0,10003
+SULHf6nGQ8sK0UpG1XU30w,Los Tacos No.1,229 W 43rd St,"{'latitude': 40.7575067, 'longitude': -73.9877717}",1049,4.5,10036
+anBWvFPOce4nl3qLX-H6Rg,El Mero Mero,35-57 38th St,"{'latitude': 40.753834323302, 'longitude': -73.923701159656}",56,4.5,11101
+zNcDCPiUsE5aT6jyaCVtmA,Fresco's Cantina,12-14 31st Ave,"{'latitude': 40.76837, 'longitude': -73.93303}",163,4.5,11106
+_HxxUvRp-0FMH_RoEzG1TA,Barnacho,920 2nd Ave,"{'latitude': 40.7540321350098, 'longitude': -73.9688491821289}",160,4.0,10017
+J9pgjC191T-odCmTAG-grQ,El Diablito Taqueria,60 E 3rd St,"{'latitude': 40.72504, 'longitude': -73.98917}",299,4.0,10003
+kn9rgR4KlvyTTi-s76OIaQ,Toloache 82nd,166 E 82nd St,"{'latitude': 40.77648, 'longitude': -73.95669}",368,4.0,10028
+AgHjo6NP9VTuAU8jCKFHjw,Florentinas Restaurant,454 Graham Ave,"{'latitude': 40.71867, 'longitude': -73.9449099}",104,4.0,11211
+fjE_lpKblhrN_48X2ca-7w,Mezquite Restaurant,45-06 30th Ave,"{'latitude': 40.76167, 'longitude': -73.9109}",248,4.0,11103
+_Pz5L7DGORcaThGB4CWcfg,La Loncheria,41 Wilson Ave,"{'latitude': 40.702921, 'longitude': -73.929105}",46,4.5,11237
+6AJwsgXr7YwsqneGVAdgzw,Las Catrinas Mexican Bar & Eatery,32-02 Broadway,"{'latitude': 40.7614214682633, 'longitude': -73.9246649456171}",236,4.0,11106
+DTKKEogIt2wQm4UULYVGug,Mad Dog & Beans Mexican Cantina,83 Pearl St,"{'latitude': 40.704168, 'longitude': -74.010261}",809,3.5,10004
+_URXTaYBbd2XX5qJbDkKAg,Taco Morelos,N 7th And Bedford Ave,"{'latitude': 40.71783, 'longitude': -73.95773}",84,4.0,11211
+X0IWYIpyp-eeD783EqVGWw,Oxido,18 W 23rd St,"{'latitude': 40.7417158567418, 'longitude': -73.9903659152219}",213,4.0,10010
+KhGbD1U51KKcl6frzNDa0A,Taqueria El Patron Mexican Grill,51 Lincoln Rd,"{'latitude': 40.6609280639479, 'longitude': -73.9614267185271}",160,3.5,11225
+vyKBwzRdNX4yiJDIFv37iw,Oxomoco,128 Greenpoint Ave,"{'latitude': 40.7299099, 'longitude': -73.95548}",152,4.0,11222
+BdHWUmVFuo1R8Lctv4K1Ow,El Parador Cafe,325 E 34th St,"{'latitude': 40.7444599, 'longitude': -73.97472}",414,4.0,10016
+zjnnccSIpMdx5fN-MxAr_w,La Superior,295 Berry St,"{'latitude': 40.71357, 'longitude': -73.96363}",542,3.5,11211
+2kPGo5wA33eBJj-OzA96tQ,Bar San Miguel,307 Smith St,"{'latitude': 40.68134, 'longitude': -73.9938279}",124,4.0,11231
+z_emTJ2d3kDEe8mz3w-KNw,Alta Calidad,552 Vanderbilt Ave,"{'latitude': 40.68011, 'longitude': -73.96818}",144,4.0,11238
+JnOYZqzRBHkEB_mvMXph_g,Juquila Kitchen and Bar,39-05 29th St,"{'latitude': 40.7532, 'longitude': -73.93436}",74,4.0,11101
+Drb6I9masZDvxQUVcqE2ww,Ho' Brah a taco joint,8618 3rd Ave,"{'latitude': 40.623006, 'longitude': -74.031548}",746,4.0,11209
+trOfIBnEr_CxZuLRyGj9FQ,Miti Miti,138 5th Ave,"{'latitude': 40.6786672454389, 'longitude': -73.9791200818081}",661,4.0,11217
+yl214H_cUd1intjVAeE1Mw,Casa Publica,594 Union Ave,"{'latitude': 40.718194, 'longitude': -73.9520543}",87,4.0,11211
+H-EZ1g_3M8oNHctGjnddwQ,Taqueria Viva Mexico Kitchen Cafe,133 Morris St,"{'latitude': 40.7139, 'longitude': -74.04029}",301,4.0,07302
+kawmpvfSzhDAy9pk8n3MxQ,The Haab,4722 48th Ave,"{'latitude': 40.740273, 'longitude': -73.917675}",168,4.0,11377
+6rM-N1SBbKPC7DWZNg5awQ,Los Portales,2508 Broadway,"{'latitude': 40.7631768211379, 'longitude': -73.9282260153443}",232,4.0,11105
+7RgdHGMY9Xa2Ur5y7vSBZQ,Homemade Taqueria,45-09 34th Ave,"{'latitude': 40.7546939084048, 'longitude': -73.9165629007979}",305,4.0,11101
+5SOM3bh1R5K3RZ9E20TxUg,Alma Restaurant,187 Columbia St,"{'latitude': 40.68557, 'longitude': -74.00215}",457,3.5,11231
+u1KX3yw6L7pg1rbFl_Sx3Q,Lalito,104 Bayard St,"{'latitude': 40.716289, 'longitude': -73.99974}",128,3.5,10013
+Gwi51JUxbKT1Eg-C3JrxRQ,La Loba Cantina,709 Church Ave,"{'latitude': 40.64577, 'longitude': -73.97288}",96,4.0,11218
+ue-iu3tMiHAv7JR0YuhOww,Hell's Kitchen,754 9th Ave,"{'latitude': 40.7638823425707, 'longitude': -73.9884334000586}",366,4.0,10019
+iuYUDoWjPcEYVo1Gz3_3uA,Mallenche Mexican Grill,1621 Church Ave,"{'latitude': 40.64911, 'longitude': -73.96427}",83,4.0,11226
+VVe74-TKuROBvyS1XgVmvw,Miscelanea NY,63 E 4th St,"{'latitude': 40.72686, 'longitude': -73.99075}",330,5.0,10003
+0oRYwB_SLqjHptvUQwwe2w,Tajin,85 Greenwich St,"{'latitude': 40.70772, 'longitude': -74.01356}",210,3.5,10006
+bHJWjEg_sGjrlSHIOX6Mqg,Two Lizards Mexican Bar & Grill,1365 1st Ave,"{'latitude': 40.768857, 'longitude': -73.955524}",429,3.5,10021
+ry7XCoXXxS0DxRmzZLFybw,Taqueria Gramercy,218 3rd Ave,"{'latitude': 40.7363, 'longitude': -73.98531}",46,4.0,10003
+k3iUNUGsl-xpQ_EsOfTadA,Cafe Ollin,339 E 108th St,"{'latitude': 40.7912288, 'longitude': -73.9395386}",373,4.0,10029
+r5NT8-nV4py2c-mppTKucQ,Essex Taqueria,123 Essex St,"{'latitude': 40.7197418, 'longitude': -73.9877989}",241,4.0,10002
+rbAxZRKdMoMxeonDTmooFg,El Vez,259 Vesey St,"{'latitude': 40.7147356376792, 'longitude': -74.015635}",581,3.5,10282
+PqqnNrUtU7XTKQvUM4cyqQ,Bar Verde,65 2nd Ave,"{'latitude': 40.7260849061034, 'longitude': -73.9897361397743}",144,4.5,10003
+l0ZOGV9tohkpfHiZ-3XSRg,Friducha,946 Manhattan Ave,"{'latitude': 40.73152, 'longitude': -73.95432}",56,4.0,11222
+L3REPLCvQpMapYPd_fkS-A,Los Mariscos,409 W 15th St,"{'latitude': 40.74207, 'longitude': -74.00565}",468,4.5,10011
+8CTaeOtqr461Ah5yWcnCPw,Fatty Daddy Taco,152 Smith St,"{'latitude': 40.686578, 'longitude': -73.990821}",126,4.0,11201
+N90gLDq4XgqYanlRqaeNKg,Acapulco,1116 Manhattan Ave,"{'latitude': 40.7367, 'longitude': -73.95517}",258,4.0,11222
+lKn-9P_F6cIwT0uL3xDnbw,Don Patron Bar & Grill,1217 Church Ave,"{'latitude': 40.64778, 'longitude': -73.96793}",41,4.5,11218
+UH_aksIxzGPPyhWZJbTP7A,Cantina Taqueria & Tequila Bar,1838 7th Ave,"{'latitude': 40.8003063353508, 'longitude': -73.9549569049235}",440,4.0,10026
+iUOijKvgnv_4Iu758CqlOg,Hotel Tortuga,246 E 14th St,"{'latitude': 40.73239, 'longitude': -73.98545}",477,3.5,10003
+oSFL1AVZYouS4YrDjoLyLA,Baby Bo's Cantina,627 2nd Ave,"{'latitude': 40.74514, 'longitude': -73.97598}",584,3.5,10016
+zBORlLYwMqqJ_GOX6K31mw,Pedro's Mexican Bar & Restaurant,73 Jay St,"{'latitude': 40.702526, 'longitude': -73.98647}",447,2.5,11201
+_5G0SOM1ogWTsSmPBGRfzA,El Gallo Taqueria,214 Highlawn Ave,"{'latitude': 40.6035151454871, 'longitude': -73.9779098353486}",179,4.0,11223
+cy0vBvZu2Eb4XtRFCp8Seg,Conmigo,1685 1st Ave,"{'latitude': 40.77793, 'longitude': -73.94902}",151,4.0,10128
+-zZXaitTEIWFgGa21y0nbQ,El Cacto,54 E 13th St,"{'latitude': 40.73417, 'longitude': -73.99165}",38,4.0,10003
+0W0m68TNPbodGCA3PhIB4w,The Black Ant,60 2nd Ave,"{'latitude': 40.72578, 'longitude': -73.98952}",485,4.0,10003
+hGWYNCUmDLk_H_Mu3oV9HA,Dos Caminos,825 3rd Ave,"{'latitude': 40.755878, 'longitude': -73.970383}",1475,3.0,10022
+zscLFr_wQUmSRGkup2YjpA,Mexicue,1429 3rd Ave,"{'latitude': 40.77536, 'longitude': -73.95628}",63,4.5,10028
+HfVMTVjgxumjFpUF_T8mqg,Taqueria Sofia,187 Suydam St,"{'latitude': 40.7000869, 'longitude': -73.9257427}",110,4.0,11221
+J7hRmPAGnOcd2OJsN_eV9g,El Mariachi Restaurant,6712 Roosevelt Ave,"{'latitude': 40.7460442, 'longitude': -73.8978364}",45,4.0,11377
+-SYHh9DWvYuBZxkA4gfzHg,Calabrije's Margaritas & Tacos,234 Starr St,"{'latitude': 40.7055429619569, 'longitude': -73.9225539192783}",64,4.0,11237
+V9jFJfuK3FzWCJGoY15EgQ,Blue Maiz,606 8th Ave,"{'latitude': 40.75543, 'longitude': -73.99071}",204,4.0,10018
+DGa4PysLx10aRnXqRQ4Cng,La Mesita Restaurant,1513 Myrtle Ave,"{'latitude': 40.6992569, 'longitude': -73.9152222}",72,4.0,11237
+9ijkw9x8oSSSnsUo5uR4Xw,Taco Santana,301 Keap St,"{'latitude': 40.7079186820012, 'longitude': -73.9554587596491}",142,4.0,11211
+QlIVC8__DE4R6IRJrf-CVQ,Mi Tierra Restaurant,732 Classon Ave,"{'latitude': 40.6751313899333, 'longitude': -73.9601259960482}",25,4.5,11238
+SCQvI5pAJmD-OMm37kkS6Q,DORADO Tacos & Quesadillas,28 E 12th St,"{'latitude': 40.73396, 'longitude': -73.99312}",587,4.0,10003
+1-QgkACd4atRtc4AOGWz_Q,Tacos Y Jugos Genesis,7804 Woodside Ave,"{'latitude': 40.7435971734647, 'longitude': -73.8868284970522}",99,4.5,11373
+hOLv0a65RSb5QvFd0FrYjw,Taqueria Santa Fe,214 Stanhope St,"{'latitude': 40.700351, 'longitude': -73.920546}",68,4.5,11237
+dsKRm2jJPfEZvLLehWKhLg,Mexico Diner,902 Cortelyou Rd,"{'latitude': 40.6387, 'longitude': -73.96963}",77,4.5,11218
+Y6FMtiM2Q3CwcuxI0E4USQ,Blue Agave,7215-B 3rd Ave,"{'latitude': 40.6330902, 'longitude': -74.0268565}",204,4.0,11209
+z3TwiFWdJUvY9tW8QMEseQ,Taco Dumbo,56 Prospect St,"{'latitude': 40.700601, 'longitude': -73.988467}",133,4.0,11201
+8_NilECM6qg_L7WYb25uNw,Luchadores,87 South St,"{'latitude': 40.70582, 'longitude': -74.00411}",29,4.0,10038
+jy6AHLVJ7cVJZ4Fl_ds3Qg,Los Tres Chiflados,1046 Flatbush Ave,"{'latitude': 40.645497, 'longitude': -73.958364}",73,4.0,11226
+bCCW3DOK5vDR6x4qb2YzFw,Calexico,278B 5th Ave,"{'latitude': 40.674264453218, 'longitude': -73.9822726759751}",383,3.5,11215
+bNPYPLuCjnRvRuL56otJiw,Don Tequila Urban Cantina,83-38 Woodhaven Blvd,"{'latitude': 40.7022312, 'longitude': -73.8557038083673}",209,4.0,11385
+uwUzZf2IQFVb5puJuNd9rA,Blue Agave Mexican Restaurant & Bar,7201 16th Ave,"{'latitude': 40.6178877280414, 'longitude': -73.9990214085986}",116,3.5,11204
+HmdGSeQbK2vI3Vp7xfcIrg,Catrinas Mexican Grill,7316 3rd Ave,"{'latitude': 40.63248, 'longitude': -74.02767}",71,4.0,11209
+HSQrBVZ0wiXYs96yEt2qUw,Santos Anne,366 Union Ave,"{'latitude': 40.7113837497199, 'longitude': -73.9510455988026}",291,4.0,11211
+4yEZo9Ei4NZB8nUCCevKgg,Maizal Restaurant,990 Bay St,"{'latitude': 40.61831, 'longitude': -74.06958}",227,3.5,10305
+8DvAPUI0qP43rY_CD8YYZQ,Lenita,7 Hanover Square,"{'latitude': 40.704046, 'longitude': -74.0096618}",64,3.5,10004
+7I-4qCgJq3n0yan1ChE-ew,Zona Rosa,571 Lorimer St,"{'latitude': 40.7139388888686, 'longitude': -73.9494076703442}",387,3.5,11211
+SXWnyFNLCehVlJPRxk7gAg,Anejo Tribeca,301 Church St,"{'latitude': 40.7193829, 'longitude': -74.004417}",298,4.0,10013
+phfxciZ6-Hch_HbW_tvm_A,Villa Cemita,50 Ave A,"{'latitude': 40.72383, 'longitude': -73.98478}",287,4.0,10009
+ONUgIihg-ROELPgKiWfs7A,Bushwick Taco Company,839 Knickerbocker Ave,"{'latitude': 40.692, 'longitude': -73.90616}",94,4.0,11207
+6Pa3-9piblDJu0l8u84Jhg,Mi Mariachi Taqueria,213 Sip Ave,"{'latitude': 40.73156, 'longitude': -74.06974}",250,4.5,07306
+U02ibutbgrC3uQzEq4w2ww,Guadalajara De Dia 2,566 Seneca Ave,"{'latitude': 40.7044639587402, 'longitude': -73.9109420776367}",73,4.0,11385
+54hPnm8Z4rJST1CZWaOznw,Pampano,209 E 49th St,"{'latitude': 40.75503, 'longitude': -73.97054}",543,4.0,10017
+c921DfWPCxG5qJ687TU6Xw,Burrito Republic,59-15 71st Ave,"{'latitude': 40.7006779324274, 'longitude': -73.8991589471698}",70,4.5,11385
+WyiTT3VHjzowMnOnUpZ7TQ,Empellón,510 Madison Ave,"{'latitude': 40.75971, 'longitude': -73.97473}",290,4.0,10022
+BxnrBKdLwdaEXyq97uxgKg,Cascalote Latin Bistro,2126 2nd Ave,"{'latitude': 40.79271, 'longitude': -73.94069}",315,4.5,10029
+v8tuFxvNkKdZytWTn9BhMA,Fonda Chelsea,189 9th Ave,"{'latitude': 40.7455185879981, 'longitude': -74.0021848849335}",305,3.5,10011
+BXtZKlJQ1H5WQf1ewO0HFg,Aztec Soul,3372 Atlantic Ave,"{'latitude': 40.68141578367, 'longitude': -73.8719404061003}",66,4.0,11208
+iPc-zPgcpgeSo76xl5Jbpw,The Maze,32 W 32nd St,"{'latitude': 40.74775, 'longitude': -73.98716}",365,4.0,10001
+Jh6bSOaw0ftGh9ONiwr7nA,Los Tres Chilitos,456 Central Ave,"{'latitude': 40.75021, 'longitude': -74.04619}",182,4.0,07307
+4jucppz-BA0MiY06DjuBYQ,Frijolito's,3446 Broadway,"{'latitude': 40.8234652876854, 'longitude': -73.9524172246456}",112,4.5,10031
+VOAryQk18GIxwErygoranA,Charrito's,121 Washington St,"{'latitude': 40.738116, 'longitude': -74.030436}",437,3.5,07030
+34LM8_lP8iwizHBu6YgaQQ,El Jeffe,1483 Fulton St,"{'latitude': 40.6801601, 'longitude': -73.9419752}",180,4.5,11216
+tCuPhpmf1PaYe5dmwdq8Ew,Guacamole Mexican Restaurant,768 Amsterdam Ave,"{'latitude': 40.79515, 'longitude': -73.9698}",109,4.0,10025
+zupIzmhdcH0U6vJQQxDBiQ,Bar Bruno,520 Henry St,"{'latitude': 40.6833674, 'longitude': -73.9997959}",225,4.0,11231
+tuP7STBjszTvKcQLeFMnkw,The Great Burrito,405 Amsterdam Ave,"{'latitude': 40.78333, 'longitude': -73.97796}",265,4.0,10024
+qLh8nLAg8UZE-5Cn_ctCLw,El Tenampa,706 4th Ave,"{'latitude': 40.662425336259, 'longitude': -73.9963044612931}",79,4.5,11232
+xAP5LWPsd9aedbuj8vo8_Q,Pablito's Taqueria,723 5th Ave,"{'latitude': 40.660156, 'longitude': -73.994186}",51,4.0,11215
+3DNtS1_3gobrYQBAwDx4DA,Calexico,645 Manhattan Ave,"{'latitude': 40.72416, 'longitude': -73.95132}",663,3.5,11222
+bbb6QZReetkrrubqGWJokQ,Pulqueria,11 Doyers St,"{'latitude': 40.71448, 'longitude': -73.99819}",463,3.5,10013
+DFRpXRHjOHBxYHiuvwaEQQ,Rosa Mexicano,61 Columbus Ave,"{'latitude': 40.771085, 'longitude': -73.982776}",1111,3.5,10023
+KtzxoHCm9N9QJi31TNjbhw,Pequena,86 S Portland Ave,"{'latitude': 40.6868452, 'longitude': -73.9747352}",312,3.5,11217
+d7YbQzGlmawMGAzUHzZvuw,Tacombi - Nolita,267 Elizabeth St,"{'latitude': 40.7240304, 'longitude': -73.9939028}",1040,3.5,10012
+_0uNkBtac1qBz2zSGZ0FTQ,Ole Mexican Grille,126-11 15th Ave,"{'latitude': 40.7851077, 'longitude': -73.8419311}",134,4.0,11356
+Av0BsdlotLFoEar5u1rDzg,Gueros,605 Prospect Pl,"{'latitude': 40.67521, 'longitude': -73.95657}",566,4.0,11238
+ECj6_ovNLQ3wbTxIDOmfwQ,Taco Playa,212 Front St,"{'latitude': 40.70737, 'longitude': -74.00269}",21,4.0,10038
+5fUY5sq00VMPdb1SDJWBug,New Mexico Place,189 Graham Ave,"{'latitude': 40.7085765328962, 'longitude': -73.9436286145434}",184,3.5,11226
+h_ITJux-MF0YcmZx8KRHtA,Tacos Project,800 Grand St,"{'latitude': 40.71177, 'longitude': -73.94134}",55,4.0,11211
+IfIyjm4SfORGYPbaAWST3g,Mexicue,225 5th Ave,"{'latitude': 40.7434728927194, 'longitude': -73.9880464381069}",356,4.0,10010
+UwZtUMsxS-mwWpeZnrO49g,Chinantla,657 Myrtle Ave,"{'latitude': 40.69464, 'longitude': -73.95747}",106,4.0,11205
+MfHEjRvZVplBVQyLC4wQOg,La Central,518 W 27th St,"{'latitude': 40.7504096665126, 'longitude': -74.0034449800957}",24,4.5,10001
+4c4Uwb5yUqXJ-inkcDinIg,Los Tacos-Mcondo,502 Grand St,"{'latitude': 40.7108323440285, 'longitude': -73.9509542539666}",260,4.0,11211
+qHbQ2V9K_GJqLaOaielk_Q,Cascabel Taqueria,1556 2nd Ave,"{'latitude': 40.7743636, 'longitude': -73.9539916}",361,3.5,10028
+CaFkfhLxjzPAxS9-G6lNVg,Cantina Royal,58 N 3rd St,"{'latitude': 40.7175416270346, 'longitude': -73.9634865865082}",217,3.5,11211
+m3C3d47Bh4NJHGXvT6Rqbg,Mexico 2000 Restaurant,369 Broadway,"{'latitude': 40.70765, 'longitude': -73.95493}",111,4.0,11211
+qKqWyiI_LD3OU_gxBdhEoA,Compadres Restaurant,92-21 Liberty Ave,"{'latitude': 40.6804085, 'longitude': -73.8461609}",50,4.0,11417
+GdZNFFSSnpmOn12Bd6XoEA,Empellón Al Pastor Murray Hill,145 E 39th St,"{'latitude': 40.74931, 'longitude': -73.97664}",20,4.0,10016
+NKDLr_aBy5WRX8-JR_SGyQ,Calaca,139 Putnam Ave,"{'latitude': 40.6834, 'longitude': -73.95655}",154,4.0,11238
+1nR3kKOs938gcgnw6p5wjg,Sinigual,640 3rd Ave,"{'latitude': 40.7503161990978, 'longitude': -73.9750733399726}",774,3.5,10017
+3kDlekYKGTPXqiLIUcC6Ng,Mama Lupita's Bistro,904 4th Ave,"{'latitude': 40.6559282365662, 'longitude': -74.0030431198586}",10,5.0,11232
+hlc6c-3N_rOvO_XwOGEYRw,Rosa Mexicano,41 Murray St,"{'latitude': 40.7141113543271, 'longitude': -74.0092619508505}",155,3.0,10007
+ipmOYDh9snm3ZUv546MACQ,Taqueria Milear,752A Nostrand Ave,"{'latitude': 40.6729835327648, 'longitude': -73.9503121359905}",164,4.5,11216
+5PD9q8jp20c4vUBX8Z81sg,Tacos El Rey,3168 Coney Island Ave,"{'latitude': 40.578785, 'longitude': -73.960027}",68,4.0,11235
+7CfaiHE11MO2zAiu3w6bsw,Taco Dumbo,19 W 52nd St,"{'latitude': 40.7604532, 'longitude': -73.9775139}",182,4.0,10103
+xlv_CcDXH1hkG4Wq5mECkQ,Vamos Al Tequila,162 Franklin St,"{'latitude': 40.73079, 'longitude': -73.95753}",265,3.5,11222
+La78lTOdzTrdFYTGXUp7og,Oaxaca Taqueria,424 Amsterdam Ave,"{'latitude': 40.7841453552246, 'longitude': -73.9778137207031}",360,3.5,10024
+HqI1ROCmZa2THlBxT9nyrA,Las Palmas Restaurant,3891 Broadway,"{'latitude': 40.8377037, 'longitude': -73.9425248}",139,4.0,10032
+jF9hIgD5MvZBXyKvztUtSA,GMC Temaxcal Deli & Grocery,163 Park Ave,"{'latitude': 40.696418, 'longitude': -73.972984}",40,5.0,11205
+AnAZaBsEuBjYvzaPMTN0oQ,Flats Fix Taqueria,30 East 16th St,"{'latitude': 40.73659, 'longitude': -73.99115}",157,4.0,10003
+nm7uUS4Qa6xB-VMm1bnbEA,Dos Toros Taqueria,64 Court St,"{'latitude': 40.6920649351928, 'longitude': -73.9914631471038}",85,3.5,11201
+Ahx8GsuAGUl8TgqCWP7uXw,Temerario,198 8th Ave,"{'latitude': 40.7434133400872, 'longitude': -73.9996277220286}",205,3.5,10011
+j4dGkqL-OK9YH8Sl2eOWEg,5 Burro Cafe,72-05 Austin St,"{'latitude': 40.7192464187592, 'longitude': -73.8422552802263}",1255,3.5,11375
+u9xVzV1OZC5pwtUgaHLM-A,El Kallejon,209 E 117th St,"{'latitude': 40.798538, 'longitude': -73.938805}",244,4.5,10035
+hR1bG0jgd2_Z9Q5L6siTEw,Antojito Mexicano,6th Avenue & 28th Street,"{'latitude': 40.7460380678347, 'longitude': -73.9905191880082}",36,4.5,10001
+mfJaJSspapkcL2MIsNuUjw,Citrico,681 Washington Ave,"{'latitude': 40.6768903036116, 'longitude': -73.9635266537943}",196,4.0,11238
+yqU1-chsjix3T4EMY2MyxA,Athens Grill & Sports Bar,3011 30th Ave,"{'latitude': 40.7671808396101, 'longitude': -73.9218648523092}",183,4.0,11102
+8WSRmH4rsSRJN1jN0qmT_A,Café Frida,368 Columbus Ave,"{'latitude': 40.7808959, 'longitude': -73.9764829}",625,3.5,10024
+PbLGoaIkihF2JPnVRFtxxw,Oaxaca Taqueria,87 Beaver St,"{'latitude': 40.7054473656225, 'longitude': -74.0083641817509}",68,3.5,10005
+1vkYZbdwMpqteI8x_sS68g,Fast and Fresh Burrito Deli,84 Hoyt St,"{'latitude': 40.688096, 'longitude': -73.987033}",165,4.0,11201
+pOgAM5F7zTAW7Y_sCjycWQ,Adobe Blues,63 Lafayette Ave,"{'latitude': 40.643234, 'longitude': -74.095314}",255,4.0,10301
+L1-qxIGlGqad0mLWhW1PUg,Holi Mole,250 Mott St,"{'latitude': 40.7234006569329, 'longitude': -73.9946759748688}",32,4.5,10012
+tKpTRuNe7JJD6IYFPVCXNg,Mariachi's,156 Chambers St,"{'latitude': 40.715751, 'longitude': -74.010219}",206,3.5,10007
+NXjCypQNl7tBrdR3gkFqdg,Lupita's Restaurant,2049 2nd Ave,"{'latitude': 40.790205, 'longitude': -73.943136}",109,4.0,10029
+V-yI80ii8Sau_BOQsDhz-A,Taqueria La Placita Puebla,830 Broadway,"{'latitude': 40.699081, 'longitude': -73.93946}",50,4.0,11206
+ub2VfE7SRLJABAClzGZp3A,Tacombi - Flatiron,30 W 24th St,"{'latitude': 40.7428563, 'longitude': -73.9911656}",583,3.5,10010
+XI8c4klXYX0b3MV8n8Kteg,Cienega Las Tlayudas de Oaxaca Mexican Cuisine,10432 Corona Ave,"{'latitude': 40.74369, 'longitude': -73.85759}",33,4.5,11368
+VThwGCuC6JVaxAgnmuJDRg,Cilantro,485 Columbus Ave,"{'latitude': 40.784629, 'longitude': -73.973121}",396,3.5,10024
+J_9-q-WFMWg5swNVzzZ_XA,Lupe's,110 Ave Of The Americas,"{'latitude': 40.72369, 'longitude': -74.0045776}",358,3.5,10013
+ojeMH0rbOOMx9ajChbVkJQ,Papatzul,55 Grand St,"{'latitude': 40.722148, 'longitude': -74.003677}",392,3.5,10013
+2iwT3iutZvmqzmu7oOkWFw,Dos Caminos,1567 Broadway,"{'latitude': 40.7593727, 'longitude': -73.9853281}",477,3.5,10036
+vySCsap61EhXrspq6TqaUg,La Cemita Restaurant,6417 20th Ave,"{'latitude': 40.6165924072266, 'longitude': -73.9853973388672}",28,4.0,11204
+YYB2lPax5wAdeNWUcm5WAg,Mexicocina,503 Jackson Ave,"{'latitude': 40.811884525549, 'longitude': -73.90966713749}",150,4.0,10455
+lC3C3OSklhJQhHVOqRkoMQ,Savor Por Favor,157 2nd Ave,"{'latitude': 40.7297, 'longitude': -73.98712}",61,4.5,10003
+wO9FMvtYqsJoYrnHDASE0A,Don Pancho Villa Restaurant,189 Borinquen Pl,"{'latitude': 40.7109108, 'longitude': -73.9528503}",203,4.0,11211
+skN-mgnOezFQr9YNh5G5TQ,Lolita's Kitchen,1364 Lexington Ave,"{'latitude': 40.7824207446896, 'longitude': -73.9534502033954}",79,4.0,10128
+IS8TakHCKVZc-R_-92jo0Q,La Gringa Bar and Grill,63-34 Woodhaven Blvd,"{'latitude': 40.723475, 'longitude': -73.868923}",166,3.5,11374
+hdBhZcdZGHkTESrldAObJg,La Morada Restaurant,308 Willis Ave,"{'latitude': 40.810552, 'longitude': -73.92142}",146,4.5,10454
+dYWjNK07igws9jFNgQmhng,Rosa Mexicano,9 E 18th St,"{'latitude': 40.7382, 'longitude': -73.99083}",1400,3.5,10003
+h8J10FpJGaU_4OvP2MgoKQ,Oso,1618 Amsterdam Ave At 140th St,"{'latitude': 40.82195, 'longitude': -73.9502399}",237,4.0,10031
+37UBDZl-wH6UBRVjAif_pw,Blue Tijuana,15-24 College Point Blvd,"{'latitude': 40.783534, 'longitude': -73.846121}",70,4.0,11356
+FavssEgZjXFi2unEXePkVQ,Tacombi - Bleecker Street,255 Bleecker St,"{'latitude': 40.73112, 'longitude': -74.00272}",311,3.5,10014
+QdIeRttev3jQ0fOZBgiuzQ,Supernatural,43 E 19th St,"{'latitude': 40.738221, 'longitude': -73.9886561}",9,5.0,10003
+B6bEkY9sJ_GU2pD2Rwb4gg,El Mitote,208 Columbus Ave,"{'latitude': 40.77578, 'longitude': -73.98021}",425,3.5,10023
+g2uaHoIX1e1Y2E63t6DLrg,Selena Rosa,1712 2nd Ave,"{'latitude': 40.779514, 'longitude': -73.950149}",276,3.5,10128
+NvyOagUcodDPHSDF5Vhbmg,Skinny's Cantina,4705 Center Blvd,"{'latitude': 40.7457158661738, 'longitude': -73.9563131306885}",426,3.0,11109
+vFS4XkHymNm0agxIVf2mhw,Cinco de Mayo Restaurant,1202 Cortelyou Rd,"{'latitude': 40.639881, 'longitude': -73.96688}",203,3.5,11218
+t2nLcM6iuDDtBFfBbUI4_g,Fatty Daddy Taco,310 9th St,"{'latitude': 40.669172, 'longitude': -73.986665}",329,4.0,11215
+DGloxcTvrqGLlSghSWtAlA,Rincon Mexicano,4160 Broadway,"{'latitude': 40.84699, 'longitude': -73.93788}",77,4.0,10033
+hcI6TVxFyVNEPXg3rF1bQw,Oaxaca Taqueria,405 W 44th St,"{'latitude': 40.7601356506348, 'longitude': -73.992057800293}",99,3.5,10036
+jYAqup9AF9N9wYAWYanZ-A,Arriba Arriba Midtown,762 9th Ave,"{'latitude': 40.7641288111074, 'longitude': -73.9882850646973}",831,3.5,10019
+sBP8072dTkHDHyS8MTaZcQ,Coatzingo Restaurant,79-11 Roosevelt Ave,"{'latitude': 40.74759, 'longitude': -73.88623}",46,4.0,11372
+hmx8vUMYJPTbfgN8c7A5LA,El Aguila Dorada Restaurant,830 Broadway,"{'latitude': 40.6756098548753, 'longitude': -74.1081924349606}",286,4.0,07002
+eTWPn3e-BVBAjXKLDlB84A,Lobo Loco,8530 3rd Ave,"{'latitude': 40.6235482129985, 'longitude': -74.0310907468305}",239,3.0,11209
+W_0AX5JL3QZnX1oQNxQGtw,Xochimilco Family Restaurant,653 Melrose Ave,"{'latitude': 40.8185645, 'longitude': -73.9168277}",74,4.5,10455
+iXtZQ7twXQiv7j2ZdxZqUg,Burritos y Mas NY Tex-Mex,1571 Lexington Ave,"{'latitude': 40.7887686998247, 'longitude': -73.9486259859039}",136,4.0,10029
+6Dyvbe04UjeNTh7YbykZ8w,Papi's Grill,161 7th Ave,"{'latitude': 40.67212, 'longitude': -73.97704}",77,4.0,11215
+98Bm2w9RzNJQZo4U3jSgQQ,Tacos Times Square,134 E 27th St,"{'latitude': 40.7417320336149, 'longitude': -73.9823354903991}",82,4.0,10016
+D4tGzWIAM7Z3HNoNxPS2Gw,El Burrito Nacho,1636 Broadway,"{'latitude': 40.68465, 'longitude': -73.91406}",49,4.0,11207
+xGoSAOhQBNdJMJmPn7CMDQ,Mexicue,1440 Broadway,"{'latitude': 40.754412, 'longitude': -73.986511}",413,3.5,10018
+ONpovEzuqFtHMHN-AtPd8g,Guadalupe Inn,1 Knickerbocker Ave,"{'latitude': 40.70771, 'longitude': -73.93182}",148,4.5,11237
+jQjQHNAM8xXB73kFkfg9kA,Tacos Cholula,25 Ave A,"{'latitude': 40.72301, 'longitude': -73.98605}",147,4.0,10009
+HKBJGt04_ZSdiIWA_6J8kQ,Tortaria,94 University Pl,"{'latitude': 40.73387, 'longitude': -73.99304}",635,3.5,10003
+v4_89HfTm05NFTuukjsl_g,The Burrito Box,885 9th Ave,"{'latitude': 40.76831, 'longitude': -73.98565}",826,4.0,10019
+-pW5tF7cLZqM7BEpxTapkw,Elora's Mexican and Spanish Food,272 Prospect Park W,"{'latitude': 40.6584854125977, 'longitude': -73.9823989868164}",200,3.5,11215
+uipFunIVqRWwopfEvrscyQ,Casa Mezcal,86 Orchard St,"{'latitude': 40.7179602, 'longitude': -73.9902328}",382,3.5,10002
+sLWWrz0iteDNQQJJ21FBUw,Horchata,470 Sixth Ave,"{'latitude': 40.7355572, 'longitude': -73.9977961}",384,4.0,10011
+B9GWlhwXaUezB_GpGq1pfA,Los Tacos Al Pastor,141 Front St,"{'latitude': 40.70254, 'longitude': -73.98736}",21,3.5,11201
+X8Tg6XHKERw-vdWRU4oH3Q,Nuevo Mexico Bar & Restaurant,489 5th Ave,"{'latitude': 40.667476, 'longitude': -73.987365}",225,3.5,11215
+v7hwkFxrz2pORrT9Fiiovw,La Lupe,9 Jefferson St,"{'latitude': 40.69725, 'longitude': -73.93517}",147,3.5,11206
+TgoYhgbPCYhLBNtpue3QHg,Maya,1191 1st Ave,"{'latitude': 40.7632055528185, 'longitude': -73.9596225112209}",849,3.5,10065
+xmbBNjDuGEyeQFTkQPHMLQ,Dos Toros Taqueria,101 Maiden Ln,"{'latitude': 40.706940531234, 'longitude': -74.0068830175517}",90,3.5,10038
+NMvGg6AwvEMUEjIF1z9Ghw,Puebla,120 Essex St,"{'latitude': 40.7191285440113, 'longitude': -73.987642195336}",18,4.0,10002
+M1YYZ9cTVuMXLji_XF6rzg,Dos Caminos,373 Park Ave S,"{'latitude': 40.7421567897168, 'longitude': -73.9845427163755}",1104,3.5,10016
+U9BX6bMvXHk8umBYnS3Dog,Dos Toros Taqueria,137 4th Ave,"{'latitude': 40.7336815475083, 'longitude': -73.9897049423153}",1301,4.0,10003
+_5BoZ_C5zEl5M_MxT1W39w,Cascabel Taqueria,2799 Broadway 108th St,"{'latitude': 40.8029136693265, 'longitude': -73.9679586979658}",381,3.5,10025
+YKAwpTnKO-n5vB9-pqaCLQ,Taqueria Y Fonda,968 Amsterdam Ave,"{'latitude': 40.8016168, 'longitude': -73.965212}",479,3.5,10025
+YOuxIvQh4RbX14Sh98m74Q,Mr Burrito,43-20 Greenpoint Ave,"{'latitude': 40.7409739, 'longitude': -73.921299}",19,4.5,11104
+08KCenrjRbL7vzfHjdGYyg,Estrellita Poblana IV,45 Westchester Sq,"{'latitude': 40.84221, 'longitude': -73.84381}",151,4.0,10461
+ueL0t_7Yu_ev2RrWK9dgDA,Tacombi - Empire State Building,23 W 33rd St,"{'latitude': 40.748375, 'longitude': -73.9864908}",98,4.0,10118
+_gwi6OqeNiTmWUBf1lcRGw,Fajitas Sunrise,5924 Myrtle Ave,"{'latitude': 40.7002830505371, 'longitude': -73.8988723754883}",150,3.5,11385
+iw5iI-jFXnDZaeiGt4Weaw,Twisted Mexican Grill,18-33 Astoria Blvd,"{'latitude': 40.772422, 'longitude': -73.9264379}",37,4.5,11102
+RGSjUKs-hNpCSafrFcU-VQ,La Flor,53-02 Roosevelt Ave,"{'latitude': 40.74434, 'longitude': -73.91141}",226,4.0,11377
+HOEjrJUwKBxSmQRVSILS8Q,Tepache,361 Halsey St,"{'latitude': 40.683368, 'longitude': -73.938289}",304,3.5,11216
+2hmhZim4bX2lbjPSNc7LaA,Javelina,119 E 18th St,"{'latitude': 40.7368812561035, 'longitude': -73.9873886108398}",420,3.5,10003
+VxfrYW5Ha8jMDt3CCudLfg,Aroma A Mexico Taqueria,568 4th Ave,"{'latitude': 40.66637, 'longitude': -73.99246}",54,3.5,11215
+o5fBZCGs2HCkibIxQ2-2ig,Las Margaritas Restaurant & Bar,6712 Fresh Pond Rd,"{'latitude': 40.705439, 'longitude': -73.896733}",43,4.0,11385
+VREXC353INWXdSyTYvt8Lg,Oaxaca Taqueria,1116 Bedford Ave,"{'latitude': 40.68634, 'longitude': -73.954767}",155,3.5,11216
+n-Z4HSwVeiDyA7AotduUNw,Sonora,174 Howard Ave,"{'latitude': 40.6824295855403, 'longitude': -73.9199669121657}",119,3.5,11233
+wqEPTJBbqG3QKysMxNQQCA,La Placita Oaxaquena,709 Myrtle Ave,"{'latitude': 40.69496, 'longitude': -73.9546}",7,4.0,11205
+J3xgUpWM_ny5bh69WRvJPw,Doña Zita Mexican Restaurant,1221 Bowery St,"{'latitude': 40.5747639, 'longitude': -73.9799965}",60,4.0,11224
+LV_DKhthhOYbZF-nHvzEyQ,Panaderia La Mixteca Poblana,104 Victory Blvd,"{'latitude': 40.637596973899, 'longitude': -74.0799138202344}",9,4.5,10301
+reikN8SndmL5QAYl_qHm3g,Sofia's Taqueria,977 Bay St,"{'latitude': 40.61884, 'longitude': -74.069421273585}",69,3.5,10306
+Irajo1p3HkygjlhDiIZ_hg,Taqueria El Maguey,3917 4th Ave,"{'latitude': 40.652107, 'longitude': -74.006272}",19,4.5,11232
+qr24KgWcZGUhKZIPyVMsNw,Maz Mezcal,316 E 86th St,"{'latitude': 40.77741, 'longitude': -73.95103}",327,3.5,10028
+jeWIYbgBho9vBDhc5S1xvg,Holy Guacamole,35-55 31st,"{'latitude': 40.756621, 'longitude': -73.929336}",140,4.0,11106
+rHp_v8fU82U93hYPj3L_3A,Nacho Macho Taco,417 Prospect Pl,"{'latitude': 40.6764068073189, 'longitude': -73.9627275318417}",246,4.5,11238
+529zJk9IcMZt4txd6ITTCA,Hungry Burrito,510 Morgan Ave,"{'latitude': 40.72164, 'longitude': -73.93835}",14,4.0,11222
+VLU_pUKzdAPSr_dBAFZEfQ,Girasoles Mexican Cuisine,184-01 Jamaica Ave,"{'latitude': 40.7092895, 'longitude': -73.7760311}",33,4.5,11423
+xN4yKQMzo3PIoQlFamUOLQ,La Esquina,200 W 55th St,"{'latitude': 40.7642986928764, 'longitude': -73.9814604957066}",161,3.5,10019
+AIw_q3kqThesAPHZZ2A85A,Habanero Cafe Mexican Grill,715 Flushing Ave,"{'latitude': 40.70058, 'longitude': -73.94408}",56,3.5,11206
+lDw5XnnGIxs5hw-XSljcTg,Mexico Jophsua 19 Grocery & Restaurant,134-06 Jamaica Ave,"{'latitude': 40.7023394107819, 'longitude': -73.8185475021601}",45,4.5,11418
+ox36ejKIJqE0lALCiZu0IA,El Patron,194-01 Northern Blvd,"{'latitude': 40.7581599, 'longitude': -73.78747}",633,3.5,11358
+hKkPlYmHoS9Nb_UbGGqx8A,Street Taco,358 3rd Ave,"{'latitude': 40.74097, 'longitude': -73.98202}",260,4.0,10016
+jhvlGPnHMZYJUMrc2XrSDg,Estrellita Poblana,2231 Westchester Ave,"{'latitude': 40.83446, 'longitude': -73.85084}",230,4.0,10462
+t9JRIzyQoJU29WeVBLU7Lw,Maya Taqueria,637 Vanderbilt Ave,"{'latitude': 40.67796, 'longitude': -73.9685499}",361,3.5,11238
+0MqKMvDvmw6s3mnycYLcog,Josefina's Restaurant,8440 Grand Ave,"{'latitude': 40.734255, 'longitude': -73.882604}",18,4.5,11373
+dh3px6yeYcUUN_WkzXxj7Q,Tacos Al Suadero,87-21 Roosevelt Ave,"{'latitude': 40.7482863, 'longitude': -73.879015}",139,4.0,11372
+MxrjY6myVl8vK0YvCT4r4g,Las Delicias Mexicanas,2109 3rd Ave,"{'latitude': 40.79735, 'longitude': -73.94009}",56,4.0,10029
+1UqrqRx_35w87pQeg17Gqg,El Toro Blanco,257 6th Ave,"{'latitude': 40.72902, 'longitude': -74.00277}",375,3.5,10014
+lL5DgsvOuiI8nMQcjK1bMA,El Centro Cantina,359 W 54th St,"{'latitude': 40.76593, 'longitude': -73.98675}",19,4.5,10019
+Jb6g3-HKC__8X1i-PcekJw,Rosa Mexicano,1063 1st Ave,"{'latitude': 40.75895, 'longitude': -73.96268}",502,3.5,10022
+jFYEsw6_4y4VMpSVB863sw,Mojave,22-36 31st St,"{'latitude': 40.7753290076368, 'longitude': -73.9119911693115}",668,3.5,11105
+0Nu2kmbWnfP7GD-NZ5h3fw,Tacos Los Poblanos,5320 5th Ave,"{'latitude': 40.643196, 'longitude': -74.012781}",34,4.5,11220
+9tlYA026rvZ0m6OBUeZX7w,La Cabana,3318 30th Ave,"{'latitude': 40.76564, 'longitude': -73.91929}",38,4.0,11103
+xBx9GgsH2Npbcp7foPobQA,Castro's Restaurant,511 Myrtle Ave,"{'latitude': 40.6938559, 'longitude': -73.964426}",261,3.5,11205
+a9rBsBs6DFNbsKvAmbq3BA,Emilia's Pizza & Authentic Mexican Food,3705 28th Ave,"{'latitude': 40.7662621, 'longitude': -73.9150543}",39,4.5,11103
+mVaslo987DCd3YC_0FtWxA,Mole,57 Jane St,"{'latitude': 40.73822, 'longitude': -74.00524}",421,3.5,10014
+GuqvwAFpjjz3m3vicbJBTQ,El Rey del Taco Deli,49-06 43rd Ave,"{'latitude': 40.7445104420185, 'longitude': -73.9153558015823}",43,4.0,11377
+6ptX8V8WW_IzhHXLJ4SRAA,Dos Toros Taqueria,465 Lexington Ave,"{'latitude': 40.75352, 'longitude': -73.97418}",162,3.5,10017
+tbyq3mdNFQrZPIuRmO0bQw,Takumi Taco,570 Lexington Ave,"{'latitude': 40.757156, 'longitude': -73.972604}",1,4.0,10022
+Po8p45GKZ4JFycI3ZSAwig,The Burrito Shoppe,100 Stuyvesant Pl,"{'latitude': 40.6439103578422, 'longitude': -74.0777564987996}",46,4.0,10301
+q676_lJf_DMZGlDRP-9TPw,Los  Mariachis  Mexican  Restaurant,805 Coney Island Ave,"{'latitude': 40.637732, 'longitude': -73.968047}",101,3.5,11218
+iGIBOJw2Z7-n7MHKy-RT5w,Taqueria Izucar,1503 Myrtle Ave,"{'latitude': 40.6992149, 'longitude': -73.9155655}",50,4.0,11237
+RLjlJPtciMdE2nEurLmmNQ,La Casa de Los Tacos,290 County Ave,"{'latitude': 40.7740104861106, 'longitude': -74.06321}",150,4.0,07094
+b_3yI7FXcIle71lD9Tulww,Guajillo,2277 1st Ave,"{'latitude': 40.7967861606349, 'longitude': -73.934840150695}",29,4.5,10035
+2h9uosx5vBHWJR23T0PhqA,Maya Taqueria,168 5th Ave,"{'latitude': 40.67763, 'longitude': -73.9798}",44,4.0,11217
+5-PACrYhXSUcji3rX8zu3g,Don Burrito,5 Newkirk Plz,"{'latitude': 40.63548, 'longitude': -73.96271}",94,3.5,11226
+OsnvNfvVnpjnFklon1s-vg,La Chula,137 E 116th St,"{'latitude': 40.79882, 'longitude': -73.94168}",124,4.0,10029
+8ptywurhx5lYbXB0TmjMFQ,Jalapeno King,719 5th Ave,"{'latitude': 40.660274, 'longitude': -73.994125}",76,4.0,11215
+dpWHRaZ_PfwIyeQRDOeOyQ,La Perla Restaurant Picnic,3913 13th Ave,"{'latitude': 40.640182, 'longitude': -73.986396}",8,4.5,11218
+DjtjAuN5jWd_ukx0YWUFWw,Oaxaca Taqueria,75 Hoyt St,"{'latitude': 40.688233, 'longitude': -73.986593}",81,3.5,11217
+mbsMhE448VL0vmuQL1IyiA,Don Nico's,90-08 161st St,"{'latitude': 40.7051738351583, 'longitude': -73.7993180751801}",135,4.0,11432
+1m6viubAWUgsTgguIrJT6A,Cosme,35 E 21st St,"{'latitude': 40.739691, 'longitude': -73.988428}",864,3.5,10010
+PsYY7NHs5cFEI5hW5IZUlg,The Creek & The Cave,10-93 Jackson Ave,"{'latitude': 40.7432511476929, 'longitude': -73.9517892774468}",355,3.5,11101
+4sHkiQ0qURBjL_gVLQbGPw,Taqueria Diana,524 9th Ave,"{'latitude': 40.75652, 'longitude': -73.99371}",169,3.5,10018
+bRzE-FnE1QgbUb-3cosoUA,Donna,27 Broadway,"{'latitude': 40.71088, 'longitude': -73.96774}",153,4.0,11249
+vUzvlghgEgGClsdiwz2Bfw,Taqueria Santa Fe,9407 Astoria Blvd,"{'latitude': 40.76319, 'longitude': -73.87492}",109,4.0,11369
+QwL5LS436Xjo9MHFi2rc-g,Agave,140 7th Ave,"{'latitude': 40.734767, 'longitude': -74.002415}",1202,3.5,10011
+EZ-ec_6fXPsZiDshbFMnjA,The King Of Taco,9017 31st Ave,"{'latitude': 40.7601063, 'longitude': -73.8779181}",94,4.0,11369
+IE2GLzjRVMSxqmvE_zlq2A,Don Pepe Tortas & Jugos,3908 5th Ave,"{'latitude': 40.651194, 'longitude': -74.004387}",80,4.0,11232
+UQ5gXOihecwqEWW2vfv0BA,Taqueria Restaurante Mi Barrio,3415 14th Ave,"{'latitude': 40.6415601, 'longitude': -73.981455}",23,4.0,11218
+NcIUA8l_kmbPEwqI9lzELg,Anejo,668 10th Ave,"{'latitude': 40.762577, 'longitude': -73.992919}",608,3.5,10036
+Sd8cNodYP1fmeJ3BA_sTqw,Ho'Brah a taco joint,412 Forest Ave,"{'latitude': 40.630645, 'longitude': -74.103027}",274,3.5,10301
+UmY9dyGOclJ0tGbn1IozlA,Zaragoza Mexican Deli & Grocery,215 Ave A,"{'latitude': 40.730102, 'longitude': -73.980949}",294,4.0,10009
+tRAfOBAKvB3Lt8SrqGSijg,Taco King,6405 108th St,"{'latitude': 40.7327858, 'longitude': -73.8493243}",126,4.0,11375
+PWFK0nvJ23Xkk_B4C5Q4Aw,Factory Tamal,34 Ludlow St,"{'latitude': 40.7159893975333, 'longitude': -73.9903887679246}",71,4.5,10002
+i0CffTc5rmXjQOqq7g3I6Q,Gabriela's Restaurant & Tequila Bar,688 Columbus Ave,"{'latitude': 40.7912178, 'longitude': -73.9689331}",497,3.0,10025
+hSkeb_lmfxnoqg7EVo19Vw,Taco Mix,234 E 116th St,"{'latitude': 40.797098, 'longitude': -73.938785}",342,4.0,10029
+R5jpETY0OshPn-AeJjs0fA,Dos Caminos,475 W Broadway,"{'latitude': 40.726739, 'longitude': -73.999913}",999,3.5,10012
+MJr3nlShGfwBQZKqc2TvkQ,Tacos El Dorado,763A Flatbush Ave,"{'latitude': 40.6542699, 'longitude': -73.95942}",6,4.0,11226
+pMUsX9vXcHcS9KTRbFewbw,Picante Picante,156 W 231st St,"{'latitude': 40.8781, 'longitude': -73.903}",145,4.0,10463
+jKUF-ts0Et40ri33NDiMDw,Tacos Lokos 4ever,120 Franklin St,"{'latitude': 40.728874, 'longitude': -73.957181}",25,4.0,11222
+9kT0F2cA8FIMZqBPQTSr8Q,Tacos El Nopal,8321 5th Ave,"{'latitude': 40.6228991, 'longitude': -74.02505}",29,4.0,11209
+Ai2mbsb0cYZoMWC3DAAP3Q,B'klyn Burro,922 Fulton St,"{'latitude': 40.6827188, 'longitude': -73.9640973}",85,3.5,11238
+E_oFzRY-7j9T04qHkORCsw,Santa Fe,73 W 71st St,"{'latitude': 40.7767077615034, 'longitude': -73.9789559105304}",154,3.5,10023
+7l0uy47dEHXg2S1lA1s-EQ,Vote For Pedro Tequila & Tacos,231 E 53rd St,"{'latitude': 40.75725, 'longitude': -73.96808}",62,4.0,10022
+AUm7If5Cbvy20AnmyxE-xA,Dos Toros Taqueria,52 W 52nd St,"{'latitude': 40.7607084122727, 'longitude': -73.9784675091505}",64,4.0,10019
+1Ylu26XW3F6gSJWdFw6-8g,Great Burrito,100 W 23rd St,"{'latitude': 40.7428322, 'longitude': -73.9930115}",228,4.0,10011
+zxdsVR_hHUzhBFfus4yd7A,Dos Caminos,675 Hudson St,"{'latitude': 40.7404330511257, 'longitude': -74.0054753422738}",950,3.0,10014
+6mCqJUpV16kkmeZ1-mLXBg,Mezcals Mexican Restaurant,20 Bradley Ave,"{'latitude': 40.611822, 'longitude': -74.132672}",98,3.5,10314
+6eihmCzFJvolelWSW7-VPQ,La Esquina Del Camaron Mexicano,80-02 Roosevelt Ave,"{'latitude': 40.74721, 'longitude': -73.88557}",25,4.5,11372
+iUsk8CPoDyoBmwVdU1_9QQ,Sidewalk Tacos,Bleecker & Thompson,"{'latitude': 40.7284088, 'longitude': -73.9996719}",28,4.0,10012
+G92jSUckfs4MhD6bGPyHow,Taqueria Diana,367 Metropolitan Ave,"{'latitude': 40.71424, 'longitude': -73.95568}",47,3.5,11211
+UJYLVyqur-3dX9DtUDkzrg,Xochitl Taqueria,1015 Fulton St,"{'latitude': 40.6823211397652, 'longitude': -73.9608860896543}",137,3.5,11238
+y3-70vWvjH7TY-XONHijtQ,Zabrosura,2110 Clove Rd,"{'latitude': 40.6032401, 'longitude': -74.0834004}",29,4.5,10305
+TJCyocLYrUBfbf8r0DaBXw,Tacos Grand Central,153 E 43rd St,"{'latitude': 40.75164, 'longitude': -73.97418}",190,4.0,10017
+0Y8dv9UHGquFkWlVK7PdjA,Buddy's Burrito & Taco Bar,260 Court St,"{'latitude': 40.685341, 'longitude': -73.994661}",155,4.0,11231
+-7mvJpV-gmOCT0HFNOhMNA,The Brothers Cafe,3949 43rd Ave,"{'latitude': 40.74607, 'longitude': -73.924109}",87,4.5,11104
+o-KRgyTJoM4EM-K-rwe86w,Bodega Negra,355 W 16th St,"{'latitude': 40.7421414364183, 'longitude': -74.0035781860352}",589,3.5,10011
+VIIfYEzIppjps0K_J_8zLg,El Rio Grande,160 E 38th St,"{'latitude': 40.748074661455, 'longitude': -73.976690081965}",585,3.5,10016
+4bSYj9nl_mAXIqpA2loIag,Oaxaca Taqueria,1198 1st Ave,"{'latitude': 40.7631132993777, 'longitude': -73.9591559395194}",75,3.5,10065
+V7K_-h2EzCjoAWxsHiLXQg,La Comadre,75-10 Jamaica Ave,"{'latitude': 40.691377, 'longitude': -73.866042}",15,4.0,11421
+Nj4x1DEPDk2gCxm3h_AkKw,Maria's Bistro Mexicano,886 5th Ave,"{'latitude': 40.651542, 'longitude': -74.003982}",237,3.5,11232
+P5gcdU1DX9M1V4W-V9o-wg,The Bear,48 S 4th St,"{'latitude': 40.7128339, 'longitude': -73.9663587}",17,5.0,11211
+JRuneSzfLdQU0UMNM3BefA,Molcajete Mexican Restaurant,9213 Roosevelt Ave,"{'latitude': 40.748864, 'longitude': -73.874088}",19,4.0,11372
+5LO5C4doYF_UP2OB29zYMg,Empellón Taqueria,230 W 4th St,"{'latitude': 40.7341219, 'longitude': -74.0030294}",658,3.5,10014
+bly3jHNlMEiNCDTYB-qbrQ,Flats Fix,14 E 23rd St,"{'latitude': 40.74073, 'longitude': -73.98839}",76,4.0,10010
+ZIfh0Vv86ktGZDdM3YME-w,Mexico Lindo Restaurant,459 2nd Ave,"{'latitude': 40.73981, 'longitude': -73.97984}",238,3.5,10010
+Rpabo5IJ_81grLZF9MwRxw,Tres Chivos Restaurant Corp,5717 5th Ave,"{'latitude': 40.640762, 'longitude': -74.014672}",1,5.0,11220
+FaebPpZ8fKuvPtMOZ_dslw,Estrellita Poblana III,2328 Arthur Ave,"{'latitude': 40.853828, 'longitude': -73.888672}",145,4.0,10458
+OYLap8kSwmpGiYSZPl_GnQ,Mi Otra Casa Restaurant,9106 43rd Ave,"{'latitude': 40.743265, 'longitude': -73.874115}",22,4.0,11373
+V7_IQ1ab69JilAlgrSnMXg,L Encanto D Lola,57 Lenox Ave,"{'latitude': 40.8001464434346, 'longitude': -73.9511863565111}",249,3.5,10026
+T0ZLnzByb3z0VYQ7hd1icA,Azteca Bakery Grocery,996 Cypress Ave,"{'latitude': 40.6979434, 'longitude': -73.9028174}",6,5.0,11385
+vMTTFjgFKKua4VuAFX393g,Antojitos Mexicanos,107 Graham Ave,"{'latitude': 40.705406, 'longitude': -73.943206}",32,3.5,11206
+9qOUxAQD6Tasr9TVUlSvdg,Los Amigos Mexican Restaurant,2273 31st St,"{'latitude': 40.7744827270508, 'longitude': -73.9123611450195}",118,3.0,11105
+LyCE268_fz_MAZieFZY1lA,El Cantinero,86 University Pl,"{'latitude': 40.73364, 'longitude': -73.99324}",523,3.0,10003
+HiO_eEu1kwUDM30YEjoG-g,Regalo De Juquila,1209 Myrtle Ave,"{'latitude': 40.69748, 'longitude': -73.93168}",100,3.0,11221
+-ZQfIRtViZowsgaBZfsG4Q,Villa Pancho Taqueria,472 Myrtle Ave,"{'latitude': 40.6933447063192, 'longitude': -73.9664311287236}",36,3.5,11205
+BHUYHKdOToyRhg83Vkpd8w,La Iguana Azul,8 Giffords Ln,"{'latitude': 40.55102, 'longitude': -74.15034}",50,3.5,10308
+xIi-TO8iDQCy1ZSHe11_Zw,El Paso Taqueria,64 E 97th St,"{'latitude': 40.787296295166, 'longitude': -73.9528121948242}",210,3.0,10029
+sBB4HcSqtHIltwYYhMVb0g,Santa Fe Veracruzano,62 7th Ave,"{'latitude': 40.67562, 'longitude': -73.97484}",17,4.5,11217
+YsDmYRzJo3kiwZvIe1r0Fg,Playa Betty's,320 Amsterdam Ave,"{'latitude': 40.78075, 'longitude': -73.98032}",622,3.5,10023
+-Qn5nXGhxWHNePA0dYmPSg,Tacos Times Square,144B W 37th St,"{'latitude': 40.75255, 'longitude': -73.98864}",86,4.0,10018
+HjffHJTq9BvZrv0NV7dUgw,El Coyote - Forest Hills,70-09 Austin St,"{'latitude': 40.72108, 'longitude': -73.84654}",269,3.0,11375
+5IR02V3Bbkcbs14yfKNDTQ,Taqueria San Pedro,3662 Broadway,"{'latitude': 40.8303299, 'longitude': -73.94728}",119,4.0,10031
+frWu5KfSULdCHd0GmA-ytw,La Palapa,77 St Mark's Pl,"{'latitude': 40.727969, 'longitude': -73.985604}",659,3.5,10003
+6k6PRNSLnExNes-iGcu1EA,Taqueria La Nortena,668 Manhattan Ave,"{'latitude': 40.72474, 'longitude': -73.95121}",101,3.5,11222
+yIWKtjt9v0m7i8mKBQlsug,Casa de Julia,64-09 Roosevelt Ave,"{'latitude': 40.74618, 'longitude': -73.89954}",3,5.0,11377
+WgAJUrVaMcMtQxsiIc02sQ,Quesadillas Doña Maty,228 E 116th St,"{'latitude': 40.7972183, 'longitude': -73.9390182}",41,4.5,10029
+n9NAUB6ivkk45bUz3nm2AA,Grito Mexican Grill,1555 Saint Nicholas Ave,"{'latitude': 40.85355, 'longitude': -73.93087}",154,4.0,10040
+nV-LbnEV_2OwXvXRany1sg,Hungry Burrito,811 Seneca Ave,"{'latitude': 40.7014612, 'longitude': -73.9051407}",25,4.0,11385
+aIigHZBgXDHXalBZMRHsvg,Gringo's,12 Coles St,"{'latitude': 40.7216329213934, 'longitude': -74.0476842694786}",358,3.5,07302
+e9nKK7tldpI2o_9eHZ2y6g,Masa y Agave,41 Murray St,"{'latitude': 40.71409, 'longitude': -74.00903}",6,3.5,10007
+Ko95LRE9AAvb2Lk9Iwh2-Q,Otto's Tacos,141 2nd Ave,"{'latitude': 40.72914, 'longitude': -73.9874899}",715,4.0,10003
+iK4T3NlzEqi9Fp619Q8-zA,Abuela Antonia Mexican Restaurant,225 Rockaway Ave,"{'latitude': 40.67499, 'longitude': -73.91091}",2,4.0,11233
+WAJr4rYfUyVct2bHLExqaA,El Ranchito Poblano,1306 Flatbush Ave,"{'latitude': 40.6382316, 'longitude': -73.9536798}",104,3.0,11210
+6oH3qLZrBEeSp35ols195g,The Deep End,1080 Wyckoff Ave,"{'latitude': 40.6943930345841, 'longitude': -73.902355909787}",26,4.5,11385
+GeL6wGdzhdEhuIFQau3ocQ,Taqueria Meza,95 7th Ave S,"{'latitude': 40.7330017, 'longitude': -74.002915}",222,3.5,10014
+vFe8ekur1Jgq8muvWAi0LQ,New Santa Ana,187 Irving Ave,"{'latitude': 40.7019462585449, 'longitude': -73.9190216064453}",16,3.5,11237
+-KTCCg7rHmnzlfqC6HxvVg,Rancho Alegre,204 Garfield Pl,"{'latitude': 40.672208, 'longitude': -73.97698}",105,3.5,11215
+ZTDvkmRMac2u7NT6y-h1jg,Las Palmitas Deli,10915 Jamaica Ave,"{'latitude': 40.6958155504715, 'longitude': -73.8386195560695}",36,4.0,11418
+03TL_ZHn2NmNoejTTXTD3g,New Mexico Place II,778 Seneca Ave,"{'latitude': 40.701727, 'longitude': -73.9060716709411}",34,4.0,11385
+UsgJVEPV5JF9lam-4X2f9w,Taqueria El Buen Gusto,277 Neptune Ave,"{'latitude': 40.5812496355697, 'longitude': -73.9633947674525}",14,4.0,11235
+qQIF8nQE1eliKObIlFvBaQ,Otto's Tacos,705 9th Ave,"{'latitude': 40.7625885009766, 'longitude': -73.9900054931641}",317,4.0,10019
+ExQfm2tIiqHst798dXbUIw,Tulcingo Restaurant,9558 Roosevelt Ave,"{'latitude': 40.7490812325978, 'longitude': -73.869453089545}",25,4.0,11372
+wFfRYO2rlEP0nUfLliuJEg,El Patron,520 Bay St,"{'latitude': 40.6291321267293, 'longitude': -74.0767305716872}",83,3.5,10304
+v9u61QOTbs6RqZC1iEQtRQ,Casa Lupita,1007 Broadway,"{'latitude': 40.6824438, 'longitude': -74.1029093}",63,4.0,07002
+c2FGnIxjrX_xh8DBeSYPRA,Spanglish NYC,40-04 Bell Blvd,"{'latitude': 40.76404, 'longitude': -73.77152}",65,4.0,11361
+0tzK7l-DWDpG5UrYKL_mxw,St James Deli,34-02 34th Ave,"{'latitude': 40.75843584113, 'longitude': -73.9247259526577}",76,4.5,11106
+MEmKGwYjjkoibhNd_Tdtbw,Taqueria Cocoyoc,211 Wyckoff Ave,"{'latitude': 40.702385, 'longitude': -73.915728}",109,3.5,11237
+nnat3QDogbkOGWR00jfPqw,Taqueria Puebla,1285 Castleton Ave,"{'latitude': 40.634014, 'longitude': -74.1256406}",17,4.0,10310
+9YQAFztjRb1WdEr_kCBVAw,Mally's Deli & Grocery,199 Knickerbocker Ave,"{'latitude': 40.7036972045898, 'longitude': -73.9264450073242}",36,4.5,11237
+AABqAsYdRI9gSyU1gStdxg,Gina Mexicana,145 E 61st St,"{'latitude': 40.763456, 'longitude': -73.966753}",131,3.0,10021
+_8Oq6MmhqLgzQDVYXWLxuA,Réunion,357 W 44th St,"{'latitude': 40.75964943513, 'longitude': -73.991308284398}",660,4.0,10036
+hyKnC3_a86vaY2iZUkygWw,El Mariachi Restaurant,3311 Broadway,"{'latitude': 40.7611304286653, 'longitude': -73.9233571500763}",225,3.5,11106
+Cn0aZzeIrulN6N4OF7eMdQ,Arriba Arriba Sunnyside,40-15 Queens Blvd,"{'latitude': 40.74413, 'longitude': -73.92352}",207,3.0,11104
+o-ZDSI3ZNh8rv6LrckHbCg,El Mexicano Restaurant and Cafe 2,142 W 9th St,"{'latitude': 40.67538, 'longitude': -74.00051}",9,5.0,11231
+4IE9hPuy5QIWVdaETUEG_Q,El Sombrero,108 Stanton St,"{'latitude': 40.72124, 'longitude': -73.9875}",321,3.5,10002
+BRqPr7YpcQCu23e5i__Frw,Orale Tacos,23-23 30th Ave,"{'latitude': 40.7689108, 'longitude': -73.9256464}",34,4.0,11102
+menL_0IVFYfpuhhgvKuCsQ,Antojitos Mexicanos,511 West 181st St,"{'latitude': 40.84863, 'longitude': -73.93144}",13,4.5,10033
+0X0cXXEyFa50ptzNpAZNyA,Otto's Tacos,1568 3rd Ave,"{'latitude': 40.7802999, 'longitude': -73.95312}",121,4.0,10128
+7-TRXxFP0biboasNZgH8Kg,Carniceria Y Taqueria  El Novillo,14-33 College Point Blvd,"{'latitude': 40.7845218790648, 'longitude': -73.8456908445185}",12,4.5,11356
+zVvEFNvlyBbQ6edjIE2gBg,Burrito Bar,307 Flatbush Ave,"{'latitude': 40.678342, 'longitude': -73.9730639}",642,3.0,11238
+-fRgp3gv0-R6y9YOJX8ZVA,Warude,385 Tompkins Ave,"{'latitude': 40.6846262, 'longitude': -73.9440354}",50,3.5,11216
+7xW-mmylJCNQgYw88Ur89Q,La Posada Mexican Food,364 3rd Ave,"{'latitude': 40.74115, 'longitude': -73.98189}",210,3.5,10016
+aStZY21Qmtzm1IS8y1_81g,Móle,178 Kent Ave,"{'latitude': 40.718819, 'longitude': -73.963455}",258,3.0,11211
+JYXDcwqsWp3d5tifAwgQ5Q,Taco Chulo,318 Grand St,"{'latitude': 40.71259, 'longitude': -73.95661}",402,3.5,11211
+JzUg9hbxpAbyvs0JzbFruA,Noche Mexicana,842 Amsterdam Ave,"{'latitude': 40.79742, 'longitude': -73.96814}",245,3.0,10025
+HrrJ1OdstzLJCC5JQrHWGA,Good Move,167 Nassau Ave,"{'latitude': 40.7253043200226, 'longitude': -73.9465199000016}",28,4.0,11222
+A0md41L-3S4CuHPqDWJWUw,Mr Taco,11 Stanton St,"{'latitude': 40.72254, 'longitude': -73.99239}",29,4.5,10002
+vsQjfOXS10MQ8_CZ3amhVQ,Downtown Bakery Cocina Mexicana,69 1st Ave,"{'latitude': 40.72543, 'longitude': -73.98711}",241,4.0,10003
+kn7uzFOmLsePDXlN49qYwQ,Newyorktitlan,1525 Gates Ave,"{'latitude': 40.6990509033203, 'longitude': -73.9129409790039}",99,4.5,11237
+vN1CYP0WNSPfdmZAstfdOg,Sabor A Mexico,233 E 77th St,"{'latitude': 40.772556, 'longitude': -73.957035}",163,3.5,10021
+pSJGPVjAyKb7EXGZkqLzvg,Mama Puebla,3465 E Tremont Ave,"{'latitude': 40.831959, 'longitude': -73.827011}",74,3.5,10465
+L5ZsbTGT1G52p11pNf0EXg,Mandato Mexican Restaurant,7218 3rd Ave,"{'latitude': 40.63309, 'longitude': -74.0272899}",59,3.5,11209
+-82ju2_ebCeX3_mCcvTI_Q,El Sol de Cholula,161 Wilson Ave,"{'latitude': 40.7003, 'longitude': -73.92452}",29,4.0,11237
+yk5SQblgPNqVjlhEA_DPaQ,Tacos El Dorado,,"{'latitude': 40.6476, 'longitude': -73.95846}",43,4.5,11226
+SP4bvMvxel_UPdof_er3HA,Taco Mahal,73 7th Ave S,"{'latitude': 40.732337, 'longitude': -74.003303}",449,4.5,10014
+0cgtOfYGHv3stIZb7C9wHQ,La Perla Mexicana,281 E 149th St,"{'latitude': 40.81739, 'longitude': -73.9221}",40,4.0,10451
+SfPw0ZGXrqvcq_xLGSFuhA,La Cueva Fonda Mexicana,835 E 152nd St,"{'latitude': 40.81533, 'longitude': -73.90412}",12,4.5,10455
+JFlt7BDll3JUDy78vJ2q1g,Las Margaritas Sunset,425 Graham Ave,"{'latitude': 40.7176805498912, 'longitude': -73.9449793863278}",30,4.0,11211
+HwDu45zV90Wmprn6sPttCQ,Mexican Festival,2672 Broadway,"{'latitude': 40.7982804740353, 'longitude': -73.9689128100872}",234,3.0,10025
+rmvjFa7yaIEh6ASQkAHz9w,Casa Vieja,6007 5th Ave,"{'latitude': 40.63913, 'longitude': -74.01618}",15,3.5,11220
+eZ0J2lwGdOBZHQKTC5hQYQ,Cerveceria Havemeyer,149 Havemeyer St,"{'latitude': 40.7116974, 'longitude': -73.9574585}",118,3.5,11211
+jB5fXguSmlX65asSB3KIfQ,Charrito's Restaurant,974 Blvd E,"{'latitude': 40.77707, 'longitude': -74.0136}",548,3.0,07086
+kcywDOgRlBPLW3eTMUgxEw,Grand Canyon Restaurant,143 Montague St,"{'latitude': 40.69473, 'longitude': -73.99361}",36,4.5,11201
+xWLSJOiN1mMRHmBmHyjAfw,Mad Dog & Beans Mexican Cantina,5 E 38th St,"{'latitude': 40.75098, 'longitude': -73.98181}",297,3.5,10016
+hLXOnp4TB7M0VllhqeqBJQ,Tacos y Quesadillas Mexicanos,6022 Roosevelt Ave,"{'latitude': 40.7456882160225, 'longitude': -73.9029264450073}",41,4.0,11377
+cQGW6BWU6lppWVSwlFBDgA,Cinco De Mayo,837 Washington Ave,"{'latitude': 40.8225131696248, 'longitude': -73.9115964114002}",91,3.5,10451
+xsomq3qW2hmjFih64wZRlQ,La Oaxaquena Restaurant,1969 Amsterdam Ave,"{'latitude': 40.83318, 'longitude': -73.9415999}",75,3.5,10032
+FeSZi6LBCcAIipoSua6dXg,La Esquina UES,1402 2nd Ave,"{'latitude': 40.7693091, 'longitude': -73.9578192}",112,3.5,10021
+WV4wYPAGb3W69MfBqIZDHg,Dos Toros Taqueria,555 8th Ave,"{'latitude': 40.75468, 'longitude': -73.99214}",54,4.0,10018
+aQZxNF1j3T_pKCOpGD79cg,Casa del Taco,671-A Palisade Ave,"{'latitude': 40.8253, 'longitude': -73.98312}",68,5.0,07010
+nGFhlGsPlf6Uu5-xjIosQA,Don Chucho,1112 Forest Ave,"{'latitude': 40.6267799, 'longitude': -74.12688}",15,4.5,10310
+sbdRT4UyIYTFrXfCKraAhQ,Vera Cruz,195 Bedford Ave,"{'latitude': 40.71729, 'longitude': -73.9579399}",218,3.5,11211
+-xa6FYrKd98HQaVDu96JyA,La Chona's,38-07 Broadway,"{'latitude': 40.7593333, 'longitude': -73.9193226}",7,4.5,11103
+hYk1RkElIG5rWI4ywbi-BA,Laly's Restaurant,75-19 Roosevelt Ave,"{'latitude': 40.747207, 'longitude': -73.8897241}",84,4.5,11372
+MRF4bNFPAyHe2rMS1yZobg,El Toro Mexican Grill,69 New St,"{'latitude': 40.7058516, 'longitude': -74.0122291}",103,3.0,10004
+q1ha1qnViHKmh3-tEGw8DA,Taco Dumbo,1385 Broadway,"{'latitude': 40.75275, 'longitude': -73.98756}",35,4.0,10018
+Fp2QuKOu_zCjOxbyCLfnjw,El Rey Restaurant,25-21 Astoria Blvd,"{'latitude': 40.77137, 'longitude': -73.92198}",70,3.5,11102
+uLWp1QR_W2WJImMnB706hg,Mexicue,160 8th Ave,"{'latitude': 40.74202, 'longitude': -74.00046}",234,4.0,10011
+jf95dOTlZB7oPWz9JLgaQA,Borrachito,206 Avenue A,"{'latitude': 40.7295, 'longitude': -73.98084}",16,4.5,10009
+pbRgb9o3hegZxWeu6wAtHw,El Porton,576 Southern Blvd,"{'latitude': 40.8123321379273, 'longitude': -73.9024218544364}",23,4.0,10455
+hRiemFSaUuTuYexm1dvu0g,Cafe Los Arcos,255 A Bushwick Ave,"{'latitude': 40.7072619, 'longitude': -73.9395899}",85,3.5,11206
+1Zc5q6qrWV4qepRulrpfJA,El Aguila Dorada,412 Broadway,"{'latitude': 40.66099, 'longitude': -74.12036}",18,4.5,07002
+qZfJbJPxZUkC66lRldcbGA,Tulcingo Del Valle,665 10th Ave,"{'latitude': 40.762756, 'longitude': -73.993545}",244,3.5,10036
+1m6pfntylp2UL67hRPCbiw,The Lost Lady,171 Avenue C,"{'latitude': 40.72631, 'longitude': -73.97756}",58,4.5,10009
+g2LFwlFjAd9RdGC3zxwkYQ,El Alto  Deli Mexican Food,60-01 Metropolitan Ave,"{'latitude': 40.7131291, 'longitude': -73.9053307}",5,5.0,11385
+foAYWheDCF9wUyKPuOGYow,Mole,1735 2nd Ave,"{'latitude': 40.780331, 'longitude': -73.950302}",341,3.0,10128
+mNS4lJ66nND2cRoxF9aP3Q,Mariachi Grill,262 Ridge Rd,"{'latitude': 40.80951, 'longitude': -74.11764}",253,4.5,07071
+DpOhfKF92bZPqN9NPreTEg,Cocina Chente,3535 Riverdale Ave,"{'latitude': 40.8860743476189, 'longitude': -73.9070924953627}",98,4.0,10463
+8WnHtvMdPWE66eSkUdbLhQ,Flip Sigi,525 Hudson St,"{'latitude': 40.73405, 'longitude': -74.00642}",612,4.0,10014
+0TS4s4QtnM9MqDAAw93Ecw,La Villita,1249 Avenue U,"{'latitude': 40.59874, 'longitude': -73.95843}",56,3.5,11229
+yKPRuBvD3ScCc18QrZ4Y6w,El Porton Mexican Restaurant Bar,3151 Broadway,"{'latitude': 40.81452, 'longitude': -73.95966}",159,3.5,10027
+_PWUuHHqyfJBrTROPR72Fw,The Taco Shop,166 W 4th St,"{'latitude': 40.7319488525391, 'longitude': -74.0015411376953}",317,4.0,10014
+kdBM_FLfYU92BeiRfeCisw,Haab,396 6th Ave,"{'latitude': 40.6694419, 'longitude': -73.983094}",140,3.5,11215
+ya0mfdjrsKaDgMjGLKnkzA,Paco's Mexican Bistro,1642 Hylan Blvd,"{'latitude': 40.5884018, 'longitude': -74.0899734}",197,3.5,10305
+H08vCdbcP3oy0cBEKqM5KQ,El Rey del Sabor,166 E 60th St,"{'latitude': 40.7622400274526, 'longitude': -73.9663818196397}",70,4.0,10021
+KzJYO3-2k9XJhOHVpXayZQ,Empellón Al Pastor East Village,132 St Marks Pl,"{'latitude': 40.72668, 'longitude': -73.98336}",234,3.5,10009
+adDPQU75YmsQDx7n4xxw8A,Mezcals Mexican Restaurant,223 5th Ave,"{'latitude': 40.675832459091, 'longitude': -73.980664999247}",114,3.0,11215
+D37laxSajXqhhsaCYo4WSw,Taqueria Emilio,563 W 207th St,"{'latitude': 40.8662220265057, 'longitude': -73.9201356056336}",34,4.5,10034
+QbDy2I6ENbHP-B89tH0sUQ,El Cafetal Mexican Restaurant,30-19 Astoria Blvd,"{'latitude': 40.7702872, 'longitude': -73.9183644}",78,3.5,11102
+1WUdvbRlqqLidaWexQc-ng,Taqueria Downtown,354 Grove St,"{'latitude': 40.7210813462734, 'longitude': -74.0426413714886}",95,3.5,07302
+vEMveTHn23hdT2_FhV7ctQ,Las Panteras Negras,2130 2nd Ave,"{'latitude': 40.79279, 'longitude': -73.9405}",28,4.5,10029
+keOMomcnyrJEQvFtfEYadg,Swell Dive,1013 Bedford Ave,"{'latitude': 40.689183858613, 'longitude': -73.9549609646201}",76,4.0,11205
+XDl93co2VJznxglYcoQvmA,Chilo's,323 Franklin Ave,"{'latitude': 40.68837, 'longitude': -73.95684}",192,4.0,11238
+5ZFWfz5wimY1q-ChXVlYRQ,L'a Autentica Panaderia,1878 86th St,"{'latitude': 40.605869, 'longitude': -74.000908}",6,4.0,11214
+7xY3vxBy7yFF5dVAi-6hPQ,Pipo's Mexican Restaurant,166 E 118th St,"{'latitude': 40.7994318892483, 'longitude': -73.9398034173906}",48,3.5,10035
+ykTNq1F-Vpfw4i4xGhPS0Q,The Little Taco House,246 West 4th St,"{'latitude': 40.73475, 'longitude': -74.00321}",28,4.5,10014
+4QVG74AmkmhjE63-gwyWow,Mexican Deli,2711 Broadway,"{'latitude': 40.7996094, 'longitude': -73.9685912}",23,4.5,10025
+bwvd5ZwBTXdpCwJktU-P8g,Sabor A Veracruz,6415 Bergenline Ave,"{'latitude': 40.79295, 'longitude': -74.01361}",134,4.5,07093
+mdNall-R8nQb6gYLxWlJMg,Guac & Jazzo,179 Avenue B,"{'latitude': 40.72764, 'longitude': -73.9792}",146,3.5,10009
+DmLmy-enZs9wOWhFJF3p5A,El Barrio Burritos,796 Franklin Ave,"{'latitude': 40.6712799, 'longitude': -73.9579086}",183,3.0,11238
+vC5XPdWzKa-c8iUQlUwEUQ,Orale Mexican Kitchen,1426 Willow Ave,"{'latitude': 40.754888, 'longitude': -74.029532}",63,4.0,07030
+QDRi3_QRZbqCkrbPoosKWQ,Carmelita Deli & Grocery,780 4th Ave,"{'latitude': 40.6599044799805, 'longitude': -73.9990386962891}",9,4.5,11232
+Q10FeFs1mtNchv1NbNcsLg,Oaxaca Taqueria,152 E 33rd St,"{'latitude': 40.7453117370605, 'longitude': -73.9795227050781}",105,3.5,10016
+CEUEvlh2jDfGpj-2BuTInA,Oaxaca Taqueria,250 4th Ave,"{'latitude': 40.6766700744629, 'longitude': -73.9839782714844}",310,3.5,11215
+17F3KNRiGTPdDonxCEL5-Q,Taco Bandito,325 8th Ave,"{'latitude': 40.7474763497109, 'longitude': -73.9971551748688}",191,3.5,10001
+OGM4aom3HmTGV10WN_zW1w,Bella's Place Restaurant,87-77 Sutphin Blvd,"{'latitude': 40.7051440103469, 'longitude': -73.8093066215515}",45,4.0,11435
+ISxL2HWJNCazHAdy5oblJA,Coney Shack,42nd St Times Square,"{'latitude': 40.7553317654854, 'longitude': -73.9866291359066}",267,4.5,10036
+snORfbD1AkFlRtlITvS_YQ,Mexico 2000 Grocery,367 Broadway,"{'latitude': 40.707683, 'longitude': -73.955017}",65,4.0,11211
+uGUXV74PbdcYeHEqntDh2w,Hidalgo Mexican Food,35-9 Vernon Blvd,"{'latitude': 40.7632870632524, 'longitude': -73.9415278658571}",20,4.0,11106
+SbSfNyGKyarQC-ixuIn7fw,Lasiaf Tacos,2368 Flatbush Ave,"{'latitude': 40.612299, 'longitude': -73.925793}",38,3.5,11234
+HDDYiEkZpVgHpCDLP4FEFw,Waheyo,27-16 Queens Plz S,"{'latitude': 40.7499503, 'longitude': -73.9396376}",34,3.5,11101
+DNe4uZuvsoEdvRXhyC6dew,La Fiesta,3789 Broadway,"{'latitude': 40.8344, 'longitude': -73.94496}",87,4.0,10032
+5VjJtOBOOnZRx4KC71IpXQ,Cruz Mexican Deli,3211 41st St,"{'latitude': 40.75824, 'longitude': -73.91822}",9,4.5,11103
+h6av58AtWYPrMf5V72Kdug,Cholula Deli,222 Wyckoff Ave,"{'latitude': 40.70095, 'longitude': -73.91416}",12,4.5,11237
+cOUYYcrOeManYPyuun_xVg,Jimbo Slims,524 Graham Ave,"{'latitude': 40.7209450363619, 'longitude': -73.9465168238625}",27,5.0,11222
+4zBGXDXg9DzK0IROwCUeFg,Cowgirl Seahorse,259 Front St,"{'latitude': 40.7081358, 'longitude': -74.0004532}",545,4.0,10038
+JUQ1QYsbsWobgYiPn4zp7Q,Panchitas Place,709 5th Ave,"{'latitude': 40.66062, 'longitude': -73.99397}",41,4.0,11215
+T8VPr7B3IaQ51fuDWz3UaA,Compadres77 Mexican Restaurant,115-20 Queens Blvd,"{'latitude': 40.7159829, 'longitude': -73.8340859}",39,3.5,11375
+zJmMDGwr6yZ8pjrdC2VciA,Tacombi - Fort Greene,25 Lafayette Ave,"{'latitude': 40.68699, 'longitude': -73.9779}",91,3.5,11217
+JywbRdA7yskb-06WbjUjKw,Paquito's,143 1st Ave,"{'latitude': 40.728137, 'longitude': -73.985134}",244,3.5,10003
+gAAG2KJ_pdfAK-_UVN-bjQ,Oaxaca Taqueria,130 Grand St,"{'latitude': 40.7148433, 'longitude': -73.9626569}",36,3.0,11249
+q8YAM38nAsVoRcWOER9I9A,Parrilladas Sunrise,83-11 Northern Blvd,"{'latitude': 40.75597, 'longitude': -73.88396}",35,4.0,11372
+mpGDqwli5h03SpCnJfbbPQ,Top Taco,1774 Flatbush Ave,"{'latitude': 40.626601, 'longitude': -73.941478}",6,4.0,11210
+1hvLetKdVGuRkid4IZI8Gg,Sazon De Lupita Antojitos Mexicanos,155 W Kingsbridge Rd,"{'latitude': 40.87003, 'longitude': -73.9038577}",29,4.0,10468
+p7MviobRqz5rvdzmsjBdEw,El Aguila,1634 Lexington Ave,"{'latitude': 40.790573, 'longitude': -73.947715}",176,4.0,10029
+FjeUodgFr0KCWJ1ylvGjdQ,Haab,202 Leonard St,"{'latitude': 40.71099, 'longitude': -73.94707}",174,3.5,11206
+XGdUYzkPkX94RoLlPDymeQ,Tacos Y Quesadillas Mexico,2030 Broadway Ave,"{'latitude': 40.777487, 'longitude': -73.982069}",31,4.0,10023
+5Ota_iMwlPLPrap-KfQrgw,Benny's Burritos,113 Greenwich Ave,"{'latitude': 40.7380740387279, 'longitude': -74.002123778491}",722,3.5,10014
+p_qYaQBAieWIG6lKKjT5VQ,Los Almuerzos Mexicanos,138-21 Jamaica Ave,"{'latitude': 40.70272, 'longitude': -73.81464}",30,4.5,11435
+GauXFEjAMUY1cy-Hr3aWuA,Mezcal Kitchen JC,665-A Newark Ave,"{'latitude': 40.73428, 'longitude': -74.0591}",29,4.0,07306
+3l_Zr3YGr6cCwcKIAcPvOg,Mezcal's Mexican Restaurant- Carroll Gardens,522 Court St,"{'latitude': 40.676055, 'longitude': -73.999229}",57,3.0,11231
+8J5Nq59GFqWEcKDQlRZj2A,La Pasadita Taco Truck,957 Broadway,"{'latitude': 40.697104, 'longitude': -73.934752}",8,4.5,11206
+QJ1o9d1PVEE676rbzRUNjA,Tac N Roll,124 E 4th St,"{'latitude': 40.7252676, 'longitude': -73.9877743}",180,4.5,10003
+rkPpLoJKMUTNmd-uyqfq1g,Taqueria El Fogon,1050 Flushing Ave,"{'latitude': 40.7044101, 'longitude': -73.9291005}",155,3.5,11237
+UlGSfUiVs4V5oH9C4AHD5w,Cielito Lindo Bistro,665 Nostrand Ave,"{'latitude': 40.6745053, 'longitude': -73.9498836}",8,3.5,11216
+rPTtQ-FO_F9tMJDl3m50Bg,Tijuana Picnic,151 Essex St,"{'latitude': 40.7207634, 'longitude': -73.9873657}",288,3.0,10002
+9yTnfgbCENMZUUAlY1ym9g,Cabo,3764 E Tremont Ave,"{'latitude': 40.8257522583008, 'longitude': -73.8216018676758}",327,3.5,10465
+t86q8MbsrW8pB8bmfwPWTw,Blockheads,954 2nd Ave,"{'latitude': 40.7551, 'longitude': -73.96802}",429,3.5,10022
+WE064Ln20S4MQVT1hETCCw,Canyon Road Grill,1470 1st Ave,"{'latitude': 40.770694, 'longitude': -73.953774}",223,3.5,10075
+hg5LjqQ6pTM4U58nJiDylg,Habanero Mexican Cuisine,141 Lincoln Ave,"{'latitude': 40.80856, 'longitude': -73.92916}",31,4.0,10454
+QLbWZMiqzV6zTPXS3nuzjg,Taqueria El Fogon,241 Cook St,"{'latitude': 40.70362, 'longitude': -73.93314}",35,3.0,11206
+s3VRd36vPO4RNrm4XNQDWg,San José Tulcingo Deli Grocery,109 E 153rd St,"{'latitude': 40.8241674799833, 'longitude': -73.9279800807582}",21,4.5,10451
+tt91_FxQHt2H_cmVbWFU_A,Taqueria El Barrio,2327 1st Ave,"{'latitude': 40.7982299, 'longitude': -73.93419}",39,3.5,10035
+0o0s6bUIuy0LTGNR3xYzzw,Dos Toros Taqueria,1111 Lexington Ave,"{'latitude': 40.7739509, 'longitude': -73.9594762}",348,3.5,10075
+vvev861zA81pk7GluKMddw,Tacos Al Suadero,39-04 103rd St,"{'latitude': 40.7504654470745, 'longitude': -73.8631192539666}",23,4.0,11368
+Ay38C7i2ziGjjoG9Q6Bo0A,Grand Morelos,727 Grand St,"{'latitude': 40.71188, 'longitude': -73.94367}",193,3.5,11211
+9ZTyAKZI0cpCbmTYZgNjAA,Santa Clarita,237 Willis Ave,"{'latitude': 40.809496, 'longitude': -73.922842}",19,4.5,10454
+sshS0FJ6tKkmLCcEKXyVkA,El Tepeyac Mexican Food,1621 Lexington Ave,"{'latitude': 40.789737, 'longitude': -73.94786}",21,4.5,10029
+A8qXfx_LBI6fnOhxDmvIOA,Sabor A Mexico,1744 1st Ave,"{'latitude': 40.77953, 'longitude': -73.94704}",133,3.5,10128
+-xeLK9VppWFh6AtP26Hxpg,Los Papi's,77 Bridge St,"{'latitude': 40.7021, 'longitude': -73.98444}",70,4.5,11201
+ir1jLDagZiMaHo7My4oUDg,La Flaca,384 Grand St,"{'latitude': 40.7165, 'longitude': -73.98763}",328,3.5,10002
+v0vKiXBcrTGD3jR-tf8ujA,El Paso Mexican Grill,1610 Newkirk Ave,"{'latitude': 40.635877, 'longitude': -73.962081}",163,3.0,11226
+99-sztsdc3Xlpw_Lc5F5Ng,El Don Taqueria & Grocery,53-24 Roosevelt Ave,"{'latitude': 40.744444, 'longitude': -73.910731}",12,4.5,11377
+VsqHs36uLxhqmjo60r1aJA,Habana To-Go,229 Elizabeth St,"{'latitude': 40.72292, 'longitude': -73.99418}",262,4.0,10012
+tFIiJ49W47o7QjXNpMtlGQ,Taqueria Izucar II,1480 Dekalb Ave,"{'latitude': 40.7012977600098, 'longitude': -73.9218368530273}",9,3.5,11237
+XhCzENVgRBYcKwWLMX7FRg,Kimchi Grill,766 Washington Ave,"{'latitude': 40.6750885, 'longitude': -73.9634982}",545,4.0,11238
+ywQzvW5TT6hj1tbiwE4M9w,Mex Carroll's Diner,192 Columbia St,"{'latitude': 40.68556, 'longitude': -74.00276}",29,3.5,11231
+B2RP0JwTBsQhS1n5_DQG0Q,Lindo Guerrero Restaurant,340 Wilson Ave,"{'latitude': 40.69558, 'longitude': -73.91695}",7,4.0,11221
+WsTOWEJKa7Kc9rbmFSRAgw,Mexican Food,71st Ave & Austin St,"{'latitude': 40.7201701389815, 'longitude': -73.8447921353291}",27,3.5,11375
+m8z1eTTetr-JbSM1HU2t6Q,Tacos Y Quesadillas Mexico,924 9th Ave,"{'latitude': 40.7686908, 'longitude': -73.9849574}",45,4.0,10019
+4xR2g3e_w9APSdvln8cwFw,El Gallo De Oro,360 Ocean Ave,"{'latitude': 40.6983642578125, 'longitude': -74.0864791870117}",20,4.5,07305
+lnvvEay-dxakpiscM-dZbA,El Toro Bravo,88-12 Roosevelt Ave,"{'latitude': 40.7479930621229, 'longitude': -73.8780908659101}",35,4.0,11372
+GKF0TK-aSlPnCFxfvz5v7g,Paraiso Azteca Restaurant,1681 E 16th St,"{'latitude': 40.6086, 'longitude': -73.9571799}",54,3.5,11229
+qTWujv2b2ZuxJPiZFsqbFQ,El Molcajete,1506-08 Westchester Ave,"{'latitude': 40.8283148, 'longitude': -73.8796477}",18,4.0,10472
+_8ID_2uUGkhOEVUEzNH47A,Tacos el Chicken,120 Beverley Rd,"{'latitude': 40.642616, 'longitude': -73.978576}",28,4.0,11218
+UfiBkytwsoff5pF-AStMPA,Mally's 2,602 Seneca Ave,"{'latitude': 40.7038964, 'longitude': -73.9098091}",11,3.5,11385
+a8zC7ZxpmfXOw-5fWAklRA,Isabela Mexican Restaurant,4412 4th Ave,"{'latitude': 40.649735, 'longitude': -74.009627}",23,3.5,11220
+c-X-Hf1mFhbzGXcWKOhu_Q,Cinco de Mayo,42 29th Bell Blvd,"{'latitude': 40.761917, 'longitude': -73.769798}",218,3.0,11361
+falSn6tDPEp-gf5O-wuarw,Cinderella's Restaurant,108 Victory Blvd,"{'latitude': 40.6374588, 'longitude': -74.0799103}",11,4.0,10301
+oNYP0AFOSw_oZEHkF_f0kQ,Cemitas Puebla,520 24th St,"{'latitude': 40.767849, 'longitude': -74.0327988}",132,4.0,07087
+FkA9aoMhWO4XKFMTuTnl4Q,Atla,372 Lafayette St,"{'latitude': 40.7271874, 'longitude': -73.9938924}",218,3.5,10012
+WJIU2Cu6i6-9n-ZUE5rEQA,Sabor A Mexico Taqueria,160 1st Ave,"{'latitude': 40.7284353669, 'longitude': -73.9844540083}",89,3.5,10009
+gLar0VXuQDv9MKGU_ooqGg,Ricos Tacos,505 51st St,"{'latitude': 40.64453, 'longitude': -74.01066}",172,3.5,11220
+rNldYbdOcJRGmLgD29ZELA,Don Panchito,N 3rd St,"{'latitude': 40.7154074225537, 'longitude': -73.9603268362965}",44,4.0,11211
+GXK3j99VZK-7JJ0YrtIR0w,Parada 47,526 W 47th St,"{'latitude': 40.763092, 'longitude': -73.99443}",40,4.0,10036
+0XuJtcq9nMdAWyhJ_fZC-w,Virgin Mary Tacos,370 E 28th St,"{'latitude': 40.7400398, 'longitude': -73.9766541}",4,5.0,10016
+MFtGKvIYMKmJyXaz7IrMTQ,El Puerto Mexicano Bar & Restaurant,84-28 Jamaica Ave,"{'latitude': 40.6922391, 'longitude': -73.8597963}",27,3.0,11421
+n_0zk3Lm7PKChIaZL8EorQ,Tacos Lopez,,"{'latitude': 40.6192398071289, 'longitude': -74.0333709716797}",46,4.5,11209
+1L4CLbwsKP3wGX4yOpgueQ,Bar Taco,185 Avenue C,"{'latitude': 40.72687, 'longitude': -73.97701}",20,4.0,10009
+QqYR48m1nJ8OtkZ715HXGg,Rodriguez Productos Mexicanos,190 E 166th St,"{'latitude': 40.83147, 'longitude': -73.91873}",5,4.5,10456
+0t_fKf_rNPYgm6YPgy930Q,Piaztlan,155 Bay St,"{'latitude': 40.671852, 'longitude': -74.003242}",1,5.0,11231
+bVi0Rk_GfkrJJELLXaqEeA,Dos Toros Taqueria,636 Lexington Ave,"{'latitude': 40.7592114, 'longitude': -73.9706706}",81,3.5,10022
+jHd7KHMvpI53bZyL9UGTug,Oxido,1450 Broadway,"{'latitude': 40.7547219061481, 'longitude': -73.9862432694773}",9,2.5,10036
+orlKht_5oVoL_4UfwJ57LQ,San Atanacio Deli-Grocery,6304 Bay Pkwy,"{'latitude': 40.6149709748988, 'longitude': -73.9805127187319}",5,4.5,11204
+zUryis8eMrzRE8ibDC9ffA,Mariachi Taco,3428 Fulton St,"{'latitude': 40.68428, 'longitude': -73.86913}",18,3.5,11208
+nt84nQ3x-hfQYR2CT1P2IA,El Pitallito Mexican Restaurant,3854 Broadway,"{'latitude': 40.8362922817469, 'longitude': -73.9430563151836}",23,3.5,10032
+VUsjoFZ15OVQ4Ol7zt80zg,La Lomita Mexican Deli,3868 10th Ave,"{'latitude': 40.8641999, 'longitude': -73.91936}",22,4.0,10034
+lyKgV-M9XKm9osK6bT1a-Q,Cafe Con Pan,32 New Dorp Plz,"{'latitude': 40.573773, 'longitude': -74.116305}",28,4.0,10306
+B-bx4pZXrat0D25vde2bJQ,Cantina Taqueria & Tequila Bar,329 Lenox,"{'latitude': 40.8088408787201, 'longitude': -73.9449808870425}",184,3.5,10027
+AgAkUVLN_axMY-bzbNCfCw,Yuca Bar,111 Avenue A,"{'latitude': 40.7262, 'longitude': -73.9836}",1684,4.0,10009
+9laSSXnr4F16gURfUBbZTA,Oaxaca Taqueria,1709 2nd Ave,"{'latitude': 40.77964, 'longitude': -73.95081}",73,3.5,10128
+iqZgf0kRW9ngWRxJH0Y8kg,El Pastorcito,74 Victory Blvd,"{'latitude': 40.6379508972168, 'longitude': -74.0790176391602}",2,5.0,10301
+kKRzPQD6XF5Nx3pX2R8NIw,Chinelos II,530 W 136th St,"{'latitude': 40.82033, 'longitude': -73.95378}",65,3.5,10031
+bl4yPiWAre56vxbiRpdAkQ,Taqueria Los Jarritos,121 Nagle Ave,"{'latitude': 40.86061, 'longitude': -73.92697}",29,4.0,10040
+syQqK_8IZeX3k5FshcDMMQ,Cholula Deli Grocery,1481 Myrtle Ave,"{'latitude': 40.699207, 'longitude': -73.916503}",15,3.5,11237
+PEs-OAHG5CFJwEB8bN_98Q,Mi Pequeno Ranchito Restaurant,4614 New Utrecht Ave,"{'latitude': 40.6388833181132, 'longitude': -73.9944920424362}",3,4.5,11219
+7B7lFbjmXqim9LCpr-jBQg,Los Pollitos III,499 Myrtle Ave,"{'latitude': 40.69366, 'longitude': -73.96517}",128,2.5,11205
+4EGq0GMAJwGIrfhVg4PxVw,Swick 2,3504 35th St,"{'latitude': 40.7564825, 'longitude': -73.9254339}",32,4.0,11106
+qmoA7CY8hhU4RIUGAfRYhg,Taqueria Huarache,16 E Mt Eden Ave,"{'latitude': 40.8440592106296, 'longitude': -73.9142958513615}",25,4.0,10452
+s3Zs6FNW-FUTA3ODWOFVsA,Adriana's Mexican Cuisine,10-12 E 15th St,"{'latitude': 40.6215899976324, 'longitude': -73.9607000192103}",2,5.0,11230
+veeKjzzHsO9e4wKLxpuhtQ,El Rey Del Taco Truck,33-01 30th Ave,"{'latitude': 40.76622, 'longitude': -73.91933}",465,4.5,11103
+YS21bp9Wp715X75r7eTzxw,Mi Querido Mexico Lindo,247 E 116th St,"{'latitude': 40.79733, 'longitude': -73.93816}",12,4.5,10029
+PZWhzOHAkT6G20kNAOSQrw,Mi Lindo San Miguelito,257 W 231st St,"{'latitude': 40.88006, 'longitude': -73.90675}",32,4.0,10463
+-d4NCP8B0sXUUcWFsddVbw,Border Burrito,287 Bedford Ave,"{'latitude': 40.71403, 'longitude': -73.96147}",15,4.0,11211
+U5zFfGUDhuJPdZsBzcZ35Q,Aqui En Bella Puebla,94-11 Roosevelt Ave,"{'latitude': 40.748914629221, 'longitude': -73.872199729085}",24,4.0,11372
+k5BZq7XdRFr4xMbZMMGxxg,Dos Toros,1 State St,"{'latitude': 40.70253, 'longitude': -74.01333}",3,3.0,10004
+BGzM81ykCfUKjGUrq66fgA,La Cocina De Agave,398 W 145th St,"{'latitude': 40.8242411149966, 'longitude': -73.9452161405442}",94,3.5,10031
+Z3wa8EmAr0yfihPZZMLE_A,Les Crêpes & Taqueria,25A Essex St,"{'latitude': 40.7154425095498, 'longitude': -73.9899829811096}",74,4.0,10002
+UVDCFAjuDFZDHt1vGLl__Q,KC Taqueria Coffee Shop,67-22 Fresh Pond Rd,"{'latitude': 40.70515, 'longitude': -73.89659}",36,3.0,11385
+14gt2epj7Tbbcu1HRwjwBw,Antojitos Mexicano El Taco Taco,2831 Broadway,"{'latitude': 40.8041252611665, 'longitude': -73.9670319963918}",6,4.5,10025
+2ewrI499NSsA1sNX30K5Dg,Lunera Modern Mexican,3225 Steinway St,"{'latitude': 40.7582236, 'longitude': -73.9194022}",93,4.0,11103
+p3c3-cIIHjM090iZlA8WIQ,Estrellita Poblana II,2819 White Plains Rd,"{'latitude': 40.8670645863417, 'longitude': -73.8675294497723}",109,3.5,10467
+hAPJ5u7-gg358T2Y8mT91Q,Nacho Macho Taco,591 Knickerbocker Ave,"{'latitude': 40.69646, 'longitude': -73.91388}",13,4.0,11221
+x9wa2M7gvf32swUSBP3uXA,Blockheads,Worldwide Plz,"{'latitude': 40.7627155294445, 'longitude': -73.9876316100625}",741,3.5,10019
+2IrwjU67gguqLqQqZ1nFPg,Guadalupe Restaurant,597 W 207th St,"{'latitude': 40.86739, 'longitude': -73.92083}",593,4.0,10034
+nLGaT5Uqe7xnSvXCuesiYA,156 Tex Mex,156 Knickerbocker Ave,"{'latitude': 40.704044, 'longitude': -73.928077}",5,4.0,11237
+ijOVg2Ea8sfPFXc4L6CADw,Elena's Restaurant Authentic Mexican Cusine,5 West Tremont Ave,"{'latitude': 40.8519563823938, 'longitude': -73.9095045626163}",35,3.5,10453
+0IFd_nGY2l_Miai4n7ifTA,Tacos El Paisa,1548 Saint Nicholas Ave,"{'latitude': 40.8533143, 'longitude': -73.9306442}",81,4.0,10040
+ylKN_i-3bDdBf9nxULUMLw,Taqueria Los Reyes,1380 White Plains Rd,"{'latitude': 40.8353139, 'longitude': -73.862746}",36,3.5,10462
+mqlmAxvp0b1jEL-mWN4dVg,Freedom Mexican Restaurant,679 5th Ave,"{'latitude': 40.661594, 'longitude': -73.992858}",10,3.5,11215
+UBqLK5kg0kT72CIaBYa5Zg,Patron Mexican Grill,608 9th Ave,"{'latitude': 40.75923, 'longitude': -73.99173}",397,3.0,10036
+BtBApV_SvFKmstbjqs4uig,Los Potrillos,150 Port Richmond Ave,"{'latitude': 40.6374622309794, 'longitude': -74.1340140932138}",13,4.0,10302
+iewIsfa5h_uLW3SuxoJB_w,Macareno Central,6810 4th Ave,"{'latitude': 40.6351011097354, 'longitude': -74.0235973522067}",3,4.5,11220
+-EqXs-q_JXzTHIGXZae2kg,Mixtec Restaurant,2345 Jerome Ave,"{'latitude': 40.8598, 'longitude': -73.90322}",1,2.0,10468
+KNo4WyHcQ8Kwd4zXy_mhfA,El Cantante,110 Leroy St,"{'latitude': 40.73019, 'longitude': -74.00762}",1,4.0,10014
+X6A6a8hTPd1pZFNZE80TfA,Tacos Cuautla Morelos,438 E 9th St,"{'latitude': 40.7274619080615, 'longitude': -73.9832050287211}",111,3.5,10009
+RjblkxUBTtzG-tcgFyCofA,Takumi Taco,601 W 26th St,"{'latitude': 40.751606, 'longitude': -74.00652}",36,4.0,10001
+GsMmzzzGATnAnMP-HmYSqQ,Leo's Restaurant,207 Knickerbocker Ave,"{'latitude': 40.703573, 'longitude': -73.926227}",53,3.5,11237
+WZLhPYaYSFy7M_-Jh1VuNw,Dos Toros Taqueria,200 Vesey St,"{'latitude': 40.7130865074113, 'longitude': -74.0160842315927}",97,3.5,10285
+9MWmRzKbw6-OR8O1fYa2fw,Tacos El Bronco,37th St & 5th Ave,"{'latitude': 40.65237, 'longitude': -74.00274}",115,4.5,11232
+QP77bL34-vftZFZZC2N7sQ,Ghost Donkey,4 Bleecker St,"{'latitude': 40.72524, 'longitude': -73.99271}",108,3.5,10012
+nowDLGFEZjT6ccdDDJy5PA,Izzy’s Taqueria,397 Troy Ave,"{'latitude': 40.6648701175503, 'longitude': -73.9368999749422}",2,4.0,11213
+ZVtui4cnUs7iXRJMDD1GwA,El Rey Del Taco,3217 Bergenline Ave,"{'latitude': 40.7725668, 'longitude': -74.0291146}",31,4.0,07087
+8p1HTzXEcC3TCbLz59xMng,La Diagonal,185 St Nicholas Ave,"{'latitude': 40.8061, 'longitude': -73.95302}",154,4.0,10026
+emL5uzqKWWqUIsew5R9nnA,Tacos Y Quesadillas Mexico Restaurant,104-40 Corona Ave,"{'latitude': 40.74367, 'longitude': -73.85728}",21,4.0,11368
+Jw6nTaia5rdxefvg5tQ9uQ,El Maguey Mexican Restaurant,83-28 Northern Blvd,"{'latitude': 40.7555523, 'longitude': -73.8840807}",48,3.5,11372
+4sNPRRefpFQl-fE_aU5XaA,Refried Beans Mexican Grill,591 Fort Washington Ave,"{'latitude': 40.8549599636967, 'longitude': -73.9370997259323}",237,3.5,10033
+BjJKFJkC3V9vXgr30GL3vw,Domo Taco,733 Franklin Ave,"{'latitude': 40.673587499494, 'longitude': -73.9567834196103}",171,3.5,11238
+Jvy_dhGSmiQM3Thf571FxA,Vista Hermosa Restaurant,1201 Evergreen Ave,"{'latitude': 40.8287, 'longitude': -73.88123}",44,3.5,10472
+Pda9zJfg0pRABp9krlJh3Q,El Rey Del Sabor,43RD And 6th Ave,"{'latitude': 40.7555, 'longitude': -73.98361}",29,4.0,10036
+4rAXH_bl_iJ1BwHp7I3rYg,Al Horno Lean Mexican Kitchen,417 W 47th St,"{'latitude': 40.762149, 'longitude': -73.990997}",229,3.5,10036
+l5F-oBspaxC7hqpMObcSkg,Sun Azteca,123 Wyckoff Ave,"{'latitude': 40.704489, 'longitude': -73.918875}",5,4.0,11237
+8gmRUYZIcfmWl0pFB60tpA,Tacos El Vagabundo,Queens Blvd & 41st St,"{'latitude': 40.743566, 'longitude': -73.923362}",88,4.5,11104
+_XPusO4eMV3L9TiD38I4gw,Al Horno Lean Mexican Kitchen,110 Pearl St,"{'latitude': 40.7045938074589, 'longitude': -74.0092887729406}",48,3.0,10005
+bU0Ymp2m_6sq3NPw_rXGFw,Lobo,218 Court St,"{'latitude': 40.686588, 'longitude': -73.994155}",311,3.5,11201
+4wDGKf3dsSo2b3svJHh-qw,Josefina's Mexican Restaurant,36-01 10th St,"{'latitude': 40.761385, 'longitude': -73.940646}",4,5.0,11106
+h1PXV90jW1bXIWVlKiF0NQ,DesiBowl,49-11 Vernon Blvd,"{'latitude': 40.74297, 'longitude': -73.95369}",68,4.0,11101
+WyeBhonhjnjzzpuPJ1euvw,La Chula NYC,89 E 42nd St,"{'latitude': 40.752901, 'longitude': -73.9773022}",68,3.5,10017
+hrswGldQVdR9OJRtqp0TxA,Gonzalez y Gonzalez,192 Mercer St,"{'latitude': 40.7261303289736, 'longitude': -73.9972339217213}",428,3.5,10012
+cFB3Mfsqrg69Vi9WO7bTmA,Carniceria,396 Hooper St,"{'latitude': 40.7100952311239, 'longitude': -73.9520365428969}",2,5.0,11211
+60sLpAHHl-IvANGTRzfCow,Tacos Grand Central,711 2nd Ave,"{'latitude': 40.7476230390695, 'longitude': -73.9740906903076}",17,4.0,10016
+N-yqacjOkrrXsGMgogmZWg,El Tequilazo,17237 Hillside Ave,"{'latitude': 40.7122945231321, 'longitude': -73.7891526480506}",15,4.5,11432
+a4yyl1rPu2id2M33_ftKXw,Aguilas de Mexico Restaurant,118 Pacific St,"{'latitude': 40.723789, 'longitude': -74.16735}",153,4.0,07105
+PZM0lwv0i0ZRpyzioRU8SA,Lime Jungle Empanadas,197 7th Ave,"{'latitude': 40.743201852814, 'longitude': -73.9966291921214}",89,3.5,10012
+qmSBFiAikpyUO3JA8ez1Ow,El Loco Burrito,345 Graham Ave,"{'latitude': 40.7147469, 'longitude': -73.9445868}",183,2.5,11211
+-FT-wCObDQJaXns_l8b5fw,Mex 'N Roll,154 North 7th St,"{'latitude': 40.7174719202704, 'longitude': -73.9585864853214}",14,4.5,11249
+EZ3vOz-DCwhn_lcFF0HZEQ,Fidela's Restaurant,164-12 69th Ave,"{'latitude': 40.732951, 'longitude': -73.8046798}",4,4.0,11365
+Zh_52Qun5eAhcYb6LOfNWw,Tacos El Pollo,1318 Cortelyou Rd,"{'latitude': 40.6407576528866, 'longitude': -73.9653689414263}",6,4.5,11226
+AGwgDMaC6m4CjOohQRIBcQ,Tacos Morelos,75 Wall St,"{'latitude': 40.7053992525685, 'longitude': -74.007755112878}",3,5.0,10005
+wAmWk6hQaHjREDVe8z2otA,Pampano Taqueria,805 3rd Ave,"{'latitude': 40.75537, 'longitude': -73.97054}",165,3.5,10022
+6UwcLc6NJo45Hb5aIlbX5w,Adelitas Mexican Cuisine,221-03 Jamaica Ave,"{'latitude': 40.71998, 'longitude': -73.73313}",2,2.5,11428
+juULANORQ2onWkEvSMjlaw,Al Horno Lean Mexican Kitchen,1089 2nd Ave,"{'latitude': 40.75967, 'longitude': -73.96525}",112,3.5,10022
+xNgaGyePJ7fyZ9D0J74-3A,East LA,508 Washington St,"{'latitude': 40.74258, 'longitude': -74.02966}",358,3.0,07030
+IHGm6huN_Z48KdorBjztSQ,Guacamole Taqueria,5025 Broadway,"{'latitude': 40.86952, 'longitude': -73.91674}",106,3.5,10034
+8Gg_SoA5TA7pLNB-xuPhPw,Mexikosher,100 W 83rd St,"{'latitude': 40.78458, 'longitude': -73.97393}",71,3.5,10024
+6NBXf3fOJYL365PoaD2qAA,Manjares Mexico,4408 Broadway,"{'latitude': 40.7572483, 'longitude': -73.9155682}",8,4.0,11103
+9OUXhF3r1CVF8jahUanMbg,Cancun,937 8th Ave,"{'latitude': 40.76578, 'longitude': -73.98379}",348,3.0,10019
+TV_rsstsxdcFh_YmaSSv_g,Jalisco Tacos,214 St Anns Ave,"{'latitude': 40.80622, 'longitude': -73.91748}",16,4.0,10454
+Y1dM7kSfq7PoB7NrDQFpdQ,Picante,3424 Broadway,"{'latitude': 40.8228372881426, 'longitude': -73.9527709564668}",284,3.0,10031
+XYyIWs-3J4bZRZDfcsMquQ,Rancho Tequilieria,741 9th Ave,"{'latitude': 40.7637209, 'longitude': -73.989186}",248,3.5,10019
+F76RYME8VeIIJDkVCOe0rg,Tequila Chito's Mexican Grill,358 W 23rd St,"{'latitude': 40.7460136413574, 'longitude': -74.0009002685547}",197,2.5,10011
+kwknIGiHza2sjdt-bwPGwQ,Blockheads,60 3rd Ave,"{'latitude': 40.73123, 'longitude': -73.98905}",190,3.5,10003
+3iegS9M-EMbkhaPV2rsovg,Bistro Casa Azul,343 Pleasant Ave,"{'latitude': 40.79659, 'longitude': -73.93229}",14,5.0,10035
+9vISn2VuyhBgB3C1I6pyvw,Dos Toros Taqueria,189 Bedford Ave,"{'latitude': 40.7175893, 'longitude': -73.9579096}",143,3.5,11211
+DhivGpHqgPy1f1gSXhrvPg,LA Burrito,67 Wilson Ave,"{'latitude': 40.70235, 'longitude': -73.92837}",164,3.0,11237
+q1j4Xgq0_myV0hzgTZ2nkg,Evodio's Place,222 Clinton Ave,"{'latitude': 40.6913531760712, 'longitude': -73.9687436216104}",3,4.5,11205
+uOaiLIkwFbOOAc0xoW81XA,Taco Veloz,8610 Roosevelt Ave,"{'latitude': 40.747793, 'longitude': -73.87985}",55,4.5,11372
+ytTwhBk6IUv6ZcMcxrgFlg,El Rey Latino,6342 108th St,"{'latitude': 40.7338441080313, 'longitude': -73.8503124767212}",86,3.5,11375
+JpEENiSNl3MzAQN1FyKPdw,Los Girasoles Restaurant,2613 Webster Ave,"{'latitude': 40.86304, 'longitude': -73.88982}",12,4.0,10458
+H9GD7km7riFooM0FkdwOPg,Calle Ocho,45 W 81st St,"{'latitude': 40.7831208393736, 'longitude': -73.9737190394484}",2455,4.0,10024
+_fff8IsejG9-2cFbf-CnrA,Lupita's Restaurant,904 Melrose Ave,"{'latitude': 40.82463, 'longitude': -73.91343}",9,3.5,10451
+8adDDDWuqjZeCJCDjEGS2A,Las Conchitas Bakery,4811 5th Ave,"{'latitude': 40.64579, 'longitude': -74.00941}",10,4.5,11220
+OM0B1aDTs7uLWuvPikDIVg,Happy Fresh Tortillas Grill,299 7th Ave,"{'latitude': 40.667659, 'longitude': -73.98059}",62,3.5,11215
+5C380xgCBJ9QEkSnyLCd0w,Homemade Taqueria - Corona,40-10 Junction Blvd,"{'latitude': 40.7487763969621, 'longitude': -73.8692231476307}",38,3.5,11368
+4LtYkIqywyns24DbE02a8g,Cherokee Deli,1626 Broadway,"{'latitude': 40.684788, 'longitude': -73.914368}",3,4.5,11207
+JPOjbYV-4NG1C221UVUtiQ,Baja Mexican Cuisine,104 14th St,"{'latitude': 40.75349, 'longitude': -74.026384}",199,3.5,07030
+bDJbAgx0BryEphz-TYycTw,Oaxaquita La Bella,90-06 Jamaica Ave,"{'latitude': 40.6927557609923, 'longitude': -73.8544204851584}",15,2.5,11421
+fc61TdsmBK_iX67P_gI-YA,Jicama NYC,894 Ave Of The Americas,"{'latitude': 40.74826, 'longitude': -73.988506}",19,3.5,10001
+1mynqR4fWUovyt9q1_zI9g,ERT Restaurant,73-18 Northern Blvd,"{'latitude': 40.7546065, 'longitude': -73.8930553}",2,5.0,11372
+VoEB81AQajTsatt56aiTLA,Dos Toros Taqueria,119 W 40th St,"{'latitude': 40.7540578242766, 'longitude': -73.9859579131007}",72,3.5,10018
+sq6cLuNfDIb2ZrJTm9Z_cg,Mexicana Deli Grocery,339 E 204th St,"{'latitude': 40.87233, 'longitude': -73.87775}",27,4.0,10467
+sBzGM5T8qKtE2hRLpK8vFw,Yummy Taco,8011 Flatlands Ave,"{'latitude': 40.6357488, 'longitude': -73.9131869}",15,3.5,11236
+A0nCLU0qBly0AUm-pvgNXw,Tacos Mexico,32-08 38th St,"{'latitude': 40.75914, 'longitude': -73.92015}",91,3.0,11103
+f7-4kTNeYOhZdtJgXlbqBQ,El Rancho Burritos,359 W 45th St,"{'latitude': 40.7603099, 'longitude': -73.99087}",114,3.5,10036
+LXeUqlG7z4_jZG6rXvhnzQ,Mezcal Kitchen,482 Broadway,"{'latitude': 40.66334, 'longitude': -74.11837}",108,4.0,07002
+0gg9v2DnXapTA6YJm3JMkQ,Cañave,4716 Broadway,"{'latitude': 40.864528, 'longitude': -73.9289005151705}",43,4.5,10040
+XJ8EaZig8kn5z984eeoCRQ,Dos Toros Taqueria,11 Carmine St,"{'latitude': 40.73062, 'longitude': -74.0023}",273,3.5,10014
+oYmpJ1OXiYGr5IYSxlmGcw,Seis Vecinos Restaurant,640 Prospect Ave,"{'latitude': 40.81533, 'longitude': -73.90317}",53,4.0,10455
+oux6Pz_hRhJIiGs8EuT6pg,Boticarios,58 E 1st St,"{'latitude': 40.723828348853, 'longitude': -73.989407704216}",100,4.5,10003
+RyEd54MOTc5OcYtOiDt11g,Iguana Restaurant & Dance Lounge,240 W 54th St,"{'latitude': 40.7642063, 'longitude': -73.9832105}",785,3.0,10019
+I7vcH8iTPfQpKN2FvkuD_A,Queen Of Tacos,9 E Mosholu Pkwy N,"{'latitude': 40.88018, 'longitude': -73.88352}",80,3.5,10467
+_2aXZ9o3Yl_coNw9-IdqMQ,Mi Ranchito,1468 St Nicholas Ave,"{'latitude': 40.850878189059, 'longitude': -73.9325881480936}",40,3.5,10033
+j1lE04LqafT-t42AxhC-MQ,Santa Fe Grill & Bar,6025 Broadway,"{'latitude': 40.891321, 'longitude': -73.8977337}",82,3.5,10471
+v9BMwe8sEBBZYsJAFOY7Zg,Zefe's,1224 Myrtle Ave,"{'latitude': 40.697511, 'longitude': -73.928985}",47,3.5,11221
+FnRDmXgQ291zkRb63Rjb9w,Mi Pueblito,412 Kearny Ave,"{'latitude': 40.7652839160058, 'longitude': -74.1477151492868}",191,4.0,07032
+YvTqr7SBCestzWyi5iCaLw,Bushwick Pita Palace,243 Bushwick Ave,"{'latitude': 40.70753, 'longitude': -73.93965}",191,3.5,11206
+cwCOymiUPoB10Q-gtd6sWg,Pique 86,220 E 198th St,"{'latitude': 40.8696737140417, 'longitude': -73.8902724534273}",30,4.5,10458
+ePdAQHh3ZlktMZ4YTLWpwg,Tacos Juquilita,28TH Street And 6th Ave,"{'latitude': 40.7460399717093, 'longitude': -73.9905200153589}",5,4.5,10001
+POGfmcCkuLpkP_Vz98DuwQ,Caliente Cab,61 7th Ave S,"{'latitude': 40.7318059, 'longitude': -74.0035903}",726,2.5,10014
+UOYlGfGJgKvzvj16zrVuig,Azumma,265 Canal St,"{'latitude': 40.71897, 'longitude': -74.00102}",9,4.0,10013
+AJYOWcu2Zcoc1gUkHz4v1g,El Paso Mexican Grill,387 Flatbush Ave,"{'latitude': 40.6759231, 'longitude': -73.9713534}",35,3.0,11238
+fTyE8UGWb_4Q05fd_H6YPg,Burrito Loco,166 W 4th St,"{'latitude': 40.73195, 'longitude': -74.00154}",259,3.0,10014
+YNgNu11VOM6x2yT04BT-1Q,Mi Taqueria Tolte Restaurant,9210 Corona Ave,"{'latitude': 40.74225, 'longitude': -73.87199}",10,4.0,11373
+ddFY9PpygYagv7-jVduB2Q,Counter & Bodega,266 W 23rd St,"{'latitude': 40.745, 'longitude': -73.9982}",42,5.0,10011
+NOUujFVP_d4XBrJqTra55A,Tacos El Bronco II,White Plains Rd & Lydig Ave,"{'latitude': 40.85453, 'longitude': -73.86769}",103,4.5,10462
+YgLnMlaFhnZGLHEyF2D_Eg,Tacosssssss,33-98 Fulton St,"{'latitude': 40.68463, 'longitude': -73.86873}",7,4.0,11208
+7al7ikR4Zl-onhoDi175lA,Las Chelitas,7312 13th Ave,"{'latitude': 40.62128, 'longitude': -74.00662}",2,5.0,11228
+sMck1jbU2fWNUdEx2BQCqQ,Avenida Cantina,25 Ave B,"{'latitude': 40.722236, 'longitude': -73.983009}",227,3.5,10009
+bSdguSmgdkPBfmD0bPUYKg,Jane's Eatery,215-05 Northern Blvd,"{'latitude': 40.7608247224371, 'longitude': -73.7673823535442}",173,4.5,11361
+HrGdbJEZsB3Pw43j8nyO0w,Pico de Gallo,8212 Roosevelt Ave,"{'latitude': 40.7475128, 'longitude': -73.883667}",27,3.5,11372
+EHdC-1lUdVCzUgcQus4wNQ,Tacos Hidalgo,154 Bleecker St,"{'latitude': 40.728352637419, 'longitude': -73.99962635664}",2,5.0,10012
+Rftb0GjAxtG1imaTofwBwQ,"Tacos, Twins and Trains Taco Cart",64 Bogart St,"{'latitude': 40.7056431, 'longitude': -73.9333922}",15,4.5,11206
+UCk8blemSO8mRheat-YUpA,Don Taco,4321 Broadway,"{'latitude': 40.8524029383487, 'longitude': -73.9348895207718}",22,4.0,10033
+QghX09YNXwd0ZsHFqx2qlw,La Canasta Deli,272 Sand Ln,"{'latitude': 40.592674, 'longitude': -74.068523}",22,3.5,10305
+4Fe6J1brxdVHdhFW1iKUlQ,El Coyote Restaurant,80-18 Northern Blvd,"{'latitude': 40.7552907510186, 'longitude': -73.8866319740258}",220,3.0,11372
+OoFr5pilPnfIhH5Uvj7aAw,Rosarito Fish Shack,168 Wythe Ave,"{'latitude': 40.7195575, 'longitude': -73.9607528}",516,3.0,11211
+IybosF1HT_tp6e2Zqe2Jbg,Taqueria Lupita,3550 E Tremont Ave,"{'latitude': 40.82996, 'longitude': -73.825798}",14,4.0,10465
+7LLUCXaGbKIibj2mFiA-5Q,Tamales,99 Port Richmond Ave,"{'latitude': 40.63852, 'longitude': -74.13283}",3,5.0,10302
+lO6pSL1UeWm7R3ovDuClgg,Taqueria Mi Mariachis,1201 Flushing Ave,"{'latitude': 40.70715, 'longitude': -73.92465}",9,3.5,11237
+9pgUx3dpxlT8WBuX1gFNbg,Tacos El Torito Versatile,608 Melrose Ave,"{'latitude': 40.8172799, 'longitude': -73.91705}",10,4.0,10455
+swKXaURwqdSrSTcpHsxdbA,Lowerline,794 Washington Ave,"{'latitude': 40.67421, 'longitude': -73.96324}",82,4.5,11238
+LDLb6b0VGG4ATeNxUlchew,Azteca Restaurant,40-12 Queens Blvd,"{'latitude': 40.743449, 'longitude': -73.9237466}",1,4.0,11104
+KkL02YOcKXeq3g7H4GvqRQ,El Sancho,142 Avenue U,"{'latitude': 40.5965509875205, 'longitude': -73.9791472222222}",7,3.5,11223
+jB9_WGmZH3oCsXPM6Jkveg,La Cucina Mexican Grill And Cantina Bar,4503 5th Ave,"{'latitude': 40.6477, 'longitude': -74.0074099}",16,3.5,11220
+mykhv_-D5kREsbwCjeB1AA,Los Compadres,1224 Anderson Ave,"{'latitude': 40.8405312029345, 'longitude': -73.9811005506554}",65,4.5,07024
+fmWPll4-PI4PTx_b_E_-Hw,Tri Mexican Tacos,46th St & Greenpoint Ave,"{'latitude': 40.7421913, 'longitude': -73.9188919}",33,4.0,11104
+GNdUcCQH-7pnE2gT8Aq6-w,Taco Rey de Oro,52nd St And Roosevelt Ave,"{'latitude': 40.74416, 'longitude': -73.91249}",69,4.5,11377
+L3Cwx-F3wKRxp_efwOXMwQ,Antojitos El Atoradero,636 Degraw St,"{'latitude': 40.6787553, 'longitude': -73.982814}",1,5.0,11217
+qRBNtBBHSD6yJbxfJjUAcQ,Morelos Authentic Mexican Cuisine,,"{'latitude': 40.67185, 'longitude': -73.97898}",17,4.5,11217
+rpTW8Ozm8q8kN5RWOYSvFA,Oaxaca Taco De Revolucion,5-29 46th Ave,"{'latitude': 40.7475815, 'longitude': -73.9542618}",1,4.0,11101
+WhkFP_915l-GXn1uIyshZA,Mexico Azteca,33 Broad St,"{'latitude': 40.625879, 'longitude': -74.076515}",2,4.5,10304
+rH0CbuAZzXu_xUBOLZ05Eg,Frescos Tortilleria,116-32 Queens Blvd,"{'latitude': 40.7156089, 'longitude': -73.8334574}",47,3.0,11375
+vtdynuDGQcstPMnNqlSt3w,El Castillo Bar & Restaurant,189 Wilson Ave,"{'latitude': 40.6995036539848, 'longitude': -73.9233519119229}",10,3.0,11237
+5f9_1CFIvmPbtrs4znw7Lg,Yummy Taco,9625 Avenue L,"{'latitude': 40.63879, 'longitude': -73.89554}",24,3.0,11236
+STLqs0a6SI_eOsKHxWI92Q,Margheritas Mexican Cuisine,629 E 161st St,"{'latitude': 40.8221017, 'longitude': -73.9076204}",9,4.0,10456
+Y7CBhMYJtY9T5g-BBv5npA,Tulcingo Azteca Restaurante,3861 10th Ave,"{'latitude': 40.864081, 'longitude': -73.9189911}",12,3.5,10034
+R6cdgEFQwu0vDllP5tEWUQ,Blockheads,175 W 90th St,"{'latitude': 40.79024, 'longitude': -73.97274}",213,3.5,10024
+k-tphJV_y-rdNiXkPsmmwQ,Taqueria Oaxaca,167 Main St,"{'latitude': 40.5107750301557, 'longitude': -74.2485210299492}",26,3.5,10307
+gKJ-rb2di7fPGIuIjF0ylw,Taco Dumbo,2 Pennsylvania Plz,"{'latitude': 40.750297, 'longitude': -73.991708}",79,4.0,10121
+5ksp2mp2s6MEQA201sRaXA,Tacos El Bronquito,405 45th St,"{'latitude': 40.6491662, 'longitude': -74.0092249}",15,3.5,11220
+EhJO7B2hzHq8NT8iFKoCwg,Hot Jalapeño,219 E 116th St,"{'latitude': 40.7976444478292, 'longitude': -73.9390864432851}",69,3.5,10029
+iaMuLypgQa8yaDWOOmlGVg,Zona Tribecca,353 Greenwich St,"{'latitude': 40.71865, 'longitude': -74.01008}",14,3.5,10013
+q__dTB3y_aMwoqhDsg8ImQ,The Great Burrito,10 Hilliard Ave,"{'latitude': 40.82605, 'longitude': -73.974592}",196,4.0,07020
+UXIEHwXDbd5IcTfK-m_P-g,Happy Fresh Taco,1693A Putnam Ave,"{'latitude': 40.7002962, 'longitude': -73.9069016}",60,3.5,11385
+J_Nb9O4fKYwz28gkl-Y-_Q,La Patrona Restaurant,812 E 149th St,"{'latitude': 40.812449, 'longitude': -73.906041}",6,4.0,10455
+16bXxf22x14xrzvVWbFeHQ,Leon Bakery Mexican Restaurant,695 9th Ave,"{'latitude': 40.762237, 'longitude': -73.990272}",47,3.5,10036
+RCvhTT8MQegsFEZAvKLrGA,Tacos California,4616 5th Ave,"{'latitude': 40.64714, 'longitude': -74.0086}",24,3.5,11220
+OonxTaKpwv5Ye_vNyTH8dA,Nixtamal Tortillería & Rosticería,41-11 National St,"{'latitude': 40.748264, 'longitude': -73.863073}",1,5.0,11368
+mJVO64T1WWzJYvNlbLSQNA,Lucio Angelita Tacos,55 Lexington Ave,"{'latitude': 40.7594591154635, 'longitude': -73.9697938801726}",22,4.0,10022
+IAYa1h5Hh0jVtzXDUsojiQ,Tequila Sunrise,34-37 Bell Blvd,"{'latitude': 40.76937, 'longitude': -73.77356}",219,3.0,11361
+q2D80--iDkSwf_OKsS-jdA,La Pulperia UES,1626 2nd Ave,"{'latitude': 40.7766202, 'longitude': -73.9523275}",660,4.0,10028
+gCwbwgUkihSjK75EpzwWHQ,San Loco,111 Stanton St,"{'latitude': 40.7210575087845, 'longitude': -73.987348174211}",246,3.5,10002
+wOvCuvf0ftfTxQ-8NJ6V4A,Xochimilco Mexican Restaurant & Bakery,321-323 61st St,"{'latitude': 40.78872, 'longitude': -74.01255}",15,4.5,07093
+MdutW7BuBGmVUPdagNfHvA,Taco's El Paisanito,202 W Fordham Rd,"{'latitude': 40.8624202, 'longitude': -73.9093167}",28,4.0,10468
+NxjBu7EcMq6fywbQfWtTTg,El Matador,418 Broad St,"{'latitude': 40.8078556, 'longitude': -74.1925306}",466,4.0,07003
+wtQHeGI3L04xCJ5jODsRlg,Los Feliz,109 Ludlow St,"{'latitude': 40.71938, 'longitude': -73.98882}",440,3.0,10002
+JRiHG5F7Dc3Ce1YKBet3wA,Abajo,301 Church St,"{'latitude': 40.7191772, 'longitude': -74.0043869}",7,3.5,10013
+sQ7ENDHnfF9dIHhYrI8oHw,Palo Santo,652 Union St,"{'latitude': 40.676716, 'longitude': -73.982009}",466,4.0,11215
+iTqPJtMrSWAnohWnQ30cSg,Guerreros Restaurant,809 Ave U,"{'latitude': 40.59838, 'longitude': -73.96272}",14,3.5,11223
+a-gG1ZBVBM1VJ-Y9JLUnhA,VSPOT Organic,12 St Marks Pl,"{'latitude': 40.729113, 'longitude': -73.989209}",360,4.0,10003
+BWMQflKS9rpF13zgb_nJQA,Dos Toros Taqueria,1 State St,"{'latitude': 40.70253, 'longitude': -74.01333}",4,4.5,10004
+aj-cNy6I_1vp_hZ5UKQkbg,Aztoria Cantina,34-18 Steinway St,"{'latitude': 40.7561834, 'longitude': -73.9214567}",5,4.0,11101
+wXsKW3ki5YrCqwwibwrGOA,La Puerta Roja,1120 Cortelyou Rd,"{'latitude': 40.63982, 'longitude': -73.96716}",50,4.0,11218
+R8s1rku8C_gL1tHLPNbnXA,El Verano Taqueria,12301 Roosevelt Ave,"{'latitude': 40.7548906, 'longitude': -73.8451951}",20,3.5,11368
+SNNDz7nTCL1lf9yEY5DaBA,Margarita Bar NYC,709 8th Ave,"{'latitude': 40.759132, 'longitude': -73.9886919}",18,3.5,10036
+3oDDddw8eggbiEkthCRK1w,La Mexicana,61 Charlton St,"{'latitude': 40.7272383570671, 'longitude': -74.0058897435665}",3,3.5,10014
+evJqF34WN9Bz73j99vDTCQ,Azteca Restaurante Mexican Cuisine,47 Park Ave,"{'latitude': 40.8273889, 'longitude': -74.103651}",191,4.0,07070
+b9y5FEHQPtcaLOnO1YJmjQ,Las Quesadillas,85-13 Roosevelt Ave,"{'latitude': 40.7481079, 'longitude': -73.8805389}",7,5.0,11372
+-2KLOAWzJ-wbUSC40WR8EA,Allen Restaurant,1201 Randall Ave,"{'latitude': 40.8117294311523, 'longitude': -73.8902359008789}",3,4.5,10474
+441p9X0RMR4epB_yOHs73A,Panchito's Mexican Restaurant & Cantina,105 MacDougal St,"{'latitude': 40.72977, 'longitude': -74.00082}",300,2.5,10012
+USbP_ZBNSP0h_gja_xob5w,Holy Mole Tamale!,133 E 110th St,"{'latitude': 40.79519, 'longitude': -73.94473}",7,4.5,10029
+qGpDDZKwlkuJNL-OurWivw,Fusion HK Bar and Grill,688 10th Ave,"{'latitude': 40.76347, 'longitude': -73.99231}",73,4.0,10019
+9vhAlM8p5qqNkKxwCd_BOg,Taco Veloz,359 East 138th St,"{'latitude': 40.8098182678223, 'longitude': -73.9238662719727}",9,4.5,10454
+4YeKYQoZHCx2xkbjmNhMbA,Burger One,1150 Lexington Ave,"{'latitude': 40.7752780616283, 'longitude': -73.9587344974279}",184,4.0,10075
+PFJSFsR6c3w6ibccZ634ug,"Bagels By Day, Tacos By Night",570 Bay St,"{'latitude': 40.62795, 'longitude': -74.0765}",12,4.5,10304
+Sk-mHDPvuvlCjT1BGKoH4w,Otto's Tacos,131 7th Ave S,"{'latitude': 40.73454, 'longitude': -74.00206}",252,4.0,10014
+dTyuWrk9KVtnHsWSY-ae-Q,The Greenwich Social,74 5th Ave,"{'latitude': 40.73564, 'longitude': -73.99409}",16,4.5,10011
+sul_ihulQ5VUPNbk9liWqA,Cantina Rooftop,605 W 48th St,"{'latitude': 40.765101, 'longitude': -73.996046}",404,3.0,10036
+IfdDlUyzSqEHSTpMPDMcAw,Fidela’s Restaurant,164-12 69th Ave,"{'latitude': 40.7329299740541, 'longitude': -73.8044115798264}",2,5.0,11365
+lxKFLdnWRglNVQg7O20-RQ,Sweet Life Pastry,3887 Broadway,"{'latitude': 40.8375109438682, 'longitude': -73.9426190258619}",99,4.5,10032
+TC61f2--clpc5stluHkBJw,Oaxaca Taqueria,478 Halsey St,"{'latitude': 40.683345, 'longitude': -73.934967}",79,3.0,11233
+hhXM-_vvNm7EPiegxiQeCQ,La Piedra Del Sol,137 48th St,"{'latitude': 40.7795, 'longitude': -74.01768}",10,5.0,07087
+wflQFYM4PHZM5sfWXl0aOQ,Al Horno Lean Mexican Kitchen,36 Lexington Ave,"{'latitude': 40.74004, 'longitude': -73.98453}",85,3.0,10010
+tThLkpLlETKFSbfc4vCQDw,Fresh Tacos,4559 46th St,"{'latitude': 40.741268, 'longitude': -73.918899}",30,3.5,11377
+viCIS9T_Kph515FyzYAaEA,RJC Family's Cafe,2378 Jerome Ave,"{'latitude': 40.860625, 'longitude': -73.902116}",39,4.0,10468
+d8QeS1gUQR06daD4UOR-CA,Azteca Maya,430 Ridgewood Ave,"{'latitude': 40.6852359647161, 'longitude': -73.8727523634613}",7,4.5,11208
+azzY-Z_inGaS3ymEh50vwA,The Whiskey Annex,44 Berry St,"{'latitude': 40.721141, 'longitude': -73.956733}",9,4.0,11249
+UnpKXwYRHGAU4HNNN7__-w,Alberta Restaurant Mexican Cuisine,3781 103rd St,"{'latitude': 40.7510404977263, 'longitude': -73.8631985709071}",7,4.0,11368
+MNNpsRXe7Wt5m3Jla9Wk0w,The Alcove,41-11 49th St,"{'latitude': 40.7459065, 'longitude': -73.915103}",671,5.0,11104
+r23ZiJmpBWBIvQlT069atw,El Paso Taco Truck,175-9 E 116th St,"{'latitude': 40.79845, 'longitude': -73.94046}",9,4.5,10029
+rKhwtWGawgIXnTVW3Nl3YA,Taco Bar,358 Bowery,"{'latitude': 40.727023, 'longitude': -73.9918770865082}",67,3.5,10003
+69X4XVef3NRV_LlIvEuXug,La Fogata,1549 Gates Ave,"{'latitude': 40.699681, 'longitude': -73.912436}",4,4.0,11237
+fKXKTKpMBQykSfrodRJaog,Chipotlan Hot Sauce,97-05 75th St,"{'latitude': 40.6811104, 'longitude': -73.8628769}",1,5.0,11416
+mBFnE5EDUwpZiEsSf_1piA,Los Tacos City Habanero,48th Ave Vernon Blvd,"{'latitude': 40.7440144504923, 'longitude': -73.9537688118532}",19,4.0,11101
+RNYpDA-Dd9HPEPU0Eo7fhw,El Diablo Taco Truck,484 Union Ave,"{'latitude': 40.7156147733261, 'longitude': -73.9521074295044}",68,4.0,11211
+mg8KOjcqbUcS2Zc_mGNdjg,Rinconcito Familiar,4118 5th Ave,"{'latitude': 40.649815, 'longitude': -74.005753}",6,3.5,11232
+IxE4JA1oiCIuZ3cefYJBSg,Flacoz Tacoz,441 3rd Ave,"{'latitude': 40.74341, 'longitude': -73.97941}",2,4.5,10016
+TleAd45T6-9TP7FBO19dww,TRI Mexican Tacos,20th St & Broadway,"{'latitude': 40.73918, 'longitude': -73.98977}",9,4.5,10003
+fiq7MmwYOPuKzDrZEmD6TQ,Burrito Bar,585 Forest Ave,"{'latitude': 40.630321, 'longitude': -74.108752}",188,3.0,10310
+r3bwyyc48GoqIFYLd4gOXw,Casa Masa,200 Liberty St,"{'latitude': 40.710645, 'longitude': -74.015555}",3,3.0,10281
+DnvW3-wKaY1foT1uBz-aIg,Tortas Neza,96-15 Roosevelt Ave,"{'latitude': 40.74938, 'longitude': -73.86879}",85,4.5,11368
+GVc1Eh-Welogn5qgaK-PFA,Tamale Lady,37 E 39th St,"{'latitude': 40.750843, 'longitude': -73.9801865}",2,4.5,10016
+y2w0RvjJUThEx-snF7PdXg,El Cortez,17 Ingraham St,"{'latitude': 40.7070999, 'longitude': -73.9330826}",103,3.0,11206
+_sTaigaHcK8Pb1e-IcgGzw,Jalapeños,5714 5th Ave,"{'latitude': 40.6408689715014, 'longitude': -74.0147714348883}",37,4.0,11220
+9xilo7n2piVaOUxwlpVedA,Authentic Mexican Cuisine & American Fast Food Cart,Metropolitan Ave And Bedford Ave,"{'latitude': 40.71531, 'longitude': -73.96043}",8,4.0,11211
+5Ia7a72M6b8ht88mD_E3-A,Viva Toro,188 Berry St,"{'latitude': 40.7166, 'longitude': -73.96136}",449,3.0,11249
+-gSwfIezU9Vy8OF-OdGXVg,New Fresh Tortillas Taco,1708 86th St,"{'latitude': 40.60834, 'longitude': -74.00474}",23,3.0,11214
+YuBLRUuQ7J9rGZzrC91Qmg,Jicama NYC,,"{'latitude': 40.71424, 'longitude': -74.00642}",13,2.5,10001
+ICwNVmtICXCtvBTK027Ftg,My Mexico,720 Westside Ave,"{'latitude': 40.725021, 'longitude': -74.077462}",27,4.5,07306
+Gl13gO27l6HYZ9h1GWVNIA,El Torito,2132 Cruger Ave,"{'latitude': 40.8541745692492, 'longitude': -73.8666415214539}",17,3.5,10462
+FIe8X2UA5bS68kdbyEOOAA,Taqueria Puebla,374 Avenue P,"{'latitude': 40.608470916748, 'longitude': -73.9736557006836}",11,4.0,11204
+WtmK8leWX_TTThGAlkC-yg,El Rinconcito de Los Sabores Restaurant & Deli,139-33 89th Ave,"{'latitude': 40.7030296, 'longitude': -73.8119583}",7,4.0,11435
+PuXmsdsI2gqouAGWyhQe7g,L.A. Burrito,43 Underhill Ave,"{'latitude': 40.679673108316, 'longitude': -73.9647560566664}",59,3.0,11238
+-PfczM_ZR_m-piLsCpwA8w,Taqueria Buen Provecho,19-07 Flushing Ave,"{'latitude': 40.712779, 'longitude': -73.918381}",1,4.0,11385
+v0-2o8Xdqb4ka5VxY-rbvw,5 De Mayo Food Market,81-06 Roosevelt Ave,"{'latitude': 40.7476971501601, 'longitude': -73.8844594359398}",2,4.5,11372
+xltWwLEU-W0OHreJRW_jSA,Tacos Tijuana B.C,5807 5th Ave,"{'latitude': 40.64036, 'longitude': -74.01505}",30,3.0,11220
+3M6CsWQ_FIAzpxnuqq_eHw,Las Margaritas Astoria Restaurant,38-01 Broadway,"{'latitude': 40.7594468, 'longitude': -73.9195285}",231,2.5,11103
+9a6I0FhQ-S7wZo4OaLThzw,Oaxaca Taqueria,1264 Amsterdam Ave,"{'latitude': 40.8110313415527, 'longitude': -73.958381652832}",53,2.5,10027
+qXdxckyNMQ_jFz7ZFvAWXg,Dos Toros Taqueria,295 Park Ave S,"{'latitude': 40.739847, 'longitude': -73.986326}",129,3.5,10010
+oDrjaOCWxTGxJ1C8kViocg,Fresca Tortilla,3115 Ditmars Blvd,"{'latitude': 40.7757870486376, 'longitude': -73.9099826840614}",96,3.0,11105
+5unNdabhETOzCjz5L3FWmg,Antojitos mexicanos,5914 5th Ave,"{'latitude': 40.639906, 'longitude': -74.016129}",1,5.0,11220
+tk5cnLJDAlUmX_ZYBGzw1w,Tacos y quesadillas,1280 Lexington Ave,"{'latitude': 40.77993, 'longitude': -73.95546}",11,4.5,10028
+8-boHR8m_gWYHF4XXasYbA,Tacos Mi Mexico,,"{'latitude': 40.78084, 'longitude': -73.9511}",9,5.0,10128
+uV6RoExPgXY1LVEv94nxKw,El Jalapenos,800 E 149th St,"{'latitude': 40.8128368845012, 'longitude': -73.9068994362503}",11,3.5,10455
+aidZpXrufp3t-cV1tMTzOQ,Metate,3515 Johnson Ave,"{'latitude': 40.8860208, 'longitude': -73.9100364}",159,3.0,10463
+x4W0rufd01dP8ieMhlTqmQ,Dos Toros Taqueria,668 6th Ave,"{'latitude': 40.7413, 'longitude': -73.99359}",48,3.5,10010
+zb45GcwBARV0DndrwAr-9A,Riviera Maya Mexican Cuisine,252 E Fort Lee Rd,"{'latitude': 40.8725881057144, 'longitude': -74.0205895900726}",265,4.0,07603
+D-r011D1AfUwt3lQOPFnbA,Karen Deli Grocery,6116 5th Ave,"{'latitude': 40.638714, 'longitude': -74.01738}",3,4.5,11220
+KX7-L2PTl_ZM1ufx2tVVVA,Taqueria Mexicana,7024 Bergenline Ave,"{'latitude': 40.7965563, 'longitude': -74.0103249}",60,3.5,07047
+wVJHWi2QyewBOotVbwNGUg,Las Maravillas de Mexico Restaurant,11 Bedford Park Blvd E,"{'latitude': 40.87329, 'longitude': -73.88896}",44,3.5,10468
+a7QpqI_WDjo6fiedXlKpfQ,Calexico Taco / Burrito Cart,Pier 1 Brooklyn Bridge Park,"{'latitude': 40.703331, 'longitude': -73.995215}",27,3.5,11201
+LUU1RGJV4NyKNDTyAAIRzQ,Puebla Restaurant,39-22 61st St,"{'latitude': 40.74659, 'longitude': -73.90326}",16,3.0,11377
+YYdJaXoTK6Owv2I4l3u_PA,Estrellita Poblana Taqueria Express,5975 Broadway,"{'latitude': 40.8897, 'longitude': -73.89853}",6,5.0,10471
+x2hR3utrsnzVCHvrGyfFiA,Taqueria La Asuncion,206 Knickerbocker Ave,"{'latitude': 40.7032508850098, 'longitude': -73.9266586303711}",1,4.0,11237
+y_0aIeNNhlgSz0gUUD9JZg,La Charrita,416 Willis Ave,"{'latitude': 40.8132075834787, 'longitude': -73.9196064274273}",5,4.5,10454
+9Uz4-RJQ0diKc7VyJwMCNw,La Colonia,594 Morris Ave,"{'latitude': 40.8183719982828, 'longitude': -73.9222443848848}",7,4.5,10451
+Uj3QA_FsDcGtn_kpsIxU1w,Taqueria & Deli Gloria's,117 Tonnelle Ave,"{'latitude': 40.7352069, 'longitude': -74.0671543}",41,4.0,07306
+z6SKrIMATXU5JZ85D9ecuQ,El Toro Rojo Truck,,"{'latitude': 40.7720489501953, 'longitude': -73.9260635375977}",19,4.5,11102
+c9WMDOqwUnIPixtFDK4YLg,Las Sirenas Restaurant,1896 Jerome Ave,"{'latitude': 40.8498441427946, 'longitude': -73.9107464253902}",8,3.0,10453
+_WhV2UWBj6ULaLlo_I9FMg,El Encanto De Lola 2,175 Lenox Ave,"{'latitude': 40.80389, 'longitude': -73.94865}",10,3.0,10026
+4vvi0-0o0-v2WYBx3ZwAIQ,Taqueria Acatlan,298 Irving Ave,"{'latitude': 40.6989841, 'longitude': -73.9145874}",41,3.0,11237
+wxinBSmutHlOpsSAWu-lOw,Dekalb Taco,445 Albee Square W,"{'latitude': 40.691126, 'longitude': -73.9825963}",39,2.5,11201
+hUo4q9yZmZTyI-GECcP7ow,Taco Recipes,23 Essex St,"{'latitude': 40.7152606869718, 'longitude': -73.9900060870141}",30,3.5,10002
+nY7jGZGMR7XA95t2uey2hA,Viva Margarita,364 Lawton Ave,"{'latitude': 40.8278310422836, 'longitude': -73.987404530236}",143,3.5,07010
+p6_79Vx3zVkbU4KFzTebiA,Maya Fusion Cafe,1337 Bushwick Ave,"{'latitude': 40.68601, 'longitude': -73.9116}",9,4.0,11207
+7lyRdXsBq0Xo3G_RSK0q_w,El Burro Mexican Grill,324 Suydam St,"{'latitude': 40.70331, 'longitude': -73.9222}",29,3.0,11237
+R6HNf-6vmUtT1L-44uK1gg,Nuevo Tacos Al Suadero,94-06 Roosevelt Ave,"{'latitude': 40.74872, 'longitude': -73.87206}",27,4.0,11372
+jYRhiPw2qCSWxZTcp3DzIg,Chicazapa Mexican Restaurant,617 New York Ave,"{'latitude': 40.7560016, 'longitude': -74.0384836}",11,4.5,07087
+AFdTJ-UR7Sde95Jw4QdCFg,Wyckoff Restaurant,250 Wyckoff Ave,"{'latitude': 40.70051, 'longitude': -73.91307}",16,3.5,11237
+6RBl3Rq_2IkK1a8n-m0dsA,Taqueria Los Gueros,176 Bloomfield Ave,"{'latitude': 40.7805310229124, 'longitude': -74.1904374584556}",201,4.0,07003
+qnvph-5rhKLns7kL7BQxFg,The Burrito Spot,1903 Victory Blvd,"{'latitude': 40.61299, 'longitude': -74.12746}",22,3.0,10314
+v9T2kTz50v8lAFTXYVyf6w,The Mexican Culture,2017 Amsterdam Ave,"{'latitude': 40.83476, 'longitude': -73.94044}",27,3.0,10032
+TYVIfbcJ3YT4CP1roKMshg,Lucy's Cantina Royale,1 Penn Plz,"{'latitude': 40.751757506263, 'longitude': -73.9928958215327}",615,2.5,10119
+3vBVnzsJLRh8WtW3awKxeQ,Bodega 88,573 Columbus Ave,"{'latitude': 40.7875358759796, 'longitude': -73.9711353555322}",121,4.5,10024
+qS15lSSIChNKBECO7uCi2g,Momento Restaurant,25-13 Queens Plz N,"{'latitude': 40.750941, 'longitude': -73.939311}",47,3.0,11101
+-yR4PHWqpkrPopwv4wrC5g,Taquerias Veracruz,434 51st St,"{'latitude': 40.7833448, 'longitude': -74.0197169}",29,4.5,07093
+3BKL0oAAAz4viDGbqYvvcQ,Sonia Restaurant,460 3rd Ave,"{'latitude': 40.671665, 'longitude': -73.99118}",1,4.0,11215
+EIpQKo3NhAsYAZIWqxuDFQ,Taqueria Restaurant Oaxaca,467 Central Ave,"{'latitude': 40.75073, 'longitude': -74.04642}",41,3.5,07307
+1Xd1aEnhZk61aid3sRzUSw,Azul Tequila Mexican Restaurant,1429 Myrtle Ave,"{'latitude': 40.6988292957031, 'longitude': -73.9191928023678}",16,2.5,11237
+EzKvmyYk-7xQZ47Me-NDwg,Taco Today,1659 1st Avenue,"{'latitude': 40.77726, 'longitude': -73.94932}",76,3.0,10028
+ZqDpOO44Lg-jKOrosrxrGg,G's Coffee Shop,634 W 207th St,"{'latitude': 40.8681434, 'longitude': -73.9216979}",56,4.5,10034
+bFBgOVz2x1FeOD96-_DdMQ,Que Rico Taco!,33-07 89th St,"{'latitude': 40.7559184407272, 'longitude': -73.8786816224456}",12,4.0,11372
+vQKwk9tZZrdFQ4KiYggfjQ,La Espiga Restaurant,42-13 102nd St,"{'latitude': 40.7474932045277, 'longitude': -73.8629732390564}",12,5.0,11368
+g4NwsmgkpdEMRvUmLzVLVA,Victoria's Mexican - American Grill,201 Main St,"{'latitude': 40.8518846527181, 'longitude': -74.0412875711639}",113,4.5,07643
+ARstoF1u3Pex2T57isqVZw,El Penacho Restaurant,374 Avenue P,"{'latitude': 40.60859, 'longitude': -73.97368}",34,3.0,11228
+gcxILajS1FP6WxzrCgefNQ,Con Sabor A Mexico,711 W 181st St,"{'latitude': 40.85052, 'longitude': -73.93643}",14,3.0,10033
+7RnqWh79evs9Xc0pxlDG5A,Tulcingo Cafe,3041 Buhre Ave,"{'latitude': 40.8476662, 'longitude': -73.830853}",4,5.0,10461
+XKtxfym5V7XWYk5AFgjx_Q,Molcajetes,520 West Side Ave,"{'latitude': 40.7185, 'longitude': -74.08314}",3,5.0,07304
+MIaM6XD8nW-y89GaXxs-pw,Yolanda's Tamales,3380 Broadway,"{'latitude': 40.8213076768784, 'longitude': -73.9539987592992}",39,5.0,10031
+lf1eKRAy_ybZZrnd41x58g,Tia Julia Taco Truck,,"{'latitude': 40.74242, 'longitude': -73.8789}",21,4.5,11373
+9jpaqIbXGw_A2WTp0NJa1g,Del Sur Cocina,260 Meserole St,"{'latitude': 40.70847, 'longitude': -73.93817}",1,5.0,11206
+ehdmja52dNhEf_Yyipf0eA,Noches Mexicanas,524 Brook Ave,"{'latitude': 40.81444, 'longitude': -73.91489}",9,3.5,10455
+tx8S4d4vcbFskHZ4yqxlJA,Mexico En La Piel,5906 5th Ave,"{'latitude': 40.6399401006265, 'longitude': -74.0157945945178}",4,3.0,11220
+Hbyt2CQQg97nm-hNjOaH2A,Tulcingo Restaurant,40-36 National St,"{'latitude': 40.748838, 'longitude': -73.863422}",66,3.0,11368
+eCD1l-Xx3QqnhrSsoccgMg,Tacocina,25 River St,"{'latitude': 40.715238, 'longitude': -73.967644}",60,3.5,11249
+ApzxIf8AYh3MEgvF63Zuvw,Cantina 48,605 W 48th St,"{'latitude': 40.76497, 'longitude': -73.99607}",1,5.0,10036
+FcHc4he-LK5dzeOL92MylQ,Sabor Mexicano,Roosevelt Ave & 75th St,"{'latitude': 40.7469530536088, 'longitude': -73.89049248884}",20,4.0,11372
+jg5gzvjMO1-bNLI9NuP-4g,Taqueria Restaurante Mi Barrio 2,887 5th Ave,"{'latitude': 40.65128, 'longitude': -74.00348}",5,3.5,11232
+7_t9wAHVmPIBgchCDSuAVg,Pico,419 Beach 129th St,"{'latitude': 40.57829, 'longitude': -73.849648}",270,4.5,11694
+Nw7-C3L7Hq-PpGwdIt1VNA,Lupitas Restaurante,2366 Grand Concourse,"{'latitude': 40.85896, 'longitude': -73.89855}",3,4.5,10458
+dMkkuQLM4Kqz-v-mWnnNjg,Tortas Morelos,271 Bay Ridge Ave,"{'latitude': 40.63588, 'longitude': -74.02616}",6,4.5,11220
+OGTtwoTfWAymjFjxMNQN4g,Mi Pequeño Mexico,81 Ferry St,"{'latitude': 40.73119, 'longitude': -74.16195}",144,4.0,07105
+L3ekOOsyK_HfFrf5MzQA_w,Taqueria Diana,69 Clinton St,"{'latitude': 40.71936, 'longitude': -73.98512}",44,3.0,10002
+CnQg2E3xytCY_TlEKhd10g,Pinks Cantina,348 Bowery,"{'latitude': 40.72664, 'longitude': -73.99202}",1,5.0,10012
+OT3K93M3Hi2HxcZagJVk7A,Don Cesar Restaurant & Bar,7528 Amboy Rd,"{'latitude': 40.5089269, 'longitude': -74.2467269}",46,4.0,10307
+W0ict0sDf5QGmHekHOQVhg,Tequilitas Restaurant,5213 4th Ave,"{'latitude': 40.64486, 'longitude': -74.01381}",13,3.5,11220
+8xPY62rpipbxVKbbZHVaCg,Buddha Taco Bar,3628 Broadway,"{'latitude': 40.829122, 'longitude': -73.948057}",62,3.5,10031
+b1YI5HyveAliyFh7Tuiszg,Cozumel Tortilla,877 10th Ave,"{'latitude': 40.76944, 'longitude': -73.98867}",56,3.0,10019
+4jMnhC24BCGiSqeWdkcFug,Gonzalez Mexican Restaurant,830 Coney Island Ave,"{'latitude': 40.637175, 'longitude': -73.968559}",8,3.0,11218
+47iHi0mYuq33INDWanGchw,Taco Electrico,201 Park Ave S,"{'latitude': 40.736544, 'longitude': -73.988442}",64,3.5,10003
+sGd1ZiC4bW8m6TxxyhM_Pw,Tacos El Picosito,70 Broadway,"{'latitude': 40.707008, 'longitude': -74.012266}",5,3.5,11379
+EZHEA7QR_9WFeCJhbjK73Q,Cadillac Cantina,80 River St,"{'latitude': 40.7362168298531, 'longitude': -74.0293640841882}",197,3.0,07030
+5JtSEryw2Yt8RT1Rm19ryQ,Taste & Sabor,318 W 231st St,"{'latitude': 40.88099, 'longitude': -73.90896}",23,4.5,10463
+EZZh8594pRwAM1e_WVGeFA,Organic Mexican Food,50th Street & 6th Ave,"{'latitude': 40.7598992013858, 'longitude': -73.9804509576337}",4,3.5,10020
+g9xSX-Tk7ePSdmSjt7pM8A,Mezcal's Mexican Restaurant,1474 86th St,"{'latitude': 40.611465, 'longitude': -74.010124}",67,2.5,11228
+J-BIEn9sMfgkMmrp9EzRxg,Fresco Tortillas,1041 Morris Park Ave,"{'latitude': 40.8484968, 'longitude': -73.8557225}",11,3.5,10462
+_gaguuubsCPxbPE3xi3NIQ,Tacos Bravos,146 St & Northern Blvd,"{'latitude': 40.7651016461267, 'longitude': -73.8205722346902}",17,4.0,11354
+ofyC683l9tTvkXKbmOXiEw,Fresco Tortillas,3112 36th Ave,"{'latitude': 40.75618, 'longitude': -73.92941}",46,3.0,11106
+nwLErF6zGqZjSLwf-m-TdQ,El Gallo Negro,111-12 Roosevelt Ave,"{'latitude': 40.7515355, 'longitude': -73.8551781}",10,3.5,11368
+herb-gOpfjJGeiYWXb2liw,presto fresh mexican,429 W 125th St,"{'latitude': 40.81221, 'longitude': -73.95502}",4,4.5,10027
+0KeuqyRSUAYLwMI-3ZAZJw,Maya Blue,146 E 44th St,"{'latitude': 40.7524506103315, 'longitude': -73.9743997152164}",23,3.0,10174
+dKI9VFUjQbiFgIRs00C8qw,La Troca del Sabor,N 4th St Bedford Ave,"{'latitude': 40.716173, 'longitude': -73.959511}",37,4.5,11211
+X70GXsafyD8ILFhcvIwMHA,Salsa Mexican Cuisine,677 Morris Park Ave,"{'latitude': 40.84526, 'longitude': -73.86672}",6,3.5,10462
+4NpuJ8qdbBf5uAxvvUyt4g,San Miguel,680 Cary Ave,"{'latitude': 40.631626, 'longitude': -74.124572}",15,4.0,10310
+AuKtb5a8DEe1qSVe_vwpzQ,Side Park Cafe,1230 5th Ave,"{'latitude': 40.7931, 'longitude': -73.95137}",23,3.5,10029
+AGKAtafCcYTkXtBCYLHQ3g,Adam's Deli on the Corner,525 Kings Hwy,"{'latitude': 40.6046379340115, 'longitude': -73.9699348229621}",3,4.0,11223
+deeYRHT_KImu4ueu_qCQEg,Taco Mix,220 36th St,"{'latitude': 40.6563397347466, 'longitude': -74.0078896656632}",28,3.0,11232
+8hPvJcOkU24zS88YGJ-qZA,Top Tortillas,3038 Buhre Ave,"{'latitude': 40.84738, 'longitude': -73.83093}",33,4.0,10461
+_JF4QILGSp0cq76EVXUQFg,Gourmet Oasis,1499 Bruckner Blvd,"{'latitude': 40.8239288, 'longitude': -73.8793411}",1,5.0,10472
+zRD1rIRW554yuH2J0WSD_Q,QDOBA Mexican Eats,1422 Myrtle Ave,"{'latitude': 40.6986599, 'longitude': -73.91835}",22,4.0,11237
+8yn14KOpT-bslEB8ubCV-w,El Bohemio Jarocho,5507 5th Ave,"{'latitude': 40.641959, 'longitude': -74.013184}",2,4.0,11220
+k45mHLPHLuq0aBr-jVfsEw,Mexico Y El Salvador Restaurant,116-19 Myrtle Ave,"{'latitude': 40.7003285, 'longitude': -73.8334603}",7,4.0,11418
+5Fz1WlY3lxy8gJFs8s_1Dw,The Binc,60 Henry St,"{'latitude': 40.6992682, 'longitude': -73.9923109}",58,4.5,11201
+WTrX6u33EUeejj6c5gRwjQ,El Sinaloense,132 W Fordham Rd,"{'latitude': 40.8625361057465, 'longitude': -73.9069879800081}",5,4.0,10468
+9z2lUyfzZV8b2rkkiwSM4g,ABC Cocina,38 E 19th St,"{'latitude': 40.7379699846239, 'longitude': -73.9892806964011}",840,4.0,10003
+FrYsIO_pXB6csWkvy-nfbQ,Made In Mexico Harlem,2161 2nd Ave,"{'latitude': 40.7940072130959, 'longitude': -73.9402346313}",82,3.5,10029
+Ly8h1NpCnjKJCRnaR1E21g,Rancho Estrella,616 E 187th St,"{'latitude': 40.85516, 'longitude': -73.88707}",18,3.0,10458
+bx6z2FgYUxElWDvGyeFKiw,Tacos Lupita,1802 65th St,"{'latitude': 40.6189964711666, 'longitude': -73.9900372177362}",42,4.5,11204
+TmVOi5Kl6OGXGPj8cn1XyQ,Gina la Fornarina,2028 Broadway,"{'latitude': 40.776603, 'longitude': -73.981794}",25,3.0,10023
+XmogJstBXGY35Y3yjlI9yA,La Cafe,17 W 45th St,"{'latitude': 40.7560043334961, 'longitude': -73.9803085327148}",1,4.0,10036
+BCFNNjwUPxpHIPf4r6GFJw,Gourmet Deli 65,6540 Woodside Ave,"{'latitude': 40.7434954570452, 'longitude': -73.8986053514038}",1,5.0,11377
+z6TQXIGmJij6cr_-IeGDnA,Los Tres Potrillos,111-16 Roosevelt Ave,"{'latitude': 40.75153, 'longitude': -73.85508}",51,3.0,11368
+NgkQtIzMjUISyAreyzrtKg,Tacos Él Gallo Giro,75-10 Roosevelt Ave,"{'latitude': 40.7468650335835, 'longitude': -73.8900142908096}",34,4.0,11372
+lwdQoALcv8OguKwUahqhZg,Dario's Restaurant,20 Academy St,"{'latitude': 40.7373619, 'longitude': -74.1725513}",171,4.5,07102
+w1RDUwwDWacl908f2EA0Fw,BK Burrito,3914 Fort Hamilton Pkwy,"{'latitude': 40.64296, 'longitude': -73.99109}",1,5.0,11218
+m4vr600Ibclr2b2QRU-Qlw,La Suegra De Dyckman,,"{'latitude': 40.8619823610649, 'longitude': -73.9249084865423}",6,4.5,
+ymOnfGk4cGaBuIl4Nue1EA,Jennis Restaurant,1810 Mc Donald Ave,"{'latitude': 40.608535, 'longitude': -73.973266}",2,4.5,11223
+qosp2vDDXks8eMGH7p4WSQ,La Fortaleza,361 Midland Ave,"{'latitude': 40.8770561218262, 'longitude': -74.1033096313477}",808,4.0,07026
+YlGonrSwirYVLqriMUQ1Dw,La Rosa Del Tepeyac Corporation,191 Knickerbocker Ave,"{'latitude': 40.703918, 'longitude': -73.926828}",1,5.0,11237
+tfJ7mBlkTSZQoQ3F7KaGpg,Taquiera El Paisa II,324 Suydam St,"{'latitude': 40.7033081, 'longitude': -73.9222031}",2,4.0,11237
+LYCfvcHysSaJ4ItJiSTzCg,Mesita,212 Merrick Rd,"{'latitude': 40.6562, 'longitude': -73.64805}",600,4.0,11570

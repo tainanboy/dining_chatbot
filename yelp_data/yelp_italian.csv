@@ -1,0 +1,951 @@
+Business_ID,Name,Address,Coordinates,Num_of_Reviews,Rating,Zip_Code
+rp8S7scxOkVVeG7dNneMGQ,L'Artusi,228 W 10th St,"{'latitude': 40.733714, 'longitude': -74.005068}",1654,4.5,10014
+IErfGS0DASSJfYU73m0Sqg,Malatesta Trattoria,649 Washington St,"{'latitude': 40.73285, 'longitude': -74.00847}",1181,4,10014
+DoSU8IPq-Py_YV3kYmXPfQ,Trattoria Trecolori,254 West 47th St,"{'latitude': 40.75998, 'longitude': -73.98671}",2042,4,10036
+WG639VkTjmK5dzydd1BBJA,Rubirosa,235 Mulberry St,"{'latitude': 40.72275, 'longitude': -73.99622}",1854,4,10012
+Vs8kQ4R381y27AH018gLpg,Supper,156 E 2nd St,"{'latitude': 40.7229, 'longitude': -73.98527}",1217,4,10009
+V-FCEicobl5Su-R7EVJQNA,La Lanterna Di Vittorio,129 MacDougal St,"{'latitude': 40.73069, 'longitude': -74.00015}",1392,4,10012
+04exhf1PZ79_Km9vHAzvfA,Pepe Rosso Social,173 Mott St,"{'latitude': 40.72007, 'longitude': -73.99618}",764,4,10013
+abZ-mEvF6Tj4hfyIg0lKwQ,Vite Vinosteria,31-05 34th St,"{'latitude': 40.7629734277725, 'longitude': -73.92119564116}",531,4.5,11106
+jdNdy-MwBtnXoBGC_JVvwQ,Gaia Italian Café,251 E Houston St,"{'latitude': 40.721653, 'longitude': -73.985346}",935,4.5,10002
+OAqsZMbjv66nOMqlimnYuQ,Uva,1486 2nd Ave,"{'latitude': 40.7722, 'longitude': -73.95566}",2158,4,10075
+f8ipr8Wdy1_wHhw7JgNqPQ,Da Claudio,21 Ann St,"{'latitude': 40.71087, 'longitude': -74.00753}",390,4,10038
+XvEz60Y0NbLxooK9AmRU8g,Piccoli Trattoria,522 6th Ave,"{'latitude': 40.6650986895797, 'longitude': -73.9864727962952}",437,4,11215
+qgY41g_eg0eNzewCXmKcaA,Lillo Cucina Italiana,331 Henry St,"{'latitude': 40.69023, 'longitude': -73.99634}",75,5,11201
+dh5r9-SbN8xJ76XvnayWLQ,Giano Restaurant,126 E 7th St,"{'latitude': 40.7262256596862, 'longitude': -73.9840574049125}",538,4,10009
+0SakkRuHhECsDsZ8mRkisQ,IL Triangolo Restaurant,96-01 Corona Ave,"{'latitude': 40.742591, 'longitude': -73.86736}",416,4.5,11368
+ry0nAQiUn8bpNAruY_5wfw,Scalino,659 Manhattan Ave,"{'latitude': 40.7244699, 'longitude': -73.95151}",206,4,11222
+5TX0X8w5ssIACU_pnBEq6g,Tony's Di Napoli,147 W 43rd St,"{'latitude': 40.75641, 'longitude': -73.98547}",1886,4,10036
+kr5fRwdHtVwPPwSJxm9Fkg,Il Posto Accanto,190 E 2nd St,"{'latitude': 40.72238, 'longitude': -73.98403}",185,4.5,10009
+0Tvwk0hvgaY0QVIsZGTZKQ,Antica Ristorante,8 Stone St,"{'latitude': 40.7039355145338, 'longitude': -74.0121731758117}",436,4.5,10004
+mtmEa4vFYa764G97sqQ9dQ,Sapori D'Italia,105 Mulberry St,"{'latitude': 40.71735, 'longitude': -73.99855}",183,4.5,10013
+k5fd-RSdG4IuXnnGSQ5oOw,San Marzano Pasta Fresca,117 Second Ave,"{'latitude': 40.727989, 'longitude': -73.98845}",960,4,10003
+yZJbealagfujEkgesAl2hA,Lupa,170 Thompson St,"{'latitude': 40.7276, 'longitude': -74.000045}",1446,4,10012
+xPmCy25F1-uq-1vAP_1TBQ,Piccante,7214-A 3rd Ave,"{'latitude': 40.6331599, 'longitude': -74.02726}",134,4.5,11209
+KCBfW6sWl9Gx-LvMff08jg,Osteria Morini Manhattan,218 Lafayette St,"{'latitude': 40.7219179851303, 'longitude': -73.9976472073402}",1068,4,10012
+Ve6GVzzJpR5QIIPdcn6ViQ,Mercato,352 W 39th St,"{'latitude': 40.75619, 'longitude': -73.9937}",787,4,10018
+eODPY5rejL6CYvN4DEqwrg,Nostro Ristorante,710 5th Ave,"{'latitude': 40.660738, 'longitude': -73.994285}",219,4.5,11215
+qBGKigOGn_flCx1apxPzlA,Piccola Cucina Osteria,196 Spring St,"{'latitude': 40.72506, 'longitude': -74.00322}",394,4.5,10012
+raqwXUBlnc0e8c7CYmxEJQ,Scarpetta,88 Madison Ave,"{'latitude': 40.744509, 'longitude': -73.9856}",1771,4,10016
+bdKc4CSJPv-XLgxVwrtPrg,Forlini's Restaurant,93 Baxter St,"{'latitude': 40.71695, 'longitude': -73.99957}",372,4.5,10013
+hdiuRS9sVZSMReZm4oV5SA,Da Andrea,35 W 13th St,"{'latitude': 40.736218, 'longitude': -73.99597}",702,4,10011
+I2lgw_7DUnwD92ND4PN-Ow,Aunt Jake's,149 Mulberry St,"{'latitude': 40.7190315, 'longitude': -73.9977161}",1124,4,10013
+16ZnHpuaaBt92XWeJHCC5A,Olio e Piú,3 Greenwich Ave,"{'latitude': 40.733826, 'longitude': -73.999852}",1624,4,10014
+1ZKbUeFAs0ltSnAYq4ELKw,Trattoria L'incontro,21-76 31st St,"{'latitude': 40.7763330374196, 'longitude': -73.9105868339539}",859,4.5,11105
+AUifp6IDKzmorCM6vY2fug,Pepe Giallo,195 10th Ave,"{'latitude': 40.7468940064083, 'longitude': -74.0049896784992}",563,4,10011
+Z67mgMkN3RfdPEX5mXsyYA,Piacere,351 Broome St,"{'latitude': 40.7196979, 'longitude': -73.9951175}",650,4,10013
+tJxAlyeT5PRbUIyJ2wsv-A,Bamonte's,32 Withers St,"{'latitude': 40.716579, 'longitude': -73.951174}",313,4,11211
+a4WZUTKn90dOkeY38JHNjQ,Aurora,70 Grand St,"{'latitude': 40.715621, 'longitude': -73.964757}",548,4,11249
+MOwB9YYd-Ko6nVgSB-ltQw,Briciola,370 W 51st St,"{'latitude': 40.7637997047278, 'longitude': -73.9880919456482}",759,4,10019
+zg9Jrtx9rqTXeaqufSOxHQ,Masseria Dei Vini,887 9th Ave,"{'latitude': 40.7684, 'longitude': -73.98558}",404,4,10019
+hV26aNvpfq5g34SI6_gvJA,Mama Rao Cucina Italiana,6408 11th Ave,"{'latitude': 40.6291809, 'longitude': -74.0057526}",182,4.5,11219
+zwOAiVT4pAmpNGXzj-t5MA,Lilia,567 Union Ave,"{'latitude': 40.71757, 'longitude': -73.95236}",630,4,11211
+_N92SH1Zi-Hbxn_bNHFz0Q,Noodle Pudding,38 Henry St,"{'latitude': 40.69979, 'longitude': -73.99203}",541,4,11201
+22nKUyCIbpnzR6R3_g1ptQ,Carmine's Italian Restaurant - Times Square,200 W 44th St,"{'latitude': 40.7574955824307, 'longitude': -73.9866844540098}",3304,4,10036
+hpRrYBbKUqv8ewFKDjbjoA,Gersi,316 Court St,"{'latitude': 40.683438, 'longitude': -73.995711}",203,4.5,11231
+J0OeDwmh5JBhid0A5GvltA,Il Corallo Trattoria,176 Prince St,"{'latitude': 40.7262073, 'longitude': -74.0018919}",870,4,10012
+wTaomJ5xoi-c7R_xKFmcpA,Positano Restaurant,10018 4th Ave,"{'latitude': 40.6127378, 'longitude': -74.0339271}",286,4,11209
+eMSTTuOUlKEnSOr8lPp3Xg,Ammazzacaffè,702 Grand St,"{'latitude': 40.7113172, 'longitude': -73.9446243}",114,4.5,11211
+aSprnLY-6GkMk1cuv0TMeA,Al Di La Trattoria,248 5th Ave,"{'latitude': 40.675332643247, 'longitude': -73.981340475038}",839,4,11215
+fuS39acPaRi38DhSSwEI4Q,Felice,15 Gold St,"{'latitude': 40.70789, 'longitude': -74.00712}",309,4,10038
+s5nPO911cYB2chdwqSqT9g,La Nonna Ristorante & Bar,184 Kent Ave,"{'latitude': 40.718468787527, 'longitude': -73.9639185527139}",255,4,11249
+rTzojTIarMjh_X7YPliySw,Zio Luigi,42-15 Queens Blvd,"{'latitude': 40.7438632, 'longitude': -73.9220898}",112,4.5,11104
+oUVX94JtKyLPXozC2hemCg,Manetta's Ristorante,1076 Jackson Ave,"{'latitude': 40.742935, 'longitude': -73.951929}",341,4,11101
+ZfyfGGtr7usMlsQP1LdU2g,Ornella Trattoria Italiana,29-17 23rd Ave,"{'latitude': 40.7748162, 'longitude': -73.9132582}",833,4,11105
+15k7iqFbhf4h8L01yggLqg,Song E Napule,146 W Houston St,"{'latitude': 40.72813, 'longitude': -74.00188}",376,4.5,10012
+xeC9vn3dxVVzAMR_aFwfXg,IL Brigante,214 Front St,"{'latitude': 40.707492, 'longitude': -74.002571}",342,4,10038
+Pu09oBx1ekEZiFt90PsSIw,Tableside Italian Cook Shoppe,345 E 6th St,"{'latitude': 40.7266287, 'longitude': -73.9863384}",194,4.5,10003
+26emJlm1YMFyOCezfgVk4g,Da Raffaele,883 First Ave,"{'latitude': 40.7535386913133, 'longitude': -73.9666010811925}",142,4.5,10022
+Gh69oBruvlEieK1FEFkvWg,Queen Italian Restaurant,84 Court St,"{'latitude': 40.691356, 'longitude': -73.991905}",286,4,11201
+yETcEIV9G7qxdwPdbivCmQ,Piccola Venezia Restaurant,4201 28th Ave,"{'latitude': 40.764797, 'longitude': -73.911766}",225,4.5,11103
+R3gSQGB3aEmVpwbKIgOPqg,Fabio Cucina Italiana,214 E 52nd St,"{'latitude': 40.75667, 'longitude': -73.96912}",256,4.5,10022
+z7H9ApIGopnDnQaglnPTzg,Allora Ristorante,145 E 47th St,"{'latitude': 40.75433, 'longitude': -73.97277}",371,4.5,10017
+QObHX0yR6zd0WfksRDbJTA,Becco,355 W 46th St,"{'latitude': 40.76083, 'longitude': -73.98981}",2659,3.5,10036
+5V4cUVikPN8ALWXBVdjltw,Mariella,492 6th Ave,"{'latitude': 40.6662419, 'longitude': -73.985749}",292,4.5,11215
+ZVa3-O6LMxZXSpKG0J1h-w,Piccolo Angolo Restaurant,621 Hudson St,"{'latitude': 40.7378601855952, 'longitude': -74.0058052539825}",510,4,10014
+DI_FoHY84hfzTWwlzF76aw,Benito One,174 Mulberry St,"{'latitude': 40.7199876084147, 'longitude': -73.9969271421432}",637,4,10013
+3n96VKiKG5Tte8z-U-TaLg,SoleLuna Restaurant,40-01 Queens Blvd,"{'latitude': 40.7439934462309, 'longitude': -73.9240421354771}",336,4.5,11104
+b6jOwyX4iaagw8YjXqq1sA,Antonio's Trattoria,2370 Belmont Ave,"{'latitude': 40.854131, 'longitude': -73.886601}",683,4.5,10458
+vbGqzhH_exG5HOG1I23kvg,Park Side Restaurant,107-01 Corona Ave,"{'latitude': 40.743843, 'longitude': -73.856118}",654,4,11368
+7cjT33LfYSk7vrRdEaSr4w,Angeletto Restaurant,890 2nd Ave,"{'latitude': 40.753188, 'longitude': -73.969365}",137,4.5,10017
+iXV4FMZPru7BB_nwN_8mVw,Maiella,4610 Center Blvd,"{'latitude': 40.7470416595732, 'longitude': -73.956579002435}",731,4,11109
+XHhRAKq6DArQXYhkgvwaow,Spaghetti Incident,231 Eldridge St,"{'latitude': 40.7223153441439, 'longitude': -73.9899454318763}",516,4,10002
+mPHPVJ2-8mOR-lFHafrc6w,Evelina,211 Dekalb Ave,"{'latitude': 40.689722, 'longitude': -73.971003}",114,4.5,11205
+ffJddI2ICrCz6q_QWrU5VQ,Da Ciro Brooklyn,458 Myrtle Ave,"{'latitude': 40.6931299, 'longitude': -73.96716}",73,4.5,11205
+pk89jzL1RsE9U0thf_z6tw,Locanda Verde,377 Greenwich St,"{'latitude': 40.7198601300801, 'longitude': -74.010039072422}",1529,4,10013
+ntQ7O1YPMIOrQkynhXRBVg,Manducatis,13-27 Jackson Ave,"{'latitude': 40.7445948529884, 'longitude': -73.9490695847509}",127,4,11101
+53ZNJNrT91VgvrI0LFjLNQ,Locanda Vini e Olii,129 Gates Ave,"{'latitude': 40.685007, 'longitude': -73.962943}",286,4,11238
+twHJyFgUSd7wzioKQjE7Jw,Galli,45 Mercer St,"{'latitude': 40.72161, 'longitude': -74.00127}",821,4,10013
+rJfGgBleDYCVq2rkBr_w-Q,Barano,26 Broadway,"{'latitude': 40.710372, 'longitude': -73.96794}",211,4.5,11249
+AAQDZdKhtcX7otmOfOF9nw,Gino's Restaurant,7414 5th Ave,"{'latitude': 40.63, 'longitude': -74.02274}",586,4,11209
+TzVVPWK_4dhdSEpNqZwIhQ,Toscana 49,143 East 49 St,"{'latitude': 40.7556957079225, 'longitude': -73.9717184007168}",197,4,10017
+d15lwNLOlLSeaAYqPadntw,Sam's Place,132 E 39th St,"{'latitude': 40.749270880468, 'longitude': -73.977082744053}",220,4,10016
+32VbG_XgkZIuye0PV-BxaA,Zero Otto Nove,15 W 21st St,"{'latitude': 40.7407551035259, 'longitude': -73.9914887388588}",442,4,10010
+_WttOSi2_ggdvUI6GvaqTg,Da Nonna Rosa,140 7th Ave,"{'latitude': 40.67283, 'longitude': -73.97682}",294,4,11215
+1mp7uP6Kz_Zz4UClVfnjFQ,Testo,141 Leonard St,"{'latitude': 40.708324, 'longitude': -73.946988}",174,4.5,11206
+vjubSxmdG_HoBBgd39geBw,Nino's 46,39 W 46th St,"{'latitude': 40.7569159, 'longitude': -73.980516}",1057,4,10036
+a0IET3_yCFcO36OqGSsisg,Eataly,200 5th Ave,"{'latitude': 40.74195877796, 'longitude': -73.989716662832}",5231,4,10010
+yB4ziqFM_7V8JxJas7CHfA,Ulivo,4 W 28th St,"{'latitude': 40.7447371960713, 'longitude': -73.9880339428782}",243,4,10001
+MphfKkYFEe0BDQ6hZ0A5fA,Gelso & Grand,186 Grand St,"{'latitude': 40.7194089547259, 'longitude': -73.9973777877722}",703,4.5,10013
+LXdblKc5g1Dp17xiV-Am1w,Trattoria Dell'Arte,900 7th Ave,"{'latitude': 40.765295646702, 'longitude': -73.98046281606}",911,4,10019
+JLpEKUYAtzBRQwsUL3RPIA,Il Corso,54 W 55th St,"{'latitude': 40.762463, 'longitude': -73.977161}",301,4,10019
+vVVmHacu2YAxKfpIjhfd1g,NORMA Gastronomia Siciliana,438 3rd Ave,"{'latitude': 40.743553, 'longitude': -73.980026}",256,4.5,10016
+zDujEq9qZk13nBcG2PH4tA,Il Falco,21-50 44th Dr,"{'latitude': 40.7476595714373, 'longitude': -73.9455319123659}",267,4.5,11101
+V3USzFEGhuoXez4G2Rk11A,Tavola,488 9th Ave,"{'latitude': 40.755403, 'longitude': -73.994516}",820,4,10018
+L5MrjGhBqQkwlguY0ilxqA,The Saint Austere,613 Grand St,"{'latitude': 40.7114604, 'longitude': -73.9476182}",360,4.5,11211
+z4CzSOnngC2RaTEC_BgUWA,Cataldo's Restaurant,554 Vanderbilt Ave,"{'latitude': 40.6800799, 'longitude': -73.96832}",214,4,11238
+4Kqzy6WJBZ4Tc0cg6k2XNQ,Vinny's of Carroll Gardens,295 Smith St,"{'latitude': 40.682103, 'longitude': -73.993438}",196,4,11231
+74zaTegd7fnS6llTesn_Dg,Fragole Ristorante,394 Court St,"{'latitude': 40.68087, 'longitude': -73.99688}",310,4,11231
+TO9IICJjvcg1QhLVnap9fA,Cent'Anni,742 Franklin Ave,"{'latitude': 40.6730907423467, 'longitude': -73.9573492245369}",374,4,11238
+PajKY49h4SpvSr-TW3lwCQ,Rafele Ristorante,29 7th Ave S,"{'latitude': 40.7309471231405, 'longitude': -74.0041171779098}",435,4.5,10014
+LRgB2kEKtBxqIxNksTO_PQ,Patrizia's - Williamsburg,35 Broadway,"{'latitude': 40.71084, 'longitude': -73.96735}",576,4,11249
+LRgB2kEKtBxqIxNksTO_PQ,Patrizia's - Williamsburg,35 Broadway,"{'latitude': 40.71084, 'longitude': -73.96735}",576,4,11249
+MeUq9lombxM9alxs64tejQ,Pepolino Restaurant,281 W Broadway,"{'latitude': 40.72077, 'longitude': -74.00489}",511,4,10013
+NGzwDLroGL4JvG81BWliNw,Armondo's Italian Restaurant,7316 Northern Blvd,"{'latitude': 40.7545652, 'longitude': -73.8934414}",46,4.5,11372
+3o0W7asUgP7EEKn8iFWFyA,Casa Nonna,310 W 38th St,"{'latitude': 40.75496, 'longitude': -73.99247}",483,4,10018
+Ry9w-jFALWYhazi6jjyIKw,Rucola,190 Dean St,"{'latitude': 40.68562, 'longitude': -73.98587}",451,4,11217
+9Zv7Xu380q2rzPSLEXX0Xg,Joe's Restaurant,6611 Forest Ave,"{'latitude': 40.707518, 'longitude': -73.903177}",170,4,11385
+lwfCl81r5a0mjxDNxNGC9w,Il Buco,47 Bond St,"{'latitude': 40.72583, 'longitude': -73.99299}",610,4,10012
+skLDCHQcmivdGx5Qd_qBIA,Il Passatore,14 Bushwick Ave,"{'latitude': 40.71431, 'longitude': -73.94217}",359,4,11211
+vhqFa_0SG9M7Ra1OTmfB9A,LaRina Pastificio & Vino,387 Myrtle Ave,"{'latitude': 40.6933631896973, 'longitude': -73.9704132080078}",111,4,11205
+4j_n7nPaZrp6_lEInZaA8Q,Aita,132 Greene Ave,"{'latitude': 40.686409, 'longitude': -73.9666214}",239,4,11238
+Be1Y-vAEMgo7lqL5alXgDA,Taverna Di Bacco,175 Ludlow St,"{'latitude': 40.72191, 'longitude': -73.98768}",248,4,10002
+D-smGg8zFQzk40EdessZ5w,Bar Italia,3503 Broadway,"{'latitude': 40.76058, 'longitude': -73.92182}",402,4,11106
+BXiX5-ce4NNxsw7eUDZeOg,Giovanni's Brooklyn Eats,1657 8th Ave,"{'latitude': 40.6601105, 'longitude': -73.9835205}",409,4,11215
+q3_FgDWWuXcVGiNuo_OPBQ,Fiaschetteria Pistoia,647 E 11th St,"{'latitude': 40.72666, 'longitude': -73.9773}",124,4.5,10009
+ugIv_ylUdqRIlx6AD8lTJA,Basso56,234 W 56th St,"{'latitude': 40.7655, 'longitude': -73.98267}",576,4.5,10019
+e-XgOOm0X4Lk-gAX45Bj1Q,Baciccia Pizza e Cucina,426A 7th Ave,"{'latitude': 40.66377, 'longitude': -73.98437}",86,4.5,11215
+RXCCofQw1EjTcSN0ZeXfRA,Risotteria Melotti NYC,309 E 5th St,"{'latitude': 40.726673363853, 'longitude': -73.9880919456482}",282,4.5,10003
+cKGi-erQrad9lf87VH6cjA,Antica Trattoria,6810 Fresh Pond Rd,"{'latitude': 40.7047141919752, 'longitude': -73.8961777844279}",121,4,11385
+goqTQ4tOD-asC_ZJBW9l7w,Patsy's Italian Restaurant,236 W 56th St,"{'latitude': 40.76553, 'longitude': -73.98274}",785,4,10019
+fH8DkdRerw5LJ7fZZHRfeA,Leuca,111 N 12th St,"{'latitude': 40.722121, 'longitude': -73.956678}",271,4,11249
+h37t9rA06Sr4EetJjKrfzw,Don Angie,103 Greenwich Ave,"{'latitude': 40.73778, 'longitude': -74.00197}",200,4.5,10014
+MCnexHfsclcOpLHS4_2U0A,San Carlo Osteria Piemonte,90 Thompson St,"{'latitude': 40.725139, 'longitude': -74.002098}",169,4.5,10012
+0laCKZiHrdM_ZKdhTFbGgg,Sauce & Barrel,97 Washington St,"{'latitude': 40.707999, 'longitude': -74.0142651}",295,4,10006
+faukkggAc_tuJ4THYlf4fg,La Masseria,235 W 48th St,"{'latitude': 40.760868632784, 'longitude': -73.986348802868}",547,4,10036
+2Ga76-_btMgRTcHPy7kAUg,Ortobello Restaurant,6401 Bay Pkwy,"{'latitude': 40.6142763970316, 'longitude': -73.9807206406357}",215,4,11204
+hDj_0pbi4mFR5p1H1w6igw,Misirizzi,36 E 4th St,"{'latitude': 40.7272, 'longitude': -73.99228}",107,4.5,10003
+zww7OtudkcE921UT2ThOSg,Camillo,1146 Nostrand Ave,"{'latitude': 40.6596, 'longitude': -73.95081}",102,4,11225
+sGIlOSvwW_x8-in8QmRwXA,Little Forno,276 Bay Ridge Ave,"{'latitude': 40.6356982, 'longitude': -74.0264421}",85,4.5,11220
+x61Sizu7lqGPMGuKEGHo-Q,Senso Unico,43-04 47th Ave,"{'latitude': 40.7414137015591, 'longitude': -73.9216857927781}",44,4.5,11104
+3D6UAhoKnF3A03rX_v5ngA,Bacaro,136 Division St,"{'latitude': 40.71456, 'longitude': -73.99154}",373,4,10002
+6Z5OWpaeGGazJHR4LfThsw,Palma,28 Cornelia St,"{'latitude': 40.73115, 'longitude': -74.00233}",655,4,10014
+TWH4MjLtN1fKlF-7n6YXHg,Lil' Frankie's,19 1st Ave,"{'latitude': 40.723625, 'longitude': -73.988555}",979,4,10003
+LfRiA6RORToZUSJUHkZBVA,Frankies 457 Spuntino,457 Court St,"{'latitude': 40.677328, 'longitude': -73.997972}",743,4,11231
+tLZfepIfSf0a80zHQTbTGQ,Trattoria Zero Otto Nove,2357 Arthur Ave,"{'latitude': 40.8546515, 'longitude': -73.8883526}",693,4,10458
+uPWyvfh5qSrVbujhjsDiiw,Oregano,102 Berry St,"{'latitude': 40.7190165, 'longitude': -73.9586248}",359,4,11249
+l7OsDvMOO3ji3fg0nT0QzA,Tony's Di Napoli,1081 3rd Ave,"{'latitude': 40.76435, 'longitude': -73.96408}",598,4,10065
+HpxYBu1ARzOGvuUcLJe54g,Giardino 54,402 W 54th St,"{'latitude': 40.7661, 'longitude': -73.98763}",43,4.5,10019
+5Akss-swwfyoSVeIsDBbvw,Basta Pasta,37 W 17th St,"{'latitude': 40.73881, 'longitude': -73.9940699}",1345,3.5,10011
+eAvP3Q0NCpJs9U0X1pEf-A,Caffe E Vino,112 Dekalb Ave,"{'latitude': 40.68971, 'longitude': -73.97827}",307,4,11201
+562aZEpTDdYKDe5hWuDyFA,La Gioconda,226 E 53rd St,"{'latitude': 40.7570686, 'longitude': -73.9684186}",148,4,10022
+KSUtWeFngYHhNff9DfjVBQ,Forno Pizzeria E Trattoria,52-27 69th St,"{'latitude': 40.73274, 'longitude': -73.89556}",154,4.5,11378
+PgTgzq8oKcP2r00YUWL03A,Sole di Capri,165 Church St,"{'latitude': 40.71511, 'longitude': -74.00758}",229,4,10007
+y_tRUBOu3qg7lkaO2Xk1hQ,Frost Restaurant,193 Frost St,"{'latitude': 40.7183867, 'longitude': -73.9434906}",143,4,11211
+xKIv_b2L2pUHmsoJ-xOepg,Gran Morsi,22 Warren St,"{'latitude': 40.7142052394856, 'longitude': -74.0077535494539}",308,4.5,10007
+ddyYKrNWkdc5mudrmLaTvA,Flora,1021 8th Ave,"{'latitude': 40.66452, 'longitude': -73.97989}",48,4.5,11215
+tP7RR_9k9sDI2qGLlaaNNg,al Vicoletto,9 E 17th St,"{'latitude': 40.73774, 'longitude': -73.99127}",141,4,10003
+yi6jIxzHo-nbAOG4KWuqcw,Maialino,2 Lexington Ave,"{'latitude': 40.738437, 'longitude': -73.985686}",1299,4,10010
+IIsJN_ilLI36zGAF3SMCCQ,La Piccola Cucina,964 Amsterdam Ave,"{'latitude': 40.8015, 'longitude': -73.96534}",103,4,10025
+Cm_knZN7W1MaFEp8MkBBSA,Tramonti La Pizza,130 Saint Marks Pl,"{'latitude': 40.72667, 'longitude': -73.9836}",92,4.5,10009
+wUoLj0v2cJ9T4mgebQqoZw,Giardino D'oro,5 Gold St,"{'latitude': 40.70758, 'longitude': -74.00715}",93,4,10038
+rJJiGJx3kfMAxtD7P7okHQ,Celeste,502 Amsterdam Ave,"{'latitude': 40.78666, 'longitude': -73.97599}",864,3.5,10024
+i4TzhIY8z0KIaBBH1iLZLA,Il Poeta,98-04 Metropolitan Ave,"{'latitude': 40.7108, 'longitude': -73.85454}",201,4,11375
+WEhkGLKlj-5X1pq_07Syaw,Vesta,21-02 30th Ave,"{'latitude': 40.76961, 'longitude': -73.92776}",646,4,11102
+pK-TQMe7SE_erplC9EWjUA,Bella Gioia,209 4th Ave,"{'latitude': 40.6775302, 'longitude': -73.9827215}",186,4.5,11217
+eWMuXtaBzf0H5u0Vf_zpjw,Ciccio,190 6th Ave,"{'latitude': 40.726306, 'longitude': -74.003427}",265,4,10013
+r2nIYBSyXny1-7XvsL2PVg,Lena's Italian Kitchen,551 2nd Ave,"{'latitude': 40.742664, 'longitude': -73.977783}",119,4,10016
+eTneVbjPKdo4gD9HfkDGdA,Santa Panza,1079 Broadway,"{'latitude': 40.6947, 'longitude': -73.93068}",126,4.5,11221
+_3QRn51W3IoqBzc9fYet4Q,Grazie,26 E 84th St,"{'latitude': 40.77948, 'longitude': -73.9601}",378,4,10028
+ieoPAi6nbdEkrwv4vGVSwg,Via Trenta Osteria & Wine Bar,3619 30th Ave,"{'latitude': 40.7648771022913, 'longitude': -73.9165434257602}",415,4,11103
+#NAME?,Non Solo Piada,302 W 37th St,"{'latitude': 40.75414, 'longitude': -73.99245}",273,5,10018
+0axnkZlDiQcJVc06DDXxGQ,Ristorante Il Melograno,501 W 51st St,"{'latitude': 40.7654289685161, 'longitude': -73.9914178848267}",278,4,10019
+XfOa_KyrV7JSFJMOKckGMg,Monte's Trattoria,97 Macdougal St,"{'latitude': 40.72959, 'longitude': -74.0011}",310,4,10012
+uYHN9Vw3V1ajDGRnNDtbYw,Michael's of Brooklyn,2929 Ave R,"{'latitude': 40.6076329987397, 'longitude': -73.9428921973385}",199,4.5,11229
+f_1BjTChf6bobreSRpqhsw,Arco Cafe,886 Amsterdam Ave,"{'latitude': 40.7988462, 'longitude': -73.967065}",237,4,10025
+#NAME?,Cecconi's Dumbo,55 Water St,"{'latitude': 40.70362, 'longitude': -73.99165}",467,3.5,11201
+yFtOtTd7ncSjFF3QavQ5cA,Crispo,240 W 14th St,"{'latitude': 40.7392469, 'longitude': -74.0016882}",914,4,10011
+H_TGP2AgX3IUmzq8Aml79Q,L' Angolo Tribeca,190-A Duane St,"{'latitude': 40.71734, 'longitude': -74.01044}",78,4,10013
+n-W54Fja1oW5u3gzYp9HwA,Avena,141 E 57th St,"{'latitude': 40.76099, 'longitude': -73.96863}",135,4.5,10022
+13GEQ-lgTcydZda7lhv_hw,La Palina Restaurant,159 Avenue O,"{'latitude': 40.610958, 'longitude': -73.9788477}",169,4,11204
+15d_Y6TVOQFD2KRVkxuAjw,Baci & Abbracci,204 Grand St,"{'latitude': 40.7139015197754, 'longitude': -73.96044921875}",280,4,11211
+z-y9GDoRr1S9Ma6b2n0A4A,Enoteca Maria,27 Hyatt St,"{'latitude': 40.642, 'longitude': -74.07729}",359,4,10301
+pr_CLSHRCs2lWADPOKKxcw,Pasta Dal Cuore,527 Jersey Ave,"{'latitude': 40.7209453944042, 'longitude': -74.0465693799559}",216,4,7302
+kIm0oeOaVfC9-2flLPVklA,Patrizia's Pizza and Pasta,462-466 2nd Ave,"{'latitude': 40.7398415, 'longitude': -73.9792862}",495,4,10016
+rtivWWzG0XjUuhSrwusTgQ,Fausto,348 Flatbush Ave,"{'latitude': 40.67597, 'longitude': -73.97181}",123,4,11238
+aJJlY5xvqS180wtRIHEWqA,Cotenna,21 Bedford St,"{'latitude': 40.72903, 'longitude': -74.00357}",359,4,10014
+cp5k0PKl236X0xaNDYR5Zw,Feroce Ristorante,105 W 28th St,"{'latitude': 40.74634, 'longitude': -73.99096}",6,4,10001
+cnMNL1O_dVtCdTyQwwOwOQ,Bistango,415 3rd Ave,"{'latitude': 40.7425771, 'longitude': -73.9800892}",664,4,10016
+l7Z0p-PkSwIDPLPY1TRl8A,Emilio's Ballato,55 E Houston St,"{'latitude': 40.7244923, 'longitude': -73.9944022}",282,4,10012
+nTt5cLJVcmBdM640izladw,Carmentas Italian Specialties,50 Starr St,"{'latitude': 40.70114, 'longitude': -73.92677}",51,4.5,11221
+Aazjxg21VH2cncWYBAv68Q,Sottocasa Pizzeria,298 Atlantic Ave,"{'latitude': 40.688285, 'longitude': -73.989006}",577,4.5,11201
+qrcu1K6f8WGMODdq_A8unw,Volare Restaurant,147 W 4th St Frnt,"{'latitude': 40.7315434396639, 'longitude': -74.0006124973297}",121,4.5,10012
+3uyBZNbDk2vRFBBWZOdIUA,Dominick's Restaurant,2335 Arthur Ave,"{'latitude': 40.85434, 'longitude': -73.889}",310,4,10458
+81ATGBKh1Ke6EX_L3qHaIQ,Ferdinando's Focacceria,151 Union St,"{'latitude': 40.6841934772249, 'longitude': -74.0018677711487}",176,4,11231
+JuHeNFYoeva_FDjmtj_vLw,il Fornetto,2902 Emmons Ave,"{'latitude': 40.5835841, 'longitude': -73.9397077}",329,4,11235
+5WMGy-lEcQPfLb3q7erS-Q,Acquista Trattoria,178-01 Union Tpke,"{'latitude': 40.7265391, 'longitude': -73.7898816}",347,4,11366
+01eI6pT0doZiu0nm-Gl7RA,Trattoria 35,213-15 35th Ave,"{'latitude': 40.76902, 'longitude': -73.77417}",396,4,11361
+-0fjWWC2SY6kNxGfD8PKGg,Palermo Restaurant & Bar,2392 21st St,"{'latitude': 40.7769088448014, 'longitude': -73.9212289547099}",169,4.5,11105
+PQd4M3cuSgdweWgLgZIslQ,Inatteso Pizzabar Casano,28 West St,"{'latitude': 40.7056571, 'longitude': -74.0172056}",286,4,10004
+JU5d81TYm7IJHWqOqJWMqw,Have & Meyer,103 Havemeyer St,"{'latitude': 40.7132687751084, 'longitude': -73.9564743950496}",85,4,11211
+7EAj8VJX_DoKlZdCJBE4Pg,La Bella Vita,163 Mulberry St,"{'latitude': 40.719795, 'longitude': -73.997406}",331,4,10013
+Fit_iIDn__NPVZpVlKFBFQ,Osteria 106,53 W 106 St,"{'latitude': 40.79894, 'longitude': -73.96174}",76,4.5,10025
+#NAME?,Babbo,110 Waverly Pl,"{'latitude': 40.732283, 'longitude': -73.999284}",2318,4,10011
+if6ZZopcH51YQ7E3y4BxaA,Tuscan Hills,11060 Queens Blvd,"{'latitude': 40.718921, 'longitude': -73.8392443}",360,4,11375
+9iC39Z1YjZKbrrCANgzBXg,Sergimmo Salumeria,456 9th Ave,"{'latitude': 40.754296, 'longitude': -73.995498}",641,4,10018
+EegEULbC3qoMA-FaEjivtA,Barbuto,775 Washington St,"{'latitude': 40.7377203192966, 'longitude': -74.0080020711638}",877,4,10014
+WYhRkUATHRyXZrE55MArbA,Scalini Fedeli,165 Duane St,"{'latitude': 40.7173964385114, 'longitude': -74.0093277537459}",295,4.5,10013
+OCTiJwvjoK81WoDwsTkFvA,Paesano of Mulberry Street,136 Mulberry St,"{'latitude': 40.718624, 'longitude': -73.997665}",650,4,10013
+ZTsN8TdMXl8SW_AKd_ablw,Forno Rosso,327 Gold St,"{'latitude': 40.69446, 'longitude': -73.98316}",582,4.5,11201
+c4PIUs7uwg9lA4ObzJ4V5Q,Barosa,62-29 Woodhaven Blvd,"{'latitude': 40.726197, 'longitude': -73.869795}",310,3.5,11374
+o2SAcKbfOMkA71xUfyee6Q,Rossini's,108 E 38th St,"{'latitude': 40.74921, 'longitude': -73.97883}",175,4,10016
+24Fe99IbeFWERDVN7QGB4Q,La Vigna Restaurant,10011 Metropolitan Ave,"{'latitude': 40.71098, 'longitude': -73.85272}",175,4,11375
+gyWc5qJRvu26LVQIShdR4Q,Babbalucci,331 Lenox Ave,"{'latitude': 40.80894, 'longitude': -73.94496}",339,4,10027
+h4VCnZ2aZ33mdenS_ZI7jQ,Mama Mia 44 SW,621 9th Ave,"{'latitude': 40.759761, 'longitude': -73.992065}",475,4,10036
+T-RXDLq_VEv7s1_SooYIYQ,Osteria 57,57 W 10th St,"{'latitude': 40.73467, 'longitude': -73.99786}",67,4.5,10011
+o5mMVFk4Hcpk2FuKfgTgdg,Malaparte,753 Washington St,"{'latitude': 40.73687, 'longitude': -74.00812}",282,4,10014
+f8TZ_ctcSwxwW8S69YKnwg,Il Bambino,34-08 31st Ave,"{'latitude': 40.76281, 'longitude': -73.92089}",1190,4.5,11106
+mTWlEiCUEBlxBAkIikkB1A,Carmine's Italian Restaurant - Upper West Side,2450 Broadway,"{'latitude': 40.791077, 'longitude': -73.973763}",1225,4,10024
+RiN-EOiQLXlJszhe6HJdZA,Il Colosseo,7704 18th Ave,"{'latitude': 40.612231, 'longitude': -73.997545}",175,4,11214
+LTi4_wcCVmqQeJ_jgTEbOQ,Emporio,231 Mott St,"{'latitude': 40.7226371, 'longitude': -73.9951331}",718,4,10012
+mYc4l0LrKTDQJb6zH3Rs4g,Giovanni's,192 Ave U,"{'latitude': 40.5986397406659, 'longitude': -73.9774421390579}",33,4.5,11223
+5MpWHGQ6Qc-M4q1KL_nioA,Bar B,84 7th Ave,"{'latitude': 40.7395804, 'longitude': -73.999118}",165,4.5,10011
+5pRxCYQppSq0czjFDN9X3Q,Campagnola Restaurant,1382 1st Ave,"{'latitude': 40.768817, 'longitude': -73.954833}",224,4,10021
+ifIfq2EwEohCgoKnG68_LA,Villa Berulia,107 E 34th St,"{'latitude': 40.7467827, 'longitude': -73.9806507}",142,4,10016
+JOvcJqD5eCFrGjFa6k7vpQ,Zia Maria-Chelsea,318 W 23rd St,"{'latitude': 40.7454863, 'longitude': -73.9993392}",193,4,10011
+25npnVAlhRjguunYS8zy8w,Piccola Strada,77 E 4th St,"{'latitude': 40.726635460956, 'longitude': -73.9904360317688}",167,4,10003
+hzPBADaUBQEL30MGrvKsww,Il Tinello Ristorante Italiano,16 W 56th St,"{'latitude': 40.76256, 'longitude': -73.97566}",241,4.5,10019
+OXwE8UzYV0kvQpV5Bv6nHQ,Anthony's Place,2812 Ocean Ave,"{'latitude': 40.5928522, 'longitude': -73.9505447}",171,4,11229
+aLM9irVFlNoVlS9dGuW_Lg,Amata,209 E 56th St,"{'latitude': 40.759426, 'longitude': -73.967063}",70,4.5,10022
+QhRQE6nOMLd00kV2k-IsbQ,Augustino's,1104 Washington St,"{'latitude': 40.75024, 'longitude': -74.02732}",254,4,7030
+JrJRfpGicISz_Gt9LkPMvw,Belli Osteria,860 Fulton St,"{'latitude': 40.6835199838354, 'longitude': -73.9669024162476}",220,4,11238
+elPjOCDb8WmOpaQEI-AAOw,Forno Siciliano,43-19 Ditmars Blvd,"{'latitude': 40.7711294255972, 'longitude': -73.9031770938873}",84,4,11105
+B0qxEXABa8-t9sY4NQRRsQ,Fumo,2791 Broadway,"{'latitude': 40.80285, 'longitude': -73.96798}",1,5,10025
+Yubu48l7he-qrNDSeAngbQ,Via Vai,31-09 23rd Ave,"{'latitude': 40.7741502, 'longitude': -73.9123089}",197,4,11105
+ujbH5MZQzC2SSuRF3XvNfQ,Mi Garba,129 4th Ave,"{'latitude': 40.733253210783, 'longitude': -73.9898487925529}",123,4,10003
+zjglOaCY8xQu3s2eKnLFzw,Mozzarella & Vino,33 W 54th St,"{'latitude': 40.76204, 'longitude': -73.97718}",233,4,10019
+t-Pm38_XhMnGfOYgkhaNRA,Le Fanfare,1103 Manhattan Ave,"{'latitude': 40.736202, 'longitude': -73.955558}",144,4,11222
+-7iUpGTNDdy4WjxLGYp-_g,Trattoria Italienne,19 W 24th St,"{'latitude': 40.7430619, 'longitude': -73.9903948}",104,4.5,10010
+Njr_f1J5Pve35OyPdBljVA,Convivium Osteria,68 5th Ave,"{'latitude': 40.68105, 'longitude': -73.97748}",453,4,11217
+7_hGsGEkHrjgAiYVjrCFnw,Carbone,181 Thompson St,"{'latitude': 40.728, 'longitude': -74.0001497}",833,4,10012
+jnHbdsqlTKlPcmJ8BCP9-g,Via Carota,51 Grove St,"{'latitude': 40.7331, 'longitude': -74.00369}",358,4,10014
+PInk3_IFkANrG8zXQHGfxQ,Broccolino,213 Smith St,"{'latitude': 40.684492, 'longitude': -73.991692}",50,4,11201
+SHG9wQ5PfyXDgJDYkrPu7Q,Vago Restaurant,509 3rd Ave,"{'latitude': 40.7458699, 'longitude': -73.9778}",146,4,10016
+w0YkRy2gsr0znrM7ojZtTw,Scottadito Osteria Toscana,788A Union St,"{'latitude': 40.6746627, 'longitude': -73.9766125}",794,4,11215
+1DT6XYMzcekpFQ41Hj44vA,Luzzo's BK,145 Atlantic Ave,"{'latitude': 40.690706, 'longitude': -73.9952269}",164,4,11201
+wZkZmjZEJDraLJgAalnHvA,Pisticci,125 La Salle St,"{'latitude': 40.8141624, 'longitude': -73.960288}",785,4,10027
+O5S9rhY63YPGiQeUcn7PKA,Cardoncello DiVino,43 W 27th St,"{'latitude': 40.74519, 'longitude': -73.98985}",54,4.5,10001
+6-ShONYFIM9K8HAUOhZVlw,Da Mikele by Luzzo's,275 Church St,"{'latitude': 40.718477, 'longitude': -74.004802}",326,4,10013
+tCFhIU4xSN6b7dbg3ApafQ,Tiella,1109 1st Ave,"{'latitude': 40.7606782444803, 'longitude': -73.9612435559085}",179,4,10065
+JyXn_GCGM2DsNYIzgzQrDw,Da Gennaro,129 Mulberry St,"{'latitude': 40.71832, 'longitude': -73.99794}",782,4,10013
+A2DV-AQIXRYUMu5Ak5mjxg,Patzeria Family & Friends,311 W 48th St,"{'latitude': 40.7615, 'longitude': -73.98754}",927,4.5,10036
+k2o2DJOZT0oGTM-zmAJUfQ,Adelina's,159 Greenpoint Ave,"{'latitude': 40.7305, 'longitude': -73.95339}",158,4,11222
+GBxnLvHAbpv9YU4GWfkASw,Patrizia's Of Sheepshead Bay,1901 Emmons Ave,"{'latitude': 40.5838270971647, 'longitude': -73.9496481877971}",105,4,11235
+jj_SCEzBi_CdZWMTjTwf_Q,Monte's,451 Carroll St,"{'latitude': 40.6775499, 'longitude': -73.98724}",131,4,11215
+St8a2de1vfyCxwIySBUWbA,Graziella's,232 Vanderbilt Ave,"{'latitude': 40.6904563903809, 'longitude': -73.9696273803711}",376,4,11205
+4eGCuMwKRCCrYHOobEsFpA,Lusardi's,1494 2nd Ave,"{'latitude': 40.7724199, 'longitude': -73.9555}",174,4,10075
+lP4ynyBoeFPywLg78XkMmw,Cibo E Vino,2418 Broadway,"{'latitude': 40.790206, 'longitude': -73.9749174}",282,4,10024
+9W_dg9fvb-z8DBye2jfGiQ,Dazie's,39-41 Queens Blvd,"{'latitude': 40.744194, 'longitude': -73.924557}",77,4,11104
+nHMDOIX32dGbfpuNUwsLNQ,AlMar,111 Front St,"{'latitude': 40.702662, 'longitude': -73.989177}",371,4,11201
+gls8Eii-vgwKScOCNQWz9w,Cafetal Social Club,285 Mott St,"{'latitude': 40.724308, 'longitude': -73.994457}",103,4.5,10012
+gqFM-JsHftTRplYbPF64Kg,Ecco,124 Chambers St,"{'latitude': 40.715129, 'longitude': -74.008865}",127,4,10007
+0wzQPZvvbUqhD7D8JNkGZw,Ristorante Grifone,244 E 46th St,"{'latitude': 40.7525199, 'longitude': -73.97092}",108,4,10017
+FNxOWxts63oDRKwy9Pbfzw,Tarallucci E Vino - Nomad,44 E 28th St,"{'latitude': 40.7436553, 'longitude': -73.9852171}",109,4,10016
+HJwXGxmXdB1X3gfCZMujjg,Broccolino,446 Dean St,"{'latitude': 40.6819311529398, 'longitude': -73.9762727916241}",246,3.5,11217
+BA0_zeBrnugK2l0HHp38mw,Via Della Pace,48 E 7th St,"{'latitude': 40.7277013287721, 'longitude': -73.9877394513958}",497,4,10003
+Q1_UvNyONsaVS_VC1mD9Dw,Osteria Cotta,513 Columbus Ave,"{'latitude': 40.78554, 'longitude': -73.97263}",755,4,10024
+IiDfrdwPZJHbiuHdjaSJKA,Attraversa,225 W Broadway,"{'latitude': 40.71922, 'longitude': -74.00603}",35,4.5,10013
+zo4JHfD2nWPUiqgsgDOaHQ,Rao's,455 E 114th St,"{'latitude': 40.79392, 'longitude': -73.93427}",138,4.5,10029
+Zz-1pzGqrgParLQ_LzY0lw,Massoni,11 E 31st St,"{'latitude': 40.74635, 'longitude': -73.98494}",207,4,10016
+pxtno4adrYTjyQsxngTj9A,dell'anima,600 11th Ave,"{'latitude': 40.76234, 'longitude': -73.99695}",618,4,10036
+jku9Fg8JsUbv_LQzg6PK4g,Lavagna,545 E 5th St,"{'latitude': 40.72406, 'longitude': -73.98226}",359,4,10009
+2BJCPzGoWnOFgDbvoHi1Tw,Gino's Trattoria,548 Flatbush Ave,"{'latitude': 40.6605221493743, 'longitude': -73.9606475830078}",230,4,11225
+NkAUvrtAcnebxPB6zayjsg,Lamarcapasta,161 E 22nd St,"{'latitude': 40.73841, 'longitude': -73.9839499}",277,4,10010
+SpyQHasbnU5YkOR6PI4sNQ,Margherita NYC,197 Grand St,"{'latitude': 40.7189865112305, 'longitude': -73.9969329833984}",268,4,10013
+7Tu5l9UfWVi_v3m4TwJAxQ,Caffe dei Fiori,973 Lexington Ave,"{'latitude': 40.76935, 'longitude': -73.9627}",71,4.5,10021
+dc3hkLkAqCSxDWQzrx-g9A,Quality Italian,57 W 57th St,"{'latitude': 40.7644044527436, 'longitude': -73.9767805051616}",954,4,10019
+iV5yy8EbjsPoYWtjRhB61Q,Nica Trattoria,354 E 84th St,"{'latitude': 40.7756431, 'longitude': -73.950783}",127,4,10028
+3qIISjUYn1tbqHXi7nCLXg,Sofia Wine Bar,242 E 50th St,"{'latitude': 40.75502, 'longitude': -73.96913}",606,4,10022
+8qSOz7oTPUUCafsMOBBNEQ,Pisillo Italian Panini,97 Nassau St,"{'latitude': 40.710558, 'longitude': -74.007594}",527,4.5,10038
+b42PcC1nCP602fiXF0a9Xg,Barbalu Restaurant,225-227 Front St,"{'latitude': 40.7074747, 'longitude': -74.0020404}",246,4,10038
+78TCGIG1eHMYdyvMpFdDbQ,Follia NYC,179 3rd Ave,"{'latitude': 40.7349243164062, 'longitude': -73.9855880737305}",130,4,10003
+_V7YsDQ4Lb41rqfkuPzm1w,Trattoria Pesce Pasta,262 Bleecker St,"{'latitude': 40.73115, 'longitude': -74.00319}",216,4,10014
+WbkM29ZUAJtsatHEPBZtAQ,Laboratorio,329 W 51st St,"{'latitude': 40.76364, 'longitude': -73.98678}",84,4,10019
+cBmZRsZmUfBg6eMPPM6ypA,Zagara Ristorante Italiano,216 7th Ave,"{'latitude': 40.743835, 'longitude': -73.996088}",183,4,10011
+RUfsaabXoeH_FDKS8ocWjA,D'Amore Winebar & Ristorante,118 E 116th St,"{'latitude': 40.7986510380525, 'longitude': -73.9424410834908}",207,4.5,10029
+7S8g0G_Ndc3DS-kqsozq8Q,83 1/2,345 E 83rd St,"{'latitude': 40.775354, 'longitude': -73.951216}",150,4,10028
+cRUuiiEW7F0uqtgSG-sKCg,Mama Maria's Restaurant,307 Court St,"{'latitude': 40.68356, 'longitude': -73.99517}",107,4,11231
+vZ5-JXlJS75k8wmPNS5U5w,Max Soha,1274 Amsterdam Ave,"{'latitude': 40.811302, 'longitude': -73.958183}",392,4,10027
+idxD3X7WfLFPZMoFnCRIQQ,Il Cantinori,32 E 10th St,"{'latitude': 40.7322779619352, 'longitude': -73.9929321762328}",238,4,10003
+iQo5aJwTL_ZrXCdPFKq-RA,Isle of Capri,1028 3rd Ave,"{'latitude': 40.76283, 'longitude': -73.96602}",204,4,10065
+hhqUkocxtcnILE4hKFCoPg,Tutto il Giorno,114 Franklin St,"{'latitude': 40.71876, 'longitude': -74.006056}",78,3.5,10013
+qtdR-eDXwbzWQvUzVXQE6w,Ogliastro,784 Washington Ave,"{'latitude': 40.674397, 'longitude': -73.963448}",168,4,11238
+lgFApPVpbXnsIFw1CRJORw,Cellini Restaurant,65 E 54th St,"{'latitude': 40.7600530715894, 'longitude': -73.9727372548065}",142,4,10022
+phB6HvQyOUEZmvgg9KzRmA,Da Franco & Tony Ristorante,2815 Middletown Rd,"{'latitude': 40.843635, 'longitude': -73.836135}",76,4.5,10461
+Zs-IWJ6vpGK3GcmFrBecXQ,Aroma Trattoria,932 8th Ave,"{'latitude': 40.76549, 'longitude': -73.98355}",7,4.5,10019
+yIFI6afTRP-tBhY6WsUOPg,Popina,127 Columbia St,"{'latitude': 40.687361962701, 'longitude': -74.0014251909241}",38,4.5,11231
+rpVX-o82EEOX8ZDnM28a_Q,Bistango,145 E 50th St,"{'latitude': 40.75628, 'longitude': -73.97144}",233,4,10022
+yQ7K4uFnxXxpBVbnOSR8kA,Polpette 71,71 West 71st St,"{'latitude': 40.77668, 'longitude': -73.97888}",109,4,10023
+bppjJw5J8Ht6WgGp1bzPtQ,Porto Leggero,185 Hudson St,"{'latitude': 40.7187593, 'longitude': -74.0349084}",177,4,7311
+wnyX_yg4ddSDkupwFKftIA,Bonafini,663 Flatbush Ave,"{'latitude': 40.65704, 'longitude': -73.96003}",315,4,11225
+Dng_LID2JNnc6M6A1FB19Q,Come Prima Ristorante,903 Madison Ave,"{'latitude': 40.7721165011105, 'longitude': -73.965037390213}",67,4.5,10021
+C3OlQ_y5LcgboyaKlpETYA,Trattoria Casa Di Isacco,536 9th Ave,"{'latitude': 40.75686, 'longitude': -73.99356}",248,4,10018
+YFvF4r2D-wJOgJAOvanaZQ,Gnoccheria by Luzzo's,234 E 4th St,"{'latitude': 40.723315, 'longitude': -73.983139}",277,4,10009
+byye4kc-xGk8qCxR0ZuUdA,Il Posto,7409 Ave U,"{'latitude': 40.6216049194336, 'longitude': -73.9052124023438}",54,4,11234
+fR4JL77ZHvoXHQ_-bComqA,Trattoria Cerbone,71-24 Fresh Pond Rd,"{'latitude': 40.7014002, 'longitude': -73.894951}",45,4,11385
+Bk7METp9hGgm409E6EoBhw,Mani In Pasta,245 E 14th St,"{'latitude': 40.7326, 'longitude': -73.98515}",54,4.5,10016
+hFmz7HH2og9hn7xNNv20yw,Il Porto Ristorante,37 Washington Ave,"{'latitude': 40.6974427, 'longitude': -73.9675197}",295,4,11205
+zGThJJhL82LDEUlUFALImQ,Battista Ristorante,4602 Ave N,"{'latitude': 40.61848, 'longitude': -73.930587}",83,4,11234
+vegSCksJy6SI8WUGttLH-w,FRADEI ITALIAN BISTRO,99 South Portland Ave,"{'latitude': 40.68656, 'longitude': -73.97433}",10,5,11217
+uPe0efNw-uwPybeqccZ1zQ,Osteria Al Doge,142 W 44th St,"{'latitude': 40.75662, 'longitude': -73.9849}",437,4,10036
+e_2o3neKJ5vwDXKd70XLBg,Uncle Peter's,83-15 Northern Blvd,"{'latitude': 40.75598, 'longitude': -73.88382}",189,4,11372
+d5ya04K-2A_hI3Xzqe1HeA,Caffe Buon Gusto,236 E 77th St,"{'latitude': 40.77249, 'longitude': -73.95713}",380,4,10075
+IxwuIDcpRa7EpQs7V481Ww,Il Gattopardo,13-15 W 54th St,"{'latitude': 40.7614994602915, 'longitude': -73.976308999227}",134,4,10019
+Lesv5BG0_0-8bB49cAjMkg,Roberto's,603 Crescent Ave,"{'latitude': 40.85372, 'longitude': -73.88834}",238,4,10458
+VXyk19eG4B2I6noumvfHCw,Gargiulo's,2911 W 15th St,"{'latitude': 40.57641, 'longitude': -73.98244}",214,3.5,11224
+rZ9OFoSqy8u4WECfh--ylg,Marta,29 E 29th St,"{'latitude': 40.7445212750732, 'longitude': -73.9845828515206}",776,4,10016
+rnKaWpMX5OZlQkKVZa-o3A,Claudine's,311 Smith St,"{'latitude': 40.681266784668, 'longitude': -73.9939117431641}",115,4,11231
+WmK7GXwOnLSTRN1ocyUThg,Puglia Ristorante,189 Hester St,"{'latitude': 40.71823, 'longitude': -73.99764}",424,4,10013
+QGRrPt4QwJNxmpM1urPxQA,Two Toms Restaurant,255 3rd Ave,"{'latitude': 40.6780586242676, 'longitude': -73.9853210449219}",69,4,11215
+X8Hl9OezX-Yr9Jir3fsF7g,Posto,310 2nd Ave,"{'latitude': 40.73483, 'longitude': -73.98282}",581,4,10003
+MTQpqHo-cCAPK7c9fd6zHw,Il Mattone,49 Beach St,"{'latitude': 40.720799, 'longitude': -74.0091255}",58,4.5,10013
+SPYMe1nvAEFfgacIqSsHIg,Gastroteca,33-02 34th Ave,"{'latitude': 40.7587532028653, 'longitude': -73.925540484488}",729,4,11106
+VqnPcfqYltgxAkIuTaGkYg,Tre,173 Ludlow St,"{'latitude': 40.72184, 'longitude': -73.987714}",457,4,10002
+tsvElYYtUBAEdfK6plnxlg,Villa Mosconi,69 Macdougal St,"{'latitude': 40.72859, 'longitude': -74.002}",174,4,10012
+Zs-IWJ6vpGK3GcmFrBecXQ,Aroma Trattoria,932 8th Ave,"{'latitude': 40.76549, 'longitude': -73.98355}",7,4.5,10019
+UQZmhaPAMdZabid6ccvhTg,Il Punto Ristorante,507 9th Ave,"{'latitude': 40.75612, 'longitude': -73.99467}",323,4,10018
+x6u4DehJyvFPJKOOSjhPdg,Villa Erasmo,69-61 Juniper Blvd S,"{'latitude': 40.71685, 'longitude': -73.88626}",46,3.5,11379
+wXYSjd-tYEEFErI6RIDEYw,Annabelle's Pastaria,717 86st,"{'latitude': 40.61883, 'longitude': -74.021346}",71,4,11228
+EU47dsc_vvByG3qPIMyRog,La Locanda,432 Graham Ave,"{'latitude': 40.71784, 'longitude': -73.94477}",78,3.5,11211
+xzN2k19JXDYjOWAhNw62aw,Adoro Lei,287 Hudson St,"{'latitude': 40.725612, 'longitude': -74.007916}",258,4.5,10013
+U8Ljrx-w5otdMZNFhw5piw,La Villa,261 5th Ave,"{'latitude': 40.6743319055498, 'longitude': -73.9816949398812}",484,4,11215
+asMg3FeJWauvaoE8MVxiBw,Trattoria Romana,1476 Hylan Blvd,"{'latitude': 40.592329, 'longitude': -74.087054}",175,4,10305
+DM0Xv203Eza58x6Fvie75A,Mamma Lucia's Restaurant,1701 Foster Ave,"{'latitude': 40.63515, 'longitude': -73.96117}",48,4,11230
+E5rmVdrCn-0uwD2M9nkXdw,Da Capo,1392 Madison Ave,"{'latitude': 40.7877696714384, 'longitude': -73.9538384601474}",178,4.5,10029
+C3E8CVVwzKtOv_sRR1WuRQ,Salumeria Rosi,283 Amsterdam Ave,"{'latitude': 40.77932, 'longitude': -73.9809}",445,4,10023
+ZUrGqOG2cetGI-KKXk3c2g,Chazz Palminteri Italian Restaurant,30 W 46th St,"{'latitude': 40.756473, 'longitude': -73.980563}",206,4,10036
+gqTikTCIS01E2m20PzHoDQ,Tarallucci e Vino - East Village,163 1st Ave,"{'latitude': 40.72896, 'longitude': -73.98454}",259,4,10003
+JliAIBARXi9uISzNG26DVw,Elio's,1621 2nd Ave,"{'latitude': 40.7767632368091, 'longitude': -73.9526632086427}",210,3.5,10028
+H_KyiRhwho8rdlw_R93_0Q,Marea,240 Central Park S,"{'latitude': 40.7674213694566, 'longitude': -73.9810554368179}",1882,4,10019
+KL6AUMQI_Ae7_brkK0fy_w,La Vela Dining & Bar,558 11th Ave,"{'latitude': 40.761082, 'longitude': -73.997872}",152,4,10036
+#NAME?,Antica Pesa,115 Berry St,"{'latitude': 40.71884, 'longitude': -73.95865}",349,3.5,11249
+hwR54p9AWwrOATd41l351w,Alberto Restaurant,9831 Metropolitan Ave,"{'latitude': 40.711109161377, 'longitude': -73.8534774780273}",181,4,11375
+l8IORbpTz9EwCmHJ_TRULw,Avere Ristorante,222 Duffield St,"{'latitude': 40.6915079, 'longitude': -73.9849649}",13,4,11201
+eQdjZQaLnjItmn9suEEeIA,Patricia's,1082 Morris Park Ave,"{'latitude': 40.84912, 'longitude': -73.8533099}",439,4,10461
+v64bMLxutTS2MWIrywBczA,Piccolo Cafe,313 Amsterdam Ave,"{'latitude': 40.78031, 'longitude': -73.98018}",498,3.5,10023
+jSrDUsCXkKqbBQ9sqDLFcg,Magna Restaurant,3525 Farrington St,"{'latitude': 40.76371, 'longitude': -73.831117}",117,4,11354
+foRWizWrQ32g6Vv4g9UTnA,Nocciola Ristorante,237 E 116th St,"{'latitude': 40.7973406168505, 'longitude': -73.9382923766971}",198,4,10029
+_KIjhnsaui-wF9OePRZ5NA,Gottino,52 Greenwich Ave,"{'latitude': 40.7358, 'longitude': -74.00036}",286,4,10011
+ZlwjT-jygnYqM5qDE0CuLQ,Gigino Trattoria,323 Greenwich St,"{'latitude': 40.71726, 'longitude': -74.01055}",239,3.5,10013
+4ixWiPyYysS2i8LAg4qzrQ,La Villetta,398 E 52nd St,"{'latitude': 40.7549171, 'longitude': -73.9650879}",69,4,10022
+Fuk7jDI2XAcvHxqau5rKWA,Acqua Restaurant NYC,"21 Peck Slip, Water St","{'latitude': 40.7082567, 'longitude': -74.001797}",330,4,10038
+wTNUUoYUl3gox-gUAZ9bAA,Peppino's Brick Oven Pizza & Restaurant,469 5th Ave,"{'latitude': 40.668221, 'longitude': -73.986936}",382,4.5,11215
+YdFFUP3-PBzBsE3j75XwaQ,Panzerotti Bites,235 Smith St,"{'latitude': 40.683715, 'longitude': -73.99227}",77,5,11231
+vjj3MMPkULJUCv8xf3XRiA,San Matteo Takeaway,1731 2nd Ave,"{'latitude': 40.7801684, 'longitude': -73.9502899}",136,4.5,10128
+BeE1tVTCmorm31fwXvX7Wg,Ora di Pasta,1 W 59th St,"{'latitude': 40.7644615, 'longitude': -73.9738617}",166,4,10019
+#NAME?,da Umberto,107 W 17th St,"{'latitude': 40.7396659851074, 'longitude': -73.9958267211914}",158,4,10011
+N-rwVhnEtXg8yY_TlB_KZw,Del Posto,85 10th Ave,"{'latitude': 40.7434155953035, 'longitude': -74.007533013261}",1371,4,10011
+os09iVkYkzIg9G1xEIepiA,Momofuku Nishi,232 8th Ave,"{'latitude': 40.7443479, 'longitude': -73.9988054}",526,4,10011
+hq09sqXaYiEogbTrrJ9X5g,Da Capo Columbus,322 Columbus Ave,"{'latitude': 40.77972, 'longitude': -73.97752}",92,4,10023
+3P8hb1ZOCA8IjEGfqpSpxg,Sfoglia Restaurant,1402 Lexington Ave,"{'latitude': 40.783535, 'longitude': -73.952719}",264,4,10128
+geNwD4ySIwA732eK2CvDZw,B Squared,679 9th Ave,"{'latitude': 40.7615509, 'longitude': -73.9906616}",364,4.5,10036
+e7jRn5TNlF84k7PuvJ1MOA,Manducatis Rustica,46-33 Vernon Blvd,"{'latitude': 40.7458575124991, 'longitude': -73.9528775638914}",176,3.5,11101
+yRAU7MtAE9St6Q8LSeFZCQ,Mama Bella's Grill & Bar Lounge,457 Bushwick Ave,"{'latitude': 40.7018189161952, 'longitude': -73.9367522552254}",20,4,11206
+iSSXEqqivON7bAUGvzz7Iw,Passatempo,79 Grand St,"{'latitude': 40.715874, 'longitude': -73.964124}",32,4.5,11249
+QgEre4IFSHxbUvHMe8S12g,Pinocchio Restaurant,1748 1st Ave,"{'latitude': 40.77965, 'longitude': -73.94695}",201,4,10128
+5k_jwjhdFMPUNWhouGNzuA,Misi,329 Kent Ave,"{'latitude': 40.71341, 'longitude': -73.96662}",109,4,11249
+ynw6F1JVJN54IvwLeHRn5A,Biagio's Trattoria,8402 Cooper Ave,"{'latitude': 40.7105953741027, 'longitude': -73.8653643749718}",39,4,11385
+cyLw0vW5MrsF35-A6Dy03w,Saggio,829 W 181st St,"{'latitude': 40.8514099281625, 'longitude': -73.9395604556239}",563,4,10033
+xRiLLXjeM2wOvVTYJH2__A,Barboncino Pizza & Bar,781 Franklin Ave,"{'latitude': 40.67209, 'longitude': -73.95731}",872,4.5,11238
+SzH79XjUPoTYBnE3dybRsw,Della,1238 Prospect Ave,"{'latitude': 40.65287, 'longitude': -73.97631}",102,4,11218
+Qbnb7rRbvNg5WUoKLzz7gQ,Oro Restaurant & Lounge,41-17 Crescent Street,"{'latitude': 40.7514791, 'longitude': -73.9395537}",115,4,11101
+l1EdTmBBFzxQIZDftPZeUQ,Ristorante Morini,1167 Madison Ave,"{'latitude': 40.7806, 'longitude': -73.95882}",262,4,10028
+889z8wsV9R1X2CAp63wrsw,Casa Apicii,62 West 9th St,"{'latitude': 40.7339, 'longitude': -73.99867}",131,4,10011
+acXWoQ2wZnpzRV-0V58YTQ,Bevacco,60 Henry St,"{'latitude': 40.6992863863707, 'longitude': -73.9921883493662}",224,3.5,11201
+HiNUBUR1hFwScd_OvVLQAg,La Pecora Bianca,1133 Broadway,"{'latitude': 40.74358, 'longitude': -73.9892}",448,4,10010
+GZvelhGenbfJxc4_SG_RJw,Cielo at the Mayfair,242 W 49th St,"{'latitude': 40.761195, 'longitude': -73.9859352}",394,4,10019
+NqYET0OyJKGfm9dJG8iDcg,Piccola Cucina Enoteca,184 Prince St,"{'latitude': 40.726284, 'longitude': -74.002151}",230,4,10012
+HV8xairb2qct7wSHqNwqXw,Levante,26-21 Jackson Ave,"{'latitude': 40.7476399, 'longitude': -73.94173}",164,4,11101
+FwMyv3CVIxbI6ngodw7s3w,Panino Rustico,8222 17th Ave,"{'latitude': 40.610494, 'longitude': -74.003153}",410,4.5,11214
+JBthOvTegHbrLDiVaCAy5Q,Bigoi Venezia,1415 2nd Ave,"{'latitude': 40.770036, 'longitude': -73.9577755}",175,4.5,10021
+MPblH3J1kpbNGL4C4U7RAQ,IL Carino Restaurant,1710 2nd Ave,"{'latitude': 40.77945, 'longitude': -73.95019}",46,4,10128
+wLzJbddDixAEZrF7VT6_hw,Bono Trattoria,3658 Broadway,"{'latitude': 40.8301996389829, 'longitude': -73.9473449424522}",266,4,10031
+yH6t1JWcwkdWG4CS5KPvow,Adrienne's Pizzabar,54 Stone St,"{'latitude': 40.7043362, 'longitude': -74.0101733}",1522,4,10004
+1-tTWAxTZq3fpt-Pm1iHjA,Sapore Di Italia,245 Harman St,"{'latitude': 40.698984, 'longitude': -73.920113}",105,3.5,11237
+ZhjRaJkfCIVopvamUzrEsA,San Gennaro Trattoria Restaurant Bar,2329 Arthur Ave,"{'latitude': 40.8540465225016, 'longitude': -73.8889484480023}",133,4,10458
+qZK3e3kZAuyVlNrFNjBZ3A,Enoteca on Court,347 Court St,"{'latitude': 40.6821365356445, 'longitude': -73.9957122802734}",236,4,11231
+wp5BpfUi9Aa4T0Gk0bnhag,Altesi Downtown,200 Spring St,"{'latitude': 40.72511, 'longitude': -74.00333}",37,4,10012
+fTNOwKJ9YbxoIShABCKXdA,DeGrezia Ristorante,231 E 50th St,"{'latitude': 40.755512, 'longitude': -73.969415}",94,4,10022
+gSOnfmJaEFvoH55xfieHPA,Macchina,365 3rd Ave,"{'latitude': 40.74094, 'longitude': -73.98139}",89,4,10016
+xXZjekBXs6wFFpK1exZJnw,Pasta by Hudson,1000 S 8th Ave,"{'latitude': 40.7670079145424, 'longitude': -73.9826598018408}",35,4.5,10019
+IEb99GmOvg585gmwmm4iNA,Azalea Ristorante,224 W 51st St,"{'latitude': 40.7621418, 'longitude': -73.9841952}",245,4,10019
+nVtJOWn3XlL6MSZ-YnU6iA,Da Francesco,442 Graham Ave,"{'latitude': 40.718334, 'longitude': -73.944686}",99,4.5,11211
+YKao3OFejm_GF-kepyI90w,Allora Italian Kitchen & Bar,210-35 26th Ave,"{'latitude': 40.7783060114644, 'longitude': -73.7795145585888}",437,4,11360
+g4Pwc2mE1yUYXhqPrm53zA,Alex's Italian Restaurant & Brick Oven Pizza,346 Grove St,"{'latitude': 40.7204665872675, 'longitude': -74.0428332530666}",486,4,7302
+kDJbzzmCEjFbyDQ-lSygvw,Fresh Salt,146 Beekman St,"{'latitude': 40.70707, 'longitude': -74.00244}",378,4,10038
+xsQTIeq-WLkp4ParkTQpMQ,PizzArte,69 W 55th St,"{'latitude': 40.7629335072372, 'longitude': -73.9776668697596}",985,4,10019
+hVqZ4vihjL1gFTD-KdX-Tw,Gennaro,665 Amsterdam Ave,"{'latitude': 40.79178, 'longitude': -73.9718}",368,3.5,10025
+GVF4kvXupD18afjpLiPLHA,Marco Polo Ristorante,345 Court St,"{'latitude': 40.6821975708008, 'longitude': -73.9956817626953}",120,3.5,11231
+UjzSeETESWzramhdOdWKKQ,Tartina,1034 Amsterdam Ave,"{'latitude': 40.8035073, 'longitude': -73.9636591}",239,4,10025
+DtnlLLvcqeEUIyZTypHnzw,Il Mulino New York - Downtown,86 W 3rd St,"{'latitude': 40.729807, 'longitude': -73.999159}",517,4,10012
+vEYEs9McRtRdKBp2XfRNZA,Finestra Restaurant,1370 York Ave,"{'latitude': 40.76751, 'longitude': -73.95288}",75,4,10021
+C8Ctyq7pXOPESK8cz_X2CA,Pomodoro Rosso,229 Columbus Ave,"{'latitude': 40.776317, 'longitude': -73.979187}",277,3.5,10023
+TZto7AjdA337XIw66AOpUw,Scalinatella Restaurant,201 E 61st St,"{'latitude': 40.7627823203802, 'longitude': -73.9654829353094}",250,4,10065
+b6Tpm0PsDqLYZFUuqNte-g,River Deli,32 Joralemon St,"{'latitude': 40.69368, 'longitude': -73.99858}",177,3.5,11201
+eVk4F9ixl89zyUHJ1G2Aiw,Luzzos La Pizza Napoletana,211 1st Ave,"{'latitude': 40.730551, 'longitude': -73.9834846}",1011,4,10003
+G-b9kvnRh0pLi4fsdcmwjg,Joseph's Restaurant,3 Hanover Square,"{'latitude': 40.70499, 'longitude': -74.00961}",72,3.5,10004
+LYkx0_gmy-RrJQBPYzulNg,Ponte Vecchio Restaurant,8810 4th Ave,"{'latitude': 40.62117, 'longitude': -74.02923}",147,3.5,11209
+tDeF2wb5wpZzzGNYuh_tRg,Sole Bistro Italiano,2014 Broadway,"{'latitude': 40.77582, 'longitude': -73.98188}",38,4,10023
+1nQZbtmjODUgPm-QQdKrhA,Milk And Roses,1110 Manhattan Ave,"{'latitude': 40.7364097, 'longitude': -73.9550825}",339,4,11222
+q8wlm_XUjmSsTdTQKt2qbQ,Erminia Italian Restaurant,250 E 83rd St,"{'latitude': 40.77594, 'longitude': -73.95346}",172,4,10028
+7oNuDMESKejMgJFlkQwxmQ,Avena Downtown,260 6th Ave,"{'latitude': 40.7289, 'longitude': -74.00216}",4,4.5,10014
+OwDRIugcA4LkUuTRqpJsog,Naked Dog,47 Java St,"{'latitude': 40.7312720665479, 'longitude': -73.9593493647979}",171,4.5,11222
+vyoA8dxwScuMV_AsTcjQcg,L & B Spumoni Gardens,2725 86th St,"{'latitude': 40.594715, 'longitude': -73.981316}",3376,4,11223
+mYQMjrtHp8vsEKKNsRz1XA,Union Pizza Works,423 Troutman St,"{'latitude': 40.7073067, 'longitude': -73.922154}",221,4,11237
+KpBfFpjzsGvvqAzCasVW0g,Extra Virgin,259 W 4th St,"{'latitude': 40.7353962496717, 'longitude': -74.0031888223197}",1204,4,10014
+qTHBQdWfw1RSCjQwoUcLiw,Lucciola,621 Amsterdam Ave,"{'latitude': 40.79039, 'longitude': -73.97251}",79,3.5,10024
+u6q1s6c0H9wQwFUJJzAiOw,Gigino At Wagner Park,20 Battery Pl,"{'latitude': 40.7052055368065, 'longitude': -74.0184892569177}",246,3.5,10004
+MoyxzhaYIsJx-p9IuGGK4w,Stella 34 Trattoria,151 W 34th St,"{'latitude': 40.7503815541938, 'longitude': -73.9883}",631,3.5,10001
+cpN0ixPR2l3QFA8Uf1BhCQ,Luna Rossa,347 E 85th St,"{'latitude': 40.776612, 'longitude': -73.950351}",97,4,10028
+77llOAEwInvK-oC2AHZ4nQ,Coppola's East,378 3rd Ave,"{'latitude': 40.74165, 'longitude': -73.98154}",291,3.5,10016
+H5L18XZRHh_13HaeeHH_sQ,Casa Di Napoli,703 32nd St,"{'latitude': 40.774128, 'longitude': -74.0310378}",102,4,7087
+cDUait5j29Pe0QynQ3JtYQ,Gradisca,126 W 13th St,"{'latitude': 40.73709, 'longitude': -73.99863}",363,4,10011
+pGr5QuQU7Ur5GHLvXbT8bw,Paulie Gee's,60 Greenpoint Ave,"{'latitude': 40.729546, 'longitude': -73.958568}",1156,4.5,11222
+cGqMEMQFtkB3hIGfLy2R3A,Bar Pitti,268 Ave Of The Americas,"{'latitude': 40.729047, 'longitude': -74.002153}",958,3.5,10014
+5ZEFbq_AQV5VQFG2JKYzlA,Giorgio's of Gramercy,27 E 21st St,"{'latitude': 40.7394209879325, 'longitude': -73.9885425567627}",719,4,10010
+MeQU-nGaQvX12VXYOyzavQ,Gruppo,98 Ave B,"{'latitude': 40.72474, 'longitude': -73.98161}",237,4.5,10009
+8nXo6lNJlXQQIdy8Kf7J9Q,Tessa,349 Amsterdam Ave,"{'latitude': 40.7814059, 'longitude': -73.97918}",336,4,10024
+8tcpvFS5jngoszrHThgfkQ,Cafe Lore,4601 4th Ave,"{'latitude': 40.648499, 'longitude': -74.010056}",72,4,11220
+Jwb556DrGTEZryeV7XgZmQ,Bar Primi,325 Bowery,"{'latitude': 40.725639, 'longitude': -73.991714}",538,3.5,10003
+39g9pylx-xeIHihTe76HbA,Fermento,358 Kosciuszko St,"{'latitude': 40.6917733468969, 'longitude': -73.9399936793105}",25,5,11221
+KpBHy3eOYh1OV0_6Smxs3w,Nino's Restaurant,1110 Hylan Blvd,"{'latitude': 40.5982399, 'longitude': -74.0798}",141,4.5,10305
+Sp-vnk-waTvKblG_88M4TA,Trapizzino,144 Orchard St,"{'latitude': 40.72043, 'longitude': -73.98894}",180,4.5,10002
+E2zKMwHhz4--dyplQ7gf8A,Pappardella,316 Columbus Ave,"{'latitude': 40.7792833, 'longitude': -73.9776967}",540,3.5,10023
+ADHX7nBixDPVlq3OXhny0g,Faicco's Italian Specialties,260 Bleecker St,"{'latitude': 40.73113, 'longitude': -74.00306}",460,4.5,10014
+xrgzB0pvsxeGEIboE6I2gg,Patsy's Pizzeria,450 Dean St,"{'latitude': 40.6818695, 'longitude': -73.976181}",463,4.5,11217
+5DoCTugT9AF-P3VspApsyQ,Aita Trattoria,798A Franklin Ave,"{'latitude': 40.6712095108944, 'longitude': -73.9579255586597}",151,4,11238
+E1RvMNZ4re4TnKarjx14Zw,Cacio E Pepe,182 2nd Ave,"{'latitude': 40.7307352, 'longitude': -73.9862681}",462,3.5,10003
+NPnWsPxOpG91GHx74S27Uw,Sottocasa Pizzeria - Harlem,227 Lenox Ave,"{'latitude': 40.805587, 'longitude': -73.947547}",213,4.5,10027
+7vq2CNM69sdrXrtbT2-qEQ,Campania Coal Fired Pizza,9824 4th Ave,"{'latitude': 40.6136093139648, 'longitude': -74.033332824707}",429,4.5,11209
+pL2tig3FxJcrZ4wDIO4TsA,Eataly Downtown,101 Liberty St,"{'latitude': 40.709716, 'longitude': -74.011714}",778,3.5,10006
+FhXjAc6nKLf414KxYujUHw,Roberta's,261 Moore St,"{'latitude': 40.705043534338, 'longitude': -73.93357123374}",2620,4,11206
+iKv8UHV5jTqf4QGdwCmQ-w,Sofias Ristorante Italiano,8406 3rd Ave,"{'latitude': 40.624919, 'longitude': -74.030799}",136,4,11209
+17OE3Vgm-QN98Ro0AS-A3g,Provini,1302 8th Ave,"{'latitude': 40.6633567810059, 'longitude': -73.9814987182617}",181,3.5,11215
+xbrQ2dHuQoFJmNxAuOky4A,Vic's,31 Great Jones St,"{'latitude': 40.72693, 'longitude': -73.99319}",395,4,10012
+LdWyeeV8DuYINKVTghFwrg,Canaletto,208 E 60th St,"{'latitude': 40.76174, 'longitude': -73.96569}",59,4,10022
+#NAME?,The Leopard at des Artistes,1 W 67th St,"{'latitude': 40.773515, 'longitude': -73.978841}",203,4,10023
+n_NIY1KTi-R5DPkduEUKIw,Ovest Pizzoteca by Luzzo's,513 W 27th St,"{'latitude': 40.7507476806641, 'longitude': -74.0030212402344}",489,4,10001
+FKzpfWUpyupl4q74Jt8fTA,Don Antonio,309 W 50th St,"{'latitude': 40.762711, 'longitude': -73.986708}",1297,4,10019
+g5RqTm1v8Stsm3MXL19Adw,Roman's,243 DeKalb Ave,"{'latitude': 40.689671, 'longitude': -73.96953}",220,3.5,11205
+1kdIzJU01DuTm7WhPSdiBQ,Anchor Heights,575 W 207th St,"{'latitude': 40.86666, 'longitude': -73.92037}",143,4,10034
+ezu7Ai6ADfHDYCklvuipWA,Arturo's,1617 York Ave,"{'latitude': 40.775478, 'longitude': -73.947847}",58,4,10028
+CDCT0cXhaS2pAKcookXUQQ,The Pastagram,241 Pearl St,"{'latitude': 40.7075415029414, 'longitude': -74.0053744241595}",17,4,10038
+rupPZLhd0oRSAmVDaeYaGA,Bocca di Bacco Hell's Kitchen,828 9th Ave,"{'latitude': 40.7662168, 'longitude': -73.9867943}",619,3.5,10019
+FER-iaOyA8JFH-DL5vaKIQ,Vesuvio,7305 3rd Ave,"{'latitude': 40.632565, 'longitude': -74.027047}",289,3.5,11209
+Tgi-rDD3mxFi9uGybZxdaQ,Faun,606 Vanderbilt Ave,"{'latitude': 40.67826, 'longitude': -73.96885}",123,4,11238
+YvSCXoj-z1eS2soiXQSIFQ,49 Monroe,49 Monroe St,"{'latitude': 40.7118467, 'longitude': -73.9937348}",150,4,10002
+BgGz5IdV53bGb4o7opR5zg,Arturo's,106 W Houston St,"{'latitude': 40.7273563342024, 'longitude': -74.0004944801331}",626,4,10012
+bH6kFlRLtfIo2dtjs1gJ8g,Dolce Vita Restaurant & Bar,5811 Ave N,"{'latitude': 40.619697, 'longitude': -73.918792}",27,4.5,11234
+bW3mY-voyav37nU0uaLmNQ,Dante,79-81 Macdougal St,"{'latitude': 40.72879, 'longitude': -74.00165}",239,4,10012
+vAMKgIUWCrYxjfhceCCNAQ,Sandro's,306 E 81st St,"{'latitude': 40.7742854, 'longitude': -73.9537163}",64,4,10028
+wOq-Jt26jnFf_rhF4r5D6w,Scampi,30 W 18th St,"{'latitude': 40.73902, 'longitude': -73.99358}",153,4,10011
+dvkQIG20RjgNi-SwRr_1CQ,MAMO Restaurant,323 W Broadway,"{'latitude': 40.72186, 'longitude': -74.00382}",225,4,10013
+XO43OJWeAOS0Z-hqzhKgvQ,Zio Toto,8407 3rd Ave,"{'latitude': 40.624732, 'longitude': -74.030242}",162,4,11209
+I0N_QtJy7sLiuW_vmvRIhg,Maruzzella,1483 1st Ave,"{'latitude': 40.7713240506196, 'longitude': -73.953663110733}",85,4,10075
+dsgzaF4lODoOj1Mu1Cf_bQ,La Casa Bella,2579 Cropsey Ave,"{'latitude': 40.590666, 'longitude': -73.991456}",225,3.5,11214
+HCceFqcvzUbGFO5Bv6Q_pA,Raviolo,57 7th Ave S,"{'latitude': 40.73168, 'longitude': -74.00368}",74,3.5,10014
+3xd4L_TdfdhuCjAzJecs6A,Michaelangelo's Little Italy,2477 Arthur Ave,"{'latitude': 40.8573321267268, 'longitude': -73.8862630999689}",182,4,10458
+M8YwGe-wHwBGRz3DbTpqDQ,Piccolo Sogno,195-14 47th Ave,"{'latitude': 40.7524351, 'longitude': -73.7858436}",156,4,11358
+HD0e3eHwv573qHZOJJitWg,Aurora Soho,510 Broome St,"{'latitude': 40.723543, 'longitude': -74.003199}",421,4,10013
+v1M1HIQBVwYatEF_iOmedw,ViceVersa,325 W 51st St,"{'latitude': 40.7635858415079, 'longitude': -73.9866799425418}",236,4,10019
+aHRcUI_UqFNV87GF7WRIDQ,Aunt Jake's,47 W 8th St,"{'latitude': 40.73329, 'longitude': -73.99852}",151,4,10011
+t-St6BqNMgecsvICeGgreA,Joe's of Avenue U,287 Avenue U,"{'latitude': 40.597072, 'longitude': -73.97367}",173,4,11223
+6aVgixwks8EgirE1JtyDAQ,John's of 12th Street,302 E 12th St,"{'latitude': 40.73061, 'longitude': -73.98554}",635,3.5,10003
+mc6-ig757TzhPpJ7TV3pEQ,Sal Anthony's,226 3rd Ave,"{'latitude': 40.73658, 'longitude': -73.98502}",58,4,10003
+WjoxZN23w9rwMF-bsYDcRw,Battle Hill Tavern,686 6th Ave,"{'latitude': 40.66023, 'longitude': -73.99135}",23,4.5,11215
+YoLxK5EG8UgnueKAe7hj0g,I Sodi,105 Christopher St,"{'latitude': 40.7334747314453, 'longitude': -74.005012512207}",289,4,10014
+CygcAgexrpJGY8iWp7QqnA,Antonucci Cafe,170 E 81st St,"{'latitude': 40.77574, 'longitude': -73.95689}",126,4,10028
+ghXmKZpOwbfCl3i1UOg9qg,10 Corso Como Restaurant & Café,200 Front St,"{'latitude': 40.7069397, 'longitude': -74.0037647}",31,4.5,10038
+HSKcCmRFqzqG542Hy_eftw,Siena Cafe,1580 3rd Ave,"{'latitude': 40.78073, 'longitude': -73.953}",149,3.5,10128
+ONEe1U1fNGT80jAEE0sCrg,Vapiano NYC,113 University Pl,"{'latitude': 40.7343869142235, 'longitude': -73.9921539848726}",1129,3.5,10003
+J9xVQScnr0lYWl61_mLXMA,Lido,2168 Frederick Douglass Blvd,"{'latitude': 40.8049797781916, 'longitude': -73.9548260014624}",897,4,10026
+9mawr6QwVHm5q8JRXPFjPA,San Marino Restaurante,66 Charlton St,"{'latitude': 40.72697, 'longitude': -74.00611}",132,4,10014
+hvMbN42EaHlZoHMS3degLg,Bar Tano,457 3rd Ave,"{'latitude': 40.6712112426758, 'longitude': -73.9909439086914}",226,4,11215
+PuJex8WQ5_Qym17HP03mXg,Fortina - Brooklyn,445 Albee Square W,"{'latitude': 40.69121, 'longitude': -73.98331}",109,4,11201
+GAvyDral555vltKrupUcjw,Osteria Laguna,209 E 42nd St,"{'latitude': 40.750647, 'longitude': -73.9737998}",304,3.5,10017
+Nzz7O9jSdfSOaPL5huYcSg,Errigo's,502 Bay St,"{'latitude': 40.6298, 'longitude': -74.07682}",72,4.5,10304
+19zArMBG2qW2k16Y0i2aBA,Obicà Mozzarella Bar Pizza e Cucina,928 Broadway,"{'latitude': 40.7400486, 'longitude': -73.9893018}",400,4,10010
+-8_vEcBA2Lqd8786S-Ss-g,Novita Restaurant,102 E 22nd St,"{'latitude': 40.73918, 'longitude': -73.98629}",287,4,10010
+oqA75iXtO_h8YnsLmjLk8w,Coco Pazzo,160 Prince St,"{'latitude': 40.72596, 'longitude': -74.00143}",69,4,10012
+x6_1vzeCH9YvbvIBmSr2iA,DOC Wine Bar,83 N 7th St,"{'latitude': 40.71966, 'longitude': -73.96046}",211,4,11249
+q1F09j4JFRZQJ2e11m7lGg,Salvi Restaurant,4220 Quentin Rd,"{'latitude': 40.6176699, 'longitude': -73.93189}",33,4,11234
+Kz7hn14j6KXf_gYeC99rUg,i Trulli,124 E 27th St,"{'latitude': 40.74207, 'longitude': -73.98361}",334,3.5,10016
+Fu7J2Fwoj_S6Jpg9dULzKg,Pepe Rosso To Go,149 Sullivan St,"{'latitude': 40.72723, 'longitude': -74.00163}",349,4,10012
+fmdEiai0e4agyTEqFUWJmw,Amarone NY,686 9th Ave,"{'latitude': 40.7617199, 'longitude': -73.99002}",294,4,10036
+oNJOIxuZlrTYFWwAFMTdkQ,Tre Otto,1410 Madison Ave,"{'latitude': 40.788425, 'longitude': -73.953643}",152,3.5,10029
+DOmcM66qzKHbj-n1LTJyHQ,Tutta Pesca,155 3rd St,"{'latitude': 40.7401, 'longitude': -74.03134}",197,4.5,7030
+#NAME?,Ristoro Del Cinghiale,122 E 27th St,"{'latitude': 40.74221, 'longitude': -73.98361}",31,4.5,10016
+m4MPLIv-WsGdcB7GReE06Q,Quattro Gatti Restaurant,205 E 81st St,"{'latitude': 40.77552, 'longitude': -73.95587}",79,4,10028
+pIrSHmLYW6Bdjiz-HHWd1Q,Bettolona,3143 Broadway,"{'latitude': 40.8141032, 'longitude': -73.9597766}",283,4,10027
+MH08_pIRKsUSwfkVYxUE7w,VINATERÍA,2211 Frederick Douglass Blvd,"{'latitude': 40.8064392068585, 'longitude': -73.9540110111145}",381,4,10026
+LnMRZhKtOrW1eL04FiPYTg,Senza Gluten,206 Sullivan St,"{'latitude': 40.7290911050589, 'longitude': -74.0003699151971}",490,4,10012
+3X3n5JtRZHwOlHnMkQTjfw,Cappone's Salumeria,1 New York Pl,"{'latitude': 40.702085, 'longitude': -74.011881}",33,4,10004
+aPmTYRZ6mYgpvpNpmI_Wdg,Da Noi,214 E 49th St,"{'latitude': 40.75471, 'longitude': -73.97067}",130,4,10017
+yREKlCvSuaxcRSVRsCIDUQ,Acqua Santa,556 Driggs Ave,"{'latitude': 40.71701, 'longitude': -73.95663}",244,3.5,11211
+P4hm-IKNMbBbtfWSvPf25A,The Meatball Shop,84 Stanton St,"{'latitude': 40.7214961, 'longitude': -73.9887357}",2711,4,10002
+nM2AdRp2iSJHi4MgvIrEBg,Oak Tuscan Truffle Restaurant,28 Greenwich Ave,"{'latitude': 40.735042, 'longitude': -74.00002}",61,4.5,10011
+OLa3-KQO9rHjswo55E3Jgg,Trattoria La Sorrentina,7831 Bergenline Ave,"{'latitude': 40.80174, 'longitude': -74.00698}",491,4.5,7047
+V6e4UBjFzdrcUgKbJTrZpA,Fumo Pizza-Bar-Pasta,1600 Amsterdam Ave,"{'latitude': 40.821442, 'longitude': -73.9506357}",308,4,10031
+w7vYoiRdKyF3QJfNlAc0sg,Peppino's Brick Oven Pizza & Restaurant,7708 3rd Ave,"{'latitude': 40.62984, 'longitude': -74.02862}",197,4,11209
+LSOpxBBa217HxnJ7VnY2WQ,Il Violino,180 Columbus Ave,"{'latitude': 40.77506, 'longitude': -73.98087}",243,3.5,10023
+Y3xDbSHXs6apMA4JLGJZ1Q,Sac's Place,2541 Broadway,"{'latitude': 40.7628982173022, 'longitude': -73.9270855469213}",456,4,11106
+fU22eRTnKLT2C-OFJ6eUGQ,Saraghina,435 Halsey St,"{'latitude': 40.6835063, 'longitude': -73.9352006}",791,4,11233
+CAGAWbPE8uPr2VVvEnv0ZA,Ribalta Pizza,48 E 12th St,"{'latitude': 40.7334346, 'longitude': -73.9916923}",494,4,10003
+S8OKQ5S40oZ1Rr5RbC0jdg,Motorino,349 E 12th St,"{'latitude': 40.73039, 'longitude': -73.98381}",1056,3.5,10003
+VWErTDzcg23iiohqyc1AQQ,Rossopomodoro,118 Greenwich Ave,"{'latitude': 40.7384763561724, 'longitude': -74.0020935999868}",210,4,10011
+OY70rYTi8Qtmb89IWRUOaQ,Ponti Rossi,186 Franklin St,"{'latitude': 40.73173, 'longitude': -73.95775}",22,4,11222
+UYL80kyU0WvpJXySIQ6boA,Piatto d’Oro,347 E 109th St,"{'latitude': 40.79182, 'longitude': -73.93903}",17,4,10029
+HVSi0slZGjJ6Ktg3AEixGg,Graziella Restaurant,3329 Francis Lewis Blvd,"{'latitude': 40.766785, 'longitude': -73.789634}",66,4,11358
+JSexQM-wn8HvWmfxu_m5ZA,Gnocco,337 E 10th St,"{'latitude': 40.72713, 'longitude': -73.9802799}",417,3.5,10009
+r_fUOUhz-pHZxFDV1hzy0w,Peasant,194 Elizabeth St,"{'latitude': 40.72171, 'longitude': -73.99428}",668,3.5,10012
+FRp1NwIyp6tkDU986cJkXQ,Piccola Cucina Estiatorio,75 Thompson St,"{'latitude': 40.7246, 'longitude': -74.0029799}",49,4,10012
+7FSuPGQTUxe-A2Km_SVTNQ,Trattoria Ora,18-01 Astoria Blvd,"{'latitude': 40.7724, 'longitude': -73.92729}",43,4.5,11102
+kS04TICXd1-0iZ4rgEWmvQ,Gabriel's Bar & Restaurant,11 W 60th St,"{'latitude': 40.7692581, 'longitude': -73.9826142}",152,4,10023
+qx0CdTCbAM7Dzas1naOaeA,D. Coluccio & Sons,1214-20 60th St,"{'latitude': 40.62974, 'longitude': -74.00029}",53,4.5,11219
+aVU9U42HO0XWgvj5s_wYZQ,Romeo's Italian Ristorante,74-27 37th Ave,"{'latitude': 40.749183, 'longitude': -73.8910294}",40,3.5,11372
+C-V8rvmamxMzu7EoQkcFrg,Kestè Wall Street,77 Fulton St,"{'latitude': 40.7089545, 'longitude': -74.0050526}",110,4,10038
+2Nwmd7-1d1rI6lb9QSSYYA,Sola Pasta Bar,330 W Broadway,"{'latitude': 40.72229, 'longitude': -74.00403}",145,4,10013
+T_vLaKsuyJPDpsrSZuc7WA,Battello,502 Washington Blvd,"{'latitude': 40.7254501288668, 'longitude': -74.0325578867018}",425,4,7310
+NBgDoMiF4tj5aS7V7zayoA,Antica Ristorante,370 Canal St,"{'latitude': 40.7206611633301, 'longitude': -74.0043869018555}",47,3.5,10013
+c3D2ckzacnPtdGIM8tb-_w,B Side Pizza & Wine Bar,370 W 51st St,"{'latitude': 40.76394, 'longitude': -73.9883399}",984,4.5,10019
+UpnHg_984LLZ28-kBB5MSQ,Bella Luna,574 Columbus Ave,"{'latitude': 40.787762, 'longitude': -73.971458}",236,3.5,10024
+UrJkrJ5HsVGyLE2dogiUCA,Ambrosio Italian Restaurant & Banquet Hall,2071 Clove Rd,"{'latitude': 40.6045827168281, 'longitude': -74.0833172111654}",36,5,10304
+qYDoWRdntIApGW6fEUHWIQ,Biricchino,260 W 29th St,"{'latitude': 40.7488743960857, 'longitude': -73.9954686909914}",103,3.5,10001
+Vm6_cXz8hbvZhot0m1aaRg,Italianissimo Ristorante,307 E 84th St,"{'latitude': 40.7764, 'longitude': -73.95205}",90,4,10028
+O5Cm2yU32-Epf4HKEFAJEQ,Il Postino,337 East 49th St,"{'latitude': 40.75373, 'longitude': -73.96749}",107,3.5,10017
+EL5Y6BSinmUte5VW4Eh54Q,Frank,88 2nd Ave,"{'latitude': 40.7268483205383, 'longitude': -73.9887172038649}",645,3.5,10003
+InmlNc9iVwzXBqRIB8T19g,Russo's Mozzarella and Pasta,363 7th Ave,"{'latitude': 40.6657676696777, 'longitude': -73.9822006225586}",181,4,11215
+8PyKaU-YM0HOAfxWsjcwmg,Cipriani Le Specialita,120 E 42nd St,"{'latitude': 40.7516113, 'longitude': -73.9767134}",114,4,10017
+8IzVyi4kNO_lpEW1r_DbiA,Houdini Kitchen Laboratory,1563 Decatur St,"{'latitude': 40.694148, 'longitude': -73.902337}",280,4,11385
+RtfjlBlSUizdQp9_k3_wHg,Nicandra's,264 Irving Ave,"{'latitude': 40.69962, 'longitude': -73.915939}",153,4.5,11237
+iBPQRnM_TMQX6tYdjCbCXA,Vai Restaurant,429 Amsterdam Ave,"{'latitude': 40.78416, 'longitude': -73.97736}",360,4,10024
+jo30o65XFWmgMJS86zFiFQ,La Mela Ristorante,167 Mulberry St,"{'latitude': 40.719928, 'longitude': -73.997352}",724,3.5,10013
+yc4vsT-Q4Ej1_9hr94DxkQ,Sotto 13,140 W 13th St,"{'latitude': 40.7372, 'longitude': -73.99919}",812,4,10011
+TCPZLIG8mkX0iOD4K3_wAw,Basilio Inn,6 Galesville Ct,"{'latitude': 40.597421, 'longitude': -74.0637572}",77,4.5,10305
+WHQpLvxkCK_BMtF8pIShnQ,Carroll Place,157 Bleecker St,"{'latitude': 40.7287, 'longitude': -73.99971}",941,4,10012
+WyyJAcQwfOxKPLgIYetSKA,Caffe Buon Gusto,151 Montague St,"{'latitude': 40.6947326, 'longitude': -73.993266}",170,3.5,11201
+AbNXFnI4OlWZvsQLGKf64w,Dino,222 Dekalb Ave,"{'latitude': 40.68941, 'longitude': -73.97047}",251,3.5,11205
+MT_a_Tg3ENdxqZFQyJocgQ,Joanne Trattoria,70 West 68th St,"{'latitude': 40.77447, 'longitude': -73.98034}",434,3.5,10023
+1wrryUsb7gmpehr_c9wZ7A,Un Posto Italiano,704 Sackett St,"{'latitude': 40.6774611542587, 'longitude': -73.9810842899658}",30,5,11217
+XWNamjD2mSpk56B6z1HT9w,Laico's,67 Terhune Ave,"{'latitude': 40.703212, 'longitude': -74.095046}",180,4,7305
+Pb2HqSO0SP8HymbZM099hg,Tommaso Restaurant,1464 86th St,"{'latitude': 40.611598, 'longitude': -74.010337}",101,3.5,11228
+v0hkLLp0W7Hdi0NOhuXvGQ,Fontanas Pasta & Heros,2359 Ralph Ave,"{'latitude': 40.6206692162697, 'longitude': -73.9173977165707}",41,4,11234
+p-BHJdQ57eM-WlKTP7B44w,Antika Pizzeria,36-08 30th Ave,"{'latitude': 40.76466, 'longitude': -73.91722}",395,4,11106
+nTCFXqiQPTvDfnAxHfA64A,Trattoria Tra di Noi,622 East 187th St,"{'latitude': 40.85493, 'longitude': -73.8869}",127,4,10458
+sB8-R8-FYj-kJrSzTlbmgw,Coppola's West,206 W 79th St,"{'latitude': 40.7831637424309, 'longitude': -73.9789159423279}",274,3.5,10024
+gjZpcE-X4zQOEqWQPelLgg,Max Restaurant,181 Duane St,"{'latitude': 40.71755, 'longitude': -74.01013}",405,3.5,10013
+pC_QwLpeL2Enk4hBgDcRqQ,Da Marino,220 W 49th St,"{'latitude': 40.76102, 'longitude': -73.98526}",415,4,10019
+Tias1_QRB5L-gzoSNNhOMA,Petrarca Cucina E Vino,34 White St,"{'latitude': 40.7189, 'longitude': -74.00458}",148,3.5,10013
+bEXTA_Gwo2oVg4gnFd9fNA,Ai Fiori,400 5th Ave,"{'latitude': 40.7500752, 'longitude': -73.9837835}",1180,4,10018
+0UIUQWmwf_yxyygLXPQ0Hw,Mimmo Cucina Italiana,1690 York Ave,"{'latitude': 40.77764, 'longitude': -73.94565}",60,4,10128
+HPvz-PHt2PYWV_X9eQSlnA,Il Cortile Restaurant,125 Mulberry St,"{'latitude': 40.7179895, 'longitude': -73.9982094}",449,3.5,10013
+syu8oCU9h3X9hfAE_lpADw,Terra Wine Bar,222 W Broadway,"{'latitude': 40.71928, 'longitude': -74.00647}",333,3.5,10013
+gTEoEsssfbjl76Opf5bP9g,L'Amico NYC,851 6th Ave,"{'latitude': 40.7472104, 'longitude': -73.9899179}",365,3.5,10001
+kVrTff8uDMSBAaceBwQ7dg,Saluggi's,325 Church St,"{'latitude': 40.720104, 'longitude': -74.003578}",541,4,10013
+tqrMjK1oyuvFGSz3Jxms1Q,Numero 28 Pizzeria & Cucina,68 Bergen St,"{'latitude': 40.6868349327148, 'longitude': -73.990774645363}",103,4,11201
+3VdNPvj6d6EJ2fZj7p1n9g,La Villa Pizzeria & Restaurant,6610 Ave U,"{'latitude': 40.61692, 'longitude': -73.9098}",266,3.5,11234
+1htK0vS5FAHaXXtpAQperQ,Bread & Tulips,365 Park Ave S,"{'latitude': 40.74215, 'longitude': -73.98472}",248,4,10016
+HUY6yj38FXqAQvWUdgL0xA,Pizzeria Sirenetta,568 Amsterdam Ave,"{'latitude': 40.78881, 'longitude': -73.97459}",245,4,10024
+DF7PV0DE9z0LM4ae6XYeYg,Harry's Italian,2 Gold St,"{'latitude': 40.707555318913, 'longitude': -74.006898168681}",547,3.5,10038
+vBL9aYuf1e1cJbC8Z9TWvw,Cipollina Gourmet,116-09 Queens Blvd,"{'latitude': 40.7161371542532, 'longitude': -73.8331417133898}",138,4.5,11375
+iEUXrUUqGfUhpgYYSr5Zig,Da Nico Ristorante,164 Mulberry St,"{'latitude': 40.719685, 'longitude': -73.997062}",660,3.5,10013
+GjEE8vvjqb7eeHA3BGNxAw,Barolo East,214 E 49th St,"{'latitude': 40.75481, 'longitude': -73.97059}",7,4,10017
+F3Zznc4UYAfbdiTgb09-NA,Fratelli,2507 Eastchester Rd,"{'latitude': 40.862992, 'longitude': -73.8435449}",72,4,10469
+gTEBtsTbny8FjSCrnPbHqw,Zero Otto Uno Cafe,502 Washington St,"{'latitude': 40.74241, 'longitude': -74.02968}",89,4,7030
+uq-jeUk2yNOrfUKdRIpE_w,Piccoli Togo Windsor Terrace,157 A Prospect Park SW,"{'latitude': 40.654819, 'longitude': -73.973477}",77,4,11218
+vLaaNR3rTeSFEZe_nn43BA,Motorino,139 Broadway,"{'latitude': 40.710559, 'longitude': -73.963462}",222,4,11211
+JYE16G0z-wo1MTyYchhVCA,Manzo Ristorante,200 5th Ave,"{'latitude': 40.7423476668244, 'longitude': -73.9898968277084}",308,3.5,10010
+Ty1MvJz88DeNmX0eDHeMyQ,Pietro's,232 E 43rd St,"{'latitude': 40.7506055, 'longitude': -73.9721964}",97,4,10017
+i5cdbiw1KRyg4w0X44ZBwA,Mezzaluna,1295 3rd Ave,"{'latitude': 40.771125, 'longitude': -73.959251}",132,3.5,10021
+71gTwIVOynPCNOFLEv-bQA,LBK Pizza Napoletana,669 Union St,"{'latitude': 40.67741, 'longitude': -73.98265}",44,4.5,11215
+vYnQYMWk_CpV8APtyFWYWA,Patrizia's Of Maspeth,6935 Grand Ave,"{'latitude': 40.726783, 'longitude': -73.894276}",52,3.5,11378
+LtBk9m1C-05nFNwD1OxcBw,Bellini Seaport,33 Peck Slip,"{'latitude': 40.7078464889202, 'longitude': -74.0013289824128}",12,4,10038
+WYdrEMBXzOcxffpQczHKww,Ortomare Ristorante Pizzeria,994 Columbus Ave,"{'latitude': 40.80124, 'longitude': -73.96161}",4,5,10025
+TsO4cjFld0Plznpimtn8uw,Anchor Wine Bar,3508 Broadway,"{'latitude': 40.8253616094589, 'longitude': -73.9510338753462}",253,4,10031
+EdnuIsyyDI51N1723Vd1HQ,Anda Lucia Bar & Lounge,1336 Bushwick Ave,"{'latitude': 40.68568, 'longitude': -73.911933}",24,4.5,11207
+wRVSvTxBp62m0UEqRUUUJQ,Dee's,107-23 Metropolitan Ave,"{'latitude': 40.709782, 'longitude': -73.8452595}",453,4,11375
+XxZOE4Cq6ZBWGxZ4AVDNng,La Sorrentina Ristorante,6522 11th Ave,"{'latitude': 40.628303, 'longitude': -74.006637}",73,3.5,11219
+rhCs1nF5KTNwx-4YeyoK3g,Bartolino's Fine Italian Pizza,3411 Broadway,"{'latitude': 40.7607386113415, 'longitude': -73.9223789038732}",38,4,11106
+d7Asc4q2ImoPlA_BhfroTQ,Kesté Pizza & Vino,271 Bleecker St,"{'latitude': 40.73154, 'longitude': -74.00293}",1335,4,10014
+NBeQAgTo9hlJxgp9xbMO-w,Tufino Pizzeria Napoletana,36-08 Ditmars Blvd,"{'latitude': 40.773986, 'longitude': -73.908126}",332,4,11105
+cbhdOSn-nezgnH3lxPJM_g,Sotto Voce,225 7th Ave,"{'latitude': 40.6698989868164, 'longitude': -73.9787445068359}",301,3.5,11215
+Q-yTbpW4vrq80oRW40W_Pg,L'albero Dei Gelati,341 5th Ave,"{'latitude': 40.671932, 'longitude': -73.9836569}",251,4.5,11215
+kvFHJYo9rXuqgJkPIlHJeg,IL Nocello Ristorante,1427 150th St,"{'latitude': 40.7880986, 'longitude': -73.8132761}",41,4,11357
+ZMFj1vCfQWdSAtwyjqRUlw,Felidia,243 E 58th St,"{'latitude': 40.76036, 'longitude': -73.96512}",507,4,10022
+gsL7pm6HbYqKH-gx-FjxlQ,Scarlatto,317 West 46th St,"{'latitude': 40.76036, 'longitude': -73.98869}",396,3.5,10036
+VUcrIqM40HWWb2sxAS9mLA,Cesca,164 W 75th St,"{'latitude': 40.7802345045165, 'longitude': -73.9796698035772}",350,3.5,10023
+bJwcf-h06wX6Yo3kVkajww,Giando on the Water,400 Kent Ave,"{'latitude': 40.710766325009, 'longitude': -73.9692663444951}",167,3.5,11211
+cl97uG2_QtiMBah-_s9w7g,Il Divo,1347 2nd Ave At E 71st St,"{'latitude': 40.76816, 'longitude': -73.959204}",15,4,10021
+QUTSHrHw3qRZjf749VM1Yg,Serafina Osteria,38 E 58th St,"{'latitude': 40.76273, 'longitude': -73.97155}",117,3.5,10022
+cEWF70xMbOvOhr4CDkroOw,Pronto Pizzeria,45-19 28th Ave,"{'latitude': 40.76346, 'longitude': -73.90886}",129,4.5,11103
+OmB4X44Ru8gjD6qgSNlXdg,Primola,1226 2nd Ave,"{'latitude': 40.7638675, 'longitude': -73.9616489}",114,3.5,10065
+kNxYppnUMQEBj7TU6burmg,Portofino Ristorante,10932 Ascan Ave,"{'latitude': 40.7189866692474, 'longitude': -73.8398046791553}",266,3,11375
+S4uozcDEieoaXxIJ6TsUoQ,Dellarocco's Brick Oven Pizza,214 Hicks St,"{'latitude': 40.6950309, 'longitude': -73.9961252}",232,4,11201
+Wg4Mu4YXL_1NSVF9LAH_9w,Bartolino's Italian Ristorante,34-15 Broadway,"{'latitude': 40.7607799, 'longitude': -73.92226}",172,3.5,11106
+lSelLuQYWfKMrYO_Dka_Qw,Fiamma 41,214-26 41st Ave,"{'latitude': 40.763566, 'longitude': -73.769942}",368,4,11361
+EZNw56hywTm1PJNYOMbfHQ,Morso,420 E 59th St,"{'latitude': 40.759032, 'longitude': -73.960801}",113,3.5,10022
+CmYpP-qt1YFDBrBjdPL97A,Amorina Cucina Rustica,624 Vanderbilt Ave,"{'latitude': 40.6775499, 'longitude': -73.96911}",220,4,11238
+JjpCF17AxF6RPOyimw21cw,Basil Brick Oven Pizza,28-17 Astoria Blvd,"{'latitude': 40.770946, 'longitude': -73.92001}",456,4,11102
+Q9F2ocrmYuGt1yn3M7MOBw,Lucali,575 Henry St,"{'latitude': 40.6818, 'longitude': -74.00024}",1286,4.5,11231
+fyC2cBsQ0FsMJmv0jSworg,Donna Margherita,1304 2nd Ave,"{'latitude': 40.76652, 'longitude': -73.9598}",40,4,10065
+P1hH4JDmzCX9hs-lZ-GCNw,Prima Sarabella Italian Cuisine,41-08 Greenpoint Ave,"{'latitude': 40.740013718605, 'longitude': -73.9237853139639}",39,3.5,11104
+1tiHa-hrvPMBJ-Fk69YWPg,Concettina Restaurant,160-24 Willets Point Blvd,"{'latitude': 40.7805054301875, 'longitude': -73.8020856578959}",34,4.5,11357
+megxpLA5KciBJbW-jNm2RQ,Arno Ristorante,141 W 38th St,"{'latitude': 40.7534599, 'longitude': -73.98842}",189,3.5,10018
+#NAME?,il Buco Alimentari & Vineria,53 Great Jones St,"{'latitude': 40.7264539, 'longitude': -73.992549}",514,3.5,10012
+R86cJxXMiXRyqzlF24esgg,Lexington Pizza Parlour,1590 Lexington Ave,"{'latitude': 40.789283, 'longitude': -73.9487429}",170,4,10029
+h9rymMeMUMOxQ9d93U0YDg,Baker & Co,259 Bleecker St,"{'latitude': 40.7313423, 'longitude': -74.0028996}",581,4,10014
+XyICIfSun7HWtBEUFux2PQ,Bocca Di Bacco,169 9th Ave,"{'latitude': 40.7445631, 'longitude': -74.0030779}",170,3.5,10011
+Zofto1NrLLzC-Vzw8i8wIw,Pane Caldo,725 4th Ave,"{'latitude': 40.6610723, 'longitude': -73.9970634293002}",11,4,11232
+I8wk0uwL6R0RhSprSlPvNw,Roman Nose,125 Newark Ave,"{'latitude': 40.7200279, 'longitude': -74.0433197}",654,3.5,7302
+l6hRu596DATgmdc7gngg0A,Papazzio Restaurant,3938 Bell Blvd,"{'latitude': 40.764232, 'longitude': -73.771625}",158,4,11361
+Lu12ks-BgqfGY75Sb1004A,Il Mattone West Village,450 Hudson St,"{'latitude': 40.7312509, 'longitude': -74.0065302}",23,5,10014
+vKB3oazhT0m-WfqqE8LAkQ,Tre Fontane,222 Ave U,"{'latitude': 40.596449, 'longitude': -73.975789}",90,3.5,11223
+0O0DV4tKQkp2lS2wGcg_7A,Bin 5,1233 Bay St,"{'latitude': 40.613335, 'longitude': -74.065258}",291,4.5,10305
+i6xP3ZfL78PXg2gjsOz-og,Noidue Carne,141 W 69th St,"{'latitude': 40.77625, 'longitude': -73.98146}",25,4,10023
+qWUJq3Kc8kNV3FUsLeesjg,Primo Amore Italian Restaurant,34-33 Francis Lewis Blvd,"{'latitude': 40.765817, 'longitude': -73.7891481}",60,4,11358
+ip733nbgjaMMazfQ-Ibhgg,Fiat Cafe,203 Mott St,"{'latitude': 40.7214697, 'longitude': -73.9956631}",531,4,10012
+PerCtK0A27ku-cmBVMh5tw,Porto Salvo,424 E 161st St,"{'latitude': 40.82368, 'longitude': -73.91294}",102,4.5,10451
+hot1lIebdQNau05onRum7w,Otto Strada,743 Park Ave,"{'latitude': 40.7466038915745, 'longitude': -74.0311605558891}",242,4,7030
+tRIHhPKryUZ56SfIz6mLiA,Angelo's Coal Oven Pizzeria,117 W 57th St,"{'latitude': 40.76492, 'longitude': -73.97794}",757,4,10019
+a-XBTXQM4qigxUgpTmS7Fg,Codino,62 Carmine St,"{'latitude': 40.7300643486969, 'longitude': -74.0037936652668}",47,4,10014
+jDIVPYpxQAk1HUAi0NIlQw,Pazza Notte,1375 Avenue Of The Americas,"{'latitude': 40.7635099, 'longitude': -73.978}",689,3.5,10019
+ppUU-p6yH6IMa7d_UrYkaQ,Papa Pasquale Ravioli Co.,7817 15th Ave,"{'latitude': 40.61546, 'longitude': -74.00509}",44,4.5,11228
+eby9pE6FzmwjoYRVzDpzew,Sette Mezzo,969 Lexington Ave,"{'latitude': 40.7693455389848, 'longitude': -73.9627933502197}",59,4,10021
+mOoZZa6WIsgihc_TqyQcXw,Tarallucci E Vino -Union Square,15 E 18th St,"{'latitude': 40.7381367771909, 'longitude': -73.9907283558044}",353,3.5,10003
+k1zrPPGGMQdlHopP3MnxrQ,Storico,170 Ctr Park W,"{'latitude': 40.779469, 'longitude': -73.973975}",197,4,10024
+I6Wg1NFYAAVzM2OpsdqcXA,Grand Vin,500 Grand St,"{'latitude': 40.74331, 'longitude': -74.0351699}",282,4,7030
+BiNtCoIGo00Lua93hOrj3Q,Bella Via Restaurant,4746 Vernon Blvd,"{'latitude': 40.744281, 'longitude': -73.953903}",321,3.5,11101
+YT5Ywu9y190B4IGIlBetzA,Morandi,211 Waverly Pl,"{'latitude': 40.73534, 'longitude': -74.00151}",635,3.5,10014
+bjzBkF2FFMsdkCk50xseFQ,Etcetera Etcetera,352 W 44th St,"{'latitude': 40.75926, 'longitude': -73.99115}",408,4,10036
+W9wDa_EB0h2p5JG6P6lyZw,Pescatore,955 2nd Ave,"{'latitude': 40.75538, 'longitude': -73.96852}",348,3.5,10022
+YmUKLOG4sTAShvyURuq2zw,Trattoria Bianca,481 8th Ave,"{'latitude': 40.752727, 'longitude': -73.993644}",117,3.5,10001
+q0HBfS9eJ9AeuaWQ3Ronqw,Joe G Pizza & Restaurant,244 W 56th St,"{'latitude': 40.76564, 'longitude': -73.9830099}",124,4,10019
+OWAfPuMnSqn7Ru1_RNH8fw,Aria Wine Bar,369 51st St,"{'latitude': 40.76413, 'longitude': -73.98826}",335,3.5,10019
+nSk_zCJESMKGLHyJTPPlZA,Bottino,246 10th Ave,"{'latitude': 40.74845, 'longitude': -74.00321}",264,3.5,10001
+vXYFa2qzppkGiOiVPrLwDQ,Don Peppe,135-58 Lefferts Blvd,"{'latitude': 40.6689814908178, 'longitude': -73.8216334221041}",524,4,11420
+gED3ep4dX5FP_FYVTkokIQ,Salvatores of Soho,3738 Riverdale Ave,"{'latitude': 40.8875232, 'longitude': -73.90704}",259,4,10463
+9DCZ8Ols3w1sfQBoKEq-hw,Vinum Restaurant & Wine Bar,704 Bay St,"{'latitude': 40.62482, 'longitude': -74.07478}",121,4,10304
+FpgzHQMSNTTjagrKXxOw5A,San Matteo Pizzeria e Cucina,1559 2nd Ave,"{'latitude': 40.7746799, 'longitude': -73.95443}",228,3.5,10028
+76y4aMBY0lT6zfJLy2EH-Q,Le Zie,172 7th Ave,"{'latitude': 40.74246, 'longitude': -73.9970699}",293,3.5,10011
+XcfZqLrXdABSZLViQ34VTw,Chelsea Ristorante,108 8th Ave,"{'latitude': 40.7405719, 'longitude': -74.0017238}",157,3.5,10011
+DJsoVgloRAOrsGM2HQKDoA,Fino Ristorante,82 Beaver St,"{'latitude': 40.705204, 'longitude': -74.00844}",74,3.5,10005
+mofqcbvp-MVFSynU1fQNRA,Luna Restaurant,279 Grove St,"{'latitude': 40.7178030413609, 'longitude': -74.0443970331015}",104,4,7302
+qoBcWhGwlcUsKIQ2nB22vA,Lombardo's of Bay Ridge,279 71st St,"{'latitude': 40.634741, 'longitude': -74.0284259}",85,5,11209
+MHbxF-ZS918-ZoXKQPBEyg,Sotto Le Stelle,44-07 Queens Blvd,"{'latitude': 40.74371, 'longitude': -73.92008}",156,4.5,11104
+IZBcd_82bcXEB25ZEyxg7w,Piccoli Togo - Williamsburg,804 Grand St,"{'latitude': 40.71179, 'longitude': -73.94116}",3,5,11211
+MfOl9uzuQj8Wl2g8NRYl0w,New Corner Restaurant,7201 8th Ave,"{'latitude': 40.62852, 'longitude': -74.01661}",132,3.5,11228
+ejuFKvSfGl0JMZO9yzSXNw,Louie's Pizza,81-34 Baxter Ave,"{'latitude': 40.7459, 'longitude': -73.8834}",373,4.5,11373
+5EQOEAkH2Qh3Rv1TcnE7yA,Fiaschetteria Pistoia,114 Christopher St,"{'latitude': 40.73316, 'longitude': -74.00537}",8,4.5,10014
+6n7D4amt9vEruR73tt3S9w,Cafe Fiorello,1900 Broadway,"{'latitude': 40.77134, 'longitude': -73.9819051}",698,3.5,10023
+eLoZU4zi5RykCFw0aJXGyA,Cafe al Mercato,2344 Arthur Ave,"{'latitude': 40.854118, 'longitude': -73.888175}",27,4.5,10458
+hbMvJ5pGYlyFC7jJBJp3SA,Nonna Delia's,18-32 College Point Blvd,"{'latitude': 40.78224, 'longitude': -73.84619}",26,4,11356
+Irw7QQBsndbB2ATXeB4pYA,Da Tommaso NYC,903 8th Ave,"{'latitude': 40.7646068, 'longitude': -73.9845812}",160,3.5,10019
+J0SZjwe0Rc-H6mzl0oByxQ,Mimi's Italian Restaurant & Piano Bar,984 2nd Ave,"{'latitude': 40.75611, 'longitude': -73.96728}",258,3.5,10022
+x5zOHDirJAMaKtu1TjAgug,Enzo's Of Williamsbridge,1998 Williamsbridge Rd,"{'latitude': 40.85413, 'longitude': -73.85412}",102,4,10461
+UU-VNxsgJ3BWgpVQbUChig,Beccofino,5704 Mosholu Ave,"{'latitude': 40.9053542, 'longitude': -73.9004326}",119,4,10471
+_H52GDibhYc9bs8j1o-1_w,Leonelli Taberna,7 E 27th St,"{'latitude': 40.74398, 'longitude': -73.98698}",32,4,10016
+F2YbqhVr6hBsFrDCyr6M_w,The Meatball Shop,200 9th Ave,"{'latitude': 40.7459138, 'longitude': -74.0015369}",826,4,10011
+XzkmePjJC0ryuqZp5qd12A,Fresco By Scotto,34 East 52nd St,"{'latitude': 40.758874588912, 'longitude': -73.974435582671}",265,3.5,10022
+zTK8reqKrmV7U71YVHYYjg,Armani Ristorante,717 5th Ave,"{'latitude': 40.7618463161798, 'longitude': -73.9742299834671}",210,4,10022
+vWa8iPUYDGAMSBCqMwJylQ,MangiPasta,608 East 187th St,"{'latitude': 40.85527, 'longitude': -73.88731}",37,5,10458
+HV5DMBmEpQ_Nu6NSekJquA,Harry's Italian,225 Murray St,"{'latitude': 40.7153762863468, 'longitude': -74.0139836332683}",223,3.5,10282
+_Klr6rynJ4b_oc7ehRPoZA,Paul & Jimmy's,123 E 18th St,"{'latitude': 40.73673, 'longitude': -73.98732}",90,3.5,10003
+xKZSIBaGkXX7ppIceuhiQQ,Buca di Beppo Italian Restaurant,1540 Broadway,"{'latitude': 40.757923, 'longitude': -73.985216}",365,3.5,10036
+zRhDhbutGwC9KY_U_5VYdw,Mani In Pasta,14 E 37th St,"{'latitude': 40.74985, 'longitude': -73.98229}",85,4,10016
+VtJd1l64kqUUyWacwK0J2Q,Veniero's,342 E 11th St,"{'latitude': 40.72941, 'longitude': -73.98454}",1898,4,10003
+7pvTicRAhXB1Ld74MWjkXQ,Davio's Northern Italian Steakhouse,447 Lexington Ave,"{'latitude': 40.75304, 'longitude': -73.97472}",263,4,10017
+4QGn3I-ZvdFkxgEniosyuA,Jimmy's Trattoria,45-73 Bell Blvd,"{'latitude': 40.7585738, 'longitude': -73.7682438}",128,4,11361
+NZaq_ygLr4N8-blY5dGx-g,Paul's On Times Square,136 W 42nd St,"{'latitude': 40.75522, 'longitude': -73.98539}",288,4,10036
+ysqgdbSrezXgVwER2kQWKA,Juliana's Pizza,19 Old Fulton St,"{'latitude': 40.7026153030093, 'longitude': -73.9934159993549}",1927,4.5,11201
+mwvukHjc7Trs5fRbZ4-TsA,Fabbrica Restaurant & Bar,44 N 6th St,"{'latitude': 40.7197876739018, 'longitude': -73.9625863349716}",250,3.5,11249
+an8TuHRg0e3cgiAE705ZDA,Fornino,Pier 6 Brooklyn Bridge Park,"{'latitude': 40.6928735340776, 'longitude': -74.0016932280972}",200,4,11201
+dMrF98GlFYIPKYY5NVZHbw,Gemma,335 Bowery,"{'latitude': 40.72609, 'longitude': -73.99166}",617,3.5,10003
+i3IK1tCkwyXRx7VU1edlMQ,Trattoria Saporito,328 Washington St,"{'latitude': 40.74104, 'longitude': -74.03013}",233,3.5,7030
+uboO7T3XSnl8iq0uQWhMXA,Café Altro Paradiso,234 Spring St,"{'latitude': 40.72549, 'longitude': -74.00489}",120,3.5,10013
+u74abDRXzo1vVhM-m5To5g,Dolcino Trattoria Toscana Italian,517 2nd Ave,"{'latitude': 40.7416076660156, 'longitude': -73.9785766601562}",85,3.5,10016
+F-eRrDik2KK0sNjpGiNbAg,Trattoria il Gusto,625 Columbus Ave,"{'latitude': 40.78923, 'longitude': -73.9698499}",35,3.5,10024
+oEjWa3AETzPQfM3S1wRiLA,Due,1396 3rd Ave,"{'latitude': 40.77466, 'longitude': -73.95724}",64,4,10075
+penftLPo6kx6qCtbsuyLog,Petaluma,1356 1st Ave,"{'latitude': 40.7682492, 'longitude': -73.9553474}",228,3.5,10021
+XoTaRa6uAkO2OBV0-rYv3w,Numero 28 Pizzeria - Upper West Side,660 Amsterdam Ave,"{'latitude': 40.79175, 'longitude': -73.97228}",196,4,10025
+j9uuXTmbt4JCphSVg5DpgQ,Cafe Rustico II,62 E 34th St,"{'latitude': 40.74719, 'longitude': -73.98202}",116,4,10016
+evhkqaDVxi3LGb39Rw-_Aw,Fazio's,709 Knickerbocker Ave,"{'latitude': 40.69442, 'longitude': -73.91039}",98,4.5,11221
+gGkkzrcHh1xS-S55OsuKsw,Santina,820 Washington St,"{'latitude': 40.739618, 'longitude': -74.008443}",599,3.5,10014
+v2w_gKvV5kCk8a-nGDPrEQ,Numero 28 Pizzeria,107-12 70th Rd,"{'latitude': 40.7208543, 'longitude': -73.8454939}",128,4,11375
+na-2_gQCY7ccS2ZkLJDumQ,Waldy's Wood Fired Pizza & Penne,800 6th Ave,"{'latitude': 40.7457666039821, 'longitude': -73.9906402533629}",763,4,10001
+VlaFY8ASgOvrzZ3I8sG6Dg,Bella Napoli,257 7th Ave,"{'latitude': 40.7451099, 'longitude': -73.9947}",171,3.5,10001
+uPXehVdHJ_aM1V17iNfSSg,IL Valentino Osteria,1078 1st Ave,"{'latitude': 40.7592621, 'longitude': -73.961998}",82,3.5,10022
+wnXdgkWYN0p4SEl_AdMzLA,Bar Toto,411 11th St,"{'latitude': 40.6669, 'longitude': -73.984672}",256,3.5,11215
+4K0doiBddco60kl0W04a3Q,Il Forno Hell's Kitchen,713A 8th Ave,"{'latitude': 40.7591217147251, 'longitude': -73.988647715231}",200,3.5,10036
+z3JDfCqlwOTwhQrnPgYkDg,Arte Cafe,191 7th Ave,"{'latitude': 40.74295, 'longitude': -73.99627}",50,4,10011
+vFsjObMTImsnM_DzVo4N3g,Bocca Restaurant & Bar,39 E 19th St,"{'latitude': 40.73826, 'longitude': -73.98886}",344,3.5,10003
+HK4mjpUdZ6xrw3OrsBV8zA,Barca,44 Navy Pier Ct,"{'latitude': 40.6288650963294, 'longitude': -74.0735902287378}",34,4.5,10304
+ycsULlWDvuj-jop3VESy4Q,Arte Restaurant,21 E 9th St,"{'latitude': 40.73241, 'longitude': -73.99462}",90,3.5,10003
+7cOibAFiGbSsSWo27SLIgw,Tutto A Modo Mio,482 Bergen Blvd,"{'latitude': 40.8244151, 'longitude': -73.9972534}",303,4,7657
+jryzOo2UaHOeZqQkkezENA,Porsena,21 E 7th St,"{'latitude': 40.72866, 'longitude': -73.98946}",246,3.5,10003
+LZcpNrQQqC5IWbE4c-9Cyw,Buchetta Brick Oven Pizza,201 W 103rd St,"{'latitude': 40.7987564, 'longitude': -73.9673846}",203,4,10025
+DCiEo7qucPaEj7Gtdj1U9A,Sant Ambroeus,1000 Madison Ave,"{'latitude': 40.7752929376282, 'longitude': -73.9629447443084}",351,4,10021
+I32XfrAZXTwkEavbnb9viQ,Desy's Clam Bar,672 Grand St,"{'latitude': 40.711381337467, 'longitude': -73.9454914723873}",78,3.5,11211
+Tw7bIH7iyI1mK1o070w1Vw,La Strada Restaurant,139 New Dorp Ln,"{'latitude': 40.573864, 'longitude': -74.115566}",81,4,10306
+8cnfXAq6ehOsGRw4rh-dzQ,Sam's,238 Court St,"{'latitude': 40.685920715332, 'longitude': -73.9945220947266}",212,3.5,11201
+LyFVS_a089B96WTEGLNpeA,Ria Bella Pizza,1049 Manhattan Ave,"{'latitude': 40.7347748800472, 'longitude': -73.955205076056}",117,4.5,11222
+mkS--Oq4UYJMQizSaKJXEw,Enzos of Arthur Avenue,2339 Arthur Ave,"{'latitude': 40.8543499, 'longitude': -73.8887699}",208,3.5,10458
+dsxgbkIKyu7x7JgpAKeZPA,Tarallucci E Vino - Upper West Side,475 Columbus Ave,"{'latitude': 40.78436, 'longitude': -73.9735}",109,3.5,10024
+y5b85IZGLxNdksDBFm1GBw,Gene's Restaurant,73 W 11th St,"{'latitude': 40.735408782959, 'longitude': -73.9977264404297}",81,4,10011
+uzEhT55QIdk9YbfFwmlRzQ,Altesi Ristorante,26 E 64th St,"{'latitude': 40.76667, 'longitude': -73.96959}",49,4,10065
+ZQrmos0TEPCmMHQUreYvpw,Caffe Taci,22 E 54th St,"{'latitude': 40.7603492736816, 'longitude': -73.9743194580078}",15,4.5,10022
+#NAME?,Da Noi Downtown Staten Island,138 Fingerboard Rd,"{'latitude': 40.6070167, 'longitude': -74.0667212}",82,4,10305
+m91QNAwCVNbA-cK7j8-A7w,The Longshoreman,215 Columbia St,"{'latitude': 40.68472, 'longitude': -74.0027}",17,4,11231
+kLJfizeHMQqesp1K9mfUtg,Via Quadronno,25 E 73rd St,"{'latitude': 40.77277, 'longitude': -73.96514}",483,4,10021
+505bv6h3VnN6SekdHCr8Sw,Nocello,257 W 55th St,"{'latitude': 40.7654190063477, 'longitude': -73.9833374023438}",136,3.5,10019
+pL6cM2TPwvXqeGTrg7yN4Q,Remi,145 West 53rd St,"{'latitude': 40.762619, 'longitude': -73.980809}",300,3.5,10019
+9lDqOfKeEB15AWfsWIq8mA,Mario's Restaurant,2342 Arthur Ave,"{'latitude': 40.8542, 'longitude': -73.88857}",202,3.5,10458
+FDFE8nqstVJT07LquQ2kBA,Buon Appetito,906 Broadway,"{'latitude': 40.67835, 'longitude': -74.10568}",153,4,7002
+rbIrit8gZwfyEOdEOeX7jg,Orso,322 W 46th St,"{'latitude': 40.759994, 'longitude': -73.989025}",171,4,10036
+Kh0-HmlgmVUkRxR55_Vn1g,Patsy's Pizzeria,2287 1st Ave,"{'latitude': 40.79713, 'longitude': -73.93481}",761,4,10035
+TSj3yJCHBMEQ0caKtMX9ng,Gerbasi Ristorante,2389 Arthur Ave,"{'latitude': 40.855371, 'longitude': -73.888115}",130,4,10458
+uEKiv6WEPg9dWj10HCur5A,Table 87 Coal Oven Pizza,87 Atlantic Ave,"{'latitude': 40.691219329834, 'longitude': -73.9973449707031}",234,4.5,11201
+WI_AYZSW8ds1GjFq3PQJRA,Satis Bistro,212 Washington St,"{'latitude': 40.7144521915461, 'longitude': -74.037669933778}",622,4,7302
+yXwzpfdsDQqg9k5odYonFw,Bricco Ristorante Italiano,304 W 56th St,"{'latitude': 40.766083, 'longitude': -73.984023}",129,3.5,10019
+q6ux26c-SfK-679y9lvVbw,Settepani,196 Lenox Ave,"{'latitude': 40.80435, 'longitude': -73.94766}",193,3.5,10026
+Lw58gDv9ipwtOcg2EIJp3w,Napoli Pizza & Pasta,33-02 35th Ave,"{'latitude': 40.75718, 'longitude': -73.92686}",281,4,11106
+7QUfJwuPgiTYa96TUqmzvQ,Bella Napoli,130 Madison Ave,"{'latitude': 40.74579, 'longitude': -73.98474}",219,3.5,10016
+db2QLlK-0xL7Vq0jG-CcJQ,Café Bello,1044 Avenue C,"{'latitude': 40.68387, 'longitude': -74.10426}",128,4,7002
+KOaeW18qq4C03Dfd06IXPQ,Maria Pia,319 W 51st St,"{'latitude': 40.76343, 'longitude': -73.98655}",407,3.5,10019
+X9f5HH4x3Mi7lo4ph9efvQ,Terre,341 5th Ave,"{'latitude': 40.671949831792, 'longitude': -73.9837719490146}",29,3.5,11215
+iUlNDgKCLJt7F9y5fw2NYA,Osteria della Pace,101 Liberty St,"{'latitude': 40.7096522, 'longitude': -74.0112896}",65,3,10281
+GqTgQEqwf3k5JyE7DHDhjw,Numero 28 Pizzeria Napoletana,176 2nd Ave,"{'latitude': 40.73041, 'longitude': -73.98595}",512,4,10003
+qUOxvK1j0F293sZk5PdSBg,Antico Noe,220 E 53rd St,"{'latitude': 40.75716, 'longitude': -73.96864}",162,4.5,10022
+lTjmtiPVsXNnE_h7uzQr0Q,Aperture,552 Court St,"{'latitude': 40.675033, 'longitude': -73.999706}",126,4,11231
+Wcnig4807LHZyk8z08IeGw,Arthur Ave Fiasco,2376 Arthur Ave,"{'latitude': 40.854825, 'longitude': -73.887862}",52,4,10458
+xEdAaZTNNHRZbvzBuSjcCg,House of Lasagna,334 Lexington Ave,"{'latitude': 40.7497237, 'longitude': -73.9775697}",136,3.5,10016
+I0i9YzRBQn6MKIUFIHpeBQ,Park Italian Gourmet,60 W 45th St,"{'latitude': 40.7562054271632, 'longitude': -73.9814829826355}",189,4,10036
+5z17B673aI4MSWkKB1DsjA,Caffe Rustico,7-26 149th St,"{'latitude': 40.7939611, 'longitude': -73.8181798}",38,5,11357
+Zub6WrbrS_4XMI1mPbyeiw,La Panineria,1 W 8th St,"{'latitude': 40.7324876186231, 'longitude': -73.9967531074097}",182,4,10011
+YE4pvo8ectzEaRYGqUgFcA,Felice 64,1166 1st Ave,"{'latitude': 40.76256, 'longitude': -73.9596}",280,3.5,10065
+piH-TNcmjLq2NHE4ZtbrBA,Zucchero E Pomodori,1435 2nd Ave,"{'latitude': 40.770632, 'longitude': -73.957562}",175,3.5,10021
+FR_E9_Z3WG5HjeIUyTKSWw,Antonio's Kitchen,76-08 21st Ave,"{'latitude': 40.7704153034747, 'longitude': -73.8933003575181}",113,3.5,11370
+xJm9JJLooQ1Sc7ncM2-JJA,The Meatball Shop,170 Bedford Ave,"{'latitude': 40.7182749, 'longitude': -73.9576213}",1192,4,11249
+x3PALeokwz7fFFLjfiDBAw,E Pasta,20 Maiden Ln,"{'latitude': 40.70903, 'longitude': -74.00925}",15,3.5,10038
+nw85LVh6H3JIiw3ugvhAmw,Lasagna Chelsea Restaurant,196 8th Ave,"{'latitude': 40.7432418, 'longitude': -73.9996916}",477,3.5,10011
+AO9ubB1XVqj1hkwOZm-F9A,Villaggio Ristorante,15007 14th Rd,"{'latitude': 40.787697, 'longitude': -73.81308}",132,3.5,11357
+pX5QH2s3ttEGzZ5Xapr3QQ,Sola LAB,45 Beekman Sreet,"{'latitude': 40.7101544250353, 'longitude': -74.005482}",14,4,10038
+73HeiHqXlj8bF1GXXBrn1g,DIA,58 2nd Ave,"{'latitude': 40.72572, 'longitude': -73.98955}",43,4.5,10003
+6NqCJcJvYEdvjI2e0mH0Yw,Corto,507 Palisade Ave,"{'latitude': 40.74597, 'longitude': -74.04337}",53,4,7307
+nBy8KtcUHktPFKw-VClG1A,La Pecora Bianca,950 2nd Ave,"{'latitude': 40.75495, 'longitude': -73.9682718}",122,3.5,10022
+COVGkASgKQ5aqIGn9evmgA,Arancini Bros,120 Essex St,"{'latitude': 40.7191861062729, 'longitude': -73.9876049843888}",30,4,10002
+02sAHm3_CsRKE2IeT5iaPA,Table 87 Coal Oven Pizza,473 3rd Ave,"{'latitude': 40.670664, 'longitude': -73.991371}",276,4,11215
+gfrkJA7Kh3k8Kyl7aJ0m1Q,Frankie and Avas Italian Eatery,208 Washington St,"{'latitude': 40.73918, 'longitude': -74.0307}",138,4,7030
+J9r0qorwR0tKOhrCcl1VGQ,Piccolo Cafe,274 W 40th St,"{'latitude': 40.7557818, 'longitude': -73.9904619}",225,4,10018
+NlmP5x_Ykznd55Dc85ChUg,Nittis,523 9th Ave,"{'latitude': 40.7567, 'longitude': -73.99411}",68,4.5,10018
+oexDsgqmXc9Qe3fy3uYx7g,F & J Pine Restaurant,1913 Bronxdale Ave,"{'latitude': 40.848685, 'longitude': -73.862069}",483,3.5,10462
+4SdvTwFkW3Qx0f_3zBN_ZA,Bareli's Restaurant & Bar,219 Rte 3 E,"{'latitude': 40.7912822, 'longitude': -74.0548778}",120,4.5,7094
+9SsjlfVirSNyXw0g_h_tFQ,Mr Vino's Cucina,7103 Austin St,"{'latitude': 40.7200873, 'longitude': -73.8445468}",88,4,11375
+cUNFGQB2I3GI_vqy2OBW3Q,Lattanzi,361 W 46th St,"{'latitude': 40.7607901227454, 'longitude': -73.9901704731246}",234,3.5,10036
+22RnbE0EAPsv50XzJhtnyg,Giorgione,307 Spring St,"{'latitude': 40.72615, 'longitude': -74.008445}",146,3.5,10013
+0frCoaUJ_XWiz1BXiHBcwg,Ceci Italian Cuisine,46 W 46th St,"{'latitude': 40.7568271422022, 'longitude': -73.9809948205948}",265,3.5,10036
+ft2OPgLsquG9d7XrBLULng,Alidoro,18 E 39th St,"{'latitude': 40.75097, 'longitude': -73.98108}",185,4,10016
+LQakVBka0axtU8IwOzXyIg,Barge Inn,324 3rd St,"{'latitude': 40.72386, 'longitude': -74.04891}",68,4,7302
+FogLdooqSzKbmkwMGSwDiQ,Razza Pizza Artigianale,275 Grove St,"{'latitude': 40.7177490485075, 'longitude': -74.0441924355125}",733,4,7302
+zj8Lq1T8KIC5zwFief15jg,Prince Street Pizza,27 Prince St,"{'latitude': 40.7229087705545, 'longitude': -73.9944863319397}",2626,4.5,10012
+WHX90qTIuHdWHWDY5g9COw,Apulia,1319 Washington St,"{'latitude': 40.75297, 'longitude': -74.02582}",40,4.5,7030
+LJwkhP2vjRKKjyuRY1ql4Q,Lugo Cucina,1 Penn Plz,"{'latitude': 40.7514981327384, 'longitude': -73.9927658074097}",301,3.5,10119
+oRdM7n-AfBPBGAlH4Q0Sag,My Pie Pizzeria Romana,690 Lexington Ave,"{'latitude': 40.7608512, 'longitude': -73.9694809}",638,4.5,10022
+KgxzEspPDlfZ-6_HX70mfg,Ninos Aq,35-01 Ditmars Blvd,"{'latitude': 40.77496, 'longitude': -73.90857}",72,4.5,11105
+H5d3Lgkk8onZ6tq0mUyvig,Panello,720 Monroe St,"{'latitude': 40.7469495, 'longitude': -74.0380045}",168,4,7030
+J38XGzriEkMsDfCMt6et_g,Vezzo,178 Lexington Ave,"{'latitude': 40.7445, 'longitude': -73.98139}",1183,4,10016
+p4TYRKQ82N5Ntb6RPdLPMg,Bruno's Ristorante,158-22A Crossbay Blvd,"{'latitude': 40.6595993041992, 'longitude': -73.8433990478516}",164,4.5,11414
+kqewBLuQDB3euc-s_mRf4A,Otto Enoteca Pizzeria,One Fifth Avenue At 8th St,"{'latitude': 40.7320605431463, 'longitude': -73.996197909787}",2058,3.5,10003
+3H5XLI6TqgAqXlPg_GrQug,Massa's Coal Fired Pizzeria & Bar,42-12 28th St,"{'latitude': 40.74962, 'longitude': -73.93963}",23,4,11101
+ayh9M3Lmc8Zxa7wsvKH55Q,Piccolino Ristorante,3935 Amboy Rd,"{'latitude': 40.5510515, 'longitude': -74.1496965}",65,4,10308
+V0zC3awsklyxC0GFzmaTLg,Sfilatino Italian Gourmet,342 W 57th St,"{'latitude': 40.7675056, 'longitude': -73.9851073}",168,4,10019
+86H4O08GmtaC4YOTUdO3pw,Via Margherita Restaurant - Cucina Calabrese,452 Tompkins Ave,"{'latitude': 40.61454, 'longitude': -74.07295}",18,4.5,10305
+pTWFuMYed409y99N0zY05Q,Barbaresco Restaurant,843 Lexington Ave,"{'latitude': 40.76539, 'longitude': -73.96556}",83,3.5,10065
+TsYrzVVtkKO4Asrk_L9stw,Parm,235 Columbus Ave,"{'latitude': 40.7764333, 'longitude': -73.9794019}",481,3.5,10023
+xBtLIXu1YN9TnvlV4hTa1w,Tuscany Grill,8620 3rd Ave,"{'latitude': 40.62295, 'longitude': -74.03157}",88,3.5,11209
+7Oq1UdUHUGZGH_QI6N-0LQ,Hearth,403 E 12th St,"{'latitude': 40.730006, 'longitude': -73.983225}",681,4,10009
+oIpNF3AJwqZlCs9fmpyFOQ,Pasquale Rigoletto Restaurant,2311 Arthur Ave,"{'latitude': 40.8538, 'longitude': -73.88925}",163,3.5,10458
+ywP0OEqRC6sp4NK1-QhW-g,Parm,Brookfield Pl,"{'latitude': 40.7144510120714, 'longitude': -74.0161083107869}",320,3,10080
+5EmZzIWxYCrc1KOnbA78-w,Gran Tivoli,406 Broome St,"{'latitude': 40.72104, 'longitude': -73.99783}",9,4.5,10013
+CfFjKWynWAFLO9mUTxe4Zg,Gaetana's,143 Christopher St,"{'latitude': 40.732952570801, 'longitude': -74.007623322014}",260,3.5,10014
+4YWAdkX4To7SGTRo-A_Wsw,Nonna Beppa Soho,290 Hudson St,"{'latitude': 40.72564, 'longitude': -74.00713}",38,4,10013
+u5zbsITgkFbAlRq0j-XE-g,Serafina Broadway,210 West 55th St,"{'latitude': 40.7645, 'longitude': -73.9819}",542,3,10019
+KscSF2Bnwa_wlg1MbdFjvQ,Tre Sorelle,61 Reade St,"{'latitude': 40.7149022072554, 'longitude': -74.0064939111471}",138,3.5,10007
+zt1XycoszgaAWSIuF0B-EQ,Pizza Rollio,261 W 18th St,"{'latitude': 40.7422, 'longitude': -74.00032}",36,4.5,10011
+3IjBYkdXARUQXUEBeJ9KLg,Defonte's of Staten Island,95 Water St,"{'latitude': 40.6268107804371, 'longitude': -74.0766029467435}",87,4.5,10304
+dWc0ijADaD6ZdclJ5LqQdg,Paola's Restaurant,1295 Madison Ave,"{'latitude': 40.7846546580287, 'longitude': -73.9558692276478}",152,3.5,10128
+KLRvWv8y0Vs3x-HDgmD0VA,Paul Michaels Brick Oven Pizza Restaurant,85-19 126th St,"{'latitude': 40.7040268, 'longitude': -73.8252041}",130,4,11415
+dxoCLppcryrHuCt7UUbIVw,Italianissimo Restaurant,107 McClean Ave,"{'latitude': 40.59856, 'longitude': -74.06565}",51,4,10305
+3FCxi2imtP_wMgsgsqIQOw,Bocca Di Bacco,635 9th Ave,"{'latitude': 40.7602649, 'longitude': -73.991703}",233,3.5,10036
+MyVbXtvst8X7sbR7gUA_ug,Cacio E Vino,80 2nd Ave,"{'latitude': 40.726384, 'longitude': -73.988873}",312,3.5,10003
+njVlqTOaQUEjDRJV_KRcjA,Mamma Guidara's,10 W 28th St,"{'latitude': 40.74485, 'longitude': -73.98826}",14,3.5,10001
+06tnwnEQM2j9A6dC3HC_TQ,Capizzi,547 9th Ave,"{'latitude': 40.75744, 'longitude': -73.99357}",732,4.5,10018
+dmCqbWwTFHqri_6fr3KlNw,Patrizia's of Brooklyn - Staten Island,4255 Amboy Rd,"{'latitude': 40.5472110847214, 'longitude': -74.1580738741812}",433,4,10308
+lA6IvTF7J8fNC5puhyS3PA,Bellini Italian Restaurant,483 Columbus Ave,"{'latitude': 40.78457, 'longitude': -73.97317}",239,3.5,10024
+wT_-RVwMoiPAL9L191Zjvg,Botte Bar,25-07 Broadway,"{'latitude': 40.7633418050593, 'longitude': -73.9281750915024}",45,4.5,11106
+AhqWTf8ObRg1ZcNRV_vzIQ,15 Fox Place,15 Fox Pl,"{'latitude': 40.73371, 'longitude': -74.07251}",101,4.5,7306
+h2HPWsBX3ABNvLHbP3KzqA,La Stanza,334 B Lexington Ave,"{'latitude': 40.74969, 'longitude': -73.9775}",40,3.5,10016
+oaowryQAF13ka42VSb8c1w,Spolini's,11625 Metropolitan Ave,"{'latitude': 40.7074477, 'longitude': -73.8354456}",89,3.5,11418
+rGQIi-BaMwwWvd_J4hOO5A,GP's Restaurant,236 Pavonia Ave,"{'latitude': 40.7276548852554, 'longitude': -74.0439375500829}",265,4,7302
+wvn-FO-tY9_iWmA_OgMvEA,Frank's Trattoria,371 1st Ave,"{'latitude': 40.73612, 'longitude': -73.979473}",118,3.5,10010
+jhDIciM9sPATHRiaoXd_QQ,Salumeria Antichi Sapori,28-13 Astoria Blvd,"{'latitude': 40.77097, 'longitude': -73.92011}",20,4.5,11102
+1uOB_tWZwvI0_HakXfu5Jg,Nick's Pizza,1814 2nd Ave,"{'latitude': 40.78272, 'longitude': -73.94781}",490,4,10128
+uDJw4dQiySoNCBoUalW1Ww,Lincoln Ristorante,142 W 65th St,"{'latitude': 40.773359006218, 'longitude': -73.9835011005249}",541,4,10023
+MA1QPFSYddVq_KzEldpcRg,Aria Wine Bar,117 Perry St,"{'latitude': 40.73512, 'longitude': -74.00671}",642,3.5,10014
+geTFpY84Tp-nVTXflnxtDA,V & T Pizzeria & Restaurant,1024 Amsterdam Ave,"{'latitude': 40.80334, 'longitude': -73.96383}",323,3,10025
+dbCTJp9ENDVIquxBWONzWQ,Pomodoro,518 9th Ave,"{'latitude': 40.75624, 'longitude': -73.9939}",112,4,10018
+D0LsGudLqLabXbhEPMkw6A,Aumm Aumm Pizzeria & Wine Bar,7701 Broadway,"{'latitude': 40.79789, 'longitude': -74.00231}",299,4.5,7047
+0sR9gXJYvnSuEUaqiEmvRg,Nino's Restaurant,1354 1st Ave,"{'latitude': 40.768115, 'longitude': -73.955328}",231,3.5,10021
+VF3wSCRC3mE6JpBQPQXELA,Parm,248 Mulberry St,"{'latitude': 40.72303, 'longitude': -73.99567}",710,3.5,10012
+0Gx08zPfwP8tI2Hg4r6AGg,Deluca's Italian Restaurant,7324 Amboy Rd,"{'latitude': 40.5111020473786, 'longitude': -74.2413425571133}",102,4.5,10307
+K9kL1ice5jlkPXcNyTus3Q,Pasta Lovers,142 W 49th St,"{'latitude': 40.76003, 'longitude': -73.98291}",285,3.5,10019
+dvOvoJMIZmsCTEL1Dg0WXQ,Reggiano's,7339 Amboy Rd,"{'latitude': 40.5111, 'longitude': -74.24204}",156,4.5,10307
+JgtKnRMbUQKXaxC-C0BynQ,Il Baretto To Go,790 11th Ave,"{'latitude': 40.76873, 'longitude': -73.99224}",17,4.5,10019
+vzDb6_Zkm4m8O7tNidojjA,Pier 76,76 Bay St,"{'latitude': 40.640118, 'longitude': -74.0759269}",184,4,10301
+Cnqy9w1BFXZFEaChfox0ow,Rosemary's,18 Greenwich Ave,"{'latitude': 40.7347241, 'longitude': -73.9997973}",878,3.5,10011
+WLUdIr-lmOnCkfXgH1JxVg,Valentino's Pizzeria & Restaurant,71-47 Kissena Blvd,"{'latitude': 40.7288502, 'longitude': -73.8150651}",263,4,11367
+_xfW9vSlsqySASBWeUeFpQ,Molo Ristorante,987 Bay St,"{'latitude': 40.61871, 'longitude': -74.06917}",74,4,10305
+2ZbGLUZpaJO8mdxi7UaVMQ,Cara Mia,654 9th Ave,"{'latitude': 40.76069, 'longitude': -73.99066}",405,3.5,10036
+So6xT7Hl0HDcPqipvGfZdA,Pastai,186 9th Ave,"{'latitude': 40.7454222076169, 'longitude': -74.0019670059103}",180,3.5,10011
+fBDnGXpDXFAgpZDB0XDSvQ,Cappone's Salumeria,75 9th Ave,"{'latitude': 40.739143, 'longitude': -74.00702}",57,4,10014
+AWeQkgJ0uzNr5YxFr2Bx8g,Pasquale Jones,187 Mulberry St,"{'latitude': 40.7210341671446, 'longitude': -73.9967492344452}",194,3.5,10012
+4q8jF2pKoWYbJXYmSNMG1g,Rosario's,2255 31st St,"{'latitude': 40.7749914695423, 'longitude': -73.911981699429}",134,4.5,11105
+uMO1DfoytP6Hw5bl_z7mDQ,Cafe Michelina,423 Bloomfield St,"{'latitude': 40.74222, 'longitude': -74.03009}",183,3.5,7030
+lMVP7UR2mySp0yg9_3HvbQ,Firenze Ristorante,1555 2nd Ave,"{'latitude': 40.774526565292, 'longitude': -73.9544070884586}",236,3.5,10028
+Zgxqluk9HIZ0yKNTWMWpbA,Forcella,485 Lorimer St,"{'latitude': 40.711353, 'longitude': -73.9490983}",420,3.5,11211
+bmcIFCtXLzkQIgLmDVXs3A,Serafina Ludlow,98 Rivington St,"{'latitude': 40.720205886879, 'longitude': -73.9884993061423}",71,3.5,10002
+#NAME?,Casa Conte,257 Columbia St,"{'latitude': 40.68332, 'longitude': -74.00337}",5,5,11231
+HJg9TbpyWvb6-AFPdb7NCA,King,18 King St,"{'latitude': 40.7275, 'longitude': -74.00346}",128,3.5,10014
+WdrPI3wo7wOD2ad2cSjPeQ,Denino's Greenwich Village,93 Macdougal St,"{'latitude': 40.7294, 'longitude': -74.00111}",161,4,10012
+r6K5RBfhlNbr-g7g3u13KA,L'angolo Trattoria Italiana,696 Anderson Ave,"{'latitude': 40.8283599182, 'longitude': -73.9863337576389}",55,4.5,7010
+IZ9-5z45wc3Oh_jlnX_Kcg,Giuseppina's,691 6th Ave,"{'latitude': 40.6603430973463, 'longitude': -73.9907741546631}",288,4.5,11215
+JgF5wVIdDIGqYYpmrYCUBQ,La Cucina Italian Specialties,8611 18th Ave,"{'latitude': 40.606758, 'longitude': -74.002762}",13,4.5,11214
+EBLnoiBasjn_56UfTCnNsQ,Delizioso Ristorante Pizzeria,4102 Avenue J,"{'latitude': 40.6274, 'longitude': -73.93632}",10,4.5,11210
+kxUKKlbm4sK2v6e8xHKB9A,Casanova Restaurant,338 McGuinness Blvd,"{'latitude': 40.73413, 'longitude': -73.95206}",55,3.5,11222
+jMdziYLNYGDCegkFQ4lTQA,Serafina Tribeca,95 W Broadway,"{'latitude': 40.71566, 'longitude': -74.0089}",93,3.5,10007
+L0hPFGt-sD_QVmhr01SSEQ,Gente,153 E 45th St,"{'latitude': 40.753194, 'longitude': -73.973632}",160,3.5,10017
+9GPRbrLHvPmLScQVw7L3KA,Donato's Restaurant,50-22 39th Ave,"{'latitude': 40.74858, 'longitude': -73.91298}",135,3,11377
+Tp3MF3DNXuW41A10PQ2nFw,Amali,115 E 60th St,"{'latitude': 40.7633557384716, 'longitude': -73.9686296877489}",356,4,10022
+_eImQkZt0MlQ0jLZH2LrTQ,GP's Restaurant,24 69th St,"{'latitude': 40.79126, 'longitude': -74.00167}",119,4.5,7093
+mSUN6AosDrAuM9H29qEhgg,Alba's Pizza & Restaurant,3620 Ditmars Blvd,"{'latitude': 40.77375, 'longitude': -73.90778}",236,4,11105
+rHYwqiWTFs-oOKikxY7kag,Zia Maria-Little Italy,138 Mulberry St,"{'latitude': 40.71861, 'longitude': -73.99754}",64,4,10013
+M7bo7h-S4HqJfIYYghtXOQ,Blue Eyes Restaurant,525 Sinatra Dr,"{'latitude': 40.7415904281481, 'longitude': -74.0261629347709}",226,3.5,7030
+WIhm0W9197f_rRtDziq5qQ,Lombardi's Pizza,32 Spring St,"{'latitude': 40.72164, 'longitude': -73.9957}",5808,4,10012
+8SI7b70Bqcw8n_kvBXMUag,Frankies 570 Spuntino,570 Hudson St,"{'latitude': 40.73569, 'longitude': -74.00581}",318,3.5,10014
+u5gLdI6l6zsPxL2kOYbyfw,Nizza,630 9th Ave,"{'latitude': 40.76018, 'longitude': -73.99113}",689,3.5,10036
+-5xLqs3iGFbBkJG3QNh6Bw,Sac's Place Of Jackson Heights,86-14 37th Ave,"{'latitude': 40.7500809185494, 'longitude': -73.8800425082445}",106,4,11372
+rlfy0pXZvvkDe7OWsM_tnw,Lorenzo's Italian Restaurant,56 County Ave,"{'latitude': 40.76689, 'longitude': -74.068584}",85,3.5,7094
+BpdlX1j1-FbOC1dWIrZv4w,Bella Blu,967 Lexington Ave,"{'latitude': 40.769207, 'longitude': -73.962791}",213,3.5,10021
+cRfAN-SRlFuaSd-mp-9iiQ,Restivo Ristorante,209 7th Ave,"{'latitude': 40.7434605855724, 'longitude': -73.9959991865082}",105,3.5,10011
+pgtgGAAuHMT0KTm3CDPQsA,Sorellina,1036 Washington St,"{'latitude': 40.74977, 'longitude': -74.02746}",198,3.5,7030
+CjahRm-rdwS8IqGR-M0Dyg,AquaMarina,4060 Broadway,"{'latitude': 40.8433196, 'longitude': -73.9388948}",111,3,10032
+75s8ErSnvhVTFx1Z4PRGqw,Sicily's Best Pizzeria,190 Cypress Ave,"{'latitude': 40.70517, 'longitude': -73.915155}",65,4.5,11237
+Zoa_uv-VRNfI3AL0b6xZcQ,Armando's Kitchen,1345 Rockaway Pkwy,"{'latitude': 40.64723, 'longitude': -73.904011}",10,4,11236
+l-oj1yA5liiFEEwoi-1ELA,Bottega Restaurant,1331 2nd Ave,"{'latitude': 40.7677346, 'longitude': -73.9593295}",104,3.5,10021
+S85UgKrCsTFdXaly3jNJWw,Zoe Restaurant Bar,1559 St Nicholas Ave,"{'latitude': 40.85357, 'longitude': -73.93085}",13,4.5,10040
+EYSIZX7b6Sp6TNc_KNvn7Q,Speedy Romeo,63 Clinton St,"{'latitude': 40.71951, 'longitude': -73.98514}",256,4,10002
+XlhWNQRGoWyybfXpGBgE3Q,Il Mulino New York - Uptown,37 E 60th St,"{'latitude': 40.764144, 'longitude': -73.970195}",189,3.5,10021
+0xS2Jj-RZuFQKgxEWuVxzA,Armonie,1649 Park Ave,"{'latitude': 40.799791923483, 'longitude': -73.942575354665}",103,4,10035
+CBsNd6iuSyiSMPw2pOzRHw,Bar Italia Madison,768 Madison Ave,"{'latitude': 40.76793, 'longitude': -73.96857}",114,3.5,10065
+c6bE9vQeFniCeGpBaNQw2w,Bocelli,1250 Hylan Blvd,"{'latitude': 40.5971633871614, 'longitude': -74.0842944930438}",140,3.5,10305
+ZtApaQ9G-lyOfE-Y80tauw,Lea,1022 Cortelyou Rd,"{'latitude': 40.63932, 'longitude': -73.96799}",299,3.5,11218
+AV9x0hUE0yQUMjUGQNPexQ,Lamarca Cheese Shop,161 E 22nd St,"{'latitude': 40.73841, 'longitude': -73.9839499}",119,4.5,10010
+TkrV0mQu38XtbbvhZmiw5A,Michael Angelo's Pizza,29-11 23rd Ave,"{'latitude': 40.77499, 'longitude': -73.91327}",178,4,11105
+ca5mjbnCm2c8E6AFIb59Rw,Luzzo's Neapolitan Pizza & Wine Bar,42-60 Crescent St,"{'latitude': 40.7492468, 'longitude': -73.9420071}",52,4,11101
+uric708MW7rP8YuaQIG0ig,la côte,199 Warren St,"{'latitude': 40.7141973, 'longitude': -74.0398011}",88,4,7302
+laQ3UStO-W9fkSaM2Y4eLw,Barilla Restaurants,1290 6th Ave,"{'latitude': 40.7608455063764, 'longitude': -73.9793730976227}",249,3,10019
+ECw0vk1IykU3QIX1okSXdA,Saluggi's East,399 Grand St,"{'latitude': 40.71601, 'longitude': -73.9875}",69,4,10002
+JAWWRCjAjAIKOflewu2gFA,Nobodys Pizza,136 Alexander Ave,"{'latitude': 40.8072349, 'longitude': -73.9269925}",110,4,10454
+DKLbMLQHvggfIKw2jj6rnA,Felice 83,1593 1st Ave,"{'latitude': 40.775049, 'longitude': -73.951078}",214,3.5,10028
+JFi_v4-oRqJE81iIQzX8HA,Mamma Luciana's,15-11 College Point Blvd,"{'latitude': 40.7836898, 'longitude': -73.8456487}",62,4,11356
+lOSLnTElmUVC_vCP0q23TA,Salvo's Pizzabar,1477 York Ave,"{'latitude': 40.7708511352539, 'longitude': -73.950927734375}",251,4,10075
+7gVN8BPaKz4vlmAnj8O0Aw,Abbondanza Trattoria & Brick Oven Pizza,257 Grand St,"{'latitude': 40.71599, 'longitude': -74.0455099}",233,3.5,7302
+WE_dce2JKcv-VoFNaqiJ4w,Carmine's Pizzeria,358 Graham Ave,"{'latitude': 40.714987, 'longitude': -73.94414}",406,4,11211
+XTSScqbNujYlE7c_nHmS1g,DiSO's Italian Sandwich Society,,"{'latitude': 40.7527323302057, 'longitude': -73.9705090608521}",221,4.5,10017
+DggtruZBhxyShnjLcVfmmw,Leo's Latticini Mama's,46-02 104th St,"{'latitude': 40.746219, 'longitude': -73.860061}",127,4.5,11368
+7rc7e_mw5DefMCSBsuZYhg,Don Giovanni Ristorante,358 W 44th St,"{'latitude': 40.75955, 'longitude': -73.9915}",416,3.5,10036
+XIhSecPSJ42wdRkXuFjcFw,Girello,11 Varick St,"{'latitude': 40.71959, 'longitude': -74.00703}",34,3.5,10013
+iM_iGK22awAUWveNbX9j9w,Biga Pizza Italiana Contemporanea,3 Clinton St,"{'latitude': 40.72123, 'longitude': -73.98408}",40,4.5,10002
+GVOjDvKHLoo21n3Uip1ETg,Leo's Grandevous,200 Grand St,"{'latitude': 40.73984, 'longitude': -74.036244}",272,3.5,7030
+nD2R18RIFOLRRfMVdXJNJg,Marie's 2,5 Hyatt St,"{'latitude': 40.64224, 'longitude': -74.07674}",38,4,10301
+ntr-XrpUM3faf-YHWl1mYg,Piatto D'Oro,349 E 109th St,"{'latitude': 40.79174, 'longitude': -73.93883}",26,4,10029
+d-5S-QRAB-jqsKBU4tqbsw,Alma Gourmet,39-12 Crescent St,"{'latitude': 40.75453, 'longitude': -73.93732}",7,4,11101
+8uivlvzmeRXv6IitEkYPwg,Mario's,1657 Richmond Rd,"{'latitude': 40.58966, 'longitude': -74.10155}",87,4,10304
+rZZqZxyO-4S0ig4BFtIZ_g,Antika Restaurant & Pizzeria,3924 Broadway,"{'latitude': 40.838606, 'longitude': -73.941041}",316,3.5,10032
+NImSAO-1r0RYirViah2aIg,Amici II,165 Mulberry St,"{'latitude': 40.7197281, 'longitude': -73.9972318}",224,3.5,10013
+8dKgnx7EVuVVO6D40LTwjw,Vino e Grano,101 Liberty St,"{'latitude': 40.7096522, 'longitude': -74.0112896}",7,3.5,10006
+PntYFpmgQjAuccjszMFbBw,Bettola,412 Amsterdam Ave,"{'latitude': 40.78367, 'longitude': -73.97816}",176,3,10024
+iPLXtSD442PQXnlC5jAqbg,Cucina Fresca,2110 Richmond Rd,"{'latitude': 40.581292, 'longitude': -74.111488}",78,4.5,10306
+OrDUF3q9WNttIslLXKx0Aw,Concrete,906 Broadway,"{'latitude': 40.6977, 'longitude': -73.9368}",53,4.5,11206
+P6mNpH4eBPA-42Z0PFEqtQ,Regina's Grocery,27 Orchard St,"{'latitude': 40.7155, 'longitude': -73.99169}",34,4.5,10002
+ZgIs3x73_b29wiwPMIiOnQ,Panino Rustico of Mill Basin,5801 Ave N,"{'latitude': 40.61956, 'longitude': -73.91907}",46,4.5,11234
+XInU-DVHFwunAnsOL8bOrA,3 Giovani,548 Laguardia Pl,"{'latitude': 40.72907, 'longitude': -73.99839}",120,3.5,10012
+iGonCEvDXwwxjABRdwQ0sQ,Giuliana's,4105 Hylan Blvd,"{'latitude': 40.539821, 'longitude': -74.148521}",92,4,10308
+DLRbxg74oWNPQJdbSkTDxQ,Suprema Provisions,305 Bleecker St,"{'latitude': 40.7326925, 'longitude': -74.0036155}",183,3.5,10014
+6osYYrn77CbYPUrSnJOTBQ,Old Rose,113 Jane St,"{'latitude': 40.7383, 'longitude': -74.00932}",93,3.5,10014
+jzEaiiRa3497HWdf4QKHIA,La Pizza & La Pasta,4 World Trade Ctr,"{'latitude': 40.7102419339859, 'longitude': -74.0124460392414}",92,2.5,10006
+V7z1ZkTOtV-dNOKhZsAlMw,Patsy's Pizzeria,801 2nd Ave,"{'latitude': 40.750427, 'longitude': -73.972129}",211,3.5,10017
+3Yq-s6jngSsVzo13uYiplw,Intermezzo,202 8th Ave,"{'latitude': 40.7435441, 'longitude': -73.9995713}",391,3.5,10011
+mwDGX4OH3smoducpde2Elw,Quartino Bottega Organica,11 Bleecker St,"{'latitude': 40.7255491, 'longitude': -73.9929031}",189,3.5,10012
+01DAquyaFe54cYXT0SQYhA,Giovanni Venti Cinque,25 E 83rd St,"{'latitude': 40.7791457515481, 'longitude': -73.9602393558197}",66,3.5,10028
+oU8KphUV693RG-QnYIOzlA,Ravioli Fair,Wall St,"{'latitude': 40.7068349075833, 'longitude': -74.010277725373}",1,5,10005
+mmJ72_R1HvpSz6a3l7jYnA,Tiramisu,1410 3rd Ave,"{'latitude': 40.7751535105423, 'longitude': -73.956925223544}",170,3.5,10028
+jHsPKz_EQrWHe6Yl3vEERQ,Naples 45 Ristorante E Pizzeria,The Metlife Building,"{'latitude': 40.7538240126528, 'longitude': -73.9761771158691}",345,3.5,10166
+hFHh32kbdAlYliFle0dF3w,Laurentino's Pasticceria Caffe,680 5th Ave,"{'latitude': 40.6616922501356, 'longitude': -73.9933101652438}",57,4,11215
+r_QyrpiVTXFva14r0mB_OA,Piccolo Cafe,157 3rd Ave,"{'latitude': 40.7342910766602, 'longitude': -73.9860458374023}",266,4,10003
+J0c8ZtHPf08TMVeojPkNkQ,Verde On Smith,216 Smith St,"{'latitude': 40.684437, 'longitude': -73.992234}",404,4,11201
+ZSDq6s2BFnvZEU4apxXbew,Di Palma Brothers Restaurant,8728 Kennedy Blvd,"{'latitude': 40.808952, 'longitude': -74.007419}",96,4,7047
+Hv_jHNuw63oO-jtNXuWDVQ,Spunto,65 Carmine St,"{'latitude': 40.7297584, 'longitude': -74.0046303}",421,4,10014
+iQTPjiskoE0jfHsoBSR1Jw,Rocco's Italian Sausages & Philly Cheese Steaks,5010 Northern Blvd,"{'latitude': 40.7527307533468, 'longitude': -73.9125879583358}",136,4.5,11101
+C0BDERmHvzTKYA7fghZW-A,Angelo Bellini,224 E 53rd St,"{'latitude': 40.7570801, 'longitude': -73.9685135}",109,3,10022
+TS2mqGtNhOzMKcSqJvrBPg,Ringolevio,490 Humboldt St,"{'latitude': 40.71907, 'longitude': -73.94337}",248,4.5,11222
+MlboKouxmGPxV2swgCh2AQ,Nicola's Restaurant,146 E 84th St,"{'latitude': 40.77781, 'longitude': -73.95625}",77,3,10028
+4eunUQbqhwW70tfxQZLKfg,Giovannis Trattoria,3800 Richmond Ave,"{'latitude': 40.545066, 'longitude': -74.165969}",91,4,10312
+noi4EYAFaINdGBdDLYNPvQ,Paesano,8308 13th Ave,"{'latitude': 40.6156842, 'longitude': -74.0125769}",27,3.5,11228
+R3zLNeyNbmPJ09URzXgGfA,Delizia 73,1374 1st Ave,"{'latitude': 40.768589, 'longitude': -73.955047}",252,3.5,10021
+zyU01gN5mTEWsmd5FGzqDg,Valbella,421 W 13th St,"{'latitude': 40.7409181, 'longitude': -74.0068885}",218,4,10014
+i_rg-OLXQbpRUN7O3MeCeA,Piz-zetta,90 Livingston St,"{'latitude': 40.6912834070746, 'longitude': -73.9906029201042}",241,4.5,11201
+lTa_the-LGQxdwKhwfwVyw,La Nonna,134 Mulberry St,"{'latitude': 40.71851, 'longitude': -73.9976}",237,3.5,10013
+ufntl2yxDlAzPJ6G73eAcQ,Regional Restaurant,2607 Broadway,"{'latitude': 40.79625, 'longitude': -73.97094}",360,3,10025
+SbevrHJ2M5Oc8_SHi79YQg,Caffe Napoli,191 Hester St,"{'latitude': 40.71819, 'longitude': -73.99777}",552,3,10013
+HodL0fXoF08C3Ir-kLeTtw,Forma,14 Bedford Ave,"{'latitude': 40.72371, 'longitude': -73.95157}",16,5,11222
+WNOUPEZ6J8SZVSaK6Q3e-A,Porto By Antonio - Wood Burning Pizza & Pasta,8921 Old River Rd,"{'latitude': 40.8048834508642, 'longitude': -73.9934416639218}",533,4,7047
+CXiWT_aBhePK2zP04OMmNQ,Bella Mama Rose,266 Morningstar Rd,"{'latitude': 40.6317116, 'longitude': -74.1468936}",69,3.5,10303
+gU6_qALmeWysg2YXMzMrtw,Serafina Fabulous Pizza,1022 Madison Ave,"{'latitude': 40.7762350782493, 'longitude': -73.9623423504256}",299,3,10075
+eMoB_q8WIjgTogKaeNHKBA,Jack and Fanny's,1591 2nd Ave,"{'latitude': 40.77577, 'longitude': -73.95369}",38,4,10028
+WDVzL34VpkiYOtknS-NpWQ,Emilia's Restaurant,2331 Arthur Ave,"{'latitude': 40.85415, 'longitude': -73.88894}",155,3.5,10458
+RfkuPrAKQRFPC3D_0ugnEQ,Patricia's of Tremont,3883 E Tremont Ave,"{'latitude': 40.8231315612793, 'longitude': -73.8192596435547}",203,3.5,10465
+Lx3hJXU4ocsGu3NUBk1xEQ,Tapas Italiano,2363 Arthur Ave,"{'latitude': 40.8549003601074, 'longitude': -73.8884735107422}",18,4,10458
+wq43ljNSuSMG81qKHE7YpQ,Sant Ambroeus West Village,259 W 4th St,"{'latitude': 40.735377, 'longitude': -74.003159}",229,3.5,10014
+zxNvP9A5gqJWg_2xQ8s43w,Pizza Classica,89-89 Union Tpke,"{'latitude': 40.706858, 'longitude': -73.855654}",367,4,11385
+hFeGYPt9M5dd_KXG9a_ePQ,Patsy’s Pizzeria,206 E 60th St,"{'latitude': 40.76177, 'longitude': -73.96575}",353,3.5,10022
+2SrilY0ilaezreccjFpO9w,Italo AS,1566 Forest Ave,"{'latitude': 40.62431, 'longitude': -74.14088}",17,5,10302
+O6RBNHBleB0mCb2dAanxCw,Casa Lever,390 Park Ave,"{'latitude': 40.7594607514825, 'longitude': -73.9730327307214}",200,4,10022
+QxxAKpozNoKaFXtfRovUkw,PJ Charlton,549 Greenwich St,"{'latitude': 40.7272789334111, 'longitude': -74.0086482927061}",20,3.5,10013
+fIY1Nxn5AOlKTY5chy54nA,Enzo Bruni La Pizza Gourmet,353 W 14th St,"{'latitude': 40.7408261, 'longitude': -74.0047136}",12,4,10014
+PxDPLaLj8349G5MsyMmV7w,L' Italiano Trattoria,216-01 Horace Harding Expwy N,"{'latitude': 40.74809, 'longitude': -73.7613499}",57,3.5,11364
+79bTSZd0QArz9xmninDdtQ,Trenta Tre Pizzeria,29 East 33rd St,"{'latitude': 40.74706, 'longitude': -73.98311}",83,4,10016
+Z22s9SoQOndAey4_SULrvA,Mediterraneo Restaurant,1260 2nd Ave,"{'latitude': 40.7649733, 'longitude': -73.9609846}",266,3,10065
+gOxnVrGfRi55FqYMI7h9XQ,Bella Notte,3524 Johnson Ave,"{'latitude': 40.885989, 'longitude': -73.9095335}",143,3.5,10463
+gzEMiMSuNxJatFRbxmHyYQ,Carmines Italian Deli,165 Mallory Ave,"{'latitude': 40.72018, 'longitude': -74.08793}",129,4.5,7304
+#NAME?,Lex Restaurant,1370 Lexington Ave,"{'latitude': 40.7825297, 'longitude': -73.9535605}",83,3.5,10128
+lPRb9ksOEzT3ruBFXebKaw,Leonti,103 W 77th St,"{'latitude': 40.78084, 'longitude': -73.97669}",44,3.5,10025
+0ROpM3UcZhprN6dhwK2Hsw,Joe & Pat's Pizzeria,168 1st Ave,"{'latitude': 40.72892, 'longitude': -73.98411}",87,4,10009
+M358G7jMg0yn2nBB-v1O2Q,Via Italia Restaurant,45 W 46th St,"{'latitude': 40.75698, 'longitude': -73.98069}",148,3,10036
+1o5dCnbY1Y9de7ZbdsxUsQ,Barbetta,321 W 46th St,"{'latitude': 40.76031, 'longitude': -73.98889}",213,3.5,10036
+pwzLpR9ys1NkE3ppjT88MQ,Pietro Nolita,174 Elizabeth St,"{'latitude': 40.721, 'longitude': -73.99463}",389,3,10012
+ESpIimUxHNF1fFuGBdVwCg,La Pizza & La Pasta,200 5th Ave,"{'latitude': 40.742344, 'longitude': -73.989952}",322,3.5,10010
+Ogy4UZvXdGrzEldp6ssYoQ,Las Lunitas,195 Stanhope St,"{'latitude': 40.699800029397, 'longitude': -73.9213880896568}",122,3.5,11237
+QkchiQerGaNJYMiKQhKMXw,Pasta e Vino,136 Newark Ave,"{'latitude': 40.72046, 'longitude': -74.04345}",148,3.5,7302
+V4kZqDh4Gdu8pVfScb4RXQ,Da Noi Restaurant on Victory Blvd,4358 Victory Blvd,"{'latitude': 40.58769, 'longitude': -74.19692}",69,4,10314
+UVQ1GxmhlDVDM2acLexJ7A,Roberto's II Ristorante,936 River Rd,"{'latitude': 40.826943, 'longitude': -73.973692}",77,4,7020
+bf2gElKkOHClspvNWfdHQA,Cuomo And Sons,7709 Broadway,"{'latitude': 40.79803, 'longitude': -74.00219}",140,4.5,7047
