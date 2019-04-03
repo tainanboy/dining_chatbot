@@ -76,7 +76,7 @@ def lambda_handler(event, context):
         address = response['Items'][0]['Address']
         num_reviews = response['Items'][0]['Num_of_Reviews']
         rating = response['Items'][0]['Rating']
-        sendMessage = "Hello! We recommend the {} {} restaurant on {} with {} of reviews and an average score of {} on Yelp. Enjoy!)".format(name, cuisine, address, num_reviews, rating)
+        sendMessage = "Hello! We recommend the {} {} restaurant on {} with {} of reviews and an average score of {} on Yelp. Enjoy!".format(name, cuisine, address, num_reviews, rating)
         print(sendMessage)
         # 5. send the message using SNS
         sns = boto3.client('sns')
