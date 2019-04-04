@@ -45,6 +45,7 @@ def lambda_handler(event, context):
         print('Received and deleted message: %s' % message)
         # 2. gets a random restaurant recommendation for the cuisine collected through conversation from ElasticSearch
         print(message['Body'])
+        # all information stored in sqs queue
         location = message['MessageAttributes']['location']['StringValue']
         cuisine = message['MessageAttributes']['cuisine']['StringValue']
         dining_date =  message['MessageAttributes']['dining_date']['StringValue']
@@ -73,8 +74,9 @@ def lambda_handler(event, context):
         sendMessage = "Hello! For {}, we recommend the {} {} restaurant on {}. The place has {} of reviews and an average score of {} on Yelp. Enjoy!".format(location, name, cuisine, address, num_reviews, rating)
         print(sendMessage)
         # 5. send the message using SNS
-        sns = boto3.client('sns')
         # Create SQS client
+        sns = boto3.client('sns')
+        # send message
         sns.publish(
             PhoneNumber = '+1'+phone,
             Message = sendMessage

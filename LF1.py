@@ -259,7 +259,6 @@ def validate_dining(slots):
     return {'isValid': True}
 
 """ --- Functions that control the bot's behavior --- """
-# To-do: push to SQS queue
 def Dining_Suggestions(intent_request):
     # get info
     location = try_ex(lambda: intent_request['currentIntent']['slots']['Location'])
