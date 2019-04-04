@@ -332,6 +332,7 @@ def Dining_Suggestions(intent_request):
         print("SQS messageID:"+str(response['MessageId']))
         #
         # search yelp and get restaurant recommendation
+        '''
         suggest_res = searchYelp(location, cuisine, dining_date, dining_time, num_people)
         res_str = ""
         for i, r in enumerate(suggest_res):
@@ -340,6 +341,9 @@ def Dining_Suggestions(intent_request):
         res_end = ' Enjoy your meal!'
         res_msg = res_st + res_str + res_end
         print(res_msg)
+        '''
+        # for HW2:
+        res_msg = "Thanks for your information. Our recommendation will be sent to your phone shortly!"
         # 
         return close(intent_request['sessionAttributes'],
                     'Fulfilled',
