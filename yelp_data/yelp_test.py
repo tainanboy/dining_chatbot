@@ -45,7 +45,8 @@ except ImportError:
 # It now uses private keys to authenticate requests (API Key)
 # You can find it on
 # https://www.yelp.com/developers/v3/manage_app
-API_KEY= "3IJu8H3FvrID96O5L9fclsftlRjbrRYB3jyTwITHwU1XHECY7EjDXtGMr0YOMone2iTKO4eBY7sT723kvPEYL1xuu6AyYHDxGqQ6ZztcQw3mXHHq3MC3_6T7g0Z8XHYx"
+#API_KEY= "3IJu8H3FvrID96O5L9fclsftlRjbrRYB3jyTwITHwU1XHECY7EjDXtGMr0YOMone2iTKO4eBY7sT723kvPEYL1xuu6AyYHDxGqQ6ZztcQw3mXHHq3MC3_6T7g0Z8XHYx"
+API_KEY= 'X-yHBjZ6bMpwjTvCu8hFUWZ8MPnu1YqgPCZ-cvzcdafxIbeEIOnBWUuwm5KWaq3UDPXJoVGj09WTW-_TrUr0t-LqyiFHVjv6h7TfA53wTzYJMmspWSzhAdq2gyiEXHYx'
 # API constants, you shouldn't have to change these.
 API_HOST = 'https://api.yelp.com'
 SEARCH_PATH = '/v3/businesses/search'
@@ -171,14 +172,14 @@ def searchYelp(num_req, term = DEFAULT_TERM, location = DEFAULT_LOCATION, catego
 
 import time, threading
 if __name__ == '__main__':
-    #terms = ['chinese', 'italian', 'indian','mexican','american']
-    terms = ['american']
+    #terms = ['chinese', 'italian', 'indian','mexican','american', 'sushi']
+    terms = ['sushi']
     for term in terms:
         # each req limit =  50
         i = 0
         while(i<24):
             searchYelp(i, term = term)
-            time.sleep(25)   
+            time.sleep(10)   
             print(time.ctime(), i)         
             i += 1
 

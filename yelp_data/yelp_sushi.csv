@@ -1,0 +1,945 @@
+Business_ID,Name,Address,Coordinates,Num_of_Reviews,Rating,Zip_Code
+MmXZLVwWcYugi_TXSHmjeQ,Sushi by Bou Times Square,132 W 47th St,"{'latitude': 40.75851, 'longitude': -73.98322}",338,4.5,10036
+BPZfuPvSxCfoppU4lPFm0Q,DOMODOMO,140 W Houston St,"{'latitude': 40.72803, 'longitude': -74.00167}",820,4.5,10012
+VaL9GaBR_GR-q9d1VzJF3g,Suteishi,24 Peck Slip,"{'latitude': 40.70788, 'longitude': -74.00194}",449,4.0,10038
+MGRo61aHFUeRlWhSbTv2NA,Sushi By M,75 E 4th St,"{'latitude': 40.72666, 'longitude': -73.99027}",135,4.5,10003
+itblJyiTY2h2ACidLk66oA,Takahachi,85 Ave A,"{'latitude': 40.725315, 'longitude': -73.984436}",527,4.0,10009
+AFt1Qcec4_JNr6PWpkRYyw,Sushi Lin,335 Flatbush Ave,"{'latitude': 40.677786, 'longitude': -73.972591}",204,5.0,11217
+3OKf1QQnDhjkBKVg0eMllQ,Sushi Gallery,71 Clark St,"{'latitude': 40.6975970682387, 'longitude': -73.9933660828876}",125,4.5,11201
+K54qUgd274Fj_LvHCjeSFw,Okinii,216 Thompson St,"{'latitude': 40.72894, 'longitude': -73.99911}",272,4.0,10012
+HZWHBfeuP4Fb6y8b8uqnbA,Sushi Yasaka,251 W 72nd St,"{'latitude': 40.779583, 'longitude': -73.983482}",1630,4.0,10023
+XfHgiIsoo1Pr_v04bx9ptg,Sushumai Asian Fusion,112 Stanton St,"{'latitude': 40.7211610690848, 'longitude': -73.9872866123915}",132,4.5,10002
+lxQ-tzFmL1tmUqZUN-CSRQ,Bozu,296 Grand St,"{'latitude': 40.7129, 'longitude': -73.95749}",792,4.0,11211
+ZfuZ2byArGq-5j8zX8Afeg,Zest Sushi,249 Broome St,"{'latitude': 40.7178344726563, 'longitude': -73.9899597167969}",758,4.0,10002
+zGAQqDu0Ak2khVYs9WdQxw,Sushi Nakazawa,23 Commerce St,"{'latitude': 40.7317465228689, 'longitude': -74.0045493828034}",1242,4.5,10014
+6lUsFj0KCao678o9L7QwUw,Hatsuhana Sushi Restaurant,17 E 48th St,"{'latitude': 40.75703, 'longitude': -73.97692}",1185,4.0,10017
+BOz0qTUMtAfljd3Vn1rerQ,Pado,199 2nd Ave,"{'latitude': 40.7314, 'longitude': -73.98589}",154,4.5,10003
+dskDbpvA0hI_7RjtoL6IKA,SUGARFISH by sushi nozawa,202 Spring St,"{'latitude': 40.72511, 'longitude': -74.00358}",23,4.0,10012
+klAhw3xLQi9GF1tf_HnS7w,Izakaya MEW,53 W 35th St,"{'latitude': 40.7501853096499, 'longitude': -73.9863203465939}",2014,4.0,10001
+p4W_z-zh96LHEAtQ8LRSVQ,Shinagawa,157 E 33rd St,"{'latitude': 40.74549, 'longitude': -73.97935}",30,5.0,10016
+1_JEFOI19hAu3VoODcTUvw,Shinsen,44 Bowery,"{'latitude': 40.71558, 'longitude': -73.9967}",135,4.0,10013
+pNe8ZCkGTe4cXfKdOF7kYQ,Ise Restaurant,63 Cooper Sq,"{'latitude': 40.7291024, 'longitude': -73.9900618}",356,4.5,10003
+nEkVibaTuIFEcTNtltFgJg,Kura,130 St Marks Pl,"{'latitude': 40.726709, 'longitude': -73.9835794}",426,4.5,10009
+EVZeqLPpfXrygmgamjD5_w,Takeshi Sushi,28 Grand St,"{'latitude': 40.72294, 'longitude': -74.00464}",31,4.5,10013
+KrJ6m_TkxBAPPSNH-G7rvQ,U-gu,541 Myrtle Ave,"{'latitude': 40.69393, 'longitude': -73.96284}",110,4.5,11205
+pTMnHb_W3sKqS8oCzjHdVA,SenYa,109 1st Ave,"{'latitude': 40.7269015463545, 'longitude': -73.986101118587}",217,4.0,10003
+91tQ4ToReVVCA5MTJi9gfw,Iron Chef House,92 Clark St,"{'latitude': 40.6972664717136, 'longitude': -73.9925980567932}",375,4.0,11201
+M9NNvpKlOWLxJbSPDTe0Lg,Sushi by Bou Flatiron,49 W 20th St,"{'latitude': 40.74094, 'longitude': -73.9937}",117,4.5,10011
+QR1YIRzFjd2bi5iBzT9zXg,Blue Ribbon Sushi,119 Sullivan St,"{'latitude': 40.72612, 'longitude': -74.0025299}",1048,4.0,10012
+SUHJfh7H2NiQx8c5OWoAyQ,Sushi Yashin,381 5th Ave,"{'latitude': 40.6708328473989, 'longitude': -73.9847132950057}",156,4.5,11215
+toxwdOCz37bX5dJ_O1h2Ew,Sugarcane Raw Bar Grill,55 Water St,"{'latitude': 40.703799, 'longitude': -73.992343}",334,4.0,11201
+dOxHYQmBR14Fa2C1X8oMMQ,Sushi Lab NYC,132 West 47th St,"{'latitude': 40.75851, 'longitude': -73.98322}",65,4.5,10036
+jt-0y4RJ20ONbkxxNWG_Sw,New Mizu Sushi,350 E 9th St,"{'latitude': 40.7283, 'longitude': -73.98538}",114,4.5,10003
+LkT2-XYjuCSmObs8rOLdzA,Taro Sushi,244 Flatbush Ave,"{'latitude': 40.6796449843722, 'longitude': -73.9743090899592}",498,4.0,11217
+tT6teP3ZfCAfvdPdDoqG4A,Ki Sushi,122 Smith St,"{'latitude': 40.68764, 'longitude': -73.9901}",671,4.0,11201
+9ZNxYreHqLSsI48s2IohUw,Sushi By Bou,32 E 32nd St,"{'latitude': 40.74614, 'longitude': -73.98336}",34,5.0,10016
+_FICyzFLQxR7N62I6qU94A,KanaHashi,981 Manhattan Ave,"{'latitude': 40.732615, 'longitude': -73.954978}",60,4.5,11222
+3BYgbjo8MtaIyLZMdTxrOQ,Geisha Sushi,3468 Broadway,"{'latitude': 40.8241613, 'longitude': -73.9519775}",339,4.0,10031
+kwq1W0opBnOYKoUXWYyQ5g,Momokawa,1466 1st Ave,"{'latitude': 40.77047, 'longitude': -73.9537}",103,4.0,10075
+SoBdWOxymmY5yKANn63UWw,Ozu,78 Clark St,"{'latitude': 40.6974732130766, 'longitude': -73.9932652562857}",243,4.0,11201
+et9pAFtSvNOct9Qcmtcf7g,Mido,612 Amsterdam Ave,"{'latitude': 40.7900491, 'longitude': -73.9734598}",175,4.0,10024
+W0_Rdy8PlbAvS9K9ggkBfA,Wasabi Sushi & Bento,200 Broadway,"{'latitude': 40.7104944709691, 'longitude': -74.0087553486228}",112,4.0,10038
+OLSSJIp8pu5UlugTF7tuHA,Ootoya Chelsea,8 W 18th St,"{'latitude': 40.738767, 'longitude': -73.992778}",1280,4.0,10011
+ocnHpILS80DHL--34L8xpw,Sushi Noz,181 E 78th St,"{'latitude': 40.77385, 'longitude': -73.95813}",61,4.5,10075
+u0qfikB-ppp6UwoNKqxlRw,Flame,100 W 82nd St,"{'latitude': 40.78396, 'longitude': -73.97444}",325,4.0,10024
+T2fE7hGS83Ba-QNCOqbK4A,Ako,205 Bedford Ave,"{'latitude': 40.7169049, 'longitude': -73.9585858}",302,4.0,11211
+hh0ae47ojPqq3USCRLmAjg,Tomoe Sushi,172 Thompson St,"{'latitude': 40.7277, 'longitude': -74.0001599}",875,4.0,10012
+ydjApPbEDF-hXbdxlus4jA,Umi Sushi,118 E 31st St,"{'latitude': 40.74459, 'longitude': -73.98191}",563,4.0,10016
+fePu8xy0ir_ikZcS_vVSBA,Asuka Sushi,300 W 23rd St,"{'latitude': 40.74529, 'longitude': -73.99888}",841,4.0,10011
+AFisWoWm0pfxEi1dMYitKw,Kyoto,115 Smith St,"{'latitude': 40.6877593994141, 'longitude': -73.989501953125}",205,4.0,11201
+TBp9gdS6xEbSQqffVZ7iag,KazuNori  | The Original Hand Roll Bar,15 W 28th St,"{'latitude': 40.74519, 'longitude': -73.98824}",683,4.5,10001
+FoR70YoGSb4_QavCe1WZEw,Beyond Sushi,229 E 14th St,"{'latitude': 40.7329, 'longitude': -73.98588}",901,4.5,10003
+0nYfyel0UwlI1qXHOjTw0w,Musashi Asian Cuisine,495 Grand St,"{'latitude': 40.7111358642578, 'longitude': -73.9514236450195}",130,4.5,11211
+B-lJd1eBLcLk1StNbgAe9w,Sushi Katsuei,210 7th Ave,"{'latitude': 40.6707147, 'longitude': -73.9785903}",384,4.0,11215
+8Jz2IfS-BGCm1GniqJVe2A,Saketumi Asian Bistro,118 Montague St,"{'latitude': 40.694698, 'longitude': -73.994769}",120,4.0,11201
+8lYK0L12S3EPeJ0ZW2x9xA,New Ichiro Restaurant,1694 2nd Ave,"{'latitude': 40.7788709, 'longitude': -73.9508071}",442,4.0,10128
+LTfR_0NiS7OIRCfkaAJg9w,Silver Rice,638 Park Pl,"{'latitude': 40.6742123562615, 'longitude': -73.9568891376257}",245,4.5,11238
+KxOAVoyJ55G-gEQqhnBpAQ,Daigo Handroll Bar,445 Albee Square W,"{'latitude': 40.690884, 'longitude': -73.982863}",43,4.5,11201
+AtUxlW7ltZb73ZXMwpkY_g,Sashimi Ramen Express,341 E 78th St,"{'latitude': 40.772239, 'longitude': -73.954052}",261,4.5,10075
+22CRLIEfJWIO-8RjEiecAg,Akino,82-80 Broadway,"{'latitude': 40.7411784, 'longitude': -73.8814239}",370,4.5,11373
+d8qCvlsG3jwxQPZc_OGogQ,Hibino,333 Henry St,"{'latitude': 40.69017, 'longitude': -73.99637}",382,4.0,11201
+HGLH-sa-Fp3X6UXcaG7U0g,66S Fusion,130 Flushing Ave,"{'latitude': 40.6977600194066, 'longitude': -73.9715740687866}",53,4.5,11205
+4CAJ-JvgbzBdoWq1CXtCFw,Umi Sushi,177-13 Union Tpke,"{'latitude': 40.7261983305216, 'longitude': -73.790670633316}",545,4.5,11366
+LjAt-SP7BwIpp56TZHVsWA,Uotora,1075 Bergen St,"{'latitude': 40.676369, 'longitude': -73.950486}",63,4.5,11216
+1yvEVWnJfodsReGHc8DuVQ,Silver Rice,575A Flatbush Ave,"{'latitude': 40.6597410822446, 'longitude': -73.9604239538312}",73,4.5,11225
+_2V0as8DZDwVxAi3ZJ0JkA,Raku - It's Japanese II,57 W 76th St,"{'latitude': 40.779997, 'longitude': -73.976516}",279,4.0,10023
+xFp3xSQ43J-i7nmJfNBsZA,Norikoh,10 E 39th St,"{'latitude': 40.75116, 'longitude': -73.98153}",469,4.0,10016
+SxKvgnkMMZdhBJcxxKQnww,Nobu Fifty Seven,40 W 57th St,"{'latitude': 40.7636210840864, 'longitude': -73.9765048613641}",1092,4.0,10019
+HFn1sPqKSzvxaMk2n2ZtJw,Kotobuki Manhattan,56 3rd Ave,"{'latitude': 40.731107, 'longitude': -73.98912}",553,4.0,10003
+diz6_4TVSP6EdWEZCZ0Acg,Kaoru,306 E 46th St,"{'latitude': 40.75202, 'longitude': -73.96977}",253,4.5,10017
+U2tjlMRITBSHHHTiv7L11A,Hayashi,2901 Ocean Ave,"{'latitude': 40.590482, 'longitude': -73.94938}",161,4.0,11235
+Zjdtcex73QIz2_MvEvDrFQ,MakiMaki,1369 6th Ave,"{'latitude': 40.7633913312621, 'longitude': -73.9780393019703}",122,4.5,10019
+BlzlywklvYdek5uk_NCX9g,Suzume,545 Lorimer St,"{'latitude': 40.713173, 'longitude': -73.949425}",263,4.0,11211
+a7rM-AOM7_xi8AlWX-Thkg,Oita Sushi,1317A 2nd Ave 69th St,"{'latitude': 40.767249, 'longitude': -73.959768}",215,4.5,10021
+RTgoS3PWtiHCB3uJI8lArw,Koji Izakaya,140 Lawrence St,"{'latitude': 40.69195, 'longitude': -73.98641}",33,4.5,11201
+Uu1wc7CrweSIB4B7FLdbwg,Fukurou,87 MacDougal St,"{'latitude': 40.72905, 'longitude': -74.00143}",294,4.0,10012
+5eXrMPB5GUM-sapL8T-znQ,Sushi Inoue,381 Lenox Ave,"{'latitude': 40.8104436, 'longitude': -73.943642}",110,4.0,10027
+IS94JDTcq_WedBcj6P4qpQ,Sushi on Jones,210 W 10th St,"{'latitude': 40.73399, 'longitude': -74.00418}",114,4.0,10014
+9yvIxnZbRcMg-TqskkRTQQ,Shishito,1434D Richmond Rd,"{'latitude': 40.5942999, 'longitude': -74.0987899}",78,4.5,10304
+pGYovGGnxm0tMmkiQJPygA,Ume Williamsburg,237 Kent Ave,"{'latitude': 40.71657, 'longitude': -73.96559}",97,4.0,11249
+7EaiwMVaNdQibSs0yYkE5Q,Sushi Yasuda,204 E 43rd St,"{'latitude': 40.75113, 'longitude': -73.97347}",2043,4.0,10017
+_IkMfWpOkQXRZtJAYJUJIw,Hama Japanese Cuisine,11 W 51st St,"{'latitude': 40.7597846984863, 'longitude': -73.9776382446289}",325,4.0,10019
+ZlNDeVv6UJ1cGzcSoypVOA,MIMI,566 Amsterdam Ave,"{'latitude': 40.788748, 'longitude': -73.974621}",96,4.5,10024
+TiBeYTtuJfTv616H1ZGpjQ,Sushi Para 88,212 W 14th St,"{'latitude': 40.738666, 'longitude': -74.000785}",363,3.5,10011
+TeBthQZ2xpxyvXheS08ovw,Blue Ribbon Sushi Izakaya,187 Orchard St,"{'latitude': 40.7220839812692, 'longitude': -73.9882245327093}",466,4.0,10002
+_werKKNouq2RM1vM-VCxnA,Sushi Sushi,126 Macdougal St,"{'latitude': 40.72997, 'longitude': -74.0002}",119,4.0,10012
+sgw7_RcDSN5UcMPeviegFA,Kakurega Sushi,133-44 37th Ave,"{'latitude': 40.760567, 'longitude': -73.833354}",46,4.0,11354
+27ASh8-hTL5jp5d_WQGHxw,Ten Japanese Cuisine,440 7th Ave,"{'latitude': 40.6634864807129, 'longitude': -73.984748840332}",229,4.0,11215
+mESab-FqL5QqSVsnX72asQ,Zen Ramen & Sushi,150 W 36th street,"{'latitude': 40.75185, 'longitude': -73.98892}",972,4.5,10018
+FlZ1zdVEKWv7dwqm8Uw8-w,Raku,342 E 6th St,"{'latitude': 40.7264988089246, 'longitude': -73.9866526052356}",846,4.5,10003
+VVlHJ6_sJbRAodV5lCzBnA,Kanoyama,175 2nd Ave,"{'latitude': 40.730545186039, 'longitude': -73.986544028849}",615,4.0,10003
+0Lnp_fi3gI2bfJ8RcMDfjg,Gen,659 Washington Ave,"{'latitude': 40.677639, 'longitude': -73.963485}",260,4.0,11238
+EIcbGkl6bRtAi12zcjA7-A,Akaru Sushi,201 Wyckoff Ave,"{'latitude': 40.7025074325866, 'longitude': -73.9161351568057}",178,4.0,11237
+PTYUAAJbEmvIv4EsyRrcnA,Momoya,427 Amsterdam Ave,"{'latitude': 40.784043, 'longitude': -73.977391}",401,4.0,10024
+kAM_S06FQlhtSSyrzrJb6w,Jpan,287 5th Ave,"{'latitude': 40.673599, 'longitude': -73.982254}",278,4.0,11215
+EXsorzjQ3y3Oh5-m82lgtg,Bushniwa,250 Varet St,"{'latitude': 40.70397, 'longitude': -73.93344}",44,5.0,11206
+4eAgPj7eKonKAtk64kgUfQ,Matsuri,39-56 61st St,"{'latitude': 40.7458357, 'longitude': -73.9035436}",87,4.5,11377
+njmOPpVZxIseG262NPfspA,Miyabi Sushi & Asian Cusine,118 W 3rd St,"{'latitude': 40.73046, 'longitude': -74.00037}",346,4.0,10012
+MwtXOkRUndPU-ivbtLD-bQ,Amura Japanese,1567 2nd Ave,"{'latitude': 40.775001, 'longitude': -73.9542}",276,4.0,10028
+4toUVA7fXIkuSU18s6G-dg,Kenko Sushi,261 Comly Rd,"{'latitude': 40.9223563233663, 'longitude': -74.3019069648009}",537,4.5,07035
+wSGZA3DOFSUvALZRKCM_Sw,Tanoshi Sushi Sake Bar,1372 York Ave,"{'latitude': 40.767568, 'longitude': -73.952815}",585,4.5,10021
+M2bvOwAbCjLUvMbAF6h3-w,Sapporo Ichiban,622 Manhattan Ave,"{'latitude': 40.72365, 'longitude': -73.95057}",217,4.0,11222
+w7p3TTQaTG3jFFYWHrNnUg,Union Sushi,3630 Union St,"{'latitude': 40.762855, 'longitude': -73.828025}",93,4.5,11354
+e3JALGueMcc2eLXRK8HPNQ,Ki Sushi,282 Flatbush Ave,"{'latitude': 40.6784417729132, 'longitude': -73.9734394269355}",125,4.5,11217
+ZaJS8EKQNSaQpwpmgN-vVw,Samurai Mama,205 Grand St,"{'latitude': 40.7140208838114, 'longitude': -73.960325717926}",560,4.0,11211
+ci457I10hOtr9PpEQ5wpZw,Matsunichi,14-18 Elizabeth St,"{'latitude': 40.7159199, 'longitude': -73.9972499}",91,3.5,10013
+ymb0SvFrlcWm6k_Gx5SYcQ,Yuzu,350 Lenox Ave,"{'latitude': 40.8093070983887, 'longitude': -73.9438552856445}",179,4.0,10027
+EXEDl7BOLZksz3Uy_RVFhw,Yamato Restaurant,168 7th Ave,"{'latitude': 40.67192, 'longitude': -73.97758}",266,4.0,11215
+NB5u0htOK_1_dTkYALpRxg,Yoi Sushi Japanese,133-22 39th Ave,"{'latitude': 40.75899, 'longitude': -73.83364}",137,4.5,11354
+ULDVJYTT-47RqbLtlR_FUA,Ootoya Greenwich Village,41 E 11th St,"{'latitude': 40.73316, 'longitude': -73.99273}",260,4.0,10003
+5UqEDoMZCrvhSKgCWg5GGw,Isohama,1666 3rd Ave,"{'latitude': 40.78361, 'longitude': -73.95088}",141,4.0,10128
+Neiw4AB_s7BpLSxyUrSXBQ,Sushi & Noodles,274 Troutman St,"{'latitude': 40.70347, 'longitude': -73.92577}",117,4.0,11237
+Edkx9frqYknN9ykTEqTVXg,Miso Restaurant,40 Main St,"{'latitude': 40.7028, 'longitude': -73.99084}",110,3.0,11201
+5qF6oqYOeivUbsVf1MsQAA,Aoyu Sushi,3532 A Johnson Ave,"{'latitude': 40.8861634640195, 'longitude': -73.9096963405609}",210,4.5,10463
+_pJXD4g4Fr0uWZvSKuG_cQ,Yama 49,308 E 49th St,"{'latitude': 40.753865, 'longitude': -73.968477}",245,4.0,10017
+mm8gYHxaLLRyv3CslY40TA,Suzuki Shokudo,38-01 31st St,"{'latitude': 40.75353, 'longitude': -73.93184}",85,4.5,11101
+UuiW2A-O11Q0baqSEUMvZA,Miyabi Asian Fusion,1348 Forest Ave,"{'latitude': 40.6258092020868, 'longitude': -74.1345641477488}",283,4.5,10302
+rYuAHi4RJZGGHlyqROJlbA,East Sushi Bistro,2106 E 19th St,"{'latitude': 40.59897, 'longitude': -73.9526999}",133,4.0,11229
+bHGETjP_InKy0sIVHFgHyw,Sushi Of Gari,402 E 78th St,"{'latitude': 40.77137, 'longitude': -73.95275}",597,4.0,10075
+lIix5qMI4q5bfCTO4wxkgA,Pink Nori,36-06 30th Ave,"{'latitude': 40.764689, 'longitude': -73.917282}",352,4.0,11103
+CdHOwIO6OFNXZxPYEUts2g,Ageha Sushi,767 9th Ave,"{'latitude': 40.764529, 'longitude': -73.988597}",614,4.0,10019
+U7gqQHSRFNYCad3qGLj3yQ,Umami Sushi,50 Greenwich Ave,"{'latitude': 40.73571, 'longitude': -74.00044}",75,4.5,10011
+7j6CGUCw93gEsYqSetCstw,Nomado 33,165 E 33rd St,"{'latitude': 40.7454228440467, 'longitude': -73.9791435317613}",349,4.0,10016
+vX0_qcuVXoeeH1_24I8lSA,Sushi Kaito,244 W 72nd St,"{'latitude': 40.77916, 'longitude': -73.98367}",137,4.5,10023
+aK2ipD9K8-usBw_gkvvJuw,Nare Sushi,115 E 57th St,"{'latitude': 40.76143, 'longitude': -73.96992}",297,4.0,10022
+k_rLFIMOAbvchgWKEuKdtw,Kikoo Sushi,998 Columbus Ave,"{'latitude': 40.8016099, 'longitude': -73.96164}",24,4.5,10025
+QaEqD7q2GtmlovBOPC6yIQ,Murasaki,4644 Vernon Blvd,"{'latitude': 40.7457764869508, 'longitude': -73.9532554683031}",169,4.5,11101
+HVwZqjXB39xb2wJeQBX8Gw,Yuba,105 E 9th St,"{'latitude': 40.7305450439453, 'longitude': -73.9900436401367}",350,4.0,10003
+7xpbioe88rnW7JjzLEQeRg,Samurai Papa,32 Varet St,"{'latitude': 40.702892072912, 'longitude': -73.943588398397}",247,4.5,11206
+zuiEL6WWZ0OXGS5whWfqGA,Sushi Seki,1143 1st Ave,"{'latitude': 40.761982, 'longitude': -73.960617}",457,4.0,10021
+gSkAfUFw_iM2CX2FqC6TwA,Sushi Time,72-42 Austin St,"{'latitude': 40.7185591, 'longitude': -73.841229}",472,4.5,11375
+k4QfaFoqtpEZ1LZylJZqww,JJ's Fusion,3705 31st Ave,"{'latitude': 40.762211, 'longitude': -73.918243}",433,4.0,11103
+oB2cpcZNyjDklNqZN0n8hg,Sushi Ishikawa,419 E 74th St,"{'latitude': 40.768783, 'longitude': -73.9538981}",137,4.5,10021
+NCnOkzbyfzDltnBnJySfzw,Amami Bar and Restaurant,57 Nassau Ave,"{'latitude': 40.723548, 'longitude': -73.952194}",126,4.0,11222
+V96YbhzyAGsDByRrCWpBZA,Haru Sushi,1 Wall St Ct,"{'latitude': 40.7054815402335, 'longitude': -74.0082836151123}",348,3.0,10005
+oyyubJoK0VZ2V3a5sVJULg,Natsumi,226 W 50th St,"{'latitude': 40.76174, 'longitude': -73.98503}",780,4.0,10019
+D6ZEcG1FCZ18nekMWrhgMg,Wokuni,327 Lexington Ave,"{'latitude': 40.7492189, 'longitude': -73.9773529}",131,4.0,10016
+YMh3vH--fzLqiOAyL_3T5w,Gaijin,37-12 31st Ave,"{'latitude': 40.7616429510725, 'longitude': -73.9183799922466}",275,4.5,11103
+6gcGQJ20q0J-ODZ6srB3Ow,Bai Sushi,37-03 Broadway,"{'latitude': 40.7597841, 'longitude': -73.9202394}",193,4.0,11103
+lQgMrqcMZghWd45VIhkUAA,Koto Sushi,263 Flatbush Ave,"{'latitude': 40.680029, 'longitude': -73.974163}",145,4.0,11217
+XD9XiCUvbvCt7laocvAadw,Hana Asian Bistro,150-03 Crossbay Blvd,"{'latitude': 40.6699939531997, 'longitude': -73.8424712286242}",176,4.0,11417
+1en3taVtoDPgtEDWHrFeog,Beron Beron,164 1st Ave,"{'latitude': 40.7287866, 'longitude': -73.9841504}",95,4.0,10009
+YoR6ouUwehLFnBQ7RAjPlw,Zawa Japanese,354 E 66th St,"{'latitude': 40.76397, 'longitude': -73.9592}",68,4.5,10065
+jR09vZmJnwKPw4DyMxgwnw,Sushi on Jones,348 Bowery,"{'latitude': 40.72664, 'longitude': -73.99202}",416,4.0,10012
+u3JBjUgrCdxy6WF0tnX3SA,Aji Sushi House,3606 Ditmars Blvd,"{'latitude': 40.7742004394531, 'longitude': -73.9079513549805}",412,4.5,11105
+uMZ7xLqeJy1yIweKWe9eNg,Kyoto Sushi,161 Nassau Ave,"{'latitude': 40.7250777468913, 'longitude': -73.9470219435913}",159,4.0,11222
+mZb4Td9YK8f1jwsg9xU_gg,Matsu,483 Columbus Ave,"{'latitude': 40.7845979, 'longitude': -73.9732188}",97,3.5,10024
+S1yH5vdJh2L2UIb7zJ2OHg,Mito Asian Fusion,64-18 108th St,"{'latitude': 40.732417, 'longitude': -73.849864}",311,4.0,11375
+u5V6wQQv3e4BmbyzUDYLNQ,Takesushi,43-46 42nd St,"{'latitude': 40.7441219, 'longitude': -73.9224056}",347,4.0,11104
+TnYL4gkcnWyoHO76KL4v6w,Sushi Yu 2,827 W 181st St,"{'latitude': 40.8513870239258, 'longitude': -73.9398880004883}",232,3.5,10033
+xsJ7dlFUX6ovtYC2hqEqig,Amano Sushi,50 Eldridge St,"{'latitude': 40.71607, 'longitude': -73.99293}",41,4.0,10002
+MM5P9cKlzovYLcf5qf2SwQ,1 or 8,66 S 2nd St,"{'latitude': 40.714257, 'longitude': -73.965457}",389,4.0,11249
+ZrzSDDj54aUlPqn4MQMKeQ,Momo Sushi Shack,43 Bogart St,"{'latitude': 40.7051406133, 'longitude': -73.933340055132}",647,4.0,11206
+dL6_XUUr_INX10IOMtSM0w,Oishi Bay,230 E 29th St,"{'latitude': 40.7418734, 'longitude': -73.978779}",157,4.0,10016
+g3bahalGfQWmTWK8_EBngQ,Okozushi,376 Graham Ave,"{'latitude': 40.715651, 'longitude': -73.944246}",30,3.5,11211
+6qK0MyhsXYLgMSPWZdleGA,Dai Hachi Sushi,303 E 56th St,"{'latitude': 40.75865, 'longitude': -73.96523}",163,4.0,10022
+FXFQJmhK6elesopXdhjvFQ,Amber,103 W 70th St,"{'latitude': 40.7764053344727, 'longitude': -73.9798736572266}",85,4.0,10023
+NRJq2BNcbjqAyxUB_bw7gw,Momoya,185 7th Ave,"{'latitude': 40.7426255196333, 'longitude': -73.9966481924057}",554,4.0,10011
+u1dEMaP86MKl7lO5MyJLhg,Takara Sushi,150-11 14th Ave,"{'latitude': 40.789234, 'longitude': -73.813417}",196,4.0,11357
+qEe7nIhPfEL6L0-VYhWRrA,Raku,48 Macdougal St,"{'latitude': 40.72728, 'longitude': -74.00252}",202,4.5,10012
+iHwhkW0LLlu81ZCir-lFQA,Gari Columbus,370 Columbus Ave,"{'latitude': 40.78112, 'longitude': -73.97632}",318,4.0,10024
+SBQ0iuFG15rscuArUYDlTg,Bondi Sushi,6 W 28th St,"{'latitude': 40.7448587854262, 'longitude': -73.9880533380691}",113,4.0,10001
+jplPyiAUcDhFasdqozSnEA,sushi AMANE,245 E 44th St,"{'latitude': 40.75157, 'longitude': -73.97172}",43,4.0,10017
+6J6u3doRNRrewj4_N_QgPA,Yamashiro,466 Myrtle Ave,"{'latitude': 40.69326, 'longitude': -73.9666}",122,3.5,11205
+TcuWyuZAORVnQBPCMNbTgw,Beyond Sushi,62 W 56th St,"{'latitude': 40.76331, 'longitude': -73.97717}",590,4.5,10019
+s8W7-_v13OFJ-671FpL23w,Inaka Sushi,8318 3rd Ave,"{'latitude': 40.6252403259277, 'longitude': -74.030647277832}",159,4.0,11209
+m6sYBuozGY1JhnHlBf1Bzg,BondSt,6 Bond St,"{'latitude': 40.726934, 'longitude': -73.994404}",915,4.0,10012
+GNbzHUMc2BB23-kW4cJboQ,OMAKASE by TEISUI,246 5th Ave,"{'latitude': 40.74465, 'longitude': -73.98755}",72,4.0,10001
+EG7KhvgAMOUAZm3fHQ4Hig,Masaki Teriyaki & Sushi Cafe,11 Putnam Ave,"{'latitude': 40.6828275, 'longitude': -73.9621835}",64,3.5,11238
+Fv6ueSQwc_ITpXEhybHvtA,Haru Sushi,229 West 43rd St,"{'latitude': 40.7574225387188, 'longitude': -73.9874100349182}",681,3.5,10036
+t1w4qyqyfEdTPhoy-5t3FA,Morimoto,88 10th Ave,"{'latitude': 40.74332, 'longitude': -74.00713}",2925,4.0,10011
+g9IFea9brBr8j8awcdOBOw,Chopped Parsley,500 W 146th St,"{'latitude': 40.82593, 'longitude': -73.94742}",110,4.5,10031
+UB5emSFilql0J10Jx4AHXA,Watawa Sushi,33-10 Ditmars Blvd,"{'latitude': 40.774959, 'longitude': -73.9095}",842,4.0,11105
+YX4AGUuhhF62M9TNpJwSpQ,Chikurin,2362 86th St,"{'latitude': 40.5995, 'longitude': -73.99011}",302,3.5,11214
+A_pEWrmdOmOuppwSZOlCBA,Nanatori Japanese Restaurant,162 Montague St,"{'latitude': 40.694149, 'longitude': -73.99282}",200,3.5,11201
+49k7dpa5cNgKM0TBb593IA,Sumi Sushi,287 Flatbush Ave,"{'latitude': 40.679178, 'longitude': -73.973522}",101,4.0,11217
+tFFLetrWW6-7KW74eryspQ,Mama Sushi,3569 Broadway,"{'latitude': 40.82733, 'longitude': -73.95013}",284,3.5,10031
+_lS5EcBhVur3zQ5wxryGYw,Shin Ju Sushi,296 5th Ave,"{'latitude': 40.67374, 'longitude': -73.98269}",147,3.5,11215
+Q47OUqvJ7PXwBBWB-pC2ZQ,Sushi D,207 Dekalb Ave,"{'latitude': 40.6896898, 'longitude': -73.9713079}",120,3.5,11205
+ldNAjLZ9sAM0PbPcJtz5Jg,Inaka Asian Cuisine,597 Vanderbilt Ave,"{'latitude': 40.679565, 'longitude': -73.967819}",218,4.0,11238
+WHXgDm3kcU-aONfjR8tX0A,O Ya,120 E 28th St,"{'latitude': 40.74283, 'longitude': -73.98319}",213,4.5,10016
+tyyqm0ftkoKQxednWNh0Tg,UOGASHI,318 West 51st St,"{'latitude': 40.76326, 'longitude': -73.98671}",3,5.0,10019
+zuD-iB7hV_dnf_JzBk_DCQ,Juku,32 Mulberry St,"{'latitude': 40.71461, 'longitude': -73.999528}",98,4.0,10013
+HC18oDJ2svQoXIddP-wuyw,Wasan Brooklyn,440 Bergen St,"{'latitude': 40.6812605, 'longitude': -73.9768418}",174,4.0,11217
+t7BIiUN0tFg33kySuuQ0aQ,Masa,10 Columbus Cir,"{'latitude': 40.7686063643871, 'longitude': -73.9832784748688}",307,4.0,10019
+mlJpfJMCS_bFnR5cWX6DTg,Natsumi Tapas,323 3rd Ave,"{'latitude': 40.7395565, 'longitude': -73.9824123}",210,4.0,10010
+5agbggvhHI_juAZRfCqtZw,Iki Modern Japanese Cuisine,133-42 39th Ave,"{'latitude': 40.7593752743543, 'longitude': -73.8328623173734}",224,4.0,11354
+rN347NNwQ0hDSlbedzI9BQ,Kai Sushi Asian Fusion,1475 Williamsbridge Rd,"{'latitude': 40.84362, 'longitude': -73.84565}",215,4.0,10461
+8tcFpd0dcmfzbLgbTO4tdw,Sen Sakana,28 W 44th St,"{'latitude': 40.75533, 'longitude': -73.9815}",213,4.0,10036
+ckDKWs7pyXpRYi06sVedrA,TJ Asian Bistro,50-19 Skillman Ave,"{'latitude': 40.7461895, 'longitude': -73.9136856}",407,4.0,11377
+u2E3z4yUyy4Q9m8NoLcdfA,Omiya Sushi,2317 Ave U,"{'latitude': 40.5999, 'longitude': -73.9479099}",130,3.5,11229
+JiFp_mv7OgRonaWb-1n96A,52nd Sushi,5221 Roosevelt Ave,"{'latitude': 40.7445907592773, 'longitude': -73.9116134643555}",106,4.0,11377
+442I5u02L3adihIF-p8v2Q,U-Me Sushi,8509 Jamaica Ave,"{'latitude': 40.6925456533062, 'longitude': -73.8587910309434}",89,3.5,11421
+Clumryf360iOnwpZ2ML8aw,Sushi You,246 E 51st St,"{'latitude': 40.75554, 'longitude': -73.96874}",252,4.0,10022
+lPz4dEFSE1YzASjXYPVYnA,Mayanoki,620 E 6th St,"{'latitude': 40.72392, 'longitude': -73.98085}",45,4.5,10003
+cL8TLMCbs2B-vgy3SFtPGg,Geido,331 Flatbush Ave,"{'latitude': 40.67792, 'longitude': -73.97266}",306,4.0,11217
+Zq-bINENqMPz4zyMKQFvzQ,E Sushi,2118 Flatbush Ave,"{'latitude': 40.6181151163522, 'longitude': -73.9323730766773}",171,4.0,11234
+FXimZKjpMjbDR20M2ruhvg,Sapps,27-26 Jackson Ave,"{'latitude': 40.74762, 'longitude': -73.94008}",116,4.0,11101
+AanNkr0fdlLXtUzjqwbcvw,Mitoushi Japanese Restaurant,1221 Quentin Rd,"{'latitude': 40.608332, 'longitude': -73.960424}",144,3.5,11229
+-ZMaWRPqs0hPDe9apyFRGQ,Masakari,1631 Sheepshead Bay Rd,"{'latitude': 40.58694, 'longitude': -73.95224}",180,3.5,11235
+TXEl8kyZ4de8CoW7nT_i3A,Roy's Fish Market,1138 1st Ave,"{'latitude': 40.7617347309091, 'longitude': -73.9604171678531}",124,4.5,10065
+15R8rx9SHKNVYBwgAuTyGA,Sushi Ginza Onodera,461 5th Ave,"{'latitude': 40.7523399, 'longitude': -73.98151}",145,4.5,10017
+GknCLz8E_mC211psEX8lYg,Sushi Zo,88 W 3rd St,"{'latitude': 40.7297821044922, 'longitude': -73.9992218017578}",80,4.5,10012
+abNHO9-xlCsv31gghCUuxw,Zutto Japanese American Pub,77 Hudson St,"{'latitude': 40.71847, 'longitude': -74.00903}",848,4.0,10013
+OINi1A9bSUUN5vi7xgi3ZQ,Uchu,217 Eldridge St,"{'latitude': 40.72172, 'longitude': -73.99026}",59,4.5,10002
+SKoMUaQewpMdj1Mg8QvBNw,Nobu Downtown,195 Broadway,"{'latitude': 40.711203, 'longitude': -74.008879}",286,3.5,10007
+8NDTQb7JLHd4r0yDmpzjUA,Neta,61 W 8th St,"{'latitude': 40.7335, 'longitude': -73.99907}",357,4.0,10011
+MLx55vayKx0MmK5PIQhmrw,Sushi Bell,36-28 Bell Blvd,"{'latitude': 40.767581, 'longitude': -73.773181}",151,4.0,11361
+m1cJLpDN4B-_0hGgPfe5OA,Salt + Charcoal,171 Grand St,"{'latitude': 40.71453, 'longitude': -73.9613511}",340,4.0,11249
+T9YO1zXHR4bCof5vkJvl1Q,Tara Japanese Cuisine,251-09 Northern Blvd,"{'latitude': 40.7692587, 'longitude': -73.7367338}",92,4.0,11362
+NEQUX6MJSG8yeFqDCApbAQ,Tendo Sushi,66-26 Fresh Pond Rd,"{'latitude': 40.7081, 'longitude': -73.8981699}",86,3.5,11385
+bLDHO08mO_OMNMBW9gdetw,MoMo Sushi,239 Park Ave S,"{'latitude': 40.737925, 'longitude': -73.987855}",153,3.5,10003
+1HBtCnBGBYoq3zaQUxTbmg,Sushi Gama,1403 2nd Ave,"{'latitude': 40.76967, 'longitude': -73.95796}",80,3.5,10021
+PuiSQqVdC38FhwXtWOPJzw,251 Ginza Sushi,251 E 35th St,"{'latitude': 40.745938977155, 'longitude': -73.975854889858}",212,4.0,10016
+QUedEYSv8w4QLsNhHCrJlw,SoGoGooGo Sushi,1970-1980 Victory Blvd,"{'latitude': 40.6123774078583, 'longitude': -74.1295201475273}",73,4.0,10314
+00mykkev3tKCjTsKV60yOA,Sushi of Gari 46,347 W 46th St,"{'latitude': 40.76072, 'longitude': -73.98957}",649,4.0,10036
+yj4culC4vfNKWXdj5ZxJ4Q,Kosaka,220 W 13th St,"{'latitude': 40.7381972955808, 'longitude': -74.0014449879527}",137,4.5,10011
+x1vyHnuyuRoJRRLzRb7Nog,Northern Sushi & Sashimi,15314 Northern Blvd,"{'latitude': 40.7645739630046, 'longitude': -73.8113314625656}",57,4.5,11354
+snJZrvebNxanqMmWPhqndg,Sashimi Express II,223 E 74th St,"{'latitude': 40.77068, 'longitude': -73.95849}",51,4.5,10021
+7OMGEtFWT6sdd9TVuoGqJQ,Okonomi,150 Ainslie St,"{'latitude': 40.712622, 'longitude': -73.9487843}",416,4.5,11211
+9TgpYHVTut_qrnlsax23GA,Ocean Sushi,20 Jefferson Blvd,"{'latitude': 40.5411691535097, 'longitude': -74.178395574531}",123,4.5,10312
+D4OTzD2LRifxJTRg28FPIg,Miga Sushi,215 Berdan Ave,"{'latitude': 40.9662375, 'longitude': -74.2435279}",45,4.0,07470
+JPEIN-ZFo0-6X06nz6cfYA,Sushi Daizen,47-38 Vernon Blvd,"{'latitude': 40.74445, 'longitude': -73.9538199}",94,4.5,11101
+HJIw5_NDZXLuORi1NGDBOA,Unagi,60 Kenmare St,"{'latitude': 40.72084, 'longitude': -73.99601}",21,4.0,10012
+DN6TPJk4crQq2IgddVke4w,Genki Sushi,150 Greaves Ln,"{'latitude': 40.553831, 'longitude': -74.142749}",65,4.0,10308
+1rjxNwYpg0orCcZi0ku9Nw,Hasaki,210 E 9th St,"{'latitude': 40.729682, 'longitude': -73.988868}",359,4.0,10003
+FTMN9gexnMk6LdvEj8ZaRQ,Sushi Yasu,70-11 Austin St,"{'latitude': 40.720967, 'longitude': -73.846356}",457,4.0,11375
+Bh0Rxd4Yi21luny0S95GaQ,Ceetay,129 Alexander Ave,"{'latitude': 40.807149, 'longitude': -73.927612}",295,4.0,10454
+9AUVb5HNQl2117Nkl7sP-Q,Takahachi Tribeca Restaurant,145 Duane St,"{'latitude': 40.71659, 'longitude': -74.007919}",217,3.5,10013
+tku05qRnWxN1P54mJZ-t1g,Nagoya Sushi,1907 Kings Hwy,"{'latitude': 40.61052, 'longitude': -73.954472}",213,3.5,11229
+6EArjn_iacj-yGVLTKWuEQ,Fushimi Williamsburg,475 Driggs Ave,"{'latitude': 40.718827, 'longitude': -73.954131}",569,4.0,11211
+8b7Nr6624zlBJTf8zYyrLw,Mama Sushi,237 Dyckman St,"{'latitude': 40.8661259, 'longitude': -73.9277212}",641,3.0,10034
+WlRZ4JEAVqtemQ5WQhFAFg,Maru 2,267 W 17th St,"{'latitude': 40.7416362670334, 'longitude': -74.0007360062909}",100,4.5,10011
+HsqaGB90PYkI0En3rrtupQ,Kaede Japanese Restaurant,90 Chambers St,"{'latitude': 40.714458, 'longitude': -74.007439}",177,3.5,10007
+aXbajGzcN6vx2n6KNMtOsQ,Suzu Sushi,1075 1st Ave,"{'latitude': 40.75946, 'longitude': -73.96231}",181,4.0,10022
+3sQPGzWl0PMi2ULZ4DbEAg,Sushi Mambo,431 W 202nd St,"{'latitude': 40.86106, 'longitude': -73.92036}",250,3.0,10034
+cegB-TuA92uxIG00HUkxMQ,Mitoushi,1714 Sheepshead Bay Rd,"{'latitude': 40.58563, 'longitude': -73.95181}",261,3.5,11235
+6tJB7AWwVzccgJdOMWUYkQ,Samurai Sushi,254 Park Ave,"{'latitude': 40.8290158, 'longitude': -74.1004191}",143,5.0,07073
+Gb79W0yuQfJvu0V0SDC0Ag,Aya Sushi,314 W 39th St,"{'latitude': 40.75561, 'longitude': -73.99207}",275,4.0,10018
+KxyH5zvTyXawl17lHjA4SQ,Beyond Sushi,134 West 37th St,"{'latitude': 40.75247, 'longitude': -73.98845}",340,4.5,10018
+IPhWpqIuAiEerKlLS82RpQ,noda,6 West 28th St,"{'latitude': 40.74478, 'longitude': -73.9881}",25,4.5,10001
+TgZox9TUqzXustKL2umrpA,Sushi Jiang,79-11 Jamaica Ave,"{'latitude': 40.69223, 'longitude': -73.86291}",28,4.5,11421
+-yOUj1AxF6DJvHdTNYrg6w,WAZA Sushi & Ramen,485 Myrtle Ave,"{'latitude': 40.69359, 'longitude': -73.9657299}",160,3.5,11205
+L9SuMN3UsGipopWOe3pr9w,Chiko,954 Manhattan Ave,"{'latitude': 40.7319, 'longitude': -73.95422}",16,5.0,11222
+D3LtTiVtIPOcUT_bjxztRA,Teppan Bar & Grill,319 Warren St,"{'latitude': 40.718919, 'longitude': -74.038909}",508,4.0,07302
+nnSyjwIkhbJIBMiBtch_BQ,Kimoto Rooftop,216 Duffield St,"{'latitude': 40.69171, 'longitude': -73.98453}",374,3.5,11201
+WELTQ_RjOH_Al_f5OK88WA,Sushi King,1442 Myrtle Ave,"{'latitude': 40.698801, 'longitude': -73.917241}",7,4.0,11237
+25KSIumOXSnysnUIGAhNYw,Fuji Hibachi,321 W 42nd St,"{'latitude': 40.75792, 'longitude': -73.99067}",251,3.5,10036
+aSFBv64GBpMOFPqIleeQFQ,Lure Fishbar,142 Mercer St,"{'latitude': 40.724612166991, 'longitude': -73.998574708004}",1553,4.0,10012
+5kufgNH-OuUBDPaDQIEtzw,Tokyo House,5648 Riverdale Ave,"{'latitude': 40.9056206, 'longitude': -73.9040833}",64,4.0,10471
+etIbdlTKz2yLkvr9MWNPvw,Sushi Island,87-18 Queens Blvd,"{'latitude': 40.7349699, 'longitude': -73.87586}",321,3.5,11373
+qm1J_dPA5IHij1oAnoZwHw,nonono,118 Madison Ave,"{'latitude': 40.74545, 'longitude': -73.98499}",275,4.5,10016
+7iY35991NhQ1AShJZCNZgA,Sakagura,211 E 43rd St,"{'latitude': 40.7516467024541, 'longitude': -73.9729489318165}",1701,4.0,10017
+b3fuuJzb0uQDtVD3Zxe2Qg,Sushi Ryusei,216 E 39th St,"{'latitude': 40.74845, 'longitude': -73.97513}",62,4.5,10016
+oJZq1JmKalXXjqWRKfIjwA,Sushi Azabu,428 Greenwich St,"{'latitude': 40.7222930324682, 'longitude': -74.0098838048935}",415,4.0,10013
+us2cegdaGlJRLbSLZsu54w,Charlie's Place,1960 Madison Ave,"{'latitude': 40.80622, 'longitude': -73.94061}",111,4.0,10035
+dAK5-ftIdu4IK7MRUFizuA,Tenzan,7117 18th Ave,"{'latitude': 40.6151355763058, 'longitude': -73.9939702657333}",274,3.5,11204
+Hw6PFIFmH1_CHP0TVJdbBQ,Sapporo,7812 3rd Ave,"{'latitude': 40.629027, 'longitude': -74.029126}",80,4.0,11209
+wv3-eFVYUaZo3XybsSnDIg,Mizu Sushi,311 Bedford Ave,"{'latitude': 40.7133185, 'longitude': -73.9618969}",160,3.5,11211
+k2p78r6NOhYYb_5QOORGcA,Kome Waza,40 Water St,"{'latitude': 40.70351, 'longitude': -74.01024}",156,4.0,10004
+LNwaPEFd9gHu69lFtgYQOw,Osaka,272 Court St,"{'latitude': 40.6848, 'longitude': -73.99488}",119,3.5,11231
+_zGsfwGAY8ZTob_mIFAM-w,Pokeworks,63 W 37th St,"{'latitude': 40.7515934305237, 'longitude': -73.98588180542}",1696,4.0,10018
+Ww3aAPf0sA5ygAXu2qV1ZQ,Taiki,134 Nevins St,"{'latitude': 40.6845433545275, 'longitude': -73.9837775425761}",57,4.5,11217
+9MBNbh-0QtzA8UcBCjaNcg,Omiya Sushi,8618 4th Ave,"{'latitude': 40.6223602, 'longitude': -74.028862}",199,3.5,11209
+BCg5O26hQnVX7OOepNLK6w,Blue Ribbon Sushi Bar - Hudson Eats,225 Liberty St,"{'latitude': 40.712693, 'longitude': -74.015839}",127,3.5,10281
+kQa2W0D84lwO31QgUPoOLA,Ushiwakamaru,362 W 23rd St,"{'latitude': 40.7461547329618, 'longitude': -74.0009234316419}",150,4.0,10011
+od-5v2v1HdGisEDAXotqeg,Poke,343 E 85th St,"{'latitude': 40.7766, 'longitude': -73.95057}",442,4.0,10028
+kCpKwCW49k3ImuI5cK6LSw,Gu Japanese Fusion Sushi & Bar,155 E 52nd St,"{'latitude': 40.75743, 'longitude': -73.97042}",70,4.0,10022
+2txI-FAVf7q0SHNPcnjm7Q,Longevousjoy,6610 Bay Pkwy,"{'latitude': 40.61312, 'longitude': -73.98246}",269,3.0,11204
+vec8jeVbbSGzVlStl0Xp_Q,Chikarashi,227 Canal St,"{'latitude': 40.71787, 'longitude': -73.99948}",461,4.0,10013
+wQU3LMmOPNzxL-ptOi_F5w,Kobeyaki,293 7th Ave,"{'latitude': 40.7463253739467, 'longitude': -73.9939373214268}",512,4.0,10001
+0v2rI4CivY0nrQM3_W4VmA,Kondo,2913 Broadway,"{'latitude': 40.7626545293336, 'longitude': -73.9265084112689}",152,4.0,11106
+EBIjeMlkgU12CyCcUDj-kg,Shuko,47 E 12th St,"{'latitude': 40.7334269431242, 'longitude': -73.9914635674129}",260,4.0,10003
+MQway2v2b2Qyjr8ThZdakQ,Ninja Sushi,75 Washington Ave,"{'latitude': 40.8089392144319, 'longitude': -74.1470579258698}",197,4.5,07110
+mZOsij0jxAUF3HM8rRMlFQ,Japonica,90 University Pl,"{'latitude': 40.733757, 'longitude': -73.9931259}",112,4.0,10003
+Rl-d6ox5msWljzRh9grsnQ,Chikurin,1777 Ocean Ave,"{'latitude': 40.61875, 'longitude': -73.95484}",197,3.5,11230
+3csCSCHoQACwCp4e4E4phw,Haru Sushi,433 Amsterdam Ave,"{'latitude': 40.7840885, 'longitude': -73.9774212}",211,3.5,10024
+Nb1f08r6EJSVTMY9MxY39Q,Samurai Fusion Sushi,1709 86th St,"{'latitude': 40.608551, 'longitude': -74.004348}",133,4.0,11214
+V-rY0hlPjAghV14jOlVUiQ,Nikko,1280 Amsterdam Ave,"{'latitude': 40.81156, 'longitude': -73.95781}",336,3.5,10027
+SqUIFSqY1PWKWY_hfgJ0MQ,Maguro,160 E 28th St,"{'latitude': 40.7420234680176, 'longitude': -73.9813766479492}",381,3.5,10016
+BDEqy8Qk4QdzTRlqZRFMxw,Osaka Sushi Express,1328 Sheepshead Bay Rd,"{'latitude': 40.5877723, 'longitude': -73.9555365}",89,4.0,11235
+FlAK0QXHIMqW6koDhs7DXA,Junko Sushi,33-02 Broadway,"{'latitude': 40.76093, 'longitude': -73.92381}",242,3.5,11106
+VWlidaImhVzgyVQRbhXsew,Fugu Sushi,6804 Bay Pkwy,"{'latitude': 40.612165, 'longitude': -73.983628}",133,3.5,11204
+1j93J41t3Ni40IbrULfICw,Misaki Sushi,645 Rossville Ave,"{'latitude': 40.5430375852957, 'longitude': -74.2073278974315}",85,4.5,10309
+-pab00ajP_NS1KGfILveYA,Marumi,546 Laguardia Pl,"{'latitude': 40.7289699, 'longitude': -73.99837}",392,4.0,10012
+dJdIEYv56jTBkU6hAnSypw,Awang Kitchen,84-05 Queens Blvd,"{'latitude': 40.737338, 'longitude': -73.8792701}",122,4.0,11373
+LKwMXPoL_2UYqNAthX88aA,Daizen,768 57th St,"{'latitude': 40.637316, 'longitude': -74.008447}",201,3.5,11220
+8nmMip_O4vcPDcujTEa_TA,Kobeyaki,215 E 86th St,"{'latitude': 40.77861, 'longitude': -73.9530599}",186,4.0,10028
+iBSoi03lblC-YcT7-oGGdw,Ichi Sushi,2040 86th St,"{'latitude': 40.60383, 'longitude': -73.99754}",167,3.5,11214
+axqp3pGJXnTLgq2QrPyDyQ,Benemon,108 E 4th St,"{'latitude': 40.72551, 'longitude': -73.98838}",468,4.5,10003
+J85NKgA4tOgBAoqxu0vBNw,Sushi Damo,330 W 58th St,"{'latitude': 40.76778, 'longitude': -73.98358}",236,3.0,10019
+ruBUmEgfRVu7M6i64XMQ9Q,Kouzan Japanese Restaurant,685 Amsterdam Ave,"{'latitude': 40.79226, 'longitude': -73.97145}",210,3.5,10025
+eyjeP9CJZ_gYgeJFP_vtpQ,Karasu,166 Dekalb Ave,"{'latitude': 40.689411, 'longitude': -73.973256}",79,4.0,11217
+9MIkAs75TQzdwljVkUoZEg,Rakuzen AYCE Sushi,6408 Fort Hamilton Pkwy,"{'latitude': 40.63112, 'longitude': -74.00903}",158,3.5,11219
+-8V4jeYTDSVOTKZFFLsGjQ,Himawari,116 E Park Ave,"{'latitude': 40.58815, 'longitude': -73.66056}",146,4.0,11561
+QmelPAXgkVLZfUb27diAEw,Shigure,277 Church St,"{'latitude': 40.71853, 'longitude': -74.00477}",94,4.0,10013
+V4CgzKda_7bTqa3UTuRFCw,Avocado Sushi,1919 Hylan Blvd,"{'latitude': 40.582986, 'longitude': -74.097047}",51,4.0,10305
+aIPbIdP2l9cWxVdtIRwYrA,Sushi Me,14-18 150th St,"{'latitude': 40.7882856, 'longitude': -73.8138317}",47,4.0,11357
+k9SHpkjwlYnXZkSLVtl11w,Tenzan,988 2nd Ave,"{'latitude': 40.756202, 'longitude': -73.967201}",268,3.5,10022
+pb_ZeBeT3eYtr_Ctxjzy8g,Arashi Sushi,9605 Church Ave,"{'latitude': 40.65603, 'longitude': -73.91544}",38,3.5,11212
+j8_-krHoD9jGcQ2HKEdpQA,Ichigo Sushi Restaurant,7308 3rd Ave,"{'latitude': 40.6323220711413, 'longitude': -74.0274641166856}",77,4.0,11209
+1TEsPWu212B918MtgiSu3g,Jintan,10th St & 1st Ave,"{'latitude': 40.7288289984002, 'longitude': -73.9841578558473}",47,4.0,10009
+pbleqhDzNihWfCowxcllnA,Nizi Sushi,28 Central Ave,"{'latitude': 40.74157, 'longitude': -74.1705099}",206,4.0,07102
+vijwGDNrPBJHEG7_DsjZNw,Usagi NY,163 Plymouth St,"{'latitude': 40.70383, 'longitude': -73.98691}",58,4.5,11201
+eHSu9NDWPJ3BvQDmPEJpfQ,Casa Asia,149-45 14th Ave,"{'latitude': 40.78895, 'longitude': -73.81457}",194,4.0,11357
+6BaWXQy7yIDL7lKQbagyPg,D'avant Sushi,1638 Schlosser St,"{'latitude': 40.849689, 'longitude': -73.969697}",67,4.0,07024
+8HhDFK48icqSni1E2-Cg5g,Sushi Wen,856 Castleton Ave,"{'latitude': 40.63463, 'longitude': -74.11089}",9,4.5,10310
+8iSU_z2JkjjUEjm-Ur470w,Nippori,245 W 51st St,"{'latitude': 40.7628542, 'longitude': -73.984939}",762,4.0,10019
+MDWt-rtGxUnIcpIi-817Rg,Together,2325 65th St,"{'latitude': 40.6123, 'longitude': -73.9783}",139,4.0,11204
+GlZKE1IrwfezpV_ZCvQWZA,Sushi House 21,243 Elm St,"{'latitude': 40.72705, 'longitude': -74.16002}",135,4.0,07105
+XVWeTFTc0HFmM_0mhCrhMQ,Yoma Yama Sushi,271 Livingston St,"{'latitude': 41.0150289630357, 'longitude': -73.9476345643685}",64,4.5,07647
+KfFXfxN6qzk_dTcQjsK-OQ,Fukuyama Sushi & Ramen,622 Metropolitan Ave,"{'latitude': 40.713916, 'longitude': -73.948283}",26,4.0,11211
+nrJtX2BcYW1e1zdokH_aGg,Mottsu,285 Mott St,"{'latitude': 40.72427, 'longitude': -73.99448}",139,3.5,10012
+nNAzEGkZnecQF0yZdYfMIg,Edo Sushi Japanese Restaurant,9 E 17th St,"{'latitude': 40.73774, 'longitude': -73.99127}",266,3.5,10003
+1kOLV0vs7dk7sY4h66cBCw,One Two Free Sushi,318 Cortelyou Rd,"{'latitude': 40.63812, 'longitude': -73.97584}",1,4.0,11218
+e-G1yC5u8LOcQ-fx0Lxthw,Ajihei Bushwick,156 Knickerbocker Ave,"{'latitude': 40.70416, 'longitude': -73.92799}",55,4.5,11237
+4DbOjxU9pP1H7t5fLIUIoQ,I Sushi,1635 Woodbine St,"{'latitude': 40.7000915, 'longitude': -73.9094617}",43,3.5,11385
+dspLTxhT3Po_lgpUOnYLHg,Matsu Sushi,411 E 70th St,"{'latitude': 40.766304, 'longitude': -73.955909}",236,3.5,10021
+BiFBVQwkCIurPP-ytstGwQ,Shima Sushi,226 E 51st St,"{'latitude': 40.75588, 'longitude': -73.96926}",25,4.0,10022
+ax4INkzwL__-d_kGJfcA-w,Kaikagetsu NYC,162 Orchard St,"{'latitude': 40.72104, 'longitude': -73.98848}",29,4.5,10002
+kA0z_4_TG_kYfCPXDzbmBw,Shogun Hibachi,111-16 Queens Blvd,"{'latitude': 40.7181533187701, 'longitude': -73.8374032882996}",123,4.0,11375
+1e4J-25T_aXQ2QFiHL_yZg,Soho Sushi,231 Sullivan St,"{'latitude': 40.7297242, 'longitude': -73.9994099}",271,3.5,10012
+7iaY0eac6AI0VkA0Hpfgkw,Iso Japanese Cuisine,1086 N Broadway,"{'latitude': 40.9719145945984, 'longitude': -73.8822173478851}",71,4.5,10701
+fqr2YzqzG7q1ZsuP2klxww,LUNA  Asian Bistro & Lounge,32-72 Steinway St,"{'latitude': 40.7573, 'longitude': -73.92068}",231,4.0,11103
+hWfJ9ZA9A6y4hFC6AV7WGg,Kam Man Hibachi,200 Canal St,"{'latitude': 40.7168599, 'longitude': -73.99835}",10,3.5,10013
+_QxcsvPsYnOgPhiK6gzCfg,SHOJI at 69 Leonard St,69 Leonard St,"{'latitude': 40.71772, 'longitude': -74.00538}",42,4.5,10013
+loXvaVYhzOO3xTYzntlVBg,Yuri Sushi,374 W 46th St,"{'latitude': 40.7608, 'longitude': -73.99059}",71,4.0,10036
+73ORfmj4Et2DVWtroer50g,Hane Sushi,346 1st Ave,"{'latitude': 40.734726770853, 'longitude': -73.9797846661456}",291,3.5,10009
+NiosoLeT66--O2BOUlI_GA,Bay Sushi,29 Bay Ridge Ave,"{'latitude': 40.638618, 'longitude': -74.034637}",69,4.0,11220
+wPymJMA9Esa2i6HVdo-VNg,Kiku Sushi,453 7th Ave,"{'latitude': 40.66278, 'longitude': -73.98483}",136,3.5,11215
+uiPuKLlg8nGZ22qYO-EnMw,Aburi Sushi Bar,769 Grand St,"{'latitude': 40.712052, 'longitude': -73.9424949}",120,3.5,11211
+xZ96vaoL-cQjfotmUKtjJQ,Barn Joo 35,34 W 35th St,"{'latitude': 40.74964, 'longitude': -73.98582}",1363,4.5,10001
+kCk2uqmmJBQ80iLuncNhlQ,Kiraku Sushi,1948 Williamsbridge Rd,"{'latitude': 40.8532877, 'longitude': -73.8534942}",70,3.5,10461
+je92kXXWjANmiN-dfwNapg,Sushi Dojo NYC,110 1st Ave,"{'latitude': 40.7266273498535, 'longitude': -73.9856719970703}",396,4.0,10009
+A7r2h-zJyGkPHULmPEPGLw,Happy Fin Poke,60 Henry St,"{'latitude': 40.6992474, 'longitude': -73.9923191}",23,5.0,11201
+xM4OjzRFszzkozRb_do3NA,Sono Sushi,1098 State Rt 35 S,"{'latitude': 40.397185081879, 'longitude': -74.1097660663325}",107,4.5,07748
+puPmmv6U39qdKBR5cjigsg,Beyond Sushi,215 Mulberry St,"{'latitude': 40.72216, 'longitude': -73.99629}",22,4.5,10012
+R2WUk-6zIaJCFQXhAvlm9g,ROLLN,38 East 23rd St,"{'latitude': 40.74044, 'longitude': -73.98736}",45,4.5,10010
+KfaG5PoTEPpbODHBta9irw,Hakata Tonton,61 Grove St,"{'latitude': 40.73333, 'longitude': -74.00331}",958,4.0,10014
+mCorwiRo8rYJO5jGTFPzZQ,Fuji Sushi,238 W 56th St,"{'latitude': 40.76566, 'longitude': -73.98273}",185,3.0,10019
+HXLDYJ6Fznjn48VbE_8cow,Jack's Sliders & Sushi,171 3rd Ave,"{'latitude': 40.734705, 'longitude': -73.985819}",318,4.0,10003
+ytABgZNWnFXQUjOYjh460A,Kyo Ya,94 E 7th St,"{'latitude': 40.7267, 'longitude': -73.9853399}",444,4.5,10009
+Q_rT0lwuW8rJ6kGBYxPWkw,Asea Fusion Modern Asian Bistro,4120 8th Ave,"{'latitude': 40.64588, 'longitude': -73.99915}",231,4.0,11232
+aZzq3M2xwbNHNSQe2AbAOA,Suma Sushi,964 Amsterdam Ave,"{'latitude': 40.801498, 'longitude': -73.965339}",126,3.0,10025
+35zXShgl22ax__nMLG7z5Q,Kumo Sushi,282 Bleecker St,"{'latitude': 40.73175, 'longitude': -74.00354}",432,3.5,10014
+CV--FymQcb51hxcnkpCTng,Sushi Ren,1584 2nd Ave,"{'latitude': 40.7753299, 'longitude': -73.95339}",118,3.5,10028
+jwO3r6QVi_h9KxUFYetKuQ,Miyako Sushi,642 Amsterdam Ave,"{'latitude': 40.7910899, 'longitude': -73.97275}",203,3.5,10025
+8hxvfFZH4kPp35kH5DhnIw,Kumo Sushi,165 W 72nd St,"{'latitude': 40.7785911560059, 'longitude': -73.9808349609375}",143,3.0,10023
+das5-uR7BjbVs7-zx6S8bA,Mr Sushi,298 Wanaque Ave,"{'latitude': 41.00286, 'longitude': -74.29159}",109,4.5,07442
+PT6hP9fHaAlmxC6-MdRkag,Wasabi Sushi,2375 86th St,"{'latitude': 40.59965, 'longitude': -73.98949}",136,3.5,11214
+Hkg4b2x8LlYbq2molIFdhw,Kikoo Sushi,141 1st Ave,"{'latitude': 40.7280544300949, 'longitude': -73.9852588030411}",604,3.5,10009
+HO8vjBAFY3GU1erXMZ_UbQ,CHOCHIN,310 E 93rd St,"{'latitude': 40.781805, 'longitude': -73.947887}",81,4.5,10128
+5GqS12nGCKFZ8O6E6TLUgw,Nagahama,169 E Park Ave,"{'latitude': 40.5889499, 'longitude': -73.65893}",181,4.0,11561
+t4B9GkAuiYIjFCt9SlK3EQ,Poke Bowl,104 Fulton St,"{'latitude': 40.709569, 'longitude': -74.0068345}",271,4.0,10038
+-qdVBHgovxcZVhJm99C9ug,Mickey's Place,40-17 Bell Blvd,"{'latitude': 40.76382, 'longitude': -73.7707099}",263,4.0,11361
+Je2MuObgrne2wSKhD5MZ0w,TongKatsu,137 Rivington St,"{'latitude': 40.7193261, 'longitude': -73.9865153}",193,4.5,10002
+-Exv1AEsaKU6Cdb2TO_ZUg,The Lobster Club,98 E 53rd St,"{'latitude': 40.758301, 'longitude': -73.971868}",77,4.0,10022
+bvU8isunruqpq4LPbJ67nA,Bayridge Sushi,6914 3rd Ave,"{'latitude': 40.63544, 'longitude': -74.02633}",200,3.5,11209
+JTChJliUv_1szO4DLYA35g,Watami Sushi and Grill,206 Garfield Pl,"{'latitude': 40.67212, 'longitude': -73.97693}",28,4.0,11215
+LIxm2VH7kJtNM5diV4PL5w,Chikurin,365 New Dorp Ln,"{'latitude': 40.5709099567341, 'longitude': -74.1103249043226}",105,3.5,10306
+BCGZ-0WSLEuLviYJuUXWjg,Sushi Fussion 47th NYC,26 W 47th St,"{'latitude': 40.7567771106107, 'longitude': -73.9791343733668}",8,4.0,10036
+BlBBmx4sLmoRW0tORiMDHQ,Hado Sushi & Thai Cuisine,138-40 86th Ave,"{'latitude': 40.707672, 'longitude': -73.8170807268747}",339,3.5,11435
+G4qZvheX74VwYvek7I8iQg,Buntopia,994 Broadway,"{'latitude': 40.69598, 'longitude': -73.93398}",125,4.0,11221
+TZG0qTIGdeOtCkBrSU6v0Q,Minami Lounge,299 S 4th St,"{'latitude': 40.70937, 'longitude': -73.95571}",37,5.0,11211
+KGD7hsGHd3KpiEGOApZLvQ,Mikaku Sushi,85 Kenmare St,"{'latitude': 40.72136, 'longitude': -73.99675}",134,3.5,10012
+IDfeYwMaPApih3NVAtQJ-w,Amber Sushi Asian Bistro,2960 Middletown Rd,"{'latitude': 40.8429283455434, 'longitude': -73.8312765}",22,4.0,10461
+qeCFsJNOOU_BWytG8niKDQ,Sushi Bistro Restaurant,1232 Avenue U,"{'latitude': 40.59843, 'longitude': -73.95895}",2,5.0,11229
+0lZeHrKy9DLfBxek_oR3Kg,Yama,122 E 17th St,"{'latitude': 40.73589, 'longitude': -73.98766}",411,3.5,10003
+Lb1aZim8mmM4b3TY2oxt-A,Yamada Japanese,3811 E Tremont Ave,"{'latitude': 40.8248, 'longitude': -73.82022}",55,3.5,10465
+kNktjP6V1gxwfEA_AHVxhA,Bop & Sushi,441 Broadway,"{'latitude': 40.991722, 'longitude': -74.03292}",185,4.5,07675
+SR4CuXDy20vM25gNb8FdFQ,Matsuyama,10 Engle St,"{'latitude': 40.8933, 'longitude': -73.97297}",12,4.5,07631
+jn7q4o79x_Sl27EcqGWvhQ,Lemon Life,225 E 110th St,"{'latitude': 40.79387, 'longitude': -73.94159}",48,3.5,10029
+fDeC90b2ZqPQClL62jOUmw,Omakase Room by Tatsu,14 Christopher St,"{'latitude': 40.73382, 'longitude': -74.00042}",95,4.5,10014
+3lVipbz3cKWrslZ2mTdzrQ,Alin Sushi,55-59 Chrystie St,"{'latitude': 40.71651, 'longitude': -73.99503}",44,3.5,10002
+u8seGm3CnP6RGEiimftUIQ,Tenzan,285 Columbus Ave,"{'latitude': 40.7783079154181, 'longitude': -73.9779206995186}",420,3.5,10023
+IPHolyNKu-W1DPJKxWvKQw,Inase Restaurant,1586 1st Ave,"{'latitude': 40.77452, 'longitude': -73.950729}",124,4.0,10028
+Idx1__FUB7CqnhS4aQWGFQ,Sushi Hana,524 86th St,"{'latitude': 40.620906, 'longitude': -74.025741}",88,4.0,11209
+nyN6xEgKkWTAM4C41nqpkQ,Hana Japanese Cuisine,111 Rivington St,"{'latitude': 40.7197723388672, 'longitude': -73.9879455566406}",170,3.5,10002
+igQ9CK71aQZyNXNbfNhVtQ,Cafe 11,11 Broadway,"{'latitude': 40.7052529, 'longitude': -74.0140703}",36,4.5,10004
+X6ZqenOeXltJxcEc50U__w,Fuku Japanese Sushi,2889 Hwy 35,"{'latitude': 40.4179116417707, 'longitude': -74.1729474440217}",133,4.5,07730
+4qtJ_u-7-73ts5UPa6NBmA,Ni Japanese Delicacies,120 Essex St,"{'latitude': 40.7193413, 'longitude': -73.9876003}",45,4.5,10002
+Ju1Tu3Dl1qVmqEuD4Nyo7g,Koto Sushi,552 Henry St,"{'latitude': 40.682315, 'longitude': -74.000587}",57,3.5,11231
+bE6ZMhgr1mjBvpze9zUROg,Sakana Sushi & Asian Bistro,8121 5th Ave,"{'latitude': 40.6244, 'longitude': -74.0244}",90,4.5,11209
+UqR0FxuZ5VPSYL5N4bbxMw,Taste of Tokyo,60 Beaver St,"{'latitude': 40.70512, 'longitude': -74.00967}",147,3.0,10004
+IBGq73DGjR7rfnFEsTthcA,Sugi sushi,3799 E Tremont Ave,"{'latitude': 40.8251599, 'longitude': -73.82025}",80,4.0,10465
+FGSHyzOteuQudWXqrIU95w,Sanma Japanese Restaurant,10 Akron St,"{'latitude': 40.612021, 'longitude': -74.1587734}",149,3.5,10314
+p5TXtpCmgfR77oMT4SLYPg,Ganga Asian Bistro,432 Rt 34,"{'latitude': 40.421742, 'longitude': -74.265702}",279,4.0,07747
+8NVN6Nldm7AGoGaABBZMRw,Izakaya NoMad,13 W 26th St,"{'latitude': 40.74409, 'longitude': -73.98945}",632,4.0,10010
+vHtV8WkFec0mlWfDmm9R2Q,Wakamatsu,7018 Grand Ave,"{'latitude': 40.727485, 'longitude': -73.892282}",85,3.5,11378
+xSQp3Bj7b52PntW4ygsHaQ,Shobu Sushi & Grill,9427 5th Ave,"{'latitude': 40.61582, 'longitude': -74.03072}",190,4.0,11209
+OBQ2IKvREm5oW6_uu-v_uw,Shangerila Restaurant,2893 Buhre Ave,"{'latitude': 40.847301, 'longitude': -73.8330438}",226,3.0,10461
+at1MNbwkS1UbUAV2C95kkg,Ino Sushi,116 Market St,"{'latitude': 40.8459631, 'longitude': -74.1629339}",69,4.5,07012
+KdLP9XehfVmNonUg8O6taA,Bamboo Ya,97-11 Queens Blvd,"{'latitude': 40.729853, 'longitude': -73.860697}",255,3.5,11374
+-tvQmvtWIYOa1_oq1EzbXg,Bayard Sushi,83 Bayard St,"{'latitude': 40.7156068954583, 'longitude': -73.9989572390914}",4,4.0,10013
+aE7hRzK1t80iFyi4Do77lw,Sushi Uesugi,934 3rd Ave,"{'latitude': 40.6560432255486, 'longitude': -74.0064066279496}",10,4.5,11232
+8_36jHn9tVJ4V7aBMhhLJw,River Japanese Cuisine,37-18 Main St,"{'latitude': 40.7609944, 'longitude': -73.83086}",271,3.0,11354
+6qzNc9Z9DHYYleKqrW_K3g,Takashi,456 Hudson St,"{'latitude': 40.7313524, 'longitude': -74.0065048}",939,4.0,10014
+Y9RuXSHc0QxdPmzUP9m87g,Sushi Para Japanese,1461 3rd Ave,"{'latitude': 40.776461, 'longitude': -73.9553339}",182,3.5,10028
+61HfCnnk6-SlvAuutOFntQ,Mitoushi Sushi,177 Atlantic Ave,"{'latitude': 40.69034, 'longitude': -73.993783}",165,3.5,11201
+6t5xWjPLWAjJV3YFMX_oaw,Hirohisa,73 Thompson St,"{'latitude': 40.724597, 'longitude': -74.003174}",141,4.5,10012
+aTzxrI2o3vH_HQkqeFszzg,Juban,207 10th Ave,"{'latitude': 40.74731, 'longitude': -74.00467}",159,4.0,10011
+xvFf1wuKPSzl1zUnHy8ZKw,Sushi of Gari Tribeca,130 W Broadway,"{'latitude': 40.716780367583, 'longitude': -74.0084709183102}",133,3.5,10013
+SYCt2MYSFKlCJx98VFfA0g,Chikurin,1702 Ave Z,"{'latitude': 40.58809, 'longitude': -73.9521199}",204,3.0,11235
+IU7J-biFGBwrl6qKBPGStQ,Sushi Tsushima,210 E 44th St,"{'latitude': 40.7516558, 'longitude': -73.9727916}",230,3.5,10017
+CYfO97BoPiqz3KRbJ8jbeg,Katsuno,103-01 Metropolitan Ave,"{'latitude': 40.7104116655092, 'longitude': -73.8499203163873}",164,4.0,11375
+3Jr_9I2ouYHDNk8XWKdZ3w,Sasabune,401 E 73rd St,"{'latitude': 40.76846, 'longitude': -73.95515}",379,4.0,10021
+jHn3mUjbe9caYZNe1z9YUw,Kumo Sushi,1406 Cortelyou Rd,"{'latitude': 40.6406909, 'longitude': -73.964964}",135,3.0,11226
+56PeolgNURAG4x6q7nanmw,Odo,17 W 20th St,"{'latitude': 40.74032, 'longitude': -73.99223}",7,5.0,10011
+zdgJUdnxkRmmtb4qIk0ZHg,Sushi Zo Hanare - Midtown,127 E 39th St,"{'latitude': 40.74971, 'longitude': -73.97759}",13,5.0,10016
+0TNfNUGnW8jzBbCENxIJhQ,Nagoya Fusion,1948 86th St,"{'latitude': 40.6051101947, 'longitude': -73.9993922990127}",119,3.5,11214
+PpRcR8PPK3bdLCzAevOosw,Honshu,95 Greene St,"{'latitude': 40.7157115638256, 'longitude': -74.0359251201153}",247,4.0,07302
+6FZf17rNThWKoF4EU18wnw,Yakiniku Futago,37 W 17th St,"{'latitude': 40.738851870947, 'longitude': -73.9941236398979}",276,4.5,10011
+AT8y2hH3zcALOhJPzb_hiw,Kiku Asian Bistro,163 5th Ave,"{'latitude': 40.67754, 'longitude': -73.97956}",235,3.5,11217
+2h12doe_dr-_pj52ZrJ5hg,Sushi Factory,772 49th St,"{'latitude': 40.6418518141296, 'longitude': -74.0038870071483}",81,3.5,11220
+tvpkgdOyFFRGwwu8zyR36g,Sasa Song,201-07 Northern Blvd,"{'latitude': 40.75786, 'longitude': -73.78195}",92,4.0,11361
+afoHeLpkagNvjErwWqsbng,Quan Sushi,375 Broome St,"{'latitude': 40.7202030340814, 'longitude': -73.9963347689023}",137,3.5,10013
+ZxCErEUoEuIekGEBDPbObw,Mitasu Umi Sushi And Bar,495 Prospect Ave,"{'latitude': 40.7937048368025, 'longitude': -74.2567857989502}",49,4.5,07052
+hQk1KtjFpixNv4UWyi0VAQ,Tetsu,78 Leonard St,"{'latitude': 40.71733, 'longitude': -74.0052}",74,3.5,10013
+I66F8wR77s4v4pX4OUHXEw,Jungo Sushi,48-11 43AVE,"{'latitude': 40.74481, 'longitude': -73.91585}",25,4.0,11104
+8vYNqvS2PMN00xTT6WBzHA,Tomo Japanese Cuisine,86-12 37th Ave,"{'latitude': 40.750061, 'longitude': -73.880056}",208,3.5,11372
+48aOA2rflIt8d2zCSuNG2w,Tengu Sushi & Noodle House,5920 Fort Hamilton Pkwy,"{'latitude': 40.63332, 'longitude': -74.00567}",192,3.5,11219
+7hbY10Wu7lAiubIcpWqydQ,Dozo Sushi & Asian Cuisine,163 S Livingston Ave,"{'latitude': 40.7904360601158, 'longitude': -74.3127015679806}",41,4.0,07039
+iueVEi_vQxdAzdXs-8Fvrg,Atami Japanese Fusion,1167 2nd Ave,"{'latitude': 40.76226, 'longitude': -73.9635}",132,4.0,10065
+qNyUkJJjg1Tu6XmhAUU1sA,Okuda,458 W 17th St,"{'latitude': 40.7437929363044, 'longitude': -74.0063984206981}",19,5.0,10011
+Nbqzy3ea5_x2zXWkdWlUIQ,Sake Bar Hagi 46,358 W 46th St,"{'latitude': 40.76047, 'longitude': -73.99015}",220,4.0,10036
+rn5GuQjcmapiRU1uvDuifg,O'Sake Japanese Restaurant,263 Beach 116th St,"{'latitude': 40.580977, 'longitude': -73.838259}",58,4.0,11694
+FaTf-DEdPN8NIdD2VWf3aA,Makoto,1224 St Georges Ave,"{'latitude': 40.5803782, 'longitude': -74.2936741}",148,4.0,07001
+Qi1AoRNcFEX8etII_RZkFg,Ajisai Japanese Fusion,795 Lexington Ave,"{'latitude': 40.763763, 'longitude': -73.966743}",146,3.5,10065
+ykf5siP-2CXY3leFbeeabQ,An'Nam,234 W 48th St,"{'latitude': 40.7605285644531, 'longitude': -73.9863891601562}",251,4.0,10036
+YUupWsGbZx-bGea9fdmW4w,Ko Sushi,1329 2nd Ave,"{'latitude': 40.767795, 'longitude': -73.959442}",309,3.5,10021
+zQvjlzYDx1srnYO_zXHjYg,Sapporo Sushi House,1650 Richmond Ave,"{'latitude': 40.6083516, 'longitude': -74.16348}",78,3.5,10314
+sXxpqjRajbspzLRdv_6QBw,Simple Asia,2333 Hylan Blvd,"{'latitude': 40.5746530841284, 'longitude': -74.1058338806033}",107,4.5,10306
+czZG3xck5tqbBZEURVMkjw,Sushi Tatsu III,644 Flatbush Ave,"{'latitude': 40.657581, 'longitude': -73.960658}",135,3.0,11225
+uTVfLJO4kYuzJsfxHm-BGg,Sushi Spot,426 Kingston Ave,"{'latitude': 40.6645584, 'longitude': -73.9426699}",32,3.5,11225
+pZOmV1O0panjcYKXoXgNYA,Kiku Sushi,361 7th Ave,"{'latitude': 40.6658058166504, 'longitude': -73.9821548461914}",56,3.5,11215
+gNDaXUNnl1B1NKyoMN6x5Q,Fuji Japanese Cuisine,11327 Queens Blvd,"{'latitude': 40.717779, 'longitude': -73.8352311}",263,3.0,11375
+4yOiQMheUbc0spj0_viKiA,Han Sushi,854 10th Ave,"{'latitude': 40.768482, 'longitude': -73.9887}",97,3.5,10019
+XsAn03rEJPyAmnvlxVvBKg,Kim's Sushi,458 Eagle Rock Ave,"{'latitude': 40.8034302, 'longitude': -74.2490792}",668,4.5,07052
+NLZsTQQQ-jttCAQkKBmqoQ,Shoga Sushi & Oyster Bar,300 E 88th St,"{'latitude': 40.7790547129288, 'longitude': -73.9507931470871}",200,4.0,10128
+bnCZgNyG9FRXRy7g2-rcMw,Yoshi Japanese cuisine,5827 Ave T,"{'latitude': 40.61572, 'longitude': -73.9180499}",81,4.0,11234
+eyrc1L7VnWK0TcF9cheR4w,Okawa,77-05 37th Ave,"{'latitude': 40.7494447, 'longitude': -73.8884602}",143,3.5,11372
+AomqiQxf3_XQM6qXa4rpUQ,Ninja Japan Teriyaki and Sushi,92-06 Jamaica Ave,"{'latitude': 40.6933573, 'longitude': -73.8529837}",19,4.5,11421
+gige0Bps68Lk974vKytbGQ,Tomo Japanese Cafe,89-14 Queens Blvd,"{'latitude': 40.7343516, 'longitude': -73.874479}",363,3.0,11373
+pnGOd5wwinXc83sIYI1Xuw,Hula Poke,1028 Amsterdam Ave,"{'latitude': 40.80346, 'longitude': -73.96374}",39,4.0,10025
+sLz0y7uD8_T8Ye32r7uyog,Sushi Yu,214 Prospect Park W,"{'latitude': 40.660354, 'longitude': -73.980682}",114,3.5,11215
+5ky4KlsPIACplqhg28XOAg,Avocado Sushi,4906 Arthur Kill Rd,"{'latitude': 40.5225257873535, 'longitude': -74.2387847900391}",63,3.5,10309
+OO1EUYT629SG6rxkHJnmYA,Umi Sushi,9605 Metropolitan Ave,"{'latitude': 40.7115099, 'longitude': -73.85614}",63,3.5,11375
+iU9ccAdtNNRgV-jMKj13mw,Aaron Sushi,2545 Steinway St,"{'latitude': 40.7667, 'longitude': -73.91233}",40,4.0,11103
+V-aujIl_JGbPKghVkSr4sQ,Tommy Sushi,215 Rivervale Rd,"{'latitude': 40.99607, 'longitude': -74.00733}",50,5.0,07675
+Z_q5fWOffYloQr4RzWPSqQ,Natto Hibachi & Sushi,296 5th Ave,"{'latitude': 40.6737814, 'longitude': -73.9827748}",30,3.5,11215
+W8klIp0hw6lbrqpIar5AKg,The Bari,417 Lafayette St,"{'latitude': 40.72862, 'longitude': -73.99227}",189,4.0,10003
+uam87TEibi2u6fjt_0JWuQ,Beyond Sushi,70 Pine St,"{'latitude': 40.706433, 'longitude': -74.00766}",22,4.5,10270
+J9UA6rzI5WW_cDGjwDnF5g,Tsurutontan Udon Noodle Brasserie,21 E 16th St,"{'latitude': 40.73678, 'longitude': -73.9910699}",1533,4.0,10003
+M8FNsKsudKbBcYMyH5bjlw,Mira Sushi - Flatiron,46 W 22nd St,"{'latitude': 40.7418109, 'longitude': -73.9924289}",309,3.5,10010
+r5tdEA1S-Almn_2cv-c6Sg,Sushi X,47-15 Northern Blvd,"{'latitude': 40.7539316554037, 'longitude': -73.9145785103119}",224,3.5,11101
+GBWMJJ4_rDWqiXJ7AvHAOg,15 East Restaurant,15 E 15th St,"{'latitude': 40.7363799, 'longitude': -73.99213}",618,4.0,10003
+DpZ7Xaub8Lhpg7VJdHaPpg,Zenkichi,77 N 6th St,"{'latitude': 40.7189722, 'longitude': -73.9608301}",945,4.0,11249
+b3XJAx3ru9FxB5gIxPZogg,3 Guys Sushi,530 Forest Ave,"{'latitude': 40.630062, 'longitude': -74.107803}",64,3.5,10310
+RLYcIzhg103l6PwhdIh73w,Sushi West,556 Hudson St,"{'latitude': 40.73539, 'longitude': -74.00585}",106,3.5,10014
+kYURnv37Z5P_sir_QJGHzg,Sake Sushi,2347 86th St,"{'latitude': 40.600102, 'longitude': -73.990238}",692,3.5,11214
+Z7gHAR1j_hjdxoWO7kYgeQ,Okinawa Sushi & Grill,400 Newark St,"{'latitude': 40.737606, 'longitude': -74.037209}",291,4.0,07030
+g_bi9LM2NcJd2SA5dFYFxg,Umi Japanese Cuisine,215 Brighton Beach Ave,"{'latitude': 40.57678, 'longitude': -73.9667}",65,3.0,11235
+kesYSgOJW5krU6L8n9qQ4Q,Ichibantei,401 E 13th St,"{'latitude': 40.73063, 'longitude': -73.98275}",188,4.0,10009
+sHVnV3l2_mQefULh0mvwUA,The Woo,206 Spring St,"{'latitude': 40.7253, 'longitude': -74.00371}",38,4.0,10012
+Nu5Pl-wyDMRmT6tL3pcI5w,Shi Shang,775 50th St,"{'latitude': 40.6414280105565, 'longitude': -74.0040007941621}",16,3.5,11220
+xAEs5QnuL8uMNWjmUGpK7g,Fushimi Bay Ridge,9316 4th Ave,"{'latitude': 40.61727, 'longitude': -74.03101}",342,3.5,11209
+AjlmpAQV8W4--y0EksO-9g,Simple NYC,109 Eldridge St,"{'latitude': 40.71821, 'longitude': -73.99223}",310,4.5,10002
+oUo_8ST8_fTKTEU6LYC65Q,Tenzen,6703 Austin St,"{'latitude': 40.7241575, 'longitude': -73.8553204}",15,4.0,11375
+Gg3heBdQQ9Wr03icYIaIQA,Kobe Sushi,1472 York Ave,"{'latitude': 40.77077, 'longitude': -73.95066}",125,3.5,10075
+LZ8qWYoScZ_DlOg4QYfo4w,Amber Upper East,1406 3rd Ave,"{'latitude': 40.7749519655958, 'longitude': -73.9570612997634}",212,3.5,10075
+Y_FCEXN-Jk6fArRoDf-9pg,Pokeworks,258 7th Ave,"{'latitude': 40.66919, 'longitude': -73.97985}",42,4.5,11215
+GfC7pvsvhZX4-QAeZ3z_Vg,Kuruma Zushi,7 E 47th St,"{'latitude': 40.75653, 'longitude': -73.97768}",222,4.0,10017
+qAWeNyQwtWIbmqbLw__w3g,No 1 Sushi,85 Godwin Ave,"{'latitude': 40.9842800739446, 'longitude': -74.1389598324895}",28,4.5,07432
+EbX_9tqAJs4gW51gZpOB7g,Rasa,25 W 8th St,"{'latitude': 40.7327654, 'longitude': -73.9975674}",612,4.0,10011
+B8Fkcus0k4IdcIwdj2vXAw,Kawa Sushi,24 8th Ave,"{'latitude': 40.73772, 'longitude': -74.00437}",72,3.5,10014
+m4LsYh1uad-k6Bfyd4bIrA,Bamboo Ya,69-12 Austin St,"{'latitude': 40.72149, 'longitude': -73.84905}",65,4.0,11375
+M-odQWSEfsR2mVEw7nKG-g,Nyonya,199 Grand St,"{'latitude': 40.7190148, 'longitude': -73.9968228}",1940,4.0,10013
+nX_k1CgS4DHcsNg9aeCFQQ,Kissfish,70-21 Austin St,"{'latitude': 40.72087, 'longitude': -73.84619}",146,4.5,11375
+yoGoH-1kDWMrQBI95ITo4A,Method,746 10th Ave,"{'latitude': 40.7650523, 'longitude': -73.9912028}",105,4.0,10019
+Tn1CX6ms6ZUcBo1geO3Dfg,Avocado Sushi,4342 Amboy Rd,"{'latitude': 40.54551, 'longitude': -74.1599741}",19,4.5,10312
+XZswR1A0FMc3LZ-TmB8OYg,Tenda Asian Fusion,1734 Sheepshead Bay Rd,"{'latitude': 40.5850487, 'longitude': -73.9515076}",181,3.5,11235
+qU3ejLMndurKQTkM01gutg,Zuma,261 Madison Ave,"{'latitude': 40.7505268941072, 'longitude': -73.980782390213}",563,3.5,10016
+JzvPC4N2rbZC-XFwZDsJeg,Fuki Sushi,8509 18th Ave,"{'latitude': 40.60748, 'longitude': -74.002025}",129,3.5,11214
+juoHZs-uMmqW4gQ1iISvxA,Jewel Bako,239 E 5th St,"{'latitude': 40.72699, 'longitude': -73.98922}",525,3.5,10003
+py1zfy48JMV6tMZRvgxMKA,Palace of Japan,3505 Johnson Ave,"{'latitude': 40.88612, 'longitude': -73.91}",175,3.5,10463
+IYlO-XRwjZlUl0yoKY87cA,Cagen Japan Restaurant,414 E 9th St,"{'latitude': 40.72779, 'longitude': -73.98417}",179,4.0,10009
+cZAh6BzEeMI5fofWeDvuhw,Sake Bar Satsko,202 E 7th St,"{'latitude': 40.72445, 'longitude': -73.9802799}",150,4.0,10009
+xt8AcJzq61ksZbMJ1o--7Q,Wasabi Thai,897 Broadway,"{'latitude': 40.67825, 'longitude': -74.10648}",62,4.5,07002
+01hs_l54-211UuiJPI83lA,Sakura Japanese Cuisine,35-15 Ditmars Blvd,"{'latitude': 40.77469, 'longitude': -73.9081999}",180,4.0,11105
+9AIfcDXRJYpFT9mZUXP4Xw,Echiban Asian,66-47 Fresh Pond Rd,"{'latitude': 40.7075669570116, 'longitude': -73.8972261213778}",56,3.0,11385
+uVHa8BktK6jjYTaSxra-sg,Nizi Sushi,300 Union Ave,"{'latitude': 40.836079, 'longitude': -74.112864}",413,4.5,07070
+pS7aJrWCGRuVqflukwiFDw,Wasabi Sushi & Bento Box,185 Greenwich St,"{'latitude': 40.7099275, 'longitude': -74.0126017}",27,3.0,10007
+C5tqSSgVPfgtsJn3QnvDiQ,Hibino,10-70 Jackson Ave,"{'latitude': 40.742626, 'longitude': -73.95198}",175,4.0,11101
+TsXW4R8y8y715TMKmlUDAQ,Beyond Sushi,75 9th Ave,"{'latitude': 40.7424675258773, 'longitude': -74.0066324867859}",203,4.5,10011
+NlgC8TjNuf8sy6qg2xpqsQ,Yuka Japanese Restaurant,1557 2nd Ave,"{'latitude': 40.77463, 'longitude': -73.95447}",542,3.5,10028
+zm-PPnv9eAkWYFGpVg9kMg,Shimizu,318 W 51st St,"{'latitude': 40.763198, 'longitude': -73.986892}",292,4.0,10019
+qd9_gxrmskbOT6OLN9sShA,Dock Asian Eatery,22 Wyckoff Ave,"{'latitude': 40.70628, 'longitude': -73.92274}",44,4.5,11237
+WH1GI4cj44DxPiRWMG96bQ,Nakahara Japanese Restaurant,299 Broad Ave,"{'latitude': 40.861163, 'longitude': -73.988058}",101,4.0,07605
+WZwsWjcFILSyx7ii-Nrl8A,Sake II,690 E 187th St,"{'latitude': 40.85411, 'longitude': -73.88473}",54,3.0,10458
+onpPd3lLrVn49SzHALryug,Blossom Poké Bowl,153 Remsen St,"{'latitude': 40.69357, 'longitude': -73.99215}",17,4.0,11201
+GOLqh9i4qeqcj2Q3DJ3AQw,Matsuya,1467 York Ave,"{'latitude': 40.7705892, 'longitude': -73.9512062}",4,4.0,10021
+AhmnKeoGWNLdAkxw6iuF3g,Kumo Sushi,214 1st Ave,"{'latitude': 40.7304699, 'longitude': -73.983}",335,3.0,10009
+-u9yPjmvZilrXYM8JlKG6w,Kappo Masa,976 Madison Ave,"{'latitude': 40.7746468, 'longitude': -73.9635315}",51,3.5,10075
+4xeG4hxOJfxhD3ayOcu1pQ,Hiro Sushi,555 Valley Brook Ave,"{'latitude': 40.80921, 'longitude': -74.11927}",130,4.5,07071
+7sW7ebi_A8gpECJe0ycQSg,Ichiban,409 8th Ave,"{'latitude': 40.750076, 'longitude': -73.995422}",45,3.5,10001
+elXpn3tpCENSnXp_sbWmvA,Cucumber Sushi & Salad Bar,4215 Hylan Blvd,"{'latitude': 40.5375043729612, 'longitude': -74.1508300265427}",54,3.5,10308
+7_RQG7fNEBuiQyXpTe7mCw,Fishing Restaurant Zauo,152 W 24th St,"{'latitude': 40.7444, 'longitude': -73.99455}",141,3.5,10011
+gz8Pq_xgajTRf_5___82Cg,Mitoushi 8,70-11 Grand Ave,"{'latitude': 40.7277260130886, 'longitude': -73.8927069665119}",28,4.5,11378
+LcmRObvsi8JkxFCJ_l2_1g,Sushi Seki Times Square,365 W 46th St,"{'latitude': 40.760942, 'longitude': -73.990075}",138,3.5,10036
+qf9ONR0LAAFZ8fLDRkVHww,Mori,351 5th Ave,"{'latitude': 40.671718, 'longitude': -73.983902}",54,4.5,11215
+6Gra4M9dOXcjYzi611KwKg,A Sushi,71-44 Austin St,"{'latitude': 40.7194651601964, 'longitude': -73.8433344662189}",102,4.0,11375
+sNeefaiRztDQ10B4QzUi3g,Shuraku,47 8th Ave,"{'latitude': 40.7385446555585, 'longitude': -74.0040071109515}",62,4.5,10014
+GjRatF7Gc7mNY4GapUCpsw,Dream Eatery,6712 Fort Hamilton Pkwy,"{'latitude': 40.6295025539906, 'longitude': -74.0112465935784}",86,4.0,11219
+iv2F1mMlhNo46r7T1XXG-w,Umami Sushi,724 Saw Mill River Rd,"{'latitude': 41.0129318, 'longitude': -73.8467255}",44,4.0,10502
+2TWVQBY6WvzvaU1taRXHCw,Kodama Sushi,301 W 45th St,"{'latitude': 40.75937, 'longitude': -73.98863}",427,3.5,10036
+c2ZEF54zDWx3L8Pud_fyzw,Yi Sushi,266 Broadway,"{'latitude': 40.65648, 'longitude': -74.124336}",19,4.5,07002
+NUFdHBhmlzJAZv0IpYuOoA,Sushi Tokyo,121 W 19th St,"{'latitude': 40.74081, 'longitude': -73.99509}",16,3.5,10011
+qNmHq3ST2bBinAN-TatwSg,Mirakuya Japanese Cuisine,727 Flushing Ave,"{'latitude': 40.7004883125668, 'longitude': -73.9435394480824}",36,3.5,11206
+FdCQmAHzhbHuaP5lcsYs6w,Gohan-ya,14A Orchard St,"{'latitude': 40.7150115072727, 'longitude': -73.9917685836554}",42,4.5,10002
+QW1czVOqwkNet53Km_BIyQ,Tataki Japanese Restaurant,3 Lispenard St,"{'latitude': 40.72067, 'longitude': -74.00486}",152,3.5,10013
+i8F0fnempD5fTb2CxbwKDw,Izakaya,326 E 6th St,"{'latitude': 40.72667, 'longitude': -73.98738}",235,4.0,10003
+RAY9AO6042s-MaM3lQh9_g,Kyoto Sushi III,577B Pompton Ave,"{'latitude': 40.8529739379883, 'longitude': -74.2293243408203}",69,4.5,07009
+XWpyVG5Cb6-0yuf-ItU2QA,Otaki Sushi,2136 Jericho Tpke,"{'latitude': 40.73766, 'longitude': -73.66937}",171,4.0,11040
+kdid3XwJD5rH2BOmKky_tQ,Tempura Place,365 Haledon Ave,"{'latitude': 40.9369406575129, 'longitude': -74.1807369779404}",4,5.0,07508
+ynR4-QgEOsE7VhNfIWo73w,Secchu Yokota,199 E 3rd St,"{'latitude': 40.72283, 'longitude': -73.98311}",79,5.0,10009
+sPQJUmqKDoGkEHPhRjS4ag,Poke City,80 Livingston St,"{'latitude': 40.69133, 'longitude': -73.99101}",29,4.5,11201
+oI-7XNSVyM0T82LyIGLIxw,Sayori Japanese Restaurant,1440 Forest Ave,"{'latitude': 40.62422, 'longitude': -74.13663}",40,4.0,10302
+u641PRSq7yCSfAcell-QiA,Oki Japanese,4511 Queens Blvd,"{'latitude': 40.7435273, 'longitude': -73.9193266}",84,3.0,11104
+cFUur8507gmcaAhmhDcw-A,A. B. Sushi,11 W 36th St,"{'latitude': 40.75029, 'longitude': -73.98439}",44,4.0,10018
+VxVcva5YiUrwq2j4eJCFAQ,Menya Jiro- Brooklyn,306 Gold St,"{'latitude': 40.69505, 'longitude': -73.98357}",87,4.0,11201
+CKBku3Flj5Nh8VA6ZH-q2w,Sake Sushi,328 Church Ave,"{'latitude': 40.643961, 'longitude': -73.97669}",166,3.5,11218
+Ej-AABvLDnt_kaSwYPR0FQ,PJ Sushi,2372 Lemoine Ave,"{'latitude': 40.8629666, 'longitude': -73.9629571}",208,4.0,07024
+79-I5OTfhsfPCZGgcB4J5A,Mizu Sushi,29 E 20th St,"{'latitude': 40.739068, 'longitude': -73.9889649}",238,3.5,10003
+WOonEFdSaK224ew1c0Oa7w,Tenzan 89,1714 2nd Ave,"{'latitude': 40.779579, 'longitude': -73.950103}",150,3.0,10128
+7KvhIbqUyJ-B_37hOh4PxA,Sushi 33,6356 Booth St,"{'latitude': 40.7286254, 'longitude': -73.8635903}",107,3.5,11374
+5h-57YHVpnnl8fV_jMkQvg,Edo Asian Fusion,2087 Coney Island Ave,"{'latitude': 40.606292381664, 'longitude': -73.9616475521669}",73,4.0,11223
+4OFUY9fen74A8UOHWD9LQA,Akai Lounge,11 N Dean St,"{'latitude': 40.893970489502, 'longitude': -73.9738922119141}",150,4.0,07631
+GpCZORguVJZGpd5GoL9Arg,House of Small Wonder,77 N 6th St,"{'latitude': 40.7188839655893, 'longitude': -73.9606090848567}",672,4.0,11211
+JkHPM-CMLNGQzZb79GWm4Q,Oishi Sushi,929 Manhattan Ave,"{'latitude': 40.73113, 'longitude': -73.95458}",99,3.5,11222
+jQBqd5RIFxBWcTvCkxG2sw,J & J Sushi,31 Ridge Rd,"{'latitude': 40.7828687, 'longitude': -74.1379862}",77,4.0,07031
+aq0SXPyy_dpFjcfvTDRxBA,Wasabi Sushi & Bento,561 7th Ave,"{'latitude': 40.754795, 'longitude': -73.987525}",454,3.5,10018
+0vSAR3Ym2fuehBvHSZyqIQ,Koi Restaurant,40 W 40th St,"{'latitude': 40.752987, 'longitude': -73.983824}",724,3.5,10018
+5LSWzldMZLtahaMESfD25A,Sushiyama,6612 Ave U,"{'latitude': 40.617012944412, 'longitude': -73.9097041912628}",62,3.5,11234
+MSVftNJ5lwPK9TQtHayaPQ,Suzuki,114 W 47th St,"{'latitude': 40.7582797854234, 'longitude': -73.9827184029637}",111,4.0,10036
+bJgl6cDIBIMlgrntQbxt1g,Café Zaiya,18 E 41st St,"{'latitude': 40.7523, 'longitude': -73.98043}",1138,4.0,10017
+H_DcjHIDnYjml00EuLB57A,Sushi Mike's,146 Main St,"{'latitude': 41.0161521, 'longitude': -73.8737001}",244,4.0,10522
+VpInBiE272MaN1Hi0DA-Zw,Sachi Asian Bistro,713 2nd Ave,"{'latitude': 40.7478, 'longitude': -73.97406}",184,4.0,10016
+ciJkcDZ5kCh5D0wWyvvipw,Mura,369 5th Ave,"{'latitude': 40.671123, 'longitude': -73.984306}",160,3.5,11215
+Qli775QfVY4oFPNu7Cy5Tw,Sun-Chan Japanese Restaurant,2707 Broadway,"{'latitude': 40.7995, 'longitude': -73.9686399}",202,3.5,10025
+a5-ChYM1t2Fl019KLPVBNw,Rakuzen Elmhurst,89-23 Queens Blvd,"{'latitude': 40.734813, 'longitude': -73.873449}",52,3.5,11373
+quFTxluPGroSkblIFwtwBQ,Kyoto Sushi II,347 Chestnut St,"{'latitude': 40.6784439086914, 'longitude': -74.2677383422852}",141,4.0,07083
+MAd2l4Cmgk8r8v0FxIBsVQ,Yummy Machi,2236 Forest Ave,"{'latitude': 40.626408, 'longitude': -74.164168}",56,4.5,10303
+JfiQzDkzG3L3TLmRGUHMuA,Sasabune Express,322 E 59th St,"{'latitude': 40.7599983215332, 'longitude': -73.9629745483398}",62,4.0,10022
+wF8uPsiiugPiVbdJ0tXBTg,Sarku Japan,11114 Flatlands Ave,"{'latitude': 40.650366, 'longitude': -73.890564}",25,3.5,11207
+xwa4aG6hmSSA3FSF9KM87A,China Tokyo,5908 Ave N,"{'latitude': 40.61938, 'longitude': -73.91799}",63,3.5,11234
+bpeeh-kkay0ZE7mGXsCVKQ,Ahana,1154 1st Ave,"{'latitude': 40.7622458, 'longitude': -73.9598571}",136,4.0,10065
+6Uh0whZI_LgLGYATzL3S4w,Tibetan Japanese Restaurant,75-26 37th Ave,"{'latitude': 40.7489512, 'longitude': -73.8904819}",26,4.5,11372
+Eb59Dr8SUjvoZAo_-RdkVA,Day 5 Sushi,1724 Coney Island Ave,"{'latitude': 40.6153908, 'longitude': -73.963562}",23,4.5,11230
+K4D6FDNfv0UaSBDFK1uvnw,Cucumber Sushi and Salad Bar,5834 Amboy Rd,"{'latitude': 40.5260871, 'longitude': -74.202037}",89,4.0,10309
+GKg7RPIYxuuannbB2t9lMw,Momoya,390 Broad St,"{'latitude': 40.8067425, 'longitude': -74.1928504}",246,4.0,07003
+-W5OVy_1GGoT_6_WAQzmsg,Akiyama Japanese Restaurant,132-16 14th Ave,"{'latitude': 40.7861273, 'longitude': -73.8358705}",77,3.5,11356
+1ht9x2hqzpjfk6JaR8r7oA,Lin's Asian Cuisine,1506 Bronxdale Ave,"{'latitude': 40.8426181840383, 'longitude': -73.8538535671128}",59,3.5,10462
+6xFL5H9cVU2sAmEHZVI0gw,Genki Sushi,262 Arden Ave,"{'latitude': 40.55278344473, 'longitude': -74.193325368046}",126,3.5,10312
+-kLlgcwT_Sf8Riq8wziVeA,Sushi Seki - Chelsea,208 W 23rd St,"{'latitude': 40.7442322, 'longitude': -73.996266}",141,3.5,10011
+XB_YNEvXM0Qch55jovpSJA,Ginza Japanese Restaurant,800 Lexington Ave,"{'latitude': 40.76405, 'longitude': -73.96715}",191,3.5,10065
+SdszVJsDzwV4c3ayuA6BWQ,Sakura 7,65-54 Grand Ave,"{'latitude': 40.7239962, 'longitude': -73.898706}",113,4.0,11378
+YjDOSFuRWNp2d1znivWyIA,Sunrise Mart,494 Broome St,"{'latitude': 40.7232311, 'longitude': -74.0025149}",262,4.0,10012
+01isnBO1rFO2LTOeNfYl9w,Hillstone Restaurant,378 Park Ave S,"{'latitude': 40.7427534, 'longitude': -73.9847308}",886,4.0,10010
+Uev0cXa6nx1rZP07kmCHow,Sushi Katsuei,357 6th Ave,"{'latitude': 40.7322599, 'longitude': -74.0009199}",67,3.5,10014
+ubW3Owpl9HK_xeWjtA0zFA,Kashi Japanese - Rockville Centre,222 Sunrise Hwy,"{'latitude': 40.6572, 'longitude': -73.64652}",383,4.0,11570
+utHzkvkrAWcXlW2Ig7o-BQ,Kaito Sushi,28 Palmer Ave,"{'latitude': 40.9414033917175, 'longitude': -73.8373402469048}",69,4.0,10708
+b-xpzu5nlhxw7qe745K9hw,Sushi K Bar,888 Bedford Ave,"{'latitude': 40.6942529, 'longitude': -73.9560939}",31,3.5,11205
+ltDui1Uf0CYV5OT8mpwNuA,Sushi Licious,Chelsea Piers Pier 60,"{'latitude': 40.7466516686815, 'longitude': -74.0101869776845}",3,5.0,10011
+U3ysEBmvdZXKmTdc3MxhGA,Pine Tree,744 Franklin Ave,"{'latitude': 40.673013, 'longitude': -73.957391}",56,4.0,11238
+1oySQay9XvewqsqWOEQKvQ,Hwe Sarang Sushi,209 Closter Dock Rd,"{'latitude': 40.974026, 'longitude': -73.962059}",17,4.0,07624
+bWnuexsVicOy8U8YzR3pgQ,Restaurant Yamaguchi,49 Main St,"{'latitude': 40.8309466838594, 'longitude': -73.6871732195625}",95,4.0,11050
+wcwftlB-61XG4ymGTR61aw,SakaMai,157 Ludlow St,"{'latitude': 40.7209536656701, 'longitude': -73.9881407239426}",598,4.0,10002
+ELCnBV5Ie3VnY2q3842Rbg,Toyama Cuisine,6001 7th Ave,"{'latitude': 40.6367299624172, 'longitude': -74.011739641428}",111,2.0,11220
+7HP3Jjx_M0C2Wus00d1Hxw,Rahway Sushi,75 East Cherry St,"{'latitude': 40.6066719717818, 'longitude': -74.27466083318}",51,4.5,07065
+auqBQYuADVdWaTO-RNBeoA,Inakaya,231 W 40th St,"{'latitude': 40.7560432774284, 'longitude': -73.9894882380981}",515,3.5,10018
+qP0rfpzlC8gL_7JeipesRg,Sushi-teria,15 West 33rd St,"{'latitude': 40.748200942411, 'longitude': -73.9856111314031}",106,4.0,10118
+L6R0jz1YiaW-Mi8UW4ibFA,Hot Ginger,73-32 Bell Blvd,"{'latitude': 40.739917, 'longitude': -73.758186}",208,4.0,11364
+yOW3kGkOUHvWhh2vRn8sfQ,Sosaku Japanese Restaurant,6328 Ave N,"{'latitude': 40.61949, 'longitude': -73.91628}",36,3.0,11234
+arkTCB7lvud0giJzTk8Quw,Shoshaku,68 Middle Neck Rd,"{'latitude': 40.78835, 'longitude': -73.7295897}",68,4.5,11021
+2CMgTjJoC3II30mxRy-G8A,Mira Sushi - Queens,153-11 Union Tpke,"{'latitude': 40.7197252, 'longitude': -73.810429}",156,3.5,11367
+8cFOJd4dTkkE7EFUns8kGQ,Ikko Hibachi Sushi Asian Bistro,3938 E Tremont Ave,"{'latitude': 40.82122, 'longitude': -73.81874}",24,4.0,10465
+4QztwpKtBZjtYXNRc1U2ZA,Torigo Japanese Restaurant,196 Jericho Tpke,"{'latitude': 40.72834, 'longitude': -73.70372}",305,4.5,11001
+rl4oh6gazLodmf09MbMjFw,Kome Waza,1275 1st Ave,"{'latitude': 40.76585, 'longitude': -73.95765}",74,4.0,10065
+3adJXvbiqtOF6mmzeGXwWw,Hana Sushi,211 7th Ave,"{'latitude': 40.743446, 'longitude': -73.995788}",203,3.5,10011
+WueXPnaTvM_R5UuPjxbbQw,Amber West Village,135 Christopher St,"{'latitude': 40.733165, 'longitude': -74.006958}",197,3.5,10014
+jCettteufZZP9bAx5Pxovw,19 @ Juku - Omakase,32 Mulberry St,"{'latitude': 40.7146, 'longitude': -73.9995299}",27,4.5,10013
+3VkdV_2H3cwvm3X5imtLxg,Lz Sushi,355 7th Ave,"{'latitude': 40.74826, 'longitude': -73.99239}",83,3.5,10001
+LevaZe9HJHteg4nSp-pt2g,Blue Fin,1567 Broadway,"{'latitude': 40.7593830207211, 'longitude': -73.985327}",944,3.5,10036
+-hmtW2qivl4hTntayl9WLQ,Blu Sushi,26 Wilsey Square,"{'latitude': 40.9795, 'longitude': -74.12223}",76,4.5,07450
+oIPpGBpDdi_Z_7hhXGvW8Q,Kealoha Sushi & Poke Bowl,330 E 53rd St,"{'latitude': 40.7561010455144, 'longitude': -73.9660321176052}",56,4.5,10022
+gDH_inc7otqEi05TGTiaoQ,Ganda Sushi Express,8008 Surrey Pl,"{'latitude': 40.726161, 'longitude': -73.789268}",141,4.0,11432
+8fr5FYU1ip0phERt1mrekg,Bohemian Restaurant,57 Great Jones St,"{'latitude': 40.72639, 'longitude': -73.99236}",711,4.5,10012
+b5RhctSPMRGyKYn-B1zgkw,Toro,1 Front St,"{'latitude': 40.70259, 'longitude': -73.99317}",5,3.0,11201
+2TOtrDhkQjaOJWwJJr0tUQ,Nakata,1775 D Richmond Rd,"{'latitude': 40.58823, 'longitude': -74.103685}",122,3.5,10304
+XuberRcn8B3DhPXTLzab8Q,MOMO Hibachi Steak House & Bar,1901 Emmons Ave,"{'latitude': 40.583724, 'longitude': -73.949334}",202,4.0,11235
+zhkyBId_RIPyiOFE2R1PRg,Nobi Sushi,437 3rd Ave,"{'latitude': 40.7433343, 'longitude': -73.9796567}",174,3.5,10016
+R9jTfyPlnfk23gy8VCCVAg,Shabushabu Macoron,61 Delancey,"{'latitude': 40.71909, 'longitude': -73.99086}",50,4.5,10002
+jva4AMX7zRkNsY3DKX9LlQ,Harajuku Sushi and Crepe,None,"{'latitude': 40.7491302490234, 'longitude': -73.9923629760742}",12,5.0,10001
+NjNTbqiiSmGknApAoo09Mg,Ikura Sushi,646 Grand St,"{'latitude': 40.7111892700195, 'longitude': -73.946418762207}",55,3.0,11211
+ZT4QlKmfN7SO4gbha2BUlg,Humble Fish,35 Lispenard St,"{'latitude': 40.71996, 'longitude': -74.00354}",147,4.5,10013
+jAvZg2HQmiM4bmHk3QJVfQ,Sushi Laco,435 Hollywood Ave,"{'latitude': 40.880697, 'longitude': -74.289429}",140,4.5,07004
+242duaE9aarDFCh_tvsfUQ,Sakura 6,837 Manhattan Ave,"{'latitude': 40.7286796569824, 'longitude': -73.9538269042969}",143,3.5,11222
+ftWoJ47SUF50RTGxH42AHw,Ozu Foods,106 Hutton St,"{'latitude': 40.7449502, 'longitude': -74.0505063}",103,4.5,07307
+icZcEK39HXuL2q08i4EkkQ,Bessou,5 Bleecker St,"{'latitude': 40.725502, 'longitude': -73.992675}",199,4.0,10012
+pZwbV0mQliRfhT2rRXcP9g,Yoshi Restaurant,405 Pearl St,"{'latitude': 40.55569, 'longitude': -74.27842}",158,4.5,07095
+6AD684cLq5kSKSf3naUhcg,Stanford East Sake Bar,43 W 32nd St,"{'latitude': 40.74814, 'longitude': -73.98755}",66,4.0,10001
+gDW2Bmr8NKu46bUXl-Htxg,Totoya Japanese,1144 1st Ave,"{'latitude': 40.7618330054498, 'longitude': -73.9604074075447}",96,3.5,10065
+bS5PXrKty7EExK8tie0GJQ,Tender Steak & Sushi,130 W 47th St,"{'latitude': 40.75844, 'longitude': -73.98306}",278,4.0,10036
+of4mFU1KHz_-vzyDv6n-VQ,XO Sushi,1058 Broadway,"{'latitude': 40.6321711975049, 'longitude': -73.7069690193797}",56,4.5,11598
+ALDQXF4DyuQ-f-fvLNjPcA,Hajime Japanese Restaurant,267 Halstead Ave,"{'latitude': 40.9683599, 'longitude': -73.71321}",83,4.0,10528
+LquYhpTyVPtZf6GP5ADojg,Noribar,326 Kingston Ave,"{'latitude': 40.6679520344528, 'longitude': -73.9425034490738}",17,3.5,11213
+-_kj-IG6iUO_NWp2bIyNeg,Nagomi,179 Prince St,"{'latitude': 40.7264, 'longitude': -74.00196}",99,3.0,10012
+L_DtFV5YgImO_5oo0zvo2Q,Fusha Asian Bistro,452 Main St,"{'latitude': 40.5429233325768, 'longitude': -74.3619989231229}",117,4.5,08840
+-J8VuX3wGrYSOBu2G0hMsw,Katsu-Hama,11 E 47th St,"{'latitude': 40.75638, 'longitude': -73.97759}",1155,4.0,10017
+QGldR7s9_qV_35iGtkcNyA,Asia Harbor,402 Church Ave,"{'latitude': 40.643948, 'longitude': -73.9763473}",75,3.5,11218
+leUrMlisxEWJptEJaWsYpA,Citarella Gourmet Market - Hudson Yards,20 Hudson Yards,"{'latitude': 40.7164977, 'longitude': -74.0089735}",6,4.5,10001
+BYmQjQiBpfII13dksYeTKw,Yellowtail Japanese Bistro,17 Park Ave,"{'latitude': 40.8279495239258, 'longitude': -74.1019058227539}",113,4.0,07070
+VxouUuPQkyZ67qOWJ-aLvw,Sushi Q Japanese Restaurant,1610 Crosby Ave,"{'latitude': 40.84424, 'longitude': -73.83035}",81,3.5,10461
+t-PLynPk_M_MfwMZP7ywGA,Chikurin,1105 Quentin Rd,"{'latitude': 40.6079877, 'longitude': -73.9616862}",121,3.0,11229
+kq7fKh7mOt-ctn8dRHFpEA,Chidori,9709 64th Ave,"{'latitude': 40.7298925, 'longitude': -73.8602819}",113,3.5,11374
+G1HUAEpZcNHXO1V1gLoASQ,Sakura,158-38 Crossbay Blvd,"{'latitude': 40.6596103, 'longitude': -73.8402501}",90,4.0,11414
+ZMn4E-flhwR7O1PfUXS0pw,Sushi Palace,692 Anderson Ave,"{'latitude': 40.82801, 'longitude': -73.98637}",29,4.0,07010
+_yI1qbOFMPoju8nxBi4wbQ,Itamae Japanese Sushi,249-253 Grand St,"{'latitude': 40.718029, 'longitude': -73.994164}",1,5.0,10002
+ekoK9S1f9aG_RcyqP7fWew,Momo Chicken Shack,247 Starr St,"{'latitude': 40.70602, 'longitude': -73.92242}",10,4.0,11237
+xlgGf123WHB7Q6_V4Xe12w,Azuki,700 8th Ave 44th St,"{'latitude': 40.758712, 'longitude': -73.988281}",30,3.0,10036
+hXqf7aEgI4feEzHDpNXHLQ,Poketeria,3 E 36th St,"{'latitude': 40.7496948, 'longitude': -73.9831894}",265,4.5,10016
+odYZoWQ_2qlIzDcdKehPjw,Ichi Sushi,8609 Bay Pkwy,"{'latitude': 40.6014393, 'longitude': -73.9940982}",91,3.5,11214
+e504fvmP35GLc6gUKI-XLg,Osaka Japanese Cuisine,427 Park Ave,"{'latitude': 40.650126, 'longitude': -74.3971461}",40,3.5,07076
+l6ZFhrONGp0b80bxnOFiwg,Ogawa Japanese Restaurant,36 E 4th St,"{'latitude': 40.7271957397461, 'longitude': -73.9922714233398}",78,3.5,10003
+xrkXQcbqyS2T_YC7Box79w,My Sushi,79-20 Eliot Ave,"{'latitude': 40.724807980357, 'longitude': -73.8793373825363}",6,3.5,11379
+6s4jwmGFq4kUAnOyyN772g,Kona Grill,511 US Hwy 1 S,"{'latitude': 40.5562967746236, 'longitude': -74.3113458892936}",563,4.0,08830
+D6XwrFtT-JDBI4RwNKMePA,New Metro Sushi Cafe,11821 Metropolitan Ave,"{'latitude': 40.7069815, 'longitude': -73.8341766}",74,3.0,11415
+7e6fLPB03_xon1vnIQ6gJg,JP Street,52 E 8th St,"{'latitude': 40.73102, 'longitude': -73.99373}",123,3.5,10003
+TuoXbiDqhFBJiyAXpcOLuA,Sushi Kano By Genji,1095 6th Ave,"{'latitude': 40.754754, 'longitude': -73.985006}",9,4.0,10036
+VWGxzW6k5xWsKkqezidjCQ,SushiO Asian Bistro,691 US Hwy 1,"{'latitude': 40.5087748202378, 'longitude': -74.3910295817617}",244,4.0,08817
+rln4dIU0ApGvEEI-Ne2bbA,Chikarashi,1158 Broadway,"{'latitude': 40.74458, 'longitude': -73.98871}",73,4.0,10001
+uR-MqserQgPRQK3aiP6WyQ,Tokyo Ya,5603 7th Ave,"{'latitude': 40.63888, 'longitude': -74.00941}",74,3.5,11220
+GruO4BzCMQviHdY-2D4QYA,Joe's Kitchen,637 Broadway,"{'latitude': 40.669, 'longitude': -74.11435}",42,4.5,07002
+z1R0tUFUZ7RU_kQTlzRsZg,Asian Tokyo,4685 Manhattan College Pkwy,"{'latitude': 40.8910472840381, 'longitude': -73.8982448328066}",44,3.5,10471
+EvAJBgBdgOt1jx1EufRN7w,Jin Ramen,462 Amsterdam Ave,"{'latitude': 40.78534, 'longitude': -73.97695}",776,4.0,10024
+yckkW5iFRiBOWsH3tZTr3Q,Hashi Ramen & Izakaya,192-12 Northern Blvd,"{'latitude': 40.7578101754189, 'longitude': -73.7891612201929}",1034,4.0,11358
+uK7BhMiook9Ij93l-5nEUA,Hanabi,1450 2nd Ave,"{'latitude': 40.771, 'longitude': -73.95636}",93,3.5,10021
+Nukulm8uVSjn0zMWk_u4IA,Sushi-Ann Restaurant,38 E 51st St,"{'latitude': 40.7580919, 'longitude': -73.9745541}",100,3.5,10022
+W0T1M0jh4On28hpXM-aFyA,Sakura Japanese Restaurant,215 Beach 116th St,"{'latitude': 40.5800846, 'longitude': -73.837562}",26,4.0,11694
+jQzwo9CMX7cz3eens0Oqkg,Ariyoshi Japanese Restaurant,56 W South Orange Ave,"{'latitude': 40.746619, 'longitude': -74.2611786}",123,4.0,07079
+Qw7JO4fW8lsoyMVp82qvdg,Tokyo Sushi,2 Glen St,"{'latitude': 40.864016, 'longitude': -73.6317293}",45,4.0,11542
+cOXYWZ_GTX-_ue_kveguRg,SSAM,170 Smith St,"{'latitude': 40.68594, 'longitude': -73.991274}",355,4.0,11201
+Wu9AymEM_RM2cnRPslVlIw,East 21,71-26 Roosevelt Ave,"{'latitude': 40.7464685299281, 'longitude': -73.8940858840942}",72,3.5,11372
+FJIa0eSaMIcAMba1hVYV3A,Sushi Star,462 9th Ave,"{'latitude': 40.75444, 'longitude': -73.99532}",60,3.5,10018
+v6pCwxCiDcFjD6DeMg3zXw,RAWBAR by DOMODOMO,138 W Houston St,"{'latitude': 40.728, 'longitude': -74.0016}",13,4.5,10012
+09y5uyX7z41mjoA9fVF1bQ,Tang Restaurant,196-50 Northern Blvd,"{'latitude': 40.75744, 'longitude': -73.78383}",507,4.0,11358
+btaTXej6hBeJ2PAXU_-z6w,Sakura Garden Japanese Cuisine,531 Warburton Ave,"{'latitude': 40.9944833981706, 'longitude': -73.8825786813049}",80,4.5,10706
+5JYpVoaYkYxrByOskzHAdQ,Niko Niko Sushi & Bowl,133 John St,"{'latitude': 40.707176, 'longitude': -74.004989}",55,3.0,10038
+I4Z8vyaZjbD2aS5xoMeF8Q,Kiku Japanese Restaurant,50 W 55th St,"{'latitude': 40.7623443603516, 'longitude': -73.9770812988281}",85,3.0,10019
+SXi6lU3TF15BhXkTJ5cTFQ,Sakura 4,64-19 Myrtle Ave,"{'latitude': 40.70123, 'longitude': -73.89176}",133,3.0,11385
+r1_1S1T6pSHK0imMjcr4hA,itsu,530 7th Ave (39 & 7) manhattan,"{'latitude': 40.7541, 'longitude': -73.98888}",54,3.5,10018
+flHcoaHEWxACgc-Vk9MsOQ,Jukai,237 E 53rd St,"{'latitude': 40.7572093705873, 'longitude': -73.9678837692742}",149,4.0,10022
+oYAK5hfH0_Y0jyiaasgrjw,Sushi Meshuga,1637 E 17th St,"{'latitude': 40.6098799, 'longitude': -73.95639}",50,4.0,11229
+NLZby3CzzL5tS5oJdXMadA,Sushi Mikasa,1188 Gravesend Neck Rd,"{'latitude': 40.5940853044218, 'longitude': -73.9587914943695}",76,3.0,11229
+K1h1-dbZLgfC4vZSeJfDMw,Akariba,77 N 6th St,"{'latitude': 40.7189722, 'longitude': -73.9608301}",36,4.0,11249
+NLX5qLkupQAQaXmrikjw9A,Joe Asian & Sushi,3319 36th Ave,"{'latitude': 40.75567, 'longitude': -73.92734}",52,3.5,11106
+YC-wGlO0oOkEIaCEDZv-ag,Yakitori Totto,251 W 55th St,"{'latitude': 40.765375, 'longitude': -73.983114}",1240,4.0,10019
+bTyY5yUGlZM_4fWq0dtN8A,Tiga,43 A Main St,"{'latitude': 40.830905599278, 'longitude': -73.6861620039417}",17,4.0,11050
+vLaPRzOr2ChuaMCPRveaAQ,Izumi Sushi,139 W 28th St,"{'latitude': 40.7469787597656, 'longitude': -73.9921646118164}",131,3.0,10001
+KS-DmyDoStti9ZjAWPO53A,Haru Sushi,859 9th Ave,"{'latitude': 40.767242, 'longitude': -73.986618}",71,3.0,10019
+vK7iadpR_2eyb62d0LlviQ,Tomo Japanese Restaurant,4561 Amboy Rd,"{'latitude': 40.54293, 'longitude': -74.16558}",47,4.0,10312
+eHRHRMgh1WyDt79vlJIW0A,Naniwa Sushi,276 Kings Hwy,"{'latitude': 40.605028, 'longitude': -73.98042}",100,3.5,11223
+gy56ohOWU-lBBL6U4HbaMQ,Blue Ribbon Sushi Bar - Rock Center,30 Rockefeller Plaza,"{'latitude': 40.7593755, 'longitude': -73.9799726}",35,3.5,10112
+5w8CYpHKq8oQth42wSpt-g,Ariyoshi,4113 Queens Blvd,"{'latitude': 40.7438180001399, 'longitude': -73.9229787214569}",265,3.5,11104
+TBlI_aZ5_bqhUzJiTDqqxw,Sakuro Tokyo II,354 Myrtle Ave,"{'latitude': 40.6930618, 'longitude': -73.9721451}",72,3.0,11205
+nrxSzq-VxLqD7aFkE4SH3Q,Cocoron,37 Kenmare St,"{'latitude': 40.7207236, 'longitude': -73.9953191}",599,4.0,10012
+DOfTUBz8hVpRxKLluypHUg,Wabi Sabi,407 Broad St,"{'latitude': 40.80736, 'longitude': -74.1921}",184,4.5,07003
+qVlDLz8Ri-ThAFJgYHuQ9A,Omusubi Gonbei,120 E 41st St,"{'latitude': 40.7508187, 'longitude': -73.9769974}",29,4.5,10017
+kN3rkbjvqkY62CDRYUVz4g,Yopparai,151 Rivington St,"{'latitude': 40.71919, 'longitude': -73.98571}",205,4.5,10002
+-0rMc_wb4gi6_sai0SadsQ,Kenta Sushi,39-23 Bell Blvd,"{'latitude': 40.764676048429, 'longitude': -73.7712380290031}",98,4.0,11361
+0-z7VSMGBqqyMyw4vre06w,Sushi Village,3250 Francis Lewis Blvd,"{'latitude': 40.767524, 'longitude': -73.79103}",658,3.0,11358
+Ad3dUoLatOdNtB4LxfmmWg,Yakitori Taisho,5 St Marks Pl,"{'latitude': 40.729535, 'longitude': -73.9892642}",1535,3.5,10003
+s8fqj5tqibEsRGXHMxhOEQ,Pokeworks,21 E 15th St,"{'latitude': 40.73626, 'longitude': -73.99183}",291,4.0,10003
+qI86P6EBB0_9qC4uIT0j-Q,Niko Niko Sushi,700 Plaza Dr,"{'latitude': 40.785815, 'longitude': -74.045326}",87,3.0,07094
+5zO24ZKYVnca0jbY2gpIzw,Hudson Sushi,4525 Broadway,"{'latitude': 40.77794, 'longitude': -74.01825}",85,4.0,07087
+frqlGMVgi2oyJCK7SNq1iQ,Fujiyama Japanese Restaurant,7307 13th Ave,"{'latitude': 40.62118, 'longitude': -74.00632}",68,3.5,11228
+ym21beAL2bMKOrt9QiYY8g,Sushi Sen-nin,30 E 33rd St,"{'latitude': 40.74676, 'longitude': -73.98289}",163,3.5,10016
+z3TwiFWdJUvY9tW8QMEseQ,Taco Dumbo,56 Prospect St,"{'latitude': 40.700601, 'longitude': -73.988467}",132,4.0,11201
+AAPJkyU0Y7Aci0RZBdJONg,Shokunin BBQ,952 60th St,"{'latitude': 40.6332876204455, 'longitude': -74.0062164404754}",59,2.5,11219
+Xb-NlVV5gYKX2Amd_WeWoQ,Tanoshi Bento,1372 York Ave,"{'latitude': 40.7676299, 'longitude': -73.95296}",62,4.0,10021
+ejmJTjHzdMxoq3t7pnnjrg,Naoki Takahashi,311 W 17th St,"{'latitude': 40.74196, 'longitude': -74.0015899}",115,4.0,10011
+P_UREWCQxEYVbBa-KW_Wew,EN Japanese Brasserie,435 Hudson St,"{'latitude': 40.7306, 'longitude': -74.00698}",1210,4.0,10014
+JUPxlDVMxuRSsqMcH6RCVg,Mitsuwa Marketplace,595 River Rd,"{'latitude': 40.8158107608922, 'longitude': -73.9801246070119}",1519,4.5,07020
+0zvo5YGRwC8FB7zwHi_Wig,Sushi You,21505 73rd Ave,"{'latitude': 40.740801, 'longitude': -73.759109}",187,4.0,11364
+vAxm4dekBCfaRNoBYbx6OQ,Katsu-Hama,45 W 55th St,"{'latitude': 40.76254, 'longitude': -73.97677}",480,3.5,10019
+DWUGmKmYQgIOFymkF5bKEw,Black Sushi,719 8th Ave,"{'latitude': 40.7594299, 'longitude': -73.9883728}",55,3.5,10036
+Xk2zYFCknLOIZRv8T9z-Dw,Sakura Tokyo,604 Nostrand Ave,"{'latitude': 40.6779, 'longitude': -73.94989}",208,3.0,11216
+f0CAuvkgAByWo4ceT3u9uw,Kobeyaki,110 W 40th St,"{'latitude': 40.7536811828613, 'longitude': -73.9859237670898}",281,3.5,10018
+DV-_LHDh_qQpYBkyRNOBew,Momiji Japanese Restaurant,261 Halstead Ave,"{'latitude': 40.96823, 'longitude': -73.7135}",34,4.0,10528
+nsgnjPtxQTD2h-wPQWjuDA,Asahi Sushi,506 Livingston St,"{'latitude': 40.9990672651173, 'longitude': -73.9540168860891}",63,4.0,07648
+7gXgfECmBH2AKSgF-c_USA,Toyo Japanese Cuisine,73-06 Metropolitan Ave,"{'latitude': 40.7125555, 'longitude': -73.8789931}",85,3.5,11379
+n__OTgSC8wHY1jbabg6VRA,Hinari Sushi,245 Morris Ave,"{'latitude': 40.7110681, 'longitude': -74.3119458}",67,4.5,07081
+OZw7uy4wQyOUNF6gYC56sg,Ku Asian Bistro,480 New Rochelle Rd,"{'latitude': 40.9288885066266, 'longitude': -73.8102234172688}",84,4.0,10708
+zyG1GIU3KnIZ3bOVGgJXlA,Uncle Luoyang,928 Amsterdam Ave,"{'latitude': 40.80023, 'longitude': -73.96626}",108,3.5,10025
+rMH3oMiFNvUQgJ12pBzqEA,Kim's Chinese & Sushi Takeout,3712 E Tremont Ave,"{'latitude': 40.82687, 'longitude': -73.8227}",12,3.5,10465
+egj-Wx-beN1YUhreslnQpw,TOKU,2014 Northern Blvd,"{'latitude': 40.7960068581676, 'longitude': -73.6740023240314}",337,3.5,11030
+Xfx5MCkghFKEWZ8umGMpIA,Sushi Suki,1577 York Ave,"{'latitude': 40.774562, 'longitude': -73.948486}",145,3.5,10028
+sYQ6fEQm5akGeURh1V1L9Q,Dongwon Sushi & Tuna,41-19 162nd St,"{'latitude': 40.7608166, 'longitude': -73.8038933}",48,3.5,11358
+VzstANC68PM1BbyOcDXEtw,Donburiya,253 W 55th St,"{'latitude': 40.76528, 'longitude': -73.98326}",248,4.0,10019
+oRPDV_LGdTLwFOhmyaSK0w,Arigato,581 High Mountain Rd,"{'latitude': 40.9571058399569, 'longitude': -74.1826003789902}",95,4.0,07508
+B4lyOEspBuxeS6d1_bKphA,Cactus,4 1/2 1/2 Railroad Ave W,"{'latitude': 40.9243878, 'longitude': -73.9651073}",38,4.5,07670
+jhyg04zQZqW_HWLq5qjsMQ,Snowfox Cafe,24 E 23rd St,"{'latitude': 40.74056, 'longitude': -73.98799}",107,3.5,10010
+Ms1p17KsYteDlkvHnllC2g,Soba Totto,211 E 43rd St,"{'latitude': 40.75122, 'longitude': -73.97317}",831,4.0,10017
+Jknvr_-Ys6D_riZptBadsA,Sarku Japan,815 Hutchinson River Pkwy,"{'latitude': 40.8234938157168, 'longitude': -73.8379064003517}",30,4.0,10465
+mHBhUxHgDGjsB1LJl4qW0w,Hillstone Restaurant,153 E 53rd St,"{'latitude': 40.7582412110122, 'longitude': -73.9688767764436}",1027,4.0,10022
+bnaeQCoBiQ7a5IfyBkrGCg,MIFUNE New York,245 E 44th St,"{'latitude': 40.75157, 'longitude': -73.97172}",131,4.0,10017
+9oVhHWiVsOYONGd729QJag,Sushi Kaiyo,92 Main St,"{'latitude': 40.74171, 'longitude': -73.63842}",37,4.5,11501
+xTt0A8bfOB7XZUFbnEdR0A,Tomo Sushi - Grill,642 Mclean Ave,"{'latitude': 40.9091545055549, 'longitude': -73.8787972927094}",137,4.0,10705
+8y8_xwiaBtCVYA4Jjx-5AQ,Pokébāb,209 Bedford Ave,"{'latitude': 40.71683, 'longitude': -73.95866}",145,4.5,11211
+7YhT9pqVmMpsWiWGFmQZrw,Ika Sushi,8512 Bay Pkwy,"{'latitude': 40.602436, 'longitude': -73.993751}",44,3.0,11214
+qAfpHbb4ww_VAGEgTL4B3A,Carroll Gardens Fish Market,359 Court St,"{'latitude': 40.68185, 'longitude': -73.996}",33,4.0,11231
+e2n86ZvOhISyb0TssZA2EQ,Sushi Cafe,555 Passaic Ave,"{'latitude': 40.84991, 'longitude': -74.29787}",93,4.0,07006
+IdZ5DnGnAEXcmz2jZXGFiQ,Hiroshi Japanese Fusion,585 3rd Ave,"{'latitude': 40.74836, 'longitude': -73.97585}",183,3.5,10016
+Gp3K-AFm3Ap8WG5R0nF7DQ,Mikado,525 6th Ave,"{'latitude': 40.73727, 'longitude': -73.99723}",135,3.0,10011
+BWkS32tuCsRi8pB2UnF8Xg,Akura Sushi,39 E 31st St,"{'latitude': 40.7456665039062, 'longitude': -73.9833145141602}",109,3.0,10016
+AqDXjw-mdtknK5PIWw7Wjg,Koro Koro,538 Jersey Ave,"{'latitude': 40.7212435019165, 'longitude': -74.0462404903579}",190,4.0,07302
+1lCFaudArXh113ne2ybaGw,Nagoya Japanese Restaurant,236 W Park Ave,"{'latitude': 40.58807, 'longitude': -73.67118}",43,4.0,11561
+i8ejDDR4COtukAAA1Ls5fw,Soba-ya,229 E 9th St,"{'latitude': 40.7296485900879, 'longitude': -73.9878845214844}",1398,4.0,10003
+DWeF72w6uXz6OV4LM1qi9w,Yuki Hana Japanese Restaurant,300 Main St,"{'latitude': 40.749556221791, 'longitude': -74.398955470262}",94,4.0,07940
+pe0kLJDb7DEWSKCbOS8D2g,Otaiko Hibachi & Sushi Lounge,125 Lefante Way,"{'latitude': 40.66791160879, 'longitude': -74.1027513470826}",157,4.0,07002
+yo7mGqRD7UXJoCzcRCHhIg,Wasabi34,392 Rte 34,"{'latitude': 40.4231246283672, 'longitude': -74.268502}",77,3.5,07747
+G_C-murI79nWDtR10h14XA,Frenasia,16335 Crossbay Blvd,"{'latitude': 40.651392, 'longitude': -73.837518}",199,3.0,11414
+3LQD4aB3UYPteZfsyglV4w,Jin Sushi & Thai,1708 E 16th St,"{'latitude': 40.6081597222155, 'longitude': -73.9574643192272}",78,4.0,11229
+-FSwYW_xV__5KHTIc56B0Q,Rice K,29-21 23rd Ave,"{'latitude': 40.774743, 'longitude': -73.913172}",71,4.0,11105
+ximYJ5yL5XEPoDx4NqayTQ,Sakura,124 Fifth Ave,"{'latitude': 40.91284, 'longitude': -73.80861}",62,4.0,10803
+D9sVruGgjWFo7ABSBaMSmw,Arigato,1034 River Rd,"{'latitude': 40.83007, 'longitude': -73.97232}",271,4.0,07020
+eultmfyScNW-KoYI0-m9uw,Wow Sushi,201 N Long Beach Rd,"{'latitude': 40.6607388, 'longitude': -73.6290512}",19,4.5,11570
+jViyh5zAu5AwU97OjNzHZA,Zenzo Sushi,330 Mamaroneck Ave,"{'latitude': 40.95112, 'longitude': -73.73548}",120,4.0,10543
+O-JNp80M1k1Vg6ccdzMmCw,Oishi Sushi,75 Main St,"{'latitude': 40.8803895, 'longitude': -74.0440408}",125,4.0,07601
+iiZpFWVd1Cmd-cSOanmXAA,Fusha Asian Cuisine,1065 1st Ave,"{'latitude': 40.75915, 'longitude': -73.96252}",193,3.5,10022
+HvgrpROomwRg-pATqaV8oQ,Ajisai Japanese Restaurant,615 9th Ave,"{'latitude': 40.7594744, 'longitude': -73.9920708}",440,3.5,10036
+xA1qtuegpy7skuVLb-CkQA,Aji Sushi,519 3rd Ave,"{'latitude': 40.7461051940918, 'longitude': -73.9775238037109}",176,3.5,10016
+lAe8o_RXnUSFYzBV8hZkYA,Shiro of Japan,8040 Cooper Ave,"{'latitude': 40.7094144437171, 'longitude': -73.8684068146203}",217,3.5,11385
+JhJLPp6KuBcD3CHCkEKJ_A,Cocoron,16 Delancey St,"{'latitude': 40.72031, 'longitude': -73.99305}",949,4.0,10002
+wDRgZ1i7xcJ51xgtfO-fxQ,Asura Asian Bistro,235 W 35th St,"{'latitude': 40.7522492, 'longitude': -73.991222}",302,3.5,10001
+0CXOlOPhQSSg3lSs27GOTA,Joyo Asian,79-17 Myrtle Ave,"{'latitude': 40.70302, 'longitude': -73.87014}",4,5.0,11385
+jAeNN05URRe9_CmGc0ssEA,Sushi Lounge,200 Hudson St,"{'latitude': 40.73865, 'longitude': -74.02957}",323,3.5,07030
+61JIVs4L3wmP1j4vJar1Tg,Saku,936 Park Ave,"{'latitude': 40.7482982, 'longitude': -74.0305929}",61,3.5,07030
+cVgEY8-YcuApmbCbXhlJnA,Sakana Japanese Cuisine,200 State Rte 10,"{'latitude': 40.8083141, 'longitude': -74.376953}",105,3.5,07936
+Y-HSfp8zzvzg7zXPmR8V_Q,Kumo Japanese Cuisine,434 Dogwood Ave,"{'latitude': 40.69551, 'longitude': -73.66724}",95,4.5,11010
+t6G2s64SQ5741mcppyiR-w,Misaki Sushi,81 N Beverwyck Rd,"{'latitude': 40.8819794646148, 'longitude': -74.3822334844403}",33,3.5,07034
+fbEvcz6XUWsFWY1Ew9rgFw,Takei Sushi,166 Mountain View Blvd,"{'latitude': 40.91496, 'longitude': -74.26826}",30,4.5,07470
+EG8MnctXEOXkm7b_yge7Pw,Osakana,290 Graham Ave,"{'latitude': 40.71224, 'longitude': -73.94376}",36,4.5,11211
+zt1CkOXxAjMqlompybpTmg,Sabi Sushi,1 New York Plaza,"{'latitude': 40.702064, 'longitude': -74.012242}",13,2.0,10004
+AnrLdpW6G-tXQ7xhBYiA5g,Azasu,49 Clinton St,"{'latitude': 40.719758, 'longitude': -73.985011}",114,4.0,10002
+S-GjbdY-g1wWJqDXUNR9hA,Kisoro,227 Old Country Rd,"{'latitude': 40.743647, 'longitude': -73.6125909}",127,3.5,11514
+yABDHEe69bBqcjxLtfY0Ag,Ninja Japan Teriyaki & Sushi,1920 Church Ave,"{'latitude': 40.64988, 'longitude': -73.96146}",7,4.0,11226
+m2pPu3OjnuGv0EMgIp6c9g,Kyoto Sushi 8,537C Inman Ave,"{'latitude': 40.598554, 'longitude': -74.325065}",47,4.0,07067
+vSBQVNVNTACunl_yIMT7ZQ,Fusion D'Lite,348 North Ave,"{'latitude': 40.653579, 'longitude': -74.325321}",139,4.5,07027
+YDcm61sM_BP_FKmFLgoPAw,Ohana,500 City Island Ave,"{'latitude': 40.85233, 'longitude': -73.78896}",122,3.5,10464
+LRyA5LakzQpv1t6pX-AcGg,Omakasa,31 W 52nd St,"{'latitude': 40.7607927244645, 'longitude': -73.9783116057515}",120,3.5,10019
+lDNiL1R3c0WMUI9jocJOzA,Arbor Bistro,226 W Houston St,"{'latitude': 40.7287, 'longitude': -74.00485}",128,3.5,10014
+7oPmGC2fDsVXLodiuhEMAg,Mr. Wasabi,4232 Bell Blvd,"{'latitude': 40.7621359, 'longitude': -73.770445}",183,3.5,11361
+IuMvrvXTTZm4NQYO1O1dbg,Kuma NYC,1520 Myrtle Ave,"{'latitude': 40.699183, 'longitude': -73.91304}",33,4.0,11237
+YjV1J7aw37hod7F1PglxGQ,EDO Sushi,226 Merrick Rd,"{'latitude': 40.6588867557552, 'longitude': -73.6675260588527}",91,4.0,11563
+5UxJoqkdYrUEjArx8YITMw,Atlantic Grill,49 W 64th St,"{'latitude': 40.7720766219859, 'longitude': -73.9814548431266}",547,3.5,10023
+FizBsTIAJwNrImIG1mPDcg,Barn Joo,35 Union Sq W,"{'latitude': 40.73684, 'longitude': -73.99069}",1424,4.0,10003
+sbx5RvhARtDs3Vy4DK9MOg,Kyoto Sushi & Hibachi Restaurant,2389 Hwy 36 N,"{'latitude': 40.405817, 'longitude': -74.005884}",41,3.5,07716
+1AVWDNVlQGD4oo41jHyPUw,Hiroto Japanese Restaurant,75 5th Ave,"{'latitude': 40.6804182, 'longitude': -73.9775044}",45,2.5,11217
+HuOcAM_ST_V2igUPo6D9pA,Food For Life,270 Old River Rd,"{'latitude': 40.80975, 'longitude': -73.99042}",50,4.5,07020
+Eqz2pL3xHnr_72fxDXa2IQ,Pokebab,80 Broad St,"{'latitude': 40.70426, 'longitude': -74.01172}",44,4.5,10004
+aBcQo4Xy-Lcf3JfVcn94XA,Mizumi,231-10 Northern Blvd,"{'latitude': 40.76357, 'longitude': -73.749}",1119,3.5,11362
+7USePx0k_ENmwrw625X9kA,Dashi Noodle House,66-41 Fresh Pond Rd,"{'latitude': 40.70772, 'longitude': -73.89722}",73,3.5,11385
+0IlPgT9j_85PuLDs8ZqiUw,BentOn Cafe,156 E 45th St,"{'latitude': 40.7527802459225, 'longitude': -73.9735173882912}",148,3.5,10017
+xtxcAUvrD4dWHJd0cwvW1A,JeJu Noodle Bar,679 Greenwich St,"{'latitude': 40.73304, 'longitude': -74.00734}",345,4.5,10014
+sLxHi6kOAEV6iqr45jzb_Q,B Flat,277 Church St,"{'latitude': 40.7185644131449, 'longitude': -74.0048434404755}",346,4.0,10013
+C69uTzoWFaIWcpnYf2LbRw,ROKC,3452 Broadway,"{'latitude': 40.8235051, 'longitude': -73.9522425}",344,4.5,10031
+a47ooa7Ct3XvAzNJns23AA,Mr Bin Sushi & Grill,123 N Union Ave,"{'latitude': 40.6578606793659, 'longitude': -74.3032486303629}",188,4.5,07016
+BJT8aEHbK538gJ8Cx8AQVQ,Red Moon,132 W 45th St,"{'latitude': 40.7570981129815, 'longitude': -73.9843700704449}",87,3.5,10036
+Qb6w1PSBwxd9rvmhcSlbYw,Kyoto Sushi,78 Washington Ave,"{'latitude': 40.9388902, 'longitude': -73.9943476}",89,4.5,07628
+FskWi1kY1NeobSgx7-wGyg,Wasabi Japanese Cuisine,7222 18th Ave,"{'latitude': 40.6148376464844, 'longitude': -73.9949111938477}",139,2.5,11204
+yono7ZJcU1KiqfC-xUMaIA,Japan Village,934 3rd Ave,"{'latitude': 40.65597, 'longitude': -74.00641}",162,3.0,11232
+aJkb_Ek9iZJUKgH5-cu7wQ,Nori Sushi,55 New Dorp Plz,"{'latitude': 40.5738067626953, 'longitude': -74.1175994873047}",80,4.0,10306
+r3nEXQGsPDKTmb-ZfaKzjg,Sushi Ya,2311 Jericho Tpke,"{'latitude': 40.7412575, 'longitude': -73.6628436}",163,4.0,11040
+7HJrtpB0mo8tndvxOkN31w,Kitaro,510 Amsterdam Ave,"{'latitude': 40.78685, 'longitude': -73.97585}",128,3.0,10024
+aMUu0H6jsUDqdmSuAZeZsg,Ajisen Ramen,14 Mott St,"{'latitude': 40.7141461347865, 'longitude': -73.9986339460327}",349,3.5,10013
+E-PHQpuEb0M40N5RtMmEiA,Mado Japanese Restaurant,95-16A Queens Blvd,"{'latitude': 40.7299029285815, 'longitude': -73.8615000620484}",87,3.5,11374
+pFUZEEN4B-yp0785xHyoqA,Kumo Sushi II,512 Court St,"{'latitude': 40.67636, 'longitude': -73.99908}",74,3.5,11231
+h8vOeyK0ubtWS75B1McYxQ,A Canaan,154 W 29th St,"{'latitude': 40.74736, 'longitude': -73.99231}",167,3.0,10001
+jho1TctWYD-IZoWhkxqGLw,Poké Fun,334 W 37th St,"{'latitude': 40.7547, 'longitude': -73.99375}",105,4.5,10018
+PM42_e8Qg3NNHFsy6pdFow,Fuki Sushi,828 Kinderkamack Rd,"{'latitude': 40.93634, 'longitude': -74.030715}",123,4.0,07661
+caQy6qyVm5M_fXFoJWTbRQ,Lee's Sushi,1475 Rt 23,"{'latitude': 40.9340763642015, 'longitude': -74.2703051525518}",125,4.0,07470
+eX1l0ZlqaHbkWz5dOmPt4A,Fuji East,455 Main St,"{'latitude': 40.759060669975, 'longitude': -73.9523682767591}",123,3.0,10044
+9DkAy0JPzPqeL53VBKFG2g,New Tokyo Sushi Bar,23-10 Broadway,"{'latitude': 40.9224472, 'longitude': -74.1122894}",48,4.5,07410
+zJnVdASxGhrQwZ5yHmQtLg,Matsu Sushi,3411 30th Ave,"{'latitude': 40.765756, 'longitude': -73.918409}",155,3.5,11103
+tQiNC90K4ebVAglXcqx1Iw,Sushi Family,3548 Union St,"{'latitude': 40.764202, 'longitude': -73.828269}",126,3.5,11354
+3FK3d4A_w0k-KRBPzxPXZA,Drunken Fish Sushi & Lounge,5235 Metropolitan Ave,"{'latitude': 40.713527, 'longitude': -73.913078}",58,3.0,11385
+McAV86dWnAAfdGEfOt6BYw,Sushi Take Out Enjoy,171-15A Northern Blvd,"{'latitude': 40.7581089031825, 'longitude': -73.7952290475369}",55,4.5,11358
+TBPoZ9bESX0YnIZ0uKjX_w,Ennju,20 E 17th St,"{'latitude': 40.73727, 'longitude': -73.99124}",226,3.5,10003
+CKhq5LjbkzPjrYP_mP7X2g,Sakura Japanese Restaurant,371 Franklin Ave,"{'latitude': 41.0096054077148, 'longitude': -74.1706314086914}",102,4.0,07481
+VY_Zo4OofWTwI72hzb6iYw,Tokyo Sushi Japanese,1710 Victory Blvd,"{'latitude': 40.6130951, 'longitude': -74.1206074}",52,3.5,10314
+klNCF8YE03ScMJqbvgT5Gw,Nana Sushi,511 3rd Ave,"{'latitude': 40.745989, 'longitude': -73.977688}",198,3.5,10016
+xfL-WELMbr1-sV5JCQOoxg,Sakae Sushi,2727 Morris Ave,"{'latitude': 40.7052093744278, 'longitude': -74.2960940301418}",77,4.0,07083
+hmpim7DjbEBiNPKSlWpcTQ,Aizumi Sushi,283 Broome St,"{'latitude': 40.71842, 'longitude': -73.99148}",5,3.5,10002
+Xin_wedns7o3-SgCke1b0w,Fuji Sushi,1115 Hylan Blvd,"{'latitude': 40.598824, 'longitude': -74.079779}",65,3.0,10305
+qrmJEXqQXfDUHQHThHt8Uw,U 1 Sushi,5 Paterson Ave,"{'latitude': 40.8816123, 'longitude': -74.2272422}",75,4.0,07424
+B_kcyXzmkJlFI9pSl7PHvw,Restaurant Ukiyo,239 E 5th St,"{'latitude': 40.72699, 'longitude': -73.98922}",53,5.0,10003
+OE93VxEkQSRQDJkIHNmqJQ,Sushi Donut Shop,43 E 34th St,"{'latitude': 40.7477, 'longitude': -73.98239}",1,2.0,10016
+U_Efstw7iLb-QrV5L9SqbQ,Sushi Koshi,109 Watchung Ave,"{'latitude': 40.8305414, 'longitude': -74.2059652}",119,4.0,07043
+ehUuSk5gPTCQmwS_ubgKRA,Upstate,95 1st Ave,"{'latitude': 40.7263139141197, 'longitude': -73.9864901976935}",1690,4.5,10003
+tEKxAitFfYl4uYexZtiNNw,Mitoushi Sushi Asian Fusion,2478 Coney Island Ave,"{'latitude': 40.5965, 'longitude': -73.96146}",58,3.5,11223
+fe_MehZoSHoev9uxc7I2RQ,Mizu Hibachi Japanese Fusion,240 Page Ave,"{'latitude': 40.518341, 'longitude': -74.235389}",67,3.5,10307
+Z-KV06jQbPovawp9dJD3vA,Fukusuke,304 E 49th St,"{'latitude': 40.75394, 'longitude': -73.96864}",53,4.0,10017
+FVHmsjbyhrbchOJrhZlHDQ,Behind the Waves,108 Central Ave,"{'latitude': 40.73819, 'longitude': -74.05436}",16,4.0,07306
+hHzngEBZs7iLE42Zv3MHXg,Resobox  East Village,91 E 3rd St,"{'latitude': 40.72482, 'longitude': -73.98779}",2,4.5,10003
+oc8J6lk1Mfa-8RIwQ4NDgw,Pokeworks,117 E 41st St,"{'latitude': 40.75099, 'longitude': -73.97679}",184,4.0,10168
+vw8e7QV4XDc_xViMLARqwQ,RESOBOX,41-26 27th St,"{'latitude': 40.7511464, 'longitude': -73.939074}",129,4.0,11101
+Jn_p5WaprUY3Ql_539gsWw,M&J Asian Cuisine,600 E 14th St,"{'latitude': 40.7292851717997, 'longitude': -73.9780369922164}",32,4.0,10009
+YIYetgfNE34G8JhQu98XQw,Ozen,760 Amsterdam Ave,"{'latitude': 40.7948819801249, 'longitude': -73.9700052707462}",177,3.0,10025
+enDIsmxSG2bQccQWgGNcbg,Takumen,5-50 50th Ave,"{'latitude': 40.74259, 'longitude': -73.9546699}",167,4.0,11101
+1yOKA7WxrkY0i2xvxc7k_g,Kiraku Japanese Restaurant,127 Glen Head Rd,"{'latitude': 40.834783, 'longitude': -73.62391}",65,4.0,11545
+oiioWBcVxFZMxHHbfV1vFQ,Yuki Hana Japanese Restaurant,1370 Rt 23 N,"{'latitude': 40.9956337622301, 'longitude': -74.350968003273}",64,3.5,07405
+c869kkUkjPM5nSGeJqVosg,Ooki Sushi,1575 3rd Ave,"{'latitude': 40.78029, 'longitude': -73.95254}",245,3.5,10128
+QJCzZzfHBd1rSZ3n2j-xgg,New Nagoya Sushi,5786 Mosholu Ave,"{'latitude': 40.90534, 'longitude': -73.89781}",21,3.0,10471
+cLxp5gIPWIhmvpmdPo7BsA,969 NYC Coffee,37-61 80th St,"{'latitude': 40.74779, 'longitude': -73.88553}",210,4.5,11372
+OQ4hin0Zd6UBfWyTfAVrKQ,Sushi Castle,36 Mill Rd,"{'latitude': 40.9562852, 'longitude': -73.8112208}",195,3.5,10709
+nJh1ioLcN6XBQEstR6x9yw,Dai Hachi Sushi,46-18 Vernon Blvd,"{'latitude': 40.74633, 'longitude': -73.95319}",73,4.5,11101
+nQQYMs5s59OrYSbE0Lms4w,Wild Wasabi,460 Livingston St,"{'latitude': 40.9977716, 'longitude': -73.9548127}",37,4.0,07648
+LHcpOjPtc8QQCrFiRFjWyA,Slow Loris,556 Flatbush Ave,"{'latitude': 40.6601311, 'longitude': -73.9607934}",61,4.0,11225
+lESxFswvOPUFUzj6HsTnqw,Sons of Thunder,204 E 38th St,"{'latitude': 40.74786, 'longitude': -73.97589}",710,4.5,10016
+8HFg0ncKTHyZcP6aBWzeIg,Fhoo Asian Bistro,294 Sunrise Hwy,"{'latitude': 40.6570849, 'longitude': -73.6433946}",180,4.0,11570
+e4V1FyyinsugJiNYlPbjRA,Sushi Citi,2501 Jackson Ave,"{'latitude': 40.74706, 'longitude': -73.9440599}",6,4.0,11101
+myaXQ4VgKAZhc3_kDgOPdQ,Hibachi Express & Sushi,110 S Broadway,"{'latitude': 40.4837761, 'longitude': -74.2804689}",67,4.5,08879
+JCWMlkBqLxbAAK9-FQXTmg,Kushi Izakaya,1934 86st,"{'latitude': 40.6053, 'longitude': -73.99972}",41,3.0,11214
+wvPrDFgR4PoyoXoQ71cAvQ,Jenny's Japanese Cuisine,447 Springfield Ave,"{'latitude': 40.7182216715171, 'longitude': -74.3604836404755}",37,4.0,07901
+yBIxpidB7TzMRZogAucvfg,Happy Kitchen,80-12 37th Ave,"{'latitude': 40.7494341, 'longitude': -73.8859037}",90,3.5,11372
+GlPJPpKvPR4d8dmcSEYpdA,Takahachi Bakery,25 Murray St,"{'latitude': 40.71393, 'longitude': -74.00822}",830,4.0,10007
+U6kLMaDnq6tBD83U0YHshg,Fushimi Todt Hill,2110 Richmond Rd,"{'latitude': 40.581292, 'longitude': -74.111488}",173,3.5,10306
+V0iszuSRO9V-uZ8QIzuLBA,Kasumi Sushi & BBQ,1870 86th St,"{'latitude': 40.606042, 'longitude': -74.001078}",60,3.5,11214
+qJ66pLOdzT8Y3iuVCHkGRw,Akina Sushi,424 E 14th St,"{'latitude': 40.730598, 'longitude': -73.981544}",132,3.0,10009
+4Eziz-iTjfj_pgxTo-StrQ,Bamboo Sushi,1280 1st Ave,"{'latitude': 40.7656397370609, 'longitude': -73.9573489797623}",112,3.0,10065
+8cyRl5HIQzbkYD7orq223g,SHI,4720 Center Blvd,"{'latitude': 40.745979, 'longitude': -73.957094}",765,3.5,11109
+wUKR0A14ZwXfHDLjtiaT_g,Kaya Asian Fusion Bar,334 N Main St,"{'latitude': 40.884845, 'longitude': -74.082191}",74,4.5,07644
+ieXKc6S3WlEiVkyxgaF9Ig,Tempura Matsui,222 E 39th St,"{'latitude': 40.74819, 'longitude': -73.97467}",108,4.5,10016
+X6ftLqOVrSnk4k65AEJmrA,Sons of Thunder,225 Pearl St,"{'latitude': 40.7073200234724, 'longitude': -74.005784262168}",46,4.0,10038
+vWQLcEnV7qwHPJvKOcxR5w,Ninja 86 Sushi,2274 86th St,"{'latitude': 40.6006799, 'longitude': -73.99208}",40,4.0,11214
+PvYV6GOblMJlc-BurVwbsw,Sushi Kin,37-04 Ditmars Blvd,"{'latitude': 40.7736996, 'longitude': -73.9075103}",1,5.0,11105
+yFnvBuOaMVy6_HqCnUl1Tg,Tairyo Japanese Fusion,7407 3rd Ave,"{'latitude': 40.63186, 'longitude': -74.0274699}",38,4.5,11209
+zJcxZQbTSAP3q4Fy-6WAyw,Shalom Japan,310 S 4th St,"{'latitude': 40.7091679, 'longitude': -73.9558028}",247,4.0,11211
+vXgLuTESrCm6A4yY3KQ4Cg,Eastern Sushi,351C Matawan Rd,"{'latitude': 40.430097, 'longitude': -74.251757}",47,4.0,07747
+2C2xXOJUvvWfNSw0nlcg4w,Kyoto Sushi V,418 Forest Ave,"{'latitude': 40.63074, 'longitude': -74.10327}",39,3.5,10301
+nAFhhGRLt5Ty9MJY50RsaQ,Asian Fusion Grills & Sushi,4900 Bergenline Ave,"{'latitude': 40.78223, 'longitude': -74.02098}",161,4.0,07087
+t9FxcPM6oq_GZ2KXoQUFBg,Yamato,1209 Forest Ave,"{'latitude': 40.62666, 'longitude': -74.13027}",2,4.5,10310
+7NTPRkc7JN3HWT8AvWkINw,Sushi Tokyo,627 Kings Hwy,"{'latitude': 40.6060865018953, 'longitude': -73.9657768732403}",111,3.0,11223
+frjMUU8VpT6Ou0y7TWEgYw,Hana,10-12 W 51st St,"{'latitude': 40.7595357525026, 'longitude': -73.9776032938552}",2,4.0,10111
+jFhD3GansBI-NbA7Zj1Uew,Cherin,306-308 E 6th St,"{'latitude': 40.7269931, 'longitude': -73.9880779}",241,3.0,10003
+i_q57YjbX1ZZkV4fP1KloQ,Daruma Japanese Restaurant,45 N Dean St,"{'latitude': 40.8951568603516, 'longitude': -73.9731292724609}",113,4.0,07631
+TZHSUURWoKgRBbIjAeRMig,Taku Asian Bistro,100A 7th St,"{'latitude': 40.72437, 'longitude': -73.63706}",59,4.0,11530
+P0rEjLNdavq9bTJm1phqFg,East Japanese Restaurant,1405 Teaneck Rd,"{'latitude': 40.89985, 'longitude': -73.99941}",298,3.5,07666
+HTSixmAcFMQA_k6Ct8L4BA,Kotobuki Restaurant,1530 Old Northern Blvd,"{'latitude': 40.8039153463959, 'longitude': -73.6450933491492}",366,4.0,11576
+Uoic12Je-GLfRp3D3Klp5g,Umi No Ie,86 E 3rd St,"{'latitude': 40.724637, 'longitude': -73.988227}",149,4.0,10003
+D9nQb14gqhCAOaUUvJz3-Q,Reserve Cut,40 Broad St,"{'latitude': 40.7059085, 'longitude': -74.011808}",248,4.0,10004
+7VqMGK9uwi0vKqOjdKyIUA,Catch NYC,21 9th Ave,"{'latitude': 40.740227, 'longitude': -74.006341}",2012,3.5,10014
+NQbh8zKPqILV6WeYSOM-yQ,Makana Hawaiian & Japanese BBQ,2245 1st Ave,"{'latitude': 40.79568, 'longitude': -73.93599}",154,3.5,10029
+Lla_q_Wdm732dKjAlAHMxQ,Style Sushi,1018 Stuyvesant Ave,"{'latitude': 40.6969598518114, 'longitude': -74.2691238551736}",146,3.5,07083
+FBoAlwAKsg40rF9IDc_hzA,Mitsuba Japanese Cuisine,237 Main St,"{'latitude': 40.7403717041016, 'longitude': -74.3819427490234}",85,4.0,07928
+IzY4xwbY7YqPoL_-xCSeRA,Wisefish Poké,263 W 19th St,"{'latitude': 40.74281, 'longitude': -73.99967}",407,4.0,10011
+Bc8ZNi6gxhyxw_9lGSS8VA,Hana Traditional Japanese Cuisine,14 Haven Ave,"{'latitude': 40.82995, 'longitude': -73.6884}",53,4.0,11050
+H7zi5B1g3kKd4WC8vItbKg,GoFish Sushi Box,570 Lexington Ave,"{'latitude': 40.75686, 'longitude': -73.97228}",2,3.5,10022
+_FhKGcCbiYgtkXcCiwTAiA,Aburiya Kinnosuke,213 E 45th St,"{'latitude': 40.752583, 'longitude': -73.972274}",703,4.0,10017
+R3IrcACdEcsDr0c_b1eEng,Sushi Sushi,1504 Amsterdam Ave,"{'latitude': 40.81852, 'longitude': -73.95275}",219,3.5,10031
+GL2JKNJd4leykE30QY_Nqg,Nori Sushi Resturant,87 Berdan Ave,"{'latitude': 40.9625144918509, 'longitude': -74.2427784204483}",113,4.0,07470
+diCW3Pj1PTVRSyol_d7cZw,Chef's Table at Brooklyn Fare,431 W 37th St,"{'latitude': 40.7561930774282, 'longitude': -73.9966090932068}",479,4.5,10018
+m5tGGjyfjoQ_EOalKoJUAQ,PokéBowl Station,237 Flatbush Ave,"{'latitude': 40.68114, 'longitude': -73.97495}",63,4.5,11217
+xEe8HIT4L86rlOXgGTwpDw,Kiseki Japanese Restaurant,36 Mt Vernon St,"{'latitude': 40.85722, 'longitude': -74.02642}",149,4.0,07660
+MHGNwzFS7Ji-K8CE9DTsfA,Rio of Japan,257 Central Ave,"{'latitude': 40.546474, 'longitude': -74.370704}",32,4.0,08840
+hudzJdIGMoXmxBO0KsJiFQ,Fish Tales,191A Court St,"{'latitude': 40.687473, 'longitude': -73.993148}",81,4.0,11201
+Akt1kc14kjpik89LRtIqnQ,Aiko Sushi & Bar,90 Main St,"{'latitude': 40.8303829460781, 'longitude': -73.6889704276938}",45,4.0,11050
+L87p5eAKGjvkS2YZYjZcrg,Yamada Chikara NY,249 E 49th St,"{'latitude': 40.75465, 'longitude': -73.96934}",20,4.5,10017
+_Dt5ud0hdcIfDLmCg39BBw,Osaka Japanese Restaurant,2805 Ave U,"{'latitude': 40.600376, 'longitude': -73.9435433}",54,3.5,11229
+5ymqS_8YqKoND4WwfXyiAQ,Poke Green,164 Pearl St,"{'latitude': 40.7057753, 'longitude': -74.0072424}",166,4.0,10007
+Utp7letJ4wutRJ2zUdvOUw,Sushi Akio,71-45 Yellowstone Blvd,"{'latitude': 40.721302, 'longitude': -73.854805}",127,3.5,11375
+DtkyPDGAodq5bAesiFa-JQ,Amaze 58 Asian Fusion,1066 1st Ave,"{'latitude': 40.7590052, 'longitude': -73.9620854}",91,3.5,10022
+4hIAP_3SN2oaDUuPyuNjOQ,Ying Sushi,2780 Long Beach Rd,"{'latitude': 40.6430793, 'longitude': -73.6399378}",103,4.0,11572
+ev6e12vhY_0y4qE1cRhv0A,Udon West Midtown,150 E 46th St,"{'latitude': 40.7535446865563, 'longitude': -73.9735724478504}",943,4.0,10017
+ukTPwlzhb1lJva1RF3i86w,Aki Japanese Cuisine,1273 Broad St,"{'latitude': 40.83406, 'longitude': -74.18033}",266,4.0,07003
+KnvGnK2-wm2RHjKTIPch8w,Bento Sushi,173 Broadway,"{'latitude': 40.71001, 'longitude': -74.010185}",158,2.5,10007
+xAj_hmr23inQT9C7vkyvpQ,Banzai Sushi,671 Market St,"{'latitude': 40.7304550423251, 'longitude': -74.1480567146555}",41,3.5,07105
+ZxGnVk-eHyVeAT2h0uq7Bw,PP Boy Japan Teriyaki & Sushi,90-22 161th St,"{'latitude': 40.70477, 'longitude': -73.79924}",73,3.5,11432
+whXmncdaFnxCoMs_QhFh0g,Nagoya Japanese Restaurant,278 North Ave E,"{'latitude': 40.6507185, 'longitude': -74.3429495}",127,4.0,07090
+1GnRQ4jyz9STASHI96YmYQ,Kawaii Sushi,82-19 153rd Ave,"{'latitude': 40.6662516, 'longitude': -73.851745}",74,3.5,11414
+wdXGWHE2g8t4e4-vhTA69w,GoFish Sushi Box,103 N 3rd St,"{'latitude': 40.71684, 'longitude': -73.9619699}",6,3.5,11249
+CWPSQu6ydyzsM3pUlQyMkg,Wa Sushi & Thai,2249 Church Ave,"{'latitude': 40.65074, 'longitude': -73.95715}",59,3.0,11226
+NjJJ0x2tOZXMeo6_f2w_IA,Sushi 21,174 7th Ave,"{'latitude': 40.742561, 'longitude': -73.997162}",61,3.0,10011
+Ld_ueNsJVWkm6-QlGS81zA,Marathon Sushi,661 Anderson Ave,"{'latitude': 40.827144, 'longitude': -73.987274}",123,4.0,07010
+PNtuftrcxtWe1tkvWokSoQ,Sushi Niji,73 Main St,"{'latitude': 41.014029077642, 'longitude': -73.876366906716}",60,4.0,10522
+ONQRhDuWv0e9R5xOiI7YAA,Gyu-Kaku Japanese BBQ,321 W 44th St,"{'latitude': 40.75908, 'longitude': -73.98989}",1110,4.0,10036
+uv7iMV8JCW0BT6-S8uiJlw,Kumo Japanese Restaurant,37-18 Ditmars Blvd,"{'latitude': 40.773576, 'longitude': -73.9073249}",73,3.5,11105
+4Jp0wdJXLpmgCwWv6o6YEQ,Torishin,362 W 53rd St,"{'latitude': 40.76496, 'longitude': -73.98721}",247,4.0,10019
+47r2XzhXKcbPIb785mvK3g,Bada Story,799 Abbott Blvd,"{'latitude': 40.831231, 'longitude': -73.9827123}",136,4.0,07024
+6n2rHuzmtk0cJORtUJ3i4w,Teaus Sushi Burrito,42-35 Main St,"{'latitude': 40.7544399, 'longitude': -73.8277479}",26,3.5,11355
+HMyWIC0qcKOH29qquCH2Dg,Nori Japanese Cuisine,35 W Palisade Ave,"{'latitude': 40.8950500083668, 'longitude': -73.97641}",108,4.5,07631
+94srme7xJgrMEpViOOPgbQ,Yamada Sushi,55 Park Ave,"{'latitude': 40.8273514303405, 'longitude': -74.1038787355111}",165,4.0,07070
+MY07OjdtkdnluCxT0JeFHw,Sumo Japanese & Tenshin,139 Havemeyer St,"{'latitude': 40.71197, 'longitude': -73.9571799}",1,5.0,11211
+SZRfg3Wmd6cveJxj_Eeo2g,Mizu Sushi,103 N Union Ave,"{'latitude': 40.656791, 'longitude': -74.3034784}",132,4.0,07016
+yXmTKqpnFskiuMRFjVE-Hg,Jin Sushi &  Ramen,181-24 Union Turnpike,"{'latitude': 40.7272057767604, 'longitude': -73.7869808412378}",42,4.0,11366
+n1zp9E-wrqUl4M3mrKp_NQ,Moge Tee,302 West 39th St,"{'latitude': 40.75538, 'longitude': -73.99155}",26,4.0,10018
+OaZEhQDf4AVYDhyK3WuVjA,Deep Blue,John F Kennedy International Airport,"{'latitude': 40.6460790022017, 'longitude': -73.7775236548709}",275,3.0,11464
+eS9mTLlWwu_Ap2ROMQWPxg,Chuko,565 Vanderbilt Ave,"{'latitude': 40.680784, 'longitude': -73.967455}",1029,4.0,11238
+7N9mcbrkXO8qiAt-QKZgOw,Sushi Republic,3365 Hillside Ave,"{'latitude': 40.75329, 'longitude': -73.65958}",173,3.0,11040
+sf9HLSVk1B1zf2ykpCH22A,Kiku Sushi,3838 Richmond Ave,"{'latitude': 40.544307, 'longitude': -74.165702}",94,3.5,10312
+mD8xyvhObwgTh-i_hNd60g,Masago Bistro,766 Nostrand Ave,"{'latitude': 40.67238, 'longitude': -73.95052}",117,3.0,11216
+4UqmQ-zLrbICQFoDhr5XnQ,E Sushi,2971 Ocean Ave,"{'latitude': 40.58884, 'longitude': -73.9492099}",70,4.0,11235
+7ShtxVe1ecYSjbKysm0T_A,Narita Japanese Cuisine,107-08 70th Rd,"{'latitude': 40.7207696997636, 'longitude': -73.8455943382979}",236,3.0,11375
+7vkrAhVl3o--ir_Kh5ROBA,Meijin Sakaba,1574 Second Ave,"{'latitude': 40.775028, 'longitude': -73.953491}",35,4.5,10028
+3s0uwi3rECdbX64ZEC_fuQ,Poke Bowl,512 Court St,"{'latitude': 40.67636, 'longitude': -73.99908}",4,5.0,11231
+rctmtXX2PWuD_dJsu6FFsA,Ocha,403 Bloomfield Ave,"{'latitude': 40.8413991, 'longitude': -74.2790213}",94,4.0,07006
+CvSOAN2WWzLRGND4vN1xtA,A1 Asian Fusion,2071 7th Ave,"{'latitude': 40.80785, 'longitude': -73.94867}",106,3.5,10027
+2LqwaS5ULIWNo028NdmmDQ,OSaka Ryu Gin,1014 S Maple Ave,"{'latitude': 40.9519339, 'longitude': -74.1365883}",131,4.5,07452
+AuH8kiELWpWXYe60WQ1gzA,Shumi,70 E Ridgewood Ave,"{'latitude': 40.9794084, 'longitude': -74.1188282}",115,4.0,07450
+iPRNVXsbykOkSzhDDPsU9Q,Sushi House,1562 Lemoine Ave,"{'latitude': 40.84779, 'longitude': -73.97031}",62,4.0,07024
+FgRJsieXorHgI-2XzGxh5A,Nikko Hibachi,177-21 Union Tpke,"{'latitude': 40.7262971, 'longitude': -73.7906424}",309,3.5,11366
+zaYK-LuVRUoUVt6EV-xmPg,Tokyo Record Bar,127 Macdougal St,"{'latitude': 40.7305654051364, 'longitude': -74.0001550748959}",94,3.5,10012
+gHJ5FxwrxRhZw1CQxxc3Pw,Makana,1329 Saint Nicholas Ave,"{'latitude': 40.84643, 'longitude': -73.93606}",23,3.0,10033
+WMe6BjRc4g8o8JXDlB7IGQ,Sushi House,155 1st St,"{'latitude': 40.73749, 'longitude': -74.0321}",247,3.5,07030
+aaP74jW_u9Wp7gDQp7jtzA,Big Eye Sushi,2 MetroTech Ctr,"{'latitude': 40.69359, 'longitude': -73.9857}",25,3.5,11201
+-BWRdjHW6CtMGIRLMxEVQQ,Bar Masa,10 Columbus Cir,"{'latitude': 40.7685591712413, 'longitude': -73.9830132742049}",178,3.5,10019
+Mx91VnveIjnxVf5bNXsk1Q,Koi Sushi & Hibachi,2780 NJ-35,"{'latitude': 40.41665, 'longitude': -74.1688099}",73,4.0,07730
+c6R_hvUwsqXX2MUXWtO94Q,Nakamura,172 Delancey St,"{'latitude': 40.717975, 'longitude': -73.985115}",303,4.0,10002
+qTB1XgVIG_b_I5-RhG6sNg,Sweet Mandarin,18 Cottage Row,"{'latitude': 40.8684949897405, 'longitude': -73.6316291372246}",110,3.5,11542
+bzGe51q5j1AvKG7DbDZk5g,Bay House Bistro,574 Bay St,"{'latitude': 40.6278259, 'longitude': -74.0764928}",65,3.5,10304
+wvRDgJI6V0Fej1vglrEf0Q,Manor Sushi,878 Manor Rd,"{'latitude': 40.6053453683853, 'longitude': -74.1209055483341}",13,3.0,10314
+oFBgvlELwMtvqA0gcGr96g,Yong Kang Street,1000 8th Ave,"{'latitude': 40.767124, 'longitude': -73.983013}",63,3.5,10019
+RgIFYmjtBp5k90AK1jP7Zw,Peking Express Chinese Rest,13412 Rockaway Blvd,"{'latitude': 40.6743, 'longitude': -73.804}",34,3.5,11420
+4R0iJEhzeiuh62nHivqf9Q,UJ's Asian Bistro,479 Middle Rd,"{'latitude': 40.4226, 'longitude': -74.1442}",30,4.5,07730
+D4S_2QzRkiET9uL8To8XMg,Ms Sushi,494 Kinderkamack Rd,"{'latitude': 40.924408, 'longitude': -74.0342178}",78,4.0,07661
+aR9Pp-cPp5yPaLCxg4HKUA,Umeya Restaurant,156 Piermont Rd,"{'latitude': 40.94271, 'longitude': -73.96221}",89,3.5,07626
+FqIOZON2bCCYCRg5MkYkHg,Asian Fusion,66 School St,"{'latitude': 40.86611, 'longitude': -73.6304399}",63,4.0,11542
+nheeck4r4nNKK6_YZuueOg,Fokkus Room & Cucine,138 W Fordham Rd,"{'latitude': 40.862625, 'longitude': -73.907194}",24,2.5,10468
+1V7TLHWs8FO7iHrRUBgNBA,Sachiko,3083 Brighton 1st Pl,"{'latitude': 40.5769452, 'longitude': -73.9658642}",35,3.0,11235
+_eFbAXDfgBh_kmZR0vSf6g,Sushi Suzuki,15 New St,"{'latitude': 40.5415204, 'longitude': -74.362319}",93,3.5,08840
+YMps1sSjPjp718NiAGXH0Q,Kurumi,1103 Goffle Rd,"{'latitude': 40.968811, 'longitude': -74.151871}",51,4.5,07506
+C3tRg5yNCjN1krl2iv2oNg,Ramen Mafia,208 Franklin St,"{'latitude': 40.73262, 'longitude': -73.9579}",40,4.5,11222
+jm8MCXbLsnA3Ye7-1dI00Q,Hazuki,207 Forest Ave,"{'latitude': 40.8742774, 'longitude': -73.6178388}",66,3.5,11542
+0gPXct_l_82phIEoKdtWZw,RYUJIN,513 Grand St,"{'latitude': 40.711178187852, 'longitude': -73.9506256676857}",206,4.0,11211
+_YsHeAEyCYY03zGqlDdj-Q,E-Mo,2 W 32nd St,"{'latitude': 40.7471961975098, 'longitude': -73.9861907958984}",340,4.0,10001
