@@ -1,7 +1,6 @@
-# dining_chatbot 
-# Dining Concierge Chatbot
+ # Dining Concierge Chatbot
 
-In this project, I developed a serverless web chatbot with event-driven microservices using AWS S3, API Gateway, Lambda, Cognito, SQS, SNS, and Lex. In addition, I also built a recommendation pipeline to suggest restaurants based on user inputs using SageMaker, ElasticSearch, DynamoDB, and Yelp API. This is one of the course project of COMS E6998 Cloud Computing & Big Data at Columbia University. 
+In this project, I developed a serverless web chatbot with event-driven microservices using AWS S3, API Gateway, Lambda, Cognito, SQS, SNS, and Lex. In addition, I also built a recommendation pipeline to suggest restaurants based on user inputs using SageMaker, ElasticSearch, DynamoDB, and Yelp API. This is one of the course project of COMS E6998 Cloud Computing & Big Data at Columbia University. The website can be accessed at: https://s3.amazonaws.com/www.diningchatbot.com/index.html 
 
 ### How it works
 
