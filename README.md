@@ -4,7 +4,7 @@ In this project, I developed a serverless web chatbot with event-driven microser
 
 ### How it works
 
-Based on a conversation with the customer, the chatbot will pick customer’s preferred ‘cuisine' and suggest restautants. The app will search through ElasticSearch to get suggestions of restaurant IDs with this cuisine. At this point, the app would also query the DynamoDB table with these restaurant IDs to find more information about the restaurants you want to suggest to your customers like name and address of the restaurant.
+Based on a conversation with the customer, the chatbot would response and ask for user's information and preference. The chatbot will pick customer’s preferred ‘cuisine' and suggest restautants. The app will search through ElasticSearch to get suggestions of restaurant IDs with this cuisine. At this point, the app would also query the DynamoDB table with these restaurant IDs to find more information about the restaurants you want to suggest to your customers like name and address of the restaurant.
 
 ### Example Interaction
 User: Hello
@@ -39,10 +39,10 @@ User gets the following text message:
 * [SQS](https://aws.amazon.com/sqs/) - Message queue for communication between microservices.
 * [SNS](https://aws.amazon.com/sns/) - Send text message to users.
 * [Lex](https://aws.amazon.com/lex/) - Amazon platform to build conversational bots.
-* [SageMaker](https://aws.amazon.com/sagemaker/) - Train and deploy Machine learning models.
+* [SageMaker](https://aws.amazon.com/sagemaker/) - Train and deploy Machine Learning models.
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search engine to handle unstructured search. 
 * [DynamoDB](https://aws.amazon.com/dynamodb/) - NoSQL database.
 * [Yelp API](https://www.yelp.com/fusion) - Scratch restaurant information.
 
 ### Architecture
-![image](https://drive.google.com/uc?export=view&id=1hFfOnsiCZPamyL3GVdA8i7KSuvxDQfUB)
+![image](https://drive.google.com/uc?export=view&id=1zvnxnkfvf--xbBWSPIepTWAxvG4JgkL7)
